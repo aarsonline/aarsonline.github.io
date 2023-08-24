@@ -196,21 +196,6 @@ ul.aalist li img{
 }
 
 
-@media only screen and ( max-device-width: 1000px ) {
-
-	.banner{
-		line-height: 3em;
-	}
-
-
-		
-
-
-
-}
-
-
-
 .aarsShowcase{
 	padding: 0.75em;
 	background-image: linear-gradient(140deg, #008cba0a, #008cba15);
@@ -218,6 +203,27 @@ ul.aalist li img{
 	box-shadow: 0.3em 0.25em 0.1em #008cba0a;
 	max-width: 400px;
 }
+
+
+
+@media only screen and ( max-device-width: 1000px ) {
+
+	.banner{
+		line-height: 3em;
+	}
+
+
+	.aarsShowcase{
+		max-width: 100%;
+	}
+
+
+
+
+}
+
+
+
 
 
 
@@ -810,7 +816,6 @@ div#treeDiv{
 
 .flexContainer_left>li {
 	margin-bottom:1em;
-	margin-right: 2em;
 }
 
 #metadataDlg{
