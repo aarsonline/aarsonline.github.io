@@ -1,0 +1,1 @@
+The anticodon binding domain WY is a short $\alpha$-helical structure. It resides at the C-termini of [TrpRS](/class1/trp/) and the archaeal and eukaryotic forms of [TyrRS](/class1/tyr). The domain  undergoes substantial conformational changes upon tRNA binding (Shen et al. 2008).

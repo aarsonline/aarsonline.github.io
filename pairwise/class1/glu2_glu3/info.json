@@ -1,0 +1,39 @@
+{
+    "fullName":"GlxRS-A vs GluRS-E pairwise comparison",
+    "class":"Class I",
+    "icon":"/fig/icon_white.png",
+    "family1":"GlxRS-A",
+    "family2":"GluRS-E",
+    "fullName1":"Non-discriminating Glutamyl-tRNA Synthetase (Archaeal-like)",
+    "fullName2":"Glutamyl-tRNA Synthetase (Eukaryote-like)",
+    "description":"Pairwise comparison of the Class I catalytic domains from the Non-discriminating Glutamyl-tRNA Synthetase (Archaeal-like) (<a href='/class1/glu2'>GlxRS-A</a>) and Glutamyl-tRNA Synthetase (Eukaryote-like) (<a href='/class1/glu3'>GluRS-E</a>) families. \n\tThe cross-family RMSD is the average RMSD between pairs of structures from different families, and is\n\t larger than the total RMSD, which compares structures both within- and between-families. TM scores are bound between 0 and 1. \n\t This alignment was generated automatically using 3DCOMB (Wang et al. 2011) and was not corrected with any manual adjustment.",
+    "rmsd":    1.609,
+    "tm":    0.9311,
+    "rmsd1":    1.46,
+    "rmsd2":    0.947,
+    "crossFamilyRmsd":    1.76,
+    "rmsdTotal":    1.51,
+    "features":{
+        "SC1b IM":{
+            "acc":"GlxRS-A_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094352.pdb",
+            "range":"106-146",
+            "level":            3
+        },
+        "Protozyme":{
+            "acc":"GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb",
+            "range":"4-42",
+            "level":            3
+        },
+        "HIGH":{
+            "acc":"GlxRS-A_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094352.pdb",
+            "range":"12-15",
+            "level":            1
+        },
+        "KMSKS":{
+            "acc":"GlxRS-A_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094352.pdb",
+            "range":"244-248",
+            "align":"right",
+            "level":            1
+        }
+    }
+}

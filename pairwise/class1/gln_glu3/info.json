@@ -1,0 +1,39 @@
+{
+    "fullName":"GlnRS vs GluRS-E pairwise comparison",
+    "class":"Class I",
+    "icon":"/fig/icon_white.png",
+    "family1":"GlnRS",
+    "family2":"GluRS-E",
+    "fullName1":"Glutaminyl-tRNA Synthetase",
+    "fullName2":"Glutamyl-tRNA Synthetase (Eukaryote-like)",
+    "description":"Pairwise comparison of the Class I catalytic domains from the Glutaminyl-tRNA Synthetase (<a href='/class1/gln'>GlnRS</a>) and Glutamyl-tRNA Synthetase (Eukaryote-like) (<a href='/class1/glu3'>GluRS-E</a>) families. \n\tThe cross-family RMSD is the average RMSD between pairs of structures from different families, and is\n\t larger than the total RMSD, which compares structures both within- and between-families. TM scores are bound between 0 and 1. \n\t This alignment was generated automatically using 3DCOMB (Wang et al. 2011) and was not corrected with any manual adjustment.",
+    "rmsd":    1.255,
+    "tm":    0.938,
+    "rmsd1":    1.55,
+    "rmsd2":    1.13,
+    "crossFamilyRmsd":    1.71,
+    "rmsdTotal":    1.59,
+    "features":{
+        "SC1b IM":{
+            "acc":"GlnRS_AF_Bact_Anaerostipes_hadrus_gene15230984.pdb",
+            "range":"98-143",
+            "level":            3
+        },
+        "Protozyme":{
+            "acc":"GlnRS_AF_Bact_Anaerostipes_hadrus_gene15230984.pdb",
+            "range":"2-39",
+            "level":            3
+        },
+        "HIGH":{
+            "acc":"GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb",
+            "range":"16-19",
+            "level":            1
+        },
+        "KMSKS":{
+            "acc":"GlnRS_AF_Bact_Anaerostipes_hadrus_gene15230984.pdb",
+            "range":"241-245",
+            "align":"right",
+            "level":            1
+        }
+    }
+}

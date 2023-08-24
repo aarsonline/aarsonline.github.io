@@ -1,0 +1,27 @@
+{
+		"name": "SerRS",
+		"id": "ser1",
+		"classID": "class2",
+		"fullName": "Seryl-tRNA Synthetase",
+		"icon": "/fig/icon_polar.png",
+		"substrate": "Serine",
+		"fig": "/fig/aa/ser.png",
+		"incorporates": "Serine, selenocysteine",
+		"class": "Class II",
+		"subclass": "a",
+		"oligo": "Homodimer",
+		"codons": "UCU, UCC, UCA, UCG, AGU, AGC (Ser), UGA (Sep)",
+		"editing": "Pre-transfer",
+		"ref_str": ["structures/SerRS_AF_Bact_Chlamydia_psittaci_6BC_gene12242544.pdb"],
+		"tree": "/data/class2.nexus",
+		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
+		"features": {"Catalytic domain": {"acc": "SerRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154337.pdb", "range": "165-399", "level": 4},
+					"tRNA binding domain": {"acc": "SerRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154337.pdb", "range": "1-110", "level": 4},
+					"Protozyme": {"acc": "SerRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154337.pdb", "range": "223-268", "level": 2, "href": "/superfamily/class2/Protozyme"},
+					"Motif 1": {"acc": "SerRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154337.pdb", "range": "187-196", "level": 1},
+					"Motif 2": {"acc": "SerRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154337.pdb", "range": "252-261", "level": 1},
+					"Motif 3": {"acc": "SerRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154337.pdb", "range": "380-389", "level": 1},
+					"Tweezer 1": {"acc": "SerRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154337.pdb", "range": "259", "level": 0},
+					"Tweezer 2": {"acc": "SerRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154337.pdb", "range": "387", "level": 0}}
+	
+}

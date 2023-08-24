@@ -1,0 +1,132 @@
+﻿
+
+
+<html>
+<head>
+<title>Superfamily alignment</title>
+
+<link rel="icon" >
+<meta name="viewport" content="width=device-width, initial-scale=0.41, maximum-scale=1" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="/css/styles.css">
+<script language='JavaScript' type='text/JavaScript' src="/js/util.js"></script>
+
+<script language='JavaScript' type='text/JavaScript' src="/js/aaRS.js"></script>
+<script type='text/javascript' src='/js/bio-pv/bio-pv.min.js'></script>
+
+        
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+
+
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-25G2X1FEYG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-25G2X1FEYG');
+</script>
+
+<script language='JavaScript' type='text/JavaScript'>
+
+
+function init(){
+	
+	renderaaRS(false);
+}
+
+
+
+</script>
+
+</head>
+<body onload="init()">
+
+
+	<div id="main">
+
+
+		<ul id="flexContainer">
+			<li class="summary">
+				
+			</li>
+
+
+			<li class="notes">
+				
+				<div>
+				
+				</div>
+				
+			</li>
+			
+		</ul>
+		
+
+		<div class="svgDiv">
+			<svg id="secondary" height=0 width=0 overflow="auto"></svg>
+		</div>
+
+		
+		
+		<div id="alignment" class="svgDiv">
+
+		</div>
+
+
+		<div id="alignment2" class="svgDiv">
+
+		</div>
+
+
+		<div id="tertiaryTable">
+			
+			<table>
+				<tr>
+					<td>
+						<div id="superposition"> </div>
+					</td>
+					
+					<td>
+						<div id="tertiary"> </div>
+					</td>
+				</tr>
+			
+			</table>
+			
+			
+		
+		</div>
+		
+		
+		<div id="references">
+
+			
+			<div>
+				Wang, Sheng, Jian Peng, and Jinbo Xu. "Alignment of distantly related protein structures: algorithm, bound and implications to homology modeling." Bioinformatics 27.18 (2011): 2537-2545.
+			</div>
+
+
+				<div>
+				Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
+			</div>
+		
+		</div>
+
+
+	</div>
+</body>
+</html>

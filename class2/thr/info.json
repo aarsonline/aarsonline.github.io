@@ -1,0 +1,36 @@
+{
+		"name": "ThrRS",
+		"id": "thr",
+		"classID": "class2",
+		"fullName": "Threonyl-tRNA Synthetase",
+		"icon": "/fig/icon_polar.png",
+		"substrate": "Threonine",
+		"fig": "/fig/aa/thr.png",
+		"incorporates": "Threonine",
+		"class": "Class II",
+		"subclass": "a",
+		"oligo": "Homodimeric",
+		"codons": "ACU, ACC, ACA, ACG",
+		"editing": "Post-transfer",
+		"ref_str": ["structures/ThrRS_AF_Mito_Oryza_sativa_Japonica_Group_gene4345200.pdb"],
+		"hinge_str": "structures/ThrRS_AF_Bact_Bifidobacterium_longum_subsp_longum_JCM_1217_gene69578309.pdb",
+		"hinges": [251],
+		"tree": "/data/class2.nexus",
+		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
+		"refine": [{"start": 350, "stop": 700}],
+		"features": {"Catalytic domain": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "215-477", "level": 4},
+					"Anticodon binding domain HGPT": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "484-585", "level": 4},
+					"Editing domain AT": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "12-175", "level": 4, "count": 16},
+					"N1": {"acc": "ThrRS_AF_Bact_Bifidobacterium_longum_subsp_longum_JCM_1217_gene69578309.pdb", "range": "1-61", "level": 4, "count": 13},
+					"Editing domain Archaeal": {"acc": "ThrRS_AF_Arch_Pyrococcus_furiosus_DSM_3638_gene1469226.pdb", "range": "1-201", "level": 4, "count": 2},
+					"ThrRS IM": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "369-411", "level": 3},
+					"Protozyme": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "273-320", "level": 3},
+					"Motif 1": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "237-246", "level": 1},
+					"Motif 2": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "304-313", "level": 1},
+					"Motif 3": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "460-469", "level": 1, "align": "right"},
+					"Tweezer 1": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "311", "level": 0},
+					"Tweezer 2": {"acc": "ThrRS_AF_Arch_Candidatus_Methanomethylophilus_alvus_Mx1201_gene15140074.pdb", "range": "467", "level": 0}}
+	
+}
+
+

@@ -1,0 +1,49 @@
+{
+    "fullName":"GlnRS vs TyrRS pairwise comparison",
+    "class":"Class I",
+    "icon":"/fig/icon_white.png",
+    "family1":"GlnRS",
+    "family2":"TyrRS",
+    "fullName1":"Glutaminyl-tRNA Synthetase",
+    "fullName2":"Tyrosyl-tRNA Synthetase",
+    "description":"Pairwise comparison of the Class I catalytic domains from the Glutaminyl-tRNA Synthetase (<a href='/class1/gln'>GlnRS</a>) and Tyrosyl-tRNA Synthetase (<a href='/class1/tyr'>TyrRS</a>) families. \n\tThe cross-family RMSD is the average RMSD between pairs of structures from different families, and is\n\t larger than the total RMSD, which compares structures both within- and between-families. TM scores are bound between 0 and 1. \n\t This alignment was generated automatically using 3DCOMB (Wang et al. 2011) and was not corrected with any manual adjustment.",
+    "rmsd":    2.474,
+    "tm":    0.6879,
+    "rmsd1":    1.97,
+    "rmsd2":    3.2,
+    "crossFamilyRmsd":    4.4,
+    "rmsdTotal":    3.62,
+    "features":{
+        "Protozyme":{
+            "acc":"GlnRS_AF_Bact_Anaerostipes_hadrus_gene15230984.pdb",
+            "range":"2-39",
+            "level":            3
+        },
+        "SDH":{
+            "acc":"TyrRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094625.pdb",
+            "range":"119-134",
+            "level":            3
+        },
+        "CP1":{
+            "acc":"TyrRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094625.pdb",
+            "range":"47-117",
+            "level":            3
+        },
+        "HIGH":{
+            "acc":"TyrRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094625.pdb",
+            "range":"14-17",
+            "level":            1
+        },
+        "KMSKS":{
+            "acc":"GlnRS_AF_Bact_Anaerostipes_hadrus_gene15230984.pdb",
+            "range":"241-245",
+            "align":"right",
+            "level":            1
+        },
+        "SC1b IM":{
+            "acc":"GlnRS_AF_Bact_Anaerostipes_hadrus_gene15230984.pdb",
+            "range":"98-143",
+            "level":            3
+        }
+    }
+}

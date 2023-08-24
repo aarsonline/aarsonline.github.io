@@ -1,0 +1,44 @@
+{
+    "fullName":"ArgRS vs CysRS pairwise comparison",
+    "class":"Class I",
+    "icon":"/fig/icon_white.png",
+    "family1":"ArgRS",
+    "family2":"CysRS",
+    "fullName1":"Arginyl-tRNA Synthetase",
+    "fullName2":"Cysteinyl-tRNA Synthetase",
+    "description":"Pairwise comparison of the Class I catalytic domains from the Arginyl-tRNA Synthetase (<a href='/class1/arg'>ArgRS</a>) and Cysteinyl-tRNA Synthetase (<a href='/class1/cys'>CysRS</a>) families. \n\tThe cross-family RMSD is the average RMSD between pairs of structures from different families, and is\n\t larger than the total RMSD, which compares structures both within- and between-families. TM scores are bound between 0 and 1. \n\t This alignment was generated automatically using 3DCOMB (Wang et al. 2011) and was not corrected with any manual adjustment.",
+    "rmsd":    2.449,
+    "tm":    0.73,
+    "rmsd1":    3.48,
+    "rmsd2":    3.22,
+    "crossFamilyRmsd":    4.59,
+    "rmsdTotal":    3.99,
+    "features":{
+        "Protozyme":{
+            "acc":"ArgRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6093502.pdb",
+            "range":"4-49",
+            "level":            3,
+            "align":"right"
+        },
+        "CysRS IM":{
+            "acc":"CysRS_AF_Arch_Aciduliprofundum_boonei_T469_gene8827372.pdb",
+            "range":"127-160",
+            "level":            3
+        },
+        "HIGH":{
+            "acc":"ArgRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6093502.pdb",
+            "range":"19-22",
+            "level":            1
+        },
+        "KMSKS":{
+            "acc":"ArgRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6093502.pdb",
+            "range":"324-329",
+            "level":            1
+        },
+        "ArgRS IM":{
+            "acc":"ArgRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6093502.pdb",
+            "range":"51-143",
+            "level":            3
+        }
+    }
+}

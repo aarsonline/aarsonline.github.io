@@ -1,0 +1,34 @@
+{
+		"name": "ProRS-A",
+		"id": "pro1",
+		"classID": "class2",
+		"fullName": "Prolyl-tRNA Synthetase (Archaeal-like)",
+		"icon": "/fig/icon_pro.png",
+		"substrate": "Proline",
+		"fig": "/fig/aa/pro.png",
+		"incorporates": "Proline",
+		"class": "Class II",
+		"subclass": "a",
+		"oligo": "Homodimer",
+		"codons": "CCU, CCC, CCA, CCG",
+		"editing": "Post-transfer",
+		"ref_str": ["structures/ProRS-A_AF_Euk_Ostreococcus_tauri_gene9837972.pdb"],
+		"hinge_str": "structures/ProRS-A_AF_Euk_Scheffersomyces_stipitis_CBS_6054_gene4840393.pdb",
+		"hinges": [171],
+		"tree": "/data/class2.nexus",
+		"addToClade": ["ProRS-A", "ProRS-B", "ProRS-M"],
+		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
+		"features": {"Catalytic domain": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "42-280", "level": 4, "align": "right"},
+					"Anticodon binding domain HGPT": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "285-412", "level": 4, "align": "right"},
+					"Zinc binding domain": {"acc": "ProRS-A_AF_Bact_Bacillus_anthracis_str_Ames_Ancestor_gene45020455.pdb", "range": "409-507", "level": 4},
+					"N-terminal domain": {"acc": "ProRS-A_AF_Euk_Cryptococcus_gattii_WM276_gene10188341.pdb", "range": "1-225", "count": 3, "level": 4},
+					"Protozyme": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "102-153", "level": 3},
+					"Motif 1": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "64-73", "level": 1},
+					"Motif 2": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "137-146", "level": 1},
+					"Motif 3": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "260-269", "level": 1, "align": "right"},
+					"Tweezer 1": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "144", "level": 0},
+					"Tweezer 2": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "267", "level": 0}}
+	
+}
+
+

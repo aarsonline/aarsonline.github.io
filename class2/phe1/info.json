@@ -1,0 +1,32 @@
+{
+		"name": "PheRS-Bα",
+		"id": "phe1",
+		"classID": "class2",
+		"fullName": "Phenylalanyl-tRNA Synthetase &alpha; Subunit (Bacterial-like)",
+		"icon": "/fig/icon_hydrophobic.png",
+		"substrate": "Phenylalanine",
+		"fig": "/fig/aa/phe.png",
+		"incorporates": "Phenylalanine",
+		"class": "Class II",
+		"subclass": "c",
+		"oligo": "Heterotetramer",
+		"codons": "UUU, UUC",
+		"editing": "No",
+		"tree": "/data/class2.nexus",
+		"addToClade": ["PheRS-Aα", "PheRS-Bα", "PheRS-M"],
+		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
+		"ref_str": ["structures/PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb"],
+		"hinge_str": "structures/PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb",
+		"hinges": [105],
+		"features": {"Catalytic domain": {"acc": "PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb", "range": "106-323", "level": 4},
+					"Flexible helical arm": {"acc": "PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb", "range": "1-93", "level": 4, "align": "right"},
+					"Protozyme": {"acc": "PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb", "range": "165-205", "level": 3},
+					"Motif 1": {"acc": "PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb", "range": "125-134", "level": 1},
+					"Motif 2": {"acc": "PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb", "range": "189-198", "level": 1},
+					"Motif 3": {"acc": "PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb", "range": "307-316", "level": 1, "align": "right"},
+					"Tweezer 1": {"acc": "PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb", "range": "196", "level": 0},
+					"Tweezer 2": {"acc": "PheRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440383.pdb", "range": "314", "level": 0}}
+	
+}
+
+

@@ -1,0 +1,245 @@
+﻿
+<html>
+<head>
+<title>AARS Online</title>
+
+<meta name="description" content="AARS Online: an interative database of aminoacyl-tRNA synthetases">
+<meta name="keywords" content="aminoacyl-tRNA synthetase,AARS,database,application,tool,visualization,protein,biochemistry,molecular biology,bioinformatics">
+
+
+<link rel="icon" href="fig/icon.png">
+<meta name="viewport" content="width=device-width, initial-scale=0.41, maximum-scale=1" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<script language='JavaScript' type='text/JavaScript' src="/js/util.js"></script>
+<script language='JavaScript' type='text/JavaScript' src="/js/mainPage.js"></script>
+
+        
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-25G2X1FEYG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-25G2X1FEYG');
+</script>
+
+
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+
+
+
+<script language='JavaScript' type='text/JavaScript'>
+
+
+function init(){
+
+	renderHeader(false);
+
+
+
+	// Add loading wheel
+	$("#catalyticDomainDIV").before(`<div id="mainloader" class='loader'><img src='/fig/loader.png'></img></div>`);
+	$("#catalyticDomainDIV").hide(0);
+
+
+	setTimeout(function(){
+
+
+		drawTree();
+
+		// Remove loading wheel
+		$("#mainloader").remove();
+		$("#catalyticDomainDIV").show(200);
+
+
+
+		//let eles = $(".aarsShowcase");
+		//showEle(eles, 0);
+		
+
+	}, 50);
+
+
+	
+}
+
+
+
+showEle = function(eles, i, timeout = 200){
+
+
+
+	if (i >= eles.length) return;
+	
+	let ele = $(eles[i]);
+	ele.slideDown(100);
+
+	setTimeout(function(){
+		showEle(eles, i+1, timeout);
+	}, timeout);
+	
+
+
+}
+
+
+
+</script>
+
+</head>
+<body onload="init()">
+
+
+
+	<div id="main">
+
+
+
+		<div class="banner">
+
+
+			<h1>Welcome to AARS Online</h1>
+
+
+			The aminoacyl-tRNA synthetases (AARS) are a large group of enzymes that attach amino acids to their cognate tRNA. 
+			They operate the genetic code in all living systems across all three domains of life- the bacteria, archaea, and eukaryota - plus mitochondria and chloroplasts, and there are even certain viruses that have AARS genes.
+			The evolution of <a href="class1">Class I</a> and <a href="class2">Class II</a> AARS can be traced back earlier than the last universal common ancestor 3-4 billion years ago.
+
+
+			AARS Online is a curated database showcasing a taxonomically diverse selection of AARS sequences and structures.
+
+
+		
+		<div class="aarsShowcase">
+			<span class="">
+					&#x2726; Enzymes are sampled from 
+					Bacteria <img class="imgIcon" src="/fig/Bacteria.png"/>, 
+					Archaea <img class="imgIcon" src="/fig/Archaea.png"/>, 
+					Eukaryotes <img class="imgIcon" src="/fig/Eukaryota.png"/>, 
+					Organelles <img class="imgIcon" src="/fig/Mitochondrial.png"/>, and 
+					Viruses <img class="imgIcon" src="/fig/Viruses.png"/> 
+			</span>
+		</div>
+
+
+		<div class="aarsShowcase">
+			<span class="">
+					&#x2726; Contains protein structure with direct experimental support 
+					<img class="imgIcon" src="/fig/xray.png"/>
+					and AlphaFold models <img class="imgIcon" src="/fig/alphafold.png"/>
+			</span>
+		</div>
+
+
+			<div class="aarsShowcase">
+			<span>
+					&#x2726; Seamlessly navigate between protein sequence and structure with a user-friendly interface
+			</span>
+		</div>
+
+
+		<div class="aarsShowcase">
+			<span>
+					&#x2726; Download curated multiple sequence alignments and phylogenetic trees
+			</span>
+		</div>
+
+
+
+		<div class="aarsShowcase">
+			<span class="">
+					&#x2726; Start a discussion or report an issue on GitHub using the 'Discuss' link at the bottom of each page
+			</span>
+		</div>
+
+
+		<div class="aarsShowcase">
+			<span class="">
+					&#x2726; Use the evolutionary tree below to navigate to an AARS 
+			</span>
+</div>
+
+
+
+
+
+		
+
+
+		</div>
+		
+<!--
+	<div id="contents">
+
+		<h2>Contents</h1>
+
+		<div>
+			<a href="class1">Class I AARS</a>
+		</div>
+		<div>
+			<a href="class2">Class II AARS</a>
+		</div>
+
+
+	</div>
+-->
+
+	<div id='catalyticDomainDIV' style="width:100%; text-align:center; overflow-x: auto;"></div>
+
+		<br><br>
+		<div class="banner">
+
+
+		
+
+			<h1>Issues</h1>
+
+
+			User feedback is welcomed. If you spot an error or have any inquiries, please create an issue on <a href="https://github.com/aarsonline/aarsonline.github.io">GitHub</a> or contact jordan.douglas@auckland.ac.nz. <br><br> 
+
+
+
+			Developed by Jordan Douglas, University of Auckland, New Zealand. 
+			
+
+			
+		
+
+			
+
+
+
+	</div>
+
+
+		<div class="banner">
+
+
+
+
+			
+				<h1>References</h1>
+
+				If you find this tool helpful for your research, please cite our preprint: <br><br>
+
+				Douglas, J., Bouckaert, R., Carter, C., & Wills, P. R.  (2023). Enzymic recognition of amino acids drove the evolution of primordial genetic codes.
+			</div>
+
+
+	</div>
+
+</body>
+</html>

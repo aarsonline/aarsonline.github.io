@@ -1,0 +1,37 @@
+{
+		"name": "AsxRS",
+		"id": "asp2",
+		"classID": "class2",
+		"fullName": "Non-discriminating Aspartyl-tRNA Synthetase",
+		"icon": "/fig/icon_polaracidic.png",
+		"substrate": "Aspartate",
+		"fig": "/fig/aa/asp.png",
+		"incorporates": "Aspartate, aspargine",
+		"class": "Class II",
+		"subclass": "b",
+		"oligo": "Homodimer",
+		"codons": "GAU, GAC (Asp), AAU, AAC (Asn)",
+		"editing": "No",
+		"ref_str": ["structures/AspRS-E_AF_Euk_Caenorhabditis_elegans_gene176334.pdb"],
+		"hinge_str": "structures/AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb",
+		"tree": "/data/class2.nexus",
+		"addToClade": ["AsxRS", "AspRS-E"],
+		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
+		"hinges": [95],
+		"features": {"Catalytic domain": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "106-406", "level": 4},
+					"Anticodon binding domain DNK": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "1-97", "level": 4, "align": "right"},
+					"IIb IM 1": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "270-312", "level": 3, "level": 3},
+					"IIb IM 2": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "356-389", "level": 3, "level": 3},
+					"Protozyme": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "171-212", "level": 3},
+
+					
+
+
+					"Motif 1": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "144-153", "level": 1},
+					"Motif 2": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "196-205", "level": 1},
+					"Motif 3": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "392-401", "level": 1},
+					"DUF2156": {"acc": "AspRS-E_AF_Euk_Cryptococcus_neoformans_var_neoformans_JEC21_gene3258977.pdb", "range": "544-883", "level": 4, "count": 1},
+					"Tweezer 1": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "203", "level": 0},
+					"Tweezer 2": {"acc": "AsxRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094477.pdb", "range": "399", "level": 0}}
+	
+}

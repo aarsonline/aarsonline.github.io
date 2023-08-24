@@ -1,0 +1,61 @@
+{
+    "fullName":"GluRS-E vs LeuRS-B pairwise comparison",
+    "class":"Class I",
+    "icon":"/fig/icon_white.png",
+    "family1":"GluRS-E",
+    "family2":"LeuRS-B",
+    "fullName1":"Glutamyl-tRNA Synthetase (Eukaryote-like)",
+    "fullName2":"Leucyl-tRNA Synthetase (Bacterial-like)",
+    "description":"Pairwise comparison of the Class I catalytic domains from the Glutamyl-tRNA Synthetase (Eukaryote-like) (<a href='/class1/glu3'>GluRS-E</a>) and Leucyl-tRNA Synthetase (Bacterial-like) (<a href='/class1/leu1'>LeuRS-B</a>) families. \n\tThe cross-family RMSD is the average RMSD between pairs of structures from different families, and is\n\t larger than the total RMSD, which compares structures both within- and between-families. TM scores are bound between 0 and 1. \n\t This alignment was generated automatically using 3DCOMB (Wang et al. 2011) and was not corrected with any manual adjustment.",
+    "rmsd":    2.597,
+    "tm":    0.7634,
+    "rmsd1":    1.42,
+    "rmsd2":    4.37,
+    "crossFamilyRmsd":    8.11,
+    "rmsdTotal":    5.69,
+    "features":{
+        "ZF":{
+            "acc":"LeuRS-B_AF_Bact_Bifidobacterium_longum_subsp_longum_JCM_1217_gene69578373.pdb",
+            "range":"227-253",
+            "align":"right",
+            "level":            1
+        },
+        "Protozyme":{
+            "acc":"GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb",
+            "range":"4-42",
+            "level":            3
+        },
+        "CP2":{
+            "acc":"LeuRS-B_AF_Bact_Bifidobacterium_longum_subsp_longum_JCM_1217_gene69578373.pdb",
+            "range":"264-293",
+            "align":"right",
+            "level":            3
+        },
+        "Editing domain 1a":{
+            "acc":"LeuRS-B_AF_Bact_Bifidobacterium_longum_subsp_longum_JCM_1217_gene69578373.pdb",
+            "range":"294-521",
+            "level":            3
+        },
+        "CP3":{
+            "acc":"LeuRS-B_AF_Bact_Bifidobacterium_longum_subsp_longum_JCM_1217_gene69578373.pdb",
+            "range":"536-607",
+            "level":            3
+        },
+        "HIGH":{
+            "acc":"GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb",
+            "range":"16-19",
+            "level":            1
+        },
+        "KMSKS":{
+            "acc":"GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb",
+            "range":"238-242",
+            "level":            1,
+            "align":"right"
+        },
+        "SC1b IM":{
+            "acc":"GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb",
+            "range":"100-142",
+            "level":            3
+        }
+    }
+}

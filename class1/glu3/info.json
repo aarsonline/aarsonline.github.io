@@ -1,0 +1,28 @@
+{
+		"name": "GluRS-E",
+		"id": "glu3",
+		"classID": "class1",
+		"fullName": "Glutamyl-tRNA Synthetase (Eukaryote-like)",
+		"icon": "/fig/icon_acidic.png",
+		"substrate": "Glutamate",
+		"fig": "/fig/aa/glu.png",
+		"incorporates": "Glutamate",
+		"class": "Class I",
+		"subclass": "b",
+		"oligo": "Monomeric",
+		"codons": "GAA, GAG",
+		"editing": "No",
+		"ref_str": ["structures/GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb"],
+		"refine": [{"start": 1, "stop": 580}],
+		"tree": "/data/class1.nexus",
+		"addToClade": ["GlnRS", "GluRS-E", "GlxRS-A"],
+		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
+		"features": {"Catalytic domain": {"acc": "GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb", "range": "204-459", "level": 4},
+					"GST": {"acc": "GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb", "range": "1-199", "count": 4, "dy": -3, "level": 4},
+					"Anticodon binding domain EQ": {"acc": "GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb", "range": "466-710", "level": 4},
+					"SC1b IM": {"acc": "GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb", "range": "304-346", "level": 3},
+					"Protozyme": {"acc": "GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb", "range": "208-246", "level": 3},
+					"HIGH": {"acc": "GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb", "range": "220-223", "level": 1},
+					"KMSKS": {"acc": "GluRS-E_AF_Euk_Xylariaceae_sp_FL0804_proteinKAI0483267.1.pdb", "range": "442-446", "level": 1, "align": "right"}}
+	
+}

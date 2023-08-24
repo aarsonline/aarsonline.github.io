@@ -1,0 +1,31 @@
+{
+		"name": "ProRS-B",
+		"id": "pro2",
+		"classID": "class2",
+		"fullName": "Prolyl-tRNA Synthetase (Bacterial-like)",
+		"icon": "/fig/icon_pro.png",
+		"substrate": "Proline",
+		"fig": "/fig/aa/pro.png",
+		"incorporates": "Proline",
+		"class": "Class II",
+		"subclass": "a",
+		"oligo": "Homodimer",
+		"codons": "CCU, CCC, CCA, CCG",
+		"editing": "Post-transfer",
+		"ref_str": ["structures/ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb"],
+		"tree": "/data/class2.nexus",
+		"addToClade": ["ProRS-A", "ProRS-B", "ProRS-M"],
+		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
+		"features": {"Catalytic domain": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "43-466", "level": 4},
+					"Anticodon binding domain HGPT": {"acc": "ProRS-B_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56438966.pdb", "range": "471-578", "level": 4},
+					"ProRS editing domain": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "262-404", "level": 3},
+					"Protozyme": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "94-149", "level": 3},
+					"Motif 1": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "65-74", "level": 1},
+					"Motif 2": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "133-142", "level": 1},
+					"Motif 3": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "446-455", "level": 1, "align": "right"},
+					"Tweezer 1": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "140", "level": 0},
+					"Tweezer 2": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "453", "level": 0}}
+	
+}
+
+

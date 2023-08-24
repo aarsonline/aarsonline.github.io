@@ -1,0 +1,35 @@
+{
+		"name": "PheRS-Aα",
+		"id": "phe3",
+		"classID": "class2",
+		"fullName": "Phenylalanyl-tRNA Synthetase &alpha; Subunit (Archaeal-like)",
+		"icon": "/fig/icon_hydrophobic.png",
+		"substrate": "Phenylalanine",
+		"fig": "/fig/aa/phe.png",
+		"incorporates": "Phenylalanine",
+		"class": "Class II",
+		"subclass": "c",
+		"oligo": "Heterotetramer",
+		"codons": "UUU, UUC",
+		"editing": "No",
+		"ref_str": ["structures/PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb"],
+		"hinge_str": "structures/PheRS-Aα_AF_Arch_Haloterrigena_turkmenica_DSM_5511_gene8744248.pdb",
+		"hinges": [235],
+		"refine": [{"start": 1, "stop": 1150}],
+		"tree": "/data/class2.nexus",
+		"addToClade": ["PheRS-Aα", "PheRS-Bα", "PheRS-M"],
+		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
+		"features": {"Catalytic domain": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "132-366", "level": 4},
+					"DNA binding domain": {"acc": "PheRS-Aα_AF_Arch_Haloterrigena_turkmenica_DSM_5511_gene8744248.pdb", "range": "1-175", "level": 4, "align": "right"},
+					"tRNA binding domain": {"acc": "PheRS-Aα_PDB_Euk.B_H_sapiens_3L4G.C.pdb", "range": "174-211", "level": 4, "align": "right"},
+					"PheRS-A IM": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "192-220", "level": 3, "align": "right"},
+					"Protozyme": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "222-264", "level": 3},
+					"Motif 1": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "150-159", "level": 1},
+					"Motif 2": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "248-257", "level": 1},
+					"Motif 3": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "351-360", "level": 1, "align": "right"},
+					"Tweezer 1": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "255", "level": 0},
+					"Tweezer 2": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "358", "level": 0}}
+	
+}
+
+

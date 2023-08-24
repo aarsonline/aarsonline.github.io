@@ -1,0 +1,104 @@
+{
+    "fullName":"Class II Catalytic domain",
+    "class":"Class II",
+    "hide": true,
+    "substrate":"Ala, Asn, Asp, Gly, His, Lys, Phe, Pro, Pyl, Sep, Ser, Thr",
+    "incorporates":"Ala, Asn, Asp, Gly, His, Lys, Phe, Pro, Pyl, Cys, Ser, Thr, Sec",
+    "oligo":"Homodimer, Homotetramer, Heterotetramer, Monomer",
+    "icon":"/fig/icon_white.png",
+    "refine": [{"start": 1237, "stop": 1330}],
+    "features": {   
+
+
+                "ProRS": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "175-207", "level": 3, "count": 2},
+                "Editing": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "208-363", "level": 3, "count": 1,  "href": "../ProRS-B_IM"},
+                "GlyRS-AE1": {"acc": "GlyRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697160.pdb", "range": "49-110", "level": 3, "count": 2, "href": "../GlyRS-AE_IM1"},
+                "GlyRS-AE2": {"acc": "GlyRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697160.pdb", "range": "192-226", "level": 3, "count": 2, "href": "../GlyRS-AE_IM2"},
+                "GlyRS-E": {"acc": "GlyRS-E_AF_Euk_Cryptococcus_neoformans_var_neoformans_JEC21_gene3258293.pdb", "range": "373-448", "level": 3, "count": 1, "href": "../GlyRS-E_IM"}, 
+                "HisRS": {"acc": "HisRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154026.pdb", "range": "152-250", "level": 3, "count": 1, "href": "../HisRS_IM"},
+                "SepRS": {"acc": "SepRS_AF_Arch_Methanothrix_thermoacetophila_PT_gene4462697.pdb", "range": "63-135", "level": 3, "count": 1, "href": "../SepRS_IM"},
+                "PheRS-A&alpha;": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "60-90", "level": 3, "count": 1, "href": "../PheRS-Aα_IM"},
+                "SerRS-A": {"acc": "SerRS-A_AF_Arch_Ignisphaera_aggregans_protein304378874.pdb", "range": "59-90", "level": 3, "count": 1, "href": "../SerRS-A_IM"},
+                "ThrRS": {"acc": "ThrRS_AF_Mito_Oryza_sativa_Japonica_Group_gene4345200.pdb", "range": "163-197", "level": 3, "count": 1},
+                "AlaRS": {"acc": "AlaRS_AF_Bact_Nocardia_farcinica_IFM_10152_gene61134339.pdb", "range": "130-163", "level": 3, "count": 1, "href": "../AlaRS_IM"},
+
+                "S2b.1a": {"acc": "LysRS-II_AF_Arch_Aciduliprofundum_boonei_T469_gene8827564.pdb", "range": "147-180", "level": 3, "count": 4, "dy": -1, "href": "../Subclass_2b_IM_1"},
+                "S2b.1b": {"acc": "AspRS_AF_Bact_Bacillus_anthracis_str_Ames_Ancestor_gene45024275.pdb", "range": "216-233", "level": 3, "count": 4, "href": "../Subclass_2b_IM_1"},
+                "S2b.1c": {"acc": "AspRS_AF_Bact_Bacillus_anthracis_str_Ames_Ancestor_gene45024275.pdb", "range": "279-296", "level": 3, "count": 4, "href": "../Subclass_2b_IM_1"},
+                "S2b.2": {"acc": "AsnRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094562.pdb", "range": "249-280", "level": 3, "count": 4, "dy": -2, "href": "../Subclass_2b_IM_2"},
+                "AspRSa": {"acc": "AspRS_AF_Bact_Bacillus_anthracis_str_Ames_Ancestor_gene45024275.pdb", "range": "157-214", "level": 3, "count": 1},
+                "AspRSb": {"acc": "AspRS_AF_Bact_Bacillus_anthracis_str_Ames_Ancestor_gene45024275.pdb", "range": "234-278", "level": 3, "count": 1},
+
+				"SI a": {"acc": "PheRS-Aα_AF_Arch_Candidatus_Nitrosopumilus_koreensis_AR1_gene13724458.pdb", "range": "31-47", "level": 3, "count": 20, "dy": -16},
+                "SI b": {"acc": "AsnRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094562.pdb", "range": "60-67", "level": 3, "count": 20, "dy": -2},
+
+
+                "Hairpin 2a": {"acc": "GlyRS-E_AF_Euk_Cryptococcus_neoformans_var_neoformans_JEC21_gene3258293.pdb", "range": "365-372", "level": 3, "count": 7, "dy": -5},
+                "Hairpin 2b": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "395-399", "level": 3, "count": 7, "dy": -1},
+
+				"Protozyme": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "60-104", "level": 3, "href": "../Protozyme"},
+
+                "Motif 1": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "16-25", "level": 2},
+                "Motif 2": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "50-59", "level": 2},
+                "Motif 3": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "155-164", "level": 2},
+
+                "H1": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "6-21", "level": 1},
+                "H2": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "68-77", "level": 1},
+                "S1": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "46-55", "level": 1},
+                "S2": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "71-81", "level": 1},
+                "H3": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "129-146", "level": 1},
+                "S3": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "106-111", "level": 1},
+                "S4": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "121-130", "level": 1},
+                "S5": {"acc": "GlyRS-E_AF_Euk_Cryptococcus_neoformans_var_neoformans_JEC21_gene3258293.pdb", "range": "337-348", "level": 1},
+                "SH1": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "151-168", "level": 1},
+				
+
+
+
+                "Tweezer 1": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "56", "level": 0},
+                "Tweezer 2": {"acc": "GlyRS-Bα_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56440230.pdb", "range": "161", "level": 0}
+
+
+                },
+
+    "extract": {
+
+
+
+        "protozyme": {"features": ["Protozyme"]},
+        "urzyme": {"features": ["H1", "Motif 1", "S2"]},
+        "6fold": {"features": ["H3", "S3", "S4", "S5", "SH1"]},
+        
+        "si": {"features": ["SI a", "SI b"]},
+        "hairpin2": {"features": ["Hairpin 2a", "Hairpin 2b"]},
+
+
+        "sep": {"features": ["SepRS"],  "dir": "../SepRS_IM"},
+        "phe3": {"features": ["PheRS-A&alpha;"],  "dir": "../PheRS-Aα_IM"},
+        "ser2": {"features": ["SerRS-A"],  "dir": "../SerRS-A_IM"},
+
+        "sc2b1": {"features": ["S2b.1a", "S2b.1b", "S2b.1c"]},
+        "sc2b2": {"features": ["S2b.2"],  "dir": "../Subclass_2b_IM_2"},
+        "asp1": {"features": ["AspRSa"]},
+        "asp2": {"features": ["AspRSb"]},
+
+        "thr": {"features": ["ThrRS"]},
+        "his": {"features": ["HisRS"]},
+        "ala": {"features": ["AlaRS"],  "dir": "../AlaRS_IM"},
+
+        "pro": {"features": ["ProRS"]},
+        "prob": {"features": ["Editing"], "dir": "../ProRS-B_IM"},
+
+        "glyAE1": {"features": ["GlyRS-AE1"],  "dir": "../GlyRS-AE_IM1"},
+        "glyAE2": {"features": ["GlyRS-AE2"],  "dir": "../GlyRS-AE_IM2"},
+        "gly3": {"features": ["GlyRS-E"],  "dir": "../GlyRS-E_IM"},
+
+
+        "urzyme_common": {"features": ["Protozyme", "H1", "Motif 1", "S2"]},
+        "common": {"features": ["H1", "Motif 1", "Protozyme", "S2", "H3", "S3", "S4", "S5", "SH1"]}
+
+
+    }
+
+
+}
