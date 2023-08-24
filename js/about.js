@@ -107,7 +107,7 @@ function renderAbout(){
 	// Footer information
 	let loc = window.location.pathname;
 	let wd = loc.substring(0, loc.lastIndexOf('/'));
-	$("#GitHubLink").attr("href", "https://github.com/urzyme/urzyme.github.io/tree/main" + wd);
+	$("#GitHubLink").attr("href", "https://github.com/aarsonline/aarsonline.github.io/tree/main" + wd);
 
 	
 	refs = getSorted(refs);
@@ -182,7 +182,7 @@ function renderInfo(text, resolve=function() { }){
 
 	// GitHub issue link
 	let issueLabel = json.issuePage == null ? json.id : json.issuePage;
-	$("#IssuesLink").attr("href", "https://github.com/urzyme/urzyme.github.io/labels/" + issueLabel);
+	$("#IssuesLink").attr("href", "https://github.com/aarsonline/aarsonline.github.io/labels/" + issueLabel);
 
 	// Figure
 	  if (json.fig != null && json.fig != ""){
