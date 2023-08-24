@@ -1,4 +1,4 @@
-﻿<html>
+<html>
 <head>
 <title>Glutamyl-tRNA Synthetase</title>
 
@@ -71,10 +71,134 @@ function init(){
 
 
 	<div id="main">
+<div class='indexMetadata'><br><br>
+
+<!-- Content automatically pulled from readme for indexing purposes. This will be overwritten using javascript -->
+<br><br>
+
+<h1>Glutamyl-tRNA Synthetase (Bacterial-like)</h1><br><br>
 
 
-		
+This page describes two glutamyl-tRNA synthetase families predominant in bacteria.
+The discriminating bacterial-like glutamyl-tRNA synthetase (GluRS-B) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the amino acid glutamate to its cognate tRNA:
 
-	</div>
-</body>
-</html>
+
+$ \text{Glu} + \text{tRNA}^\text{Glu} + \text{ATP} \xrightarrow{\text{GluRS-B}} \text{Glu-tRNA}^\text{Glu} + \text{AMP} + \text{PP}_i  $
+
+
+
+Whereas, the non-discriminating bacterial-like glutamyl-tRNA synthetase (GlxRS-B) catalyzes the following two reactions:
+
+
+$ \text{Glu} + \text{tRNA}^\text{Glu} + \text{ATP} \xrightarrow{\text{GlxRS-B}} \text{Glu-tRNA}^\text{Glu} + \text{AMP} + \text{PP}_i  $ 
+
+
+$ \text{Glu} + \text{tRNA}^\text{Gln} + \text{ATP} \xrightarrow{\text{GlxRS-B}} \text{Glu-tRNA}^\text{Gln} + \text{AMP} + \text{PP}_i  $
+
+
+
+As discussed by Hadd and Perona 2014, there is a complex coevolutionary history between glutamyl- and glutaminyl-tRNA synthetases, which comprise subclass Ib (Perona and Hadd. 2012, Gomez et al., 2020). 
+Their diversification occurred after the last universal common ancestor, with bacterial-like forms being characterized by an [$\alpha$-helical anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EK), and the archaeal and eukaryotic forms possessing a [$\beta$-barrel anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EQ).
+While many contemporary systems express both GlnRS and GluRS, their ancestor was most likely a non-discriminating form, which would attach Glu to tRNA$^\text{Gln}$.
+A second enzymic step, performed by an amidotransferase, would correct the misacylated tRNA prior to protein synthesis, as it does with [AsxRS](/class2/asp2/)  (Lapointe et al. 1986, Raczniak et al. 2001).
+This non-discriminating enzyme is still found in systems which lack GlnRS, such the archaea, which express [GlxRS-A](/class1/glu2/), as well as certain bacteria which have a non-discriminating variant [GlxRS-B](/class1/glu1/),  or a noncognate variant GluGlnRS which attaches Glu to tRNA$^\text{Gln}$ (Salazar et al. 2003, Skouloubris et al. 2003).
+It is likely that GlnRS originated in the eukaryota, and was later acquired by certain bacteria through horizontal gene transfer (Siatecka et al. 1998). 
+
+
+
+
+
+GluRS-B and GlxRS-B are the bacterial counterparts to the eurarchaeal  [GluRS-E](/class1/glu3) and GlxRS-A, respectively, differentiated by their distinct catalytic domain sequences and anticodon binding domain structures.
+Under normal circumstances, the two families GluRS-B and GlxRS-B  would be split into two distinct webpages in this database since they have distinct aminoacylation functions.
+However, GluRS-B and GlxRS-B are challenging to distinguish using sequence-based comparisons (Schulze et al. 2006), and hence their putative functional assignments
+are unified in a single alignment below.
+
+
+
+The N-terminal catalytic domains of GluRS-B and GlxRS-B  closely resembles the other members of subclass Ib: <a href="/class1/gln">GlnRS</a>, GlxRS-A, and GluRS-E.
+Their catalytic domains are characterized by an insertion within CP1, containing a loop flanked by two helices (SC1b IM), which 
+may play a role in acceptor stem recognition  (Rath et al. 1998, Nureki et al. 2010).
+The $\alpha$-helical anticodon binding domain of GluRS-B and GlxRS-B are located at their C-terminal ends and are homologous with that of [LysRS-I](/class1/lys/) (Terada et al. 2002), in contrast to the other members of Ib, which instead have a $\beta$-barrel anticodon binding domain of archaeal origin. 
+The members of subclass Ib, alongside LysRS-I and [ArgRS](/class1/arg/), require the presence of tRNA to catalyze activation of the amino acid substrate (Dubois et al. 2005).
+
+
+
+<br><br>
+
+<h2>References</h2><br><br>
+
+Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+
+
+
+
+
+
+Daniel Y. Dubois, Jacques Lapointe and Shun-ichi Sekine. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 10: Glutamyl-tRNA Synthetases.
+
+
+
+Raczniak, Gregory, et al. "A single amidotransferase forms asparaginyl-tRNA and glutaminyl-tRNA in Chlamydia trachomatis." Journal of Biological Chemistry 276.49 (2001): 45862-45867.
+
+
+
+
+Lapointe JA, Duplain LO, Proulx MA. A single glutamyl-tRNA synthetase aminoacylates tRNAGlu and tRNAGln in Bacillus subtilis and efficiently misacylates Escherichia coli tRNAGln1 in vitro. Journal of Bacteriology. 1986 Jan;165(1):88-93.
+
+
+
+Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
+
+
+
+Hadd, Andrew, and John J. Perona. "Coevolution of specificity determinants in eukaryotic glutamyl-and glutaminyl-tRNA synthetases." Journal of molecular biology 426.21 (2014): 3619-3633.
+
+
+
+
+Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.
+
+
+
+
+Rath, Virginia L., et al. "How glutaminyl-tRNA synthetase selects glutamine." Structure 6.4 (1998): 439-449.
+
+
+
+Nureki, Osamu, et al. "Structure of an archaeal non-discriminating glutamyl-tRNA synthetase: a missing link in the evolution of Gln-tRNAGln formation." Nucleic acids research 38.20 (2010): 7286-7297.
+
+
+
+Terada, Takaho, et al. "Functional convergence of two lysyl-tRNA synthetases with unrelated topologies." nature structural biology 9.4 (2002): 257-262.
+
+
+
+
+
+Berthonneau, Eric, and Marc Mirande. "A gene fusion event in the evolution of aminoacyl-tRNA synthetases." FEBS letters 470.3 (2000): 300-304.
+
+
+
+Skouloubris, Stéphane, et al. "A noncognate aminoacyl-tRNA synthetase that may resolve a missing link in protein evolution." Proceedings of the National Academy of Sciences 100.20 (2003): 11297-11302.
+
+
+
+
+Salazar, Juan C., et al. "Coevolution of an aminoacyl-tRNA synthetase with its tRNA substrates." Proceedings of the National Academy of Sciences 100.24 (2003): 13863-13868.
+
+
+
+Schulze, Jörg O., et al. "Crystal structure of a non-discriminating glutamyl-tRNA synthetase." Journal of molecular biology 361.5 (2006): 888-897.
+
+
+
+
+Siatecka, Miroslawa, et al. "Modular evolution of the Glx‐tRNA synthetase family: Rooting of the evolutionary tree between the bacteria and archaea/eukarya branches." European Journal of Biochemistry 256.1 (1998): 80-87.
+
+
+<br><br>
+
+</div>
+		</div>
+		</body>
+	</html>

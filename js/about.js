@@ -6,56 +6,59 @@ DATA = {};
 function renderAbout(){
 	
 	
-	
+	$(".indexMetadata").remove();
   // Initialise HTML
-  if ($("#main").children().length == 0){
-  	$("#main").append(`
-		  	
-
-
+$("#main").append(`
 		
-						
-					<ul class="flexContainer">
-					<li class="summary">
-					</li>
-
-					<li class="notes">
-						
-						<div id="introduction">
 
 
-						</div>
-						
-					</li>
+	
 					
-				</ul>
-
-
-					
-				
-				
-
 				<ul class="flexContainer">
-					<li id="references">
-						<h2>References</h2>
-					</li>
-				</ul>
+				<li class="summary">
+				</li>
+
+				<li class="notes">
+					
+					<div id="introduction">
 
 
-				<div id="issues">
+					</div>
+					
+				</li>
+				
+			</ul>
 
-					<a id="GitHubLink">
-						View on GitHub
-					</a>
 
-					<a id="IssuesLink">
-						Discuss
-					</a>
+				
+			
+			
 
-				</div>
+			<ul class="flexContainer">
+				<li id="references">
+					<h2>References</h2>
+				</li>
+			</ul>
 
-		`);
-  }
+
+			<div id="issues">
+
+				<a id="GitHubLink">
+					View on GitHub
+				</a>
+
+				<a target="_blank" id="IssuesLink">
+					Report an Issue
+				</a>
+
+				<a target="_blank" href="https://github.com/aarsonline/aarsonline.github.io/discussions" id="DiscussLink">
+					Discuss
+				</a>
+
+			</div>
+
+	`);
+
   
   $(".notes").show(0);
   renderHeader();

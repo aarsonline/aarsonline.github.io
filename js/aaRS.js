@@ -6,7 +6,7 @@ IS_MOBILE = (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|com
 DATA = {};
 FADE_TIME = 50;
 
-
+HIDE_PROTOZYME = true;
 
 PV_VIEWERS = {};
 PV_PDBS = {};
@@ -136,86 +136,90 @@ function renderaaRS(isPairwise = false, isSuperfamily = false){
 
 
   // Initialise HTML
-  if ($("#main").children().length == 0){
-  	$("#main").append(`
-		  	<ul class="flexContainer">
-					
-
-					<li class="notes">
-						
-						
-						<div id="introduction">
-
-
-						</div>
-						
-					</li>
-					
-					<li class="summary">
-						
-					</li>
-					
-				</ul>
+	$(".indexMetadata").remove();
+$("#main").append(`
+		<ul class="flexContainer">
 				
 
-				<div class="svgDiv">
-					<svg id="secondary" height=0 width=0 overflow="auto"></svg>
-				</div>
-				
-				<div id="secondaryHelper" class="helperNote">
-					
-				</div>
-
-				
-				
-				<div id="alignment" class="svgDiv">
-
-				</div>
-
-
-				<div id="alignment2" class="svgDiv">
-
-				</div>
-
-
-				<div id="tertiaryTable">
-					
-					<table>
-						<tr id="superpositionRow">
-							<td>
-								<div id="superposition"> </div>
-							</td>
-						</tr>
-
-					
-					</table>
+				<li class="notes">
 					
 					
+					<div id="introduction">
+
+
+					</div>
+					
+				</li>
 				
-				</div>
+				<li class="summary">
+					
+				</li>
 				
-				<ul class="flexContainer">
-					<li id="references">
-						<h2>References</h2>
-					</li>
-				</ul>
+			</ul>
+			
+
+			<div class="svgDiv">
+				<svg id="secondary" height=0 width=0 overflow="auto"></svg>
+			</div>
+			
+			<div id="secondaryHelper" class="helperNote">
+				
+			</div>
+
+			
+			
+			<div id="alignment" class="svgDiv">
+
+			</div>
 
 
-				<div id="issues">
+			<div id="alignment2" class="svgDiv">
 
-					<a target="_blank" id="GitHubLink">
-						View on GitHub
-					</a>
+			</div>
 
-					<a target="_blank" id="IssuesLink">
-						Discuss
-					</a>
 
-				</div>
+			<div id="tertiaryTable">
+				
+				<table>
+					<tr id="superpositionRow">
+						<td>
+							<div id="superposition"> </div>
+						</td>
+					</tr>
 
-		`);
-  }
-  
+				
+				</table>
+				
+				
+			
+			</div>
+			
+			<ul class="flexContainer">
+				<li id="references">
+					<h2>References</h2>
+				</li>
+			</ul>
+
+
+			<div id="issues">
+
+				<a target="_blank" id="GitHubLink">
+					View on GitHub
+				</a>
+				
+				<a target="_blank" id="IssuesLink">
+					Report an Issue
+				</a>
+
+				<a target="_blank" href="https://github.com/aarsonline/aarsonline.github.io/discussions" id="DiscussLink">
+					Discuss
+				</a>
+
+			</div>
+
+	`);
+
+
   
   if (IS_MOBILE){
 	  let row = $(`<tr><td><div id="tertiary"> </div></td></tr>`)
@@ -376,6 +380,7 @@ function renderaaRS(isPairwise = false, isSuperfamily = false){
     let dropdown = $("#domainSelect");
     dropdown.append("<option value='_full'> Full protein </option>");
     for (let f in DATA.features){
+	  if (HIDE_PROTOZYME && f == "Protozyme") continue;
       if (DATA.features[f].level > 1){
         dropdown.append("<option value='" + f + "'>" + f + "</option>");
       }
@@ -1023,11 +1028,11 @@ function renderSecondary(svg){
 
 
     // Number of sequences
-    var alignment = DATA.secondary;
-    var accessions = DATA.accessions;
-    var nseq = accessions.length;
-    var nsites = alignment[accessions[0]].length;
-    var features = DATA.features;
+    let alignment = DATA.secondary;
+    let accessions = DATA.accessions;
+    let nseq = accessions.length;
+    let nsites = alignment[accessions[0]].length;
+    let features = DATA.features;
 
 
     console.log("rendering alignment with", nseq, nsites)
@@ -1169,6 +1174,8 @@ function renderSecondary(svg){
      // Features
     for (var feature in features){
 
+
+	  if (HIDE_PROTOZYME && feature == "Protozyme") continue;
 
       let range = features[feature].range;
       let level = features[feature].level;

@@ -1,6 +1,9 @@
 
-rmsd:
-	bash scripts/getRMSD.sh
+
+
+
+deploy:
+	Rscript scripts/deployReadmes.R
 
 data2json:
 	Rscript scripts/tsv2json.R data/accessions.tsv accession

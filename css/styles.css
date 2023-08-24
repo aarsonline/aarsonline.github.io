@@ -24,7 +24,9 @@ svg {
 
 
 
-
+.indexMetadata{
+	color:white;
+}
 
 .alignmentToolBar{
 	font-size: 0.85em;
@@ -173,7 +175,7 @@ ul.aalist li img{
 .banner{
 	text-align:left;
 	word-break: break-word;
-	background-image: linear-gradient(140deg, #008cba0a, #008cba22);
+	
 
 	font-size: 1.2em;
 	line-height: 1.5em;
@@ -202,31 +204,19 @@ ul.aalist li img{
 
 
 		
-	.aarsShowcase{
-		padding: 0.75em;
-		background-image: linear-gradient(140deg, #696969aa, #696969cc);
-		color: white;
-		box-shadow: 0.3em 0.25em 0.1em #d3d3d3;
-	}
+
 
 
 }
 
 
 
-@media only screen and ( min-device-width: 1000px ) {
-
-
-
-	
-	.aarsShowcase span{
-		padding: 0.75em;
-		background-image: linear-gradient(140deg, #696969aa, #696969cc);
-		color: white;
-		box-shadow: 0.3em 0.25em 0.1em #d3d3d3;
-	}
-
-
+.aarsShowcase{
+	padding: 0.75em;
+	background-image: linear-gradient(140deg, #008cba0a, #008cba15);
+	color: black;
+	box-shadow: 0.3em 0.25em 0.1em #008cba0a;
+	max-width: 400px;
 }
 
 
@@ -799,6 +789,28 @@ div#treeDiv{
 #flexContainer, .flexContainer>li {
 	margin-bottom:1em;
 	max-width: 100%;
+}
+
+
+.flexContainer_left{
+  /* We first create a flex layout context */
+  display: flex;
+   flex-flow: row wrap;
+
+  
+  /* Then we define how is distributed the remaining space */
+  justify-content: space-between;
+  
+  align-items: flex-start;
+  
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.flexContainer_left>li {
+	margin-bottom:1em;
+	margin-right: 2em;
 }
 
 #metadataDlg{

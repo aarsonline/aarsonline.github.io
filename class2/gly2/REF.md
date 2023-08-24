@@ -6,7 +6,7 @@ Cusack, Stephen, Michael Härtlein, and Reuben Leberman. "Sequence, structural a
 
 Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic Origins of Glycyl tRNA Synthetases." Journal of Biological Chemistry 291.28 (2016): 14430-14446.
 
-
+Qiu, Xiayang, et al. "Cooperative structural dynamics and a novel fidelity mechanism in histidyl-tRNA synthetases." Biochemistry 38.38 (1999): 12296-12304.
 
 
 Shiba, Kiyotaka. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 13: Glycyl-tRNA Synthetases.
@@ -19,7 +19,7 @@ Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 2
 
 Ostrem, Dennis L., and Paul Berg. "Glycyl transfer ribonucleic acid synthetase from Escherichia coli. Purification, properties, and substrate binding." Biochemistry 13.7 (1974): 1338-1348.
 
-
+Schmitt, E., et al. "Crystal structure of aspartyl-tRNA synthetase from Pyrococcus kodakaraensis KOD: archaeon specificity and catalytic mechanism of adenylate formation." The EMBO journal 17.17 (1998): 5227-5237.
 
 Nagel, Glenn M., et al. "The β subunit of E. coil glycyl-tRNA synthetase plays a major role in tRNA recognition." Nucleic Acids Research 12.10 (1984): 4377-4384.
 
