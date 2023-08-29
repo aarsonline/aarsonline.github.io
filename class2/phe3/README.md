@@ -15,16 +15,14 @@ This page specifically refers to the $\alpha$ subunit of the archaral-like varia
 
 
 
-Although both PheRS-A subunits possess a Class II catalytic domain, catalytic activity appears to be restricted to the $\alpha$ subunit. tRNA recognition also occurs in the $\alpha$ chain (in contrast to the bacterial tetramer, for which anticodon recognition occurs through the $\beta$ chain), and editing activity is restricted to $\beta$.  The C-terminal catalytic core is similar to that of other PheRS families, as well as [HisRS](/class2/his) and [SepRS](/class2/sep), which together comprise subclass IIc
-(Douglas et al. 2023, Kavran et al. 2007, Perona et al. 2012, Valencia-Sánchez et al. 2016).
+Although both PheRS-A subunits possess a Class II catalytic domain, catalytic activity appears to be restricted to the $\alpha$ subunit. tRNA recognition also occurs in the $\alpha$ chain (in contrast to the bacterial tetramer, for which anticodon recognition occurs through the $\beta$ chain), and editing activity is restricted to $\beta$.  The C-terminal catalytic core is similar to that of other PheRS families, as well as [HisRS](/class2/his) and [SepRS](/class2/sep), which together comprise subclass IIc (Douglas et al. 2023, Kavran et al. 2007, Perona et al. 2012, Valencia-Sánchez et al. 2016).
 
 
-The catalytic domain of PheRS-A&alpha; is similar to other class II members, and contains six antiparallel strands. Like most members of the superfamily, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018).  
-The PheRS-A$\alpha$ catalytic domain is characterised by the short PheRS-A; insertion module, which resides between motifs 2 and 3 (Douglas et al. 2023).
+The catalytic domain of PheRS-A$\alpha$ is similar to other class II members, and contains six antiparallel strands. Like most members of the superfamily, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018).  The PheRS-A$\alpha$ catalytic domain is characterised by the short PheRS-A insertion module, which resides between motifs 2 and 3 (Douglas et al. 2023).
 
 
 
-The anticodon binding domain is proposed to be a short loop upstream of the catalytic core (Finarov et al. 2010). The N-terminal domains resemble DNA binding proteins, however their function roles are still under investigation (Ho et al. 2022).  
+The anticodon binding domain is proposed to be a short loop upstream of the catalytic core (Finarov et al. 2010). The N-terminal domains resemble DNA binding proteins, however their functional roles are still under investigation (Ho et al. 2022).  
 
 
 
