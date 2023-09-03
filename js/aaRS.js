@@ -194,6 +194,12 @@ $("#main").append(`
 			
 			</div>
 			
+			
+			<div id="tRNA_div">
+				 <svg id="tRNA_svg" height=0 width=0 overflow='auto'></svg>
+			
+			</div>
+			
 			<ul class="flexContainer">
 				<li id="references">
 					<h2>References</h2>
@@ -454,7 +460,7 @@ $("#main").append(`
     renderTertiary(getDirectoryOfAccession($(accessionSelect).val()), "tertiary");
 
 
-
+	//renderTRNA("trna.json", "tRNA_svg");
 
 	  // Delete loader
 	  $("#mainloader").remove();
