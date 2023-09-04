@@ -29,18 +29,24 @@ function renderTRNAFromJSON(jsonText, svgID){
 	let height = 650;
 	let NODE_SIZE = 8;
 	let FONT_SIZE = 12;
-	let LABEL_FONT_SIZE = 18;
-	let FORCE_DISTANCE = 20;
+	let LABEL_FONT_SIZE = 16;
+	let FORCE_DISTANCE = 22;
 	let LABEL_FORCE_DISTANCE = 30;
 	let REPULSION_DISTANCE = 1.0;
 	let BOUNDARY_MARGIN = 0;
-	let NT_COLS = {A: "#8da0cb77", C: "#fc8d6277", G: "#66c2a577", U: "#e78ac377"};
+
+	//let NT_COLS = {A: "#8da0cb77", C: "#fc8d6277", G: "#66c2a577", U: "#e78ac377"};
+	let NT_COLS = {A: "#fefefe", C: "#fefefe", G: "#fefefe", U: "#fefefe"};
 	let FONT_COL = "black";
-	let STRONG_COL = "#ff0000";
-	let WEAK_COL = "#ff7400";
+	let STRONG_COL = "#008cba";
+	let WEAK_COL = "#8cba00";
 
 	let STRONG_FONT_COL = "white";
 	let WEAK_FONT_COL = "white";
+
+	let BACKBONE_LWD = 2;
+	let BP_LWD = 1;
+	let BG_LWD_CG = 5;
 	
 	//console.log(nodes);
 	
@@ -59,9 +65,11 @@ function renderTRNAFromJSON(jsonText, svgID){
 	  .attr("stroke", "black")
 	  .attr("stroke-width", function(d) {
 			if (d.type == "backbone"){
-				return 2;
-			}else if (d.type == "bp"){
-				return 1;
+				return BACKBONE_LWD;
+			}else if (d.type == "bp" && d.CG){
+				return BG_LWD_CG;
+			}else if (d.type == "bp" && d.UX){
+				return BP_LWD;
 			}else{
 				return 0;
 			}

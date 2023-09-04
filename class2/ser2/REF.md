@@ -2,8 +2,6 @@
 Bilokapic, Silvija, et al. "Structure of the unusual seryl-tRNA synthetase reveals a distinct zinc dependent mode of substrate recognition." The EMBO journal 25.11 (2006): 2498-2509.
 
 
-
-
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
 

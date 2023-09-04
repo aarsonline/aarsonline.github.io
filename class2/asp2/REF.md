@@ -1,5 +1,4 @@
 
-
 Iwasaki, Wataru, et al. "Structural basis of the water-assisted asparagine recognition by asparaginyl-tRNA synthetase." Journal of molecular biology 360.2 (2006): 329-342.
 
 Kern, Daniel, Hervé Roy, and Hubert Dominique Becker. "Asparaginyl-tRNA synthetases." Madame Curie Bioscience Database [Internet]. Landes Bioscience, 2013.

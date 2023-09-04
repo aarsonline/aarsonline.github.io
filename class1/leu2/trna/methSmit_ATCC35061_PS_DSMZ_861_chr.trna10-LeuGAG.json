@@ -863,6 +863,38 @@
    "y":   63.376,
    "label":"5'",
    "type":"label"
+  },
+  {
+   "id":"Strong1",
+   "x":   5,
+   "y":   10,
+   "label":"",
+   "type":"base",
+   "is_strong":   true
+  },
+  {
+   "id":"Strong2",
+   "x":   30,
+   "y":   10,
+   "label":"Strong identity element",
+   "type":"label",
+   "align":"start"
+  },
+  {
+   "id":"Weak1",
+   "x":   5,
+   "y":   40,
+   "label":"",
+   "type":"base",
+   "is_weak":   true
+  },
+  {
+   "id":"Weak2",
+   "x":   30,
+   "y":   40,
+   "label":"Weak identity element",
+   "type":"label",
+   "align":"start"
   }
  ],
  "edges":[
@@ -874,7 +906,9 @@
   {
    "source":"X1",
    "target":"X72",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X2",
@@ -884,7 +918,9 @@
   {
    "source":"X2",
    "target":"X71",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X3",
@@ -894,7 +930,9 @@
   {
    "source":"X3",
    "target":"X70",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X4",
@@ -904,7 +942,9 @@
   {
    "source":"X4",
    "target":"X69",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X5",
@@ -914,7 +954,9 @@
   {
    "source":"X5",
    "target":"X68",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X6",
@@ -924,7 +966,9 @@
   {
    "source":"X6",
    "target":"X67",
-   "type":"bp"
+   "type":"bp",
+   "CG":   false,
+   "UX":   true
   },
   {
    "source":"X7",
@@ -934,7 +978,9 @@
   {
    "source":"X7",
    "target":"X66",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X8",
@@ -954,7 +1000,9 @@
   {
    "source":"X10",
    "target":"X25",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X11",
@@ -964,7 +1012,9 @@
   {
    "source":"X11",
    "target":"X24",
-   "type":"bp"
+   "type":"bp",
+   "CG":   false,
+   "UX":   true
   },
   {
    "source":"X12",
@@ -974,17 +1024,14 @@
   {
    "source":"X12",
    "target":"X23",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X13",
    "target":"X14",
    "type":"backbone"
-  },
-  {
-   "source":"X13",
-   "target":"X22",
-   "type":"bp"
   },
   {
    "source":"X14",
@@ -1054,7 +1101,9 @@
   {
    "source":"X27",
    "target":"X43",
-   "type":"bp"
+   "type":"bp",
+   "CG":   false,
+   "UX":   true
   },
   {
    "source":"X28",
@@ -1064,7 +1113,9 @@
   {
    "source":"X28",
    "target":"X42",
-   "type":"bp"
+   "type":"bp",
+   "CG":   false,
+   "UX":   true
   },
   {
    "source":"X29",
@@ -1074,7 +1125,9 @@
   {
    "source":"X29",
    "target":"X41",
-   "type":"bp"
+   "type":"bp",
+   "CG":   false,
+   "UX":   true
   },
   {
    "source":"X30",
@@ -1084,7 +1137,9 @@
   {
    "source":"X30",
    "target":"X40",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X31",
@@ -1094,7 +1149,9 @@
   {
    "source":"X31",
    "target":"X39",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X32",
@@ -1169,7 +1226,9 @@
   {
    "source":"V11",
    "target":"V21",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"V12",
@@ -1179,7 +1238,9 @@
   {
    "source":"V12",
    "target":"V22",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"V13",
@@ -1189,7 +1250,9 @@
   {
    "source":"V13",
    "target":"V23",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"V1",
@@ -1254,7 +1317,9 @@
   {
    "source":"X49",
    "target":"X65",
-   "type":"bp"
+   "type":"bp",
+   "CG":   false,
+   "UX":   true
   },
   {
    "source":"X50",
@@ -1264,7 +1329,9 @@
   {
    "source":"X50",
    "target":"X64",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X51",
@@ -1274,7 +1341,9 @@
   {
    "source":"X51",
    "target":"X63",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X52",
@@ -1284,7 +1353,9 @@
   {
    "source":"X52",
    "target":"X62",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X53",
@@ -1294,7 +1365,9 @@
   {
    "source":"X53",
    "target":"X61",
-   "type":"bp"
+   "type":"bp",
+   "CG":   true,
+   "UX":   false
   },
   {
    "source":"X54",
@@ -1407,16 +1480,6 @@
    "type":"label"
   },
   {
-   "source":"Anticodon",
-   "target":"X34",
-   "type":"label"
-  },
-  {
-   "source":"Anticodon",
-   "target":"X36",
-   "type":"label"
-  },
-  {
    "source":"Acceptor stem",
    "target":"X70",
    "type":"label"
@@ -1429,6 +1492,16 @@
   {
    "source":"5'",
    "target":"X1",
+   "type":"label"
+  },
+  {
+   "source":"Strong1",
+   "target":"Strong2",
+   "type":"label"
+  },
+  {
+   "source":"Weak1",
+   "target":"Weak2",
    "type":"label"
   }
  ]
