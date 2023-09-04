@@ -18,6 +18,7 @@
 		"tree": "/data/class2.nexus",
 		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
 		"refine": [{"start": 570}],
+		"PAD": "http://bioinf.bio.uth.gr/aars/#/tree/AlaRS",
 		"features": {"Catalytic domain": {"acc": "AlaRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094822.pdb", "range": "55-244", "level": 4},
 					"tRNA binding domain": {"acc": "AlaRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094822.pdb", "range": "315-472", "level": 4},
 					"Editing domain AT": {"acc": "AlaRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094822.pdb", "range": "575-724", "level": 4},
@@ -28,6 +29,55 @@
 					"Motif 2": {"acc": "AlaRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094822.pdb", "range": "114-123", "level": 1},
 					"Motif 3": {"acc": "AlaRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094822.pdb", "range": "229-238", "level": 1, "align": "right"},
 					"Tweezer 1": {"acc": "AlaRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094822.pdb", "range": "121", "level": 0},
-					"Tweezer 2": {"acc": "AlaRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094822.pdb", "range": "236", "level": 0}}
+					"Tweezer 2": {"acc": "AlaRS_AF_Arch_Candidatus_Korarchaeum_cryptofilum_OPF8_gene6094822.pdb", "range": "236", "level": 0}},
+
+
+		"strong": ["3", "70"], 
+		"weak": ["2", "4", "5", "68", "69", "71", "73", "20"],
+
+		"tRNA": {
+			"AlaRS_AF_Bact_Chlamydia_psittaci_6BC_gene12242512 GGC":{
+			  "seqname":"chlaPsit_6BC_chr.trna38-AlaGGC",
+			  "acc":"AlaRS_AF_Bact_Chlamydia_psittaci_6BC_gene12242512",
+			  "anticodon":"GGC",
+			  "taxon":"331636"
+			 },
+			 "AlaRS_AF_Bact_Chlamydia_psittaci_6BC_gene12242512 TGC":{
+			  "seqname":"chlaPsit_6BC_chr.trna25-AlaTGC",
+			  "acc":"AlaRS_AF_Bact_Chlamydia_psittaci_6BC_gene12242512",
+			  "anticodon":"TGC",
+			  "taxon":"331636"
+			 },
+			 "AlaRS_AF_Bact_Porphyromonas_gingivalis_ATCC_33277_gene29256567 GGC":{
+			  "seqname":"porpGing_ATCC33277_chr.trna11-AlaGGC",
+			  "acc":"AlaRS_AF_Bact_Porphyromonas_gingivalis_ATCC_33277_gene29256567",
+			  "anticodon":"GGC",
+			  "taxon":"431947"
+			 },
+			 "AlaRS_AF_Bact_Porphyromonas_gingivalis_ATCC_33277_gene29256567 TGC":{
+			  "seqname":"porpGing_ATCC33277_chr.trna33-AlaTGC",
+			  "acc":"AlaRS_AF_Bact_Porphyromonas_gingivalis_ATCC_33277_gene29256567",
+			  "anticodon":"TGC",
+			  "taxon":"431947"
+			 },
+			 "AlaRS_AF_Bact_Prochlorococcus_marinus_subsp_marinus_str_CCMP1375_gene54199407 GGC":{
+			  "seqname":"procMari_MARINUS_CCMP137_chr.trna26-AlaGGC",
+			  "acc":"AlaRS_AF_Bact_Prochlorococcus_marinus_subsp_marinus_str_CCMP1375_gene54199407",
+			  "anticodon":"GGC",
+			  "taxon":"167539"
+			 },
+			 "AlaRS_AF_Bact_Prochlorococcus_marinus_subsp_marinus_str_CCMP1375_gene54199407 TGC":{
+			  "seqname":"procMari_MARINUS_CCMP137_chr.trna3-AlaTGC",
+			  "acc":"AlaRS_AF_Bact_Prochlorococcus_marinus_subsp_marinus_str_CCMP1375_gene54199407",
+			  "anticodon":"TGC",
+			  "taxon":"167539"
+			 },
+			 "AlaRS_AF_Bact_Streptobacillus_moniliformis_DSM_12112_gene29672963 TGC":{
+			  "seqname":"streMoni_DSM12112_chr.trna13-AlaTGC",
+			  "acc":"AlaRS_AF_Bact_Streptobacillus_moniliformis_DSM_12112_gene29672963",
+			  "anticodon":"TGC",
+			  "taxon":"519441"
+			 }
+		}
 		
 }

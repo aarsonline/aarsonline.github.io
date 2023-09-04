@@ -195,10 +195,40 @@ $("#main").append(`
 			</div>
 			
 			
-			<div id="tRNA_div">
+		<ul class="flexContainer">
+
+				
+
+				<li class="tRNA">
+					
+					<div id="tRNA_notes">
+
+
+					</div>
+
+					<div id="tRNA_select_div">
+
+
+					</div>
+					
+				</li>
+
+
+					<li class="tRNA" >
+
+				<div id="tRNA_div">
 				 <svg id="tRNA_svg" height=0 width=0 overflow='auto'></svg>
 			
-			</div>
+				</div>
+					
+				</li>
+
+				
+				
+				
+			</ul>
+
+			
 			
 			<ul class="flexContainer">
 				<li id="references">
@@ -261,6 +291,10 @@ $("#main").append(`
   .then(response => response.blob())  // Unwrap to a blob...
   .then(blob => blob.text())          // ...then to raw text...
   .then(markdown => {                 // ...then pass the raw text into marked.parse
+
+
+
+  	
   
 
     document.getElementById("references").innerHTML = marked.parse(markdown);
@@ -460,11 +494,55 @@ $("#main").append(`
     renderTertiary(getDirectoryOfAccession($(accessionSelect).val()), "tertiary");
 
 
-	//renderTRNA("trna.json", "tRNA_svg");
 
 	  // Delete loader
 	  $("#mainloader").remove();
 	  $("#main").css("opacity", "100%");
+
+
+	  // Render the first tRNA structure
+	  console.log("trna", DATA.tRNA);
+	  if (DATA.tRNA != null){
+
+
+
+
+			// Render the tRNA section of it exists
+			fetch("tRNA.md")      // The path to the raw Markdown file
+		  .then(response => response.blob())  // Unwrap to a blob...
+		  .then(blob => blob.text())          // ...then to raw text...
+		  .then(markdown => {                 // ...then pass the raw text into marked.parse
+		    document.getElementById("tRNA_notes").innerHTML = marked.parse(markdown);
+		    MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+			$("#tRNA_notes").prepend("<h2>tRNA Structure</h2>");
+		  });
+
+
+	  	
+	   	// Dropdown
+	   	$("#tRNA_select_div").append("<span class='dropdownDiv'>Show tRNA: <select id='tRNASelect'></select></span>");
+	   	let tRNASelect = $("#tRNASelect");
+    	for (let f in DATA.tRNA){
+    		let acc = DATA.tRNA[f].seqname; 
+    		let name = getNameOfAccession(DATA.tRNA[f].acc) + ": " + DATA.tRNA[f].anticodon + "";
+    		tRNASelect.append("<option value='" + acc + "'>" + name + "</option>");
+    	}
+
+    	$(tRNASelect).on("change", function(){
+	      console.log("selected", $(tRNASelect).val());
+	      renderTRNA("trna/" + $(tRNASelect).val() + ".json", "tRNA_svg");
+	      tRNASelect.focus(); // Refocus on dropdown for easy selection using arrow keys
+	    });
+
+    	for (let f in DATA.tRNA){
+    		let acc = DATA.tRNA[f].seqname; 
+    		$(tRNASelect).val(acc);
+    		renderTRNA("trna/" + $(tRNASelect).val() + ".json", "tRNA_svg");
+    		break;
+    	}
+	    
+
+	  }
 	
 
   })
@@ -659,7 +737,7 @@ function renderInfo(text, resolve=function() { }){
                   <td>` + json.incorporates + `</td>
                 </tr>`);
       	$(".summary table").append(`<tr>
-  								<th>Oligomerisation</th>
+  								<th>Oligomerization</th>
   								<td>` + json.oligo + `</td>
   							</tr>`);
 
@@ -731,7 +809,7 @@ function renderInfo(text, resolve=function() { }){
                   <td>` + json.incorporates + `</td>
                 </tr>`);
   	$(".summary table").append(`<tr>
-  								<th>Oligomerisation</th>
+  								<th>Oligomerization</th>
   								<td>` + json.oligo + `</td>
   							</tr>`);
 
@@ -743,6 +821,13 @@ function renderInfo(text, resolve=function() { }){
   								<th>Editing</th>
   								<td>` + json.editing + `</td>
   							</tr>`);
+  	if (json.PAD != null){
+  		$(".summary table").append(`<tr title="Prokaryotic AARS Database">
+  								<th>Prokaryotic AARS Database:</th>
+  								<td><a target="_blank" href="` + json.PAD + `">View</a></td>
+  							</tr>`);
+  	}
+  	
 
   }
   
@@ -755,6 +840,7 @@ function renderInfo(text, resolve=function() { }){
 
 
   DATA.features = json.features;
+  DATA.tRNA = json.tRNA;
 
 
   

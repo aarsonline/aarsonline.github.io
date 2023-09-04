@@ -15,6 +15,7 @@
 		"ref_str": ["structures/ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb"],
 		"tree": "/data/class2.nexus",
 		"addToClade": ["ProRS-A", "ProRS-B", "ProRS-M"],
+		"PAD": "http://bioinf.bio.uth.gr/aars/#/tree/ProRS_B",
 		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
 		"features": {"Catalytic domain": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "43-466", "level": 4},
 					"Anticodon binding domain HGPT": {"acc": "ProRS-B_AF_Bact_Brachyspira_pilosicoli_95_1000_gene56438966.pdb", "range": "471-578", "level": 4},
@@ -24,7 +25,42 @@
 					"Motif 2": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "133-142", "level": 1},
 					"Motif 3": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "446-455", "level": 1, "align": "right"},
 					"Tweezer 1": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "140", "level": 0},
-					"Tweezer 2": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "453", "level": 0}}
+					"Tweezer 2": {"acc": "ProRS-B_AF_Bact_Acinetobacter_baylyi_ADP1_gene45233245.pdb", "range": "453", "level": 0}},
+		"strong": ["35", "36", "37", "48", "15", "72", "73"], 
+		"weak": ["1", "72", "17", "49"],
+		"tRNA": {
+
+			"ProRS-B_AF_Bact_Chlamydia_psittaci_6BC_gene12242703 GGG":{
+			  "seqname":"chlaPsit_6BC_chr.trna16-ProGGG",
+			  "acc":"ProRS-B_AF_Bact_Chlamydia_psittaci_6BC_gene12242703",
+			  "anticodon":"GGG",
+			  "taxon":"331636"
+			 },
+			 "ProRS-B_AF_Bact_Chlamydia_psittaci_6BC_gene12242703 TGG":{
+			  "seqname":"chlaPsit_6BC_chr.trna29-ProTGG",
+			  "acc":"ProRS-B_AF_Bact_Chlamydia_psittaci_6BC_gene12242703",
+			  "anticodon":"TGG",
+			  "taxon":"331636"
+			 },
+			 "ProRS-B_AF_Bact_Prochlorococcus_marinus_subsp_marinus_str_CCMP1375_gene54199876 GGG":{
+			  "seqname":"procMari_MARINUS_CCMP137_chr.trna29-ProGGG",
+			  "acc":"ProRS-B_AF_Bact_Prochlorococcus_marinus_subsp_marinus_str_CCMP1375_gene54199876",
+			  "anticodon":"GGG",
+			  "taxon":"167539"
+			 },
+			 "ProRS-B_AF_Bact_Prochlorococcus_marinus_subsp_marinus_str_CCMP1375_gene54199876 TGG":{
+			  "seqname":"procMari_MARINUS_CCMP137_chr.trna6-ProTGG",
+			  "acc":"ProRS-B_AF_Bact_Prochlorococcus_marinus_subsp_marinus_str_CCMP1375_gene54199876",
+			  "anticodon":"TGG",
+			  "taxon":"167539"
+			 },
+			 "ProRS-B_AF_Bact_Streptobacillus_moniliformis_DSM_12112_gene29673723 TGG":{
+			  "seqname":"streMoni_DSM12112_chr.trna14-ProTGG",
+			  "acc":"ProRS-B_AF_Bact_Streptobacillus_moniliformis_DSM_12112_gene29673723",
+			  "anticodon":"TGG",
+			  "taxon":"519441"
+			 }
+		}
 	
 }
 

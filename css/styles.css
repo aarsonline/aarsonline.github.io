@@ -440,6 +440,23 @@ table.maptable tr.refSeq{
 
 
 
+li.tRNA{
+	width:50%;
+	min-width:600px;
+}
+
+
+li.tRNA div{
+	line-height: 140%;
+	font-size:1.0em;
+}
+
+@media only screen and ( max-device-width: 1000px ) {
+	li.tRNA{
+		width:100%;
+	}
+}
+
 #introduction{
 	 line-height: 140%;
 	 font-size:1.0em;

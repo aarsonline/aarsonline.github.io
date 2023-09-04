@@ -17,6 +17,7 @@
 		"hinges": [171],
 		"tree": "/data/class2.nexus",
 		"addToClade": ["ProRS-A", "ProRS-B", "ProRS-M"],
+		"PAD": "http://bioinf.bio.uth.gr/aars/#/tree/ProRS_A",
 		"treeDescription": "Phylogeny of the AARS catalytic domain (Douglas et al. 2023). Internal nodes are labelled by clade posterior support.",
 		"features": {"Catalytic domain": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "42-280", "level": 4, "align": "right"},
 					"Anticodon binding domain HGPT": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "285-412", "level": 4, "align": "right"},
@@ -27,8 +28,65 @@
 					"Motif 2": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "137-146", "level": 1},
 					"Motif 3": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "260-269", "level": 1, "align": "right"},
 					"Tweezer 1": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "144", "level": 0},
-					"Tweezer 2": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "267", "level": 0}}
-	
+					"Tweezer 2": {"acc": "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692.pdb", "range": "267", "level": 0}},
+		"strong": ["35", "36", "37", "48", "15", "72", "73"], 
+		"weak": ["1", "72", "17", "49"],
+	"tRNA": {
+		"ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692 GGG":{
+		  "seqname":"candNitr_SP_AR2_chr.trna23-ProGGG",
+		  "acc":"ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692",
+		  "anticodon":"GGG",
+		  "taxon":"1229909"
+		 },
+		 "ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692 TGG":{
+		  "seqname":"candNitr_SP_AR2_chr.trna13-ProTGG",
+		  "acc":"ProRS-A_AF_Arch_Candidatus_Nitrosopumilus_sediminis_gene13697692",
+		  "anticodon":"TGG",
+		  "taxon":"1229909"
+		 },
+		 "ProRS-A_AF_Arch_Halogeometricum_borinquense_DSM_11551_gene9994169 CGG":{
+		  "seqname":"haloBori_DSM11551_PR_3_chr.trna6-ProCGG",
+		  "acc":"ProRS-A_AF_Arch_Halogeometricum_borinquense_DSM_11551_gene9994169",
+		  "anticodon":"CGG",
+		  "taxon":"469382"
+		 },
+		 "ProRS-A_AF_Arch_Halogeometricum_borinquense_DSM_11551_gene9994169 GGG":{
+		  "seqname":"haloBori_DSM11551_PR_3_chr.trna8-ProGGG",
+		  "acc":"ProRS-A_AF_Arch_Halogeometricum_borinquense_DSM_11551_gene9994169",
+		  "anticodon":"GGG",
+		  "taxon":"469382"
+		 },
+		 "ProRS-A_AF_Arch_Halogeometricum_borinquense_DSM_11551_gene9994169 TGG":{
+		  "seqname":"haloBori_DSM11551_PR_3_chr.trna28-ProTGG",
+		  "acc":"ProRS-A_AF_Arch_Halogeometricum_borinquense_DSM_11551_gene9994169",
+		  "anticodon":"TGG",
+		  "taxon":"469382"
+		 },
+		 "ProRS-A_AF_Arch_Sulfurisphaera_tokodaii_str_7_gene1459472 CGG":{
+		  "seqname":"sulfToko1_chr.trna25-ProCGG",
+		  "acc":"ProRS-A_AF_Arch_Sulfurisphaera_tokodaii_str_7_gene1459472",
+		  "anticodon":"CGG",
+		  "taxon":"273063"
+		 },
+		 "ProRS-A_AF_Arch_Sulfurisphaera_tokodaii_str_7_gene1459472 GGG":{
+		  "seqname":"sulfToko1_chr.trna35-ProGGG",
+		  "acc":"ProRS-A_AF_Arch_Sulfurisphaera_tokodaii_str_7_gene1459472",
+		  "anticodon":"GGG",
+		  "taxon":"273063"
+		 },
+		 "ProRS-A_AF_Arch_Sulfurisphaera_tokodaii_str_7_gene1459472 TGG":{
+		  "seqname":"sulfToko1_chr.trna24-ProTGG",
+		  "acc":"ProRS-A_AF_Arch_Sulfurisphaera_tokodaii_str_7_gene1459472",
+		  "anticodon":"TGG",
+		  "taxon":"273063"
+		 },
+		 "ProRS-A_AF_Bact_Porphyromonas_gingivalis_ATCC_33277_gene29256199 CGG":{
+		  "seqname":"porpGing_ATCC33277_chr.trna3-ProCGG",
+		  "acc":"ProRS-A_AF_Bact_Porphyromonas_gingivalis_ATCC_33277_gene29256199",
+		  "anticodon":"CGG",
+		  "taxon":"431947"
+		 }
+	}
 }
 
 

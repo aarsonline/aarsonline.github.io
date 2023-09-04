@@ -6,7 +6,8 @@
 */
 function renderTRNA(jsonFile, svgID){
 	
-	
+	console.log("drawing trna from", jsonFile);
+	$("#" + svgID).html("");
 	fetch(jsonFile).then(response => response.text()).then(text => renderTRNAFromJSON(text, svgID));
 
 	
@@ -21,19 +22,25 @@ function renderTRNAFromJSON(jsonText, svgID){
 	let json = JSON.parse(jsonText);
 	
 	//console.log("Received json", json);
-	$("#" + svgID).before("<h2>tRNA Structure</h2>");
 	
 	let nodes = json.nodes;
 	let links = json.edges;
-	let width = 650;
+	let width = 600;
 	let height = 650;
-	let NODE_SIZE = 10;
-	let FORCE_DISTANCE = 25;
-	let REPULSION_DISTANCE = 1.5;
+	let NODE_SIZE = 8;
+	let FONT_SIZE = 12;
+	let LABEL_FONT_SIZE = 18;
+	let FORCE_DISTANCE = 20;
+	let LABEL_FORCE_DISTANCE = 30;
+	let REPULSION_DISTANCE = 1.0;
 	let BOUNDARY_MARGIN = 0;
-	let NT_COLS = {A: "#8da0cb", C: "#fc8d62", G: "#66c2a5", U: "#e78ac3"};
+	let NT_COLS = {A: "#8da0cb77", C: "#fc8d6277", G: "#66c2a577", U: "#e78ac377"};
+	let FONT_COL = "black";
+	let STRONG_COL = "#ff0000";
+	let WEAK_COL = "#ff7400";
 
-	
+	let STRONG_FONT_COL = "white";
+	let WEAK_FONT_COL = "white";
 	
 	//console.log(nodes);
 	
@@ -75,14 +82,29 @@ function renderTRNAFromJSON(jsonText, svgID){
 		);
 	
 
+	// Node bg circle
+	nodeSelection.append("circle")
+		.attr("r", NODE_SIZE)
+		.attr("x", d => d.x )
+		.attr("y", d => d.y )
+		.attr("fill", "white");
 
+
+	// Node circle
 	nodeSelection.append("circle")
 		.attr("r", NODE_SIZE)
 		.attr("x", d => d.x )
 		.attr("y", d => d.y )
 		.attr("fill", function(d) {
 			if (d.type == "base"){
-				return NT_COLS[d.label];
+				if (d.is_strong){
+					return STRONG_COL;
+				}else if (d.is_weak){
+					return WEAK_COL;
+				}else{
+					return NT_COLS[d.label];
+				}	
+				
 			}else{
 				return "#00000000";
 			}
@@ -97,25 +119,43 @@ function renderTRNAFromJSON(jsonText, svgID){
 			
 		})
 
+
+	// Text inside node
 	nodeSelection.append("text")
 		.attr("dy", ".35em")
-		.attr("text-anchor", "middle")
-		.attr("text-align", "center")
+		.attr("text-anchor", function(d) {
+			if (d.align == null){
+				return "middle";
+			}else{
+				return "top";
+			}
+		})
 		.attr("font-size", function(d) {
 			if (d.type == "base"){
-				return 12;
+				return FONT_SIZE;
 			}else{
-				return 18;
+				return LABEL_FONT_SIZE;
 			}
 		})
 		.attr("fill", function(d) {
 			if (d.type == "base"){
-				return "white";
+				if (d.is_strong){
+					return STRONG_FONT_COL;
+				}else if (d.is_weak){
+					return WEAK_FONT_COL;
+				}else{
+					return FONT_COL;
+				}	
 			}else{
 				return "black";
 			}
 		})
 		.text(function(d) { return d.label });
+
+
+	// Title of node
+	nodeSelection.append("title")
+		.text(function(d) { return d.title });
 
 	let simulation = d3.forceSimulation(nodes);
 
@@ -128,7 +168,13 @@ function renderTRNAFromJSON(jsonText, svgID){
 		d3
 		  .forceLink(links)
 		  .id(d => d.id)
-		  .distance(FORCE_DISTANCE)
+		  .distance(function(d) {
+		  	if (d.type == "label"){
+				return LABEL_FORCE_DISTANCE;
+			}else{
+				return FORCE_DISTANCE;
+			}
+		  })
 	  )
 	  .on("tick", ticked);
 
