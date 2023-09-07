@@ -1010,10 +1010,10 @@ function renderTertiary(pdb = null, id = "tertiary") {
     // Display the protein as cartoon
 	  if (id == "tertiary"){
 		var method = $("#tertiaryColouringSingle").length == 0 ? "color.ssSuccession" : "color." + $("#tertiaryColouringSingle").val();
-		  PV_GEOMS[id] = viewer.cartoon('protein', structure, { color : colourSelected(id, eval(method)) });
+		  PV_GEOMS[id] = viewer.cartoon('protein', structure, { color : colourSelected(id, method) });
 	  }else{
 		var method = $("#tertiaryColouringAln").length == 0 ? "color.bySS" : "color." + $("#tertiaryColouringAln").val();
-		 PV_GEOMS[id] = viewer.cartoon('protein', structure, { color : colourSelected(id, eval(method)) });
+		 PV_GEOMS[id] = viewer.cartoon('protein', structure, { color : colourSelected(id, method) });
 	  }
 	 
     viewer.centerOn(structure);
@@ -1102,7 +1102,7 @@ function colourSelected(id, defaultFn) {
 
 
 
-	//console.log(defaultFn)
+	console.log(defaultFn)
 
   // Default colouring
   if (SELECTED_SITES.lower == -1 && defaultFn != "color.confidence") {
@@ -2185,7 +2185,7 @@ function renderAlignment(divID, isPrimary = true, downloadHref = ""){
 
       // Selected accession?
       if (SELECTED_ACCESSION != null){
-        if (acc != SELECTED_ACCESSION && col.length != 9){
+        if (acc != SELECTED_ACCESSION && col != null && col.length != 9){
           col = col + "33";
           textCol = textCol + "aa";
         }
