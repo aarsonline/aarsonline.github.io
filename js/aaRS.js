@@ -15,6 +15,24 @@ PV_GEOMS = {};
 SELECTED_SITES = {lower: -1, upper: -1};
 SELECTED_ACCESSION = null;
 
+
+
+// Colour gradient
+// https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10
+ALPHAFOLD_CONFIDENCE_COLS = [
+	{min:  0, max: 50, r: 165, g: 0, b: 38},
+	{min: 50, max: 55, r: 215, g: 48, b: 39},
+	{min: 55, max: 60, r: 244, g: 109, b: 67},
+	{min: 60, max: 65, r: 253, g: 174, b: 97},
+	{min: 65, max: 70, r: 254, g: 224, b: 144},
+	{min: 70, max: 75, r: 224, g: 243, b: 248},
+	{min: 75, max: 80, r: 171, g: 217, b: 233},
+	{min: 80, max: 85, r: 116, g: 173, b: 209},
+	{min: 85, max: 90, r: 69, g: 117, b: 180},
+	{min: 90, max: 100, r: 49, g: 54, b: 149}
+];
+
+
 AA_COLS = {A: "#80a0f0", I: "#80a0f0", L: "#80a0f0", M: "#80a0f0", F: "#80a0f0", W: "#80a0f0", V: "#80a0f0",
           K: "#f01505", R: "#f01505",
           D: "#c048c0", E: "#c048c0",
@@ -181,9 +199,19 @@ $("#main").append(`
 			<div id="tertiaryTable">
 				
 				<table>
+
+				
+
+
 					<tr id="superpositionRow">
-						<td>
-							<div id="superposition"> </div>
+
+
+						<td id="alphaFoldConfidenceCell">
+							
+						</td>
+
+						<td class="structureCell">
+							<div  id="superposition"> </div>
 						</td>
 					</tr>
 
@@ -258,10 +286,10 @@ $("#main").append(`
 
   
   if (IS_MOBILE){
-	  let row = $(`<tr><td><div id="tertiary"> </div></td></tr>`)
+	  let row = $(`<tr><td class="structureCell"><div id="tertiary"> </div></td></tr>`)
 	  $("#superpositionRow").after(row);
   }else{
-	   let cell = $(`<td><div id="tertiary"> </div></td>`)
+	   let cell = $(`<td class="structureCell"><div id="tertiary"> </div></td>`)
 	   $("#superpositionRow").append(cell)
   }
 
@@ -445,6 +473,7 @@ $("#main").append(`
 	$("#tertiary").after("<span class='dropdownDiv colouring'>Colour by: <select id='tertiaryColouringSingle'></select></span>");
 
 
+	// Colour selection dropdown
 	let dropdowns = $("#tertiaryTable").find(".colouring");
 	for (let d = 0; d < dropdowns.length; d ++){
 		let dropdownCol = $(dropdowns[d]).find("select");
@@ -452,12 +481,16 @@ $("#main").append(`
 		dropdownCol.append("<option value='rainbow'>Position</option>");
 		dropdownCol.append("<option value='bySS'>SSE</option>");
 		dropdownCol.append("<option value='ssSuccession'>SSE succession</option>");
+		dropdownCol.append("<option value='confidence'>AlphaFold confidence</option>");
 		$(dropdownCol).val("bySS");
 		$(dropdownCol).on("change", function(){
 			 recolourTertiaries();
 			 
 		});
 	}
+
+	// Draw alphafold confidence legend
+	drawConfidenceLegend();
 
 
 	renderTertiary("data/align.pdb", "superposition");
@@ -549,6 +582,41 @@ $("#main").append(`
 
 	
 }
+
+
+
+// Draw the legend scale for alphafold confidence
+function drawConfidenceLegend(){
+
+
+	let ele = $("#alphaFoldConfidenceCell");
+	ele.hide();
+
+	// Draw a legend table
+	let table = $(`<table class='colourLegend'></table>`);
+
+	for (let step = ALPHAFOLD_CONFIDENCE_COLS.length-1; step >= 0 ; step --){
+
+		let range = ALPHAFOLD_CONFIDENCE_COLS[step];
+		let colour = "rgb(" + range.r + "," + range.g + "," + range.b + ")";
+		let height = (range.max - range.min) / 5;
+		let row = $(`<tr >
+									<td style="height:` + height + `em; background-color:` + colour + `">
+
+									</td>
+									<td style="height:` + height + `em" class="labelCell">
+										` + range.max + `%
+									</td>
+								</tr>`);
+		table.append(row);
+
+	}
+
+
+	ele.append(table);
+
+}
+
 
 
 // Get pdb directory of an accession
@@ -981,6 +1049,15 @@ function renderTertiary(pdb = null, id = "tertiary") {
 function recolourTertiaries(override = false){
 
 
+
+	// Show colour scale if one of the proteins are showing confidence
+	if ($("#tertiaryColouringSingle").val() == "confidence" || $("#tertiaryColouringAln").val() == "confidence"){
+		$("#alphaFoldConfidenceCell").show(100);
+	}else{
+		$("#alphaFoldConfidenceCell").hide(100);
+	}
+
+
   // Full only
   var redraw = false;
   if ($("#domainSelect").val() != "_full" && SELECTED_SITES.lower != -1){
@@ -1007,10 +1084,10 @@ function recolourTertiaries(override = false){
       else {
         if (id == "tertiary"){
 		  var method = "color." + $("#tertiaryColouringSingle").val();
-          PV_GEOMS[id].colorBy(colourSelected(id, eval(method)) );
+          PV_GEOMS[id].colorBy(colourSelected(id, method ));
         }else{
 		  var method = "color." + $("#tertiaryColouringAln").val();
-          PV_GEOMS[id].colorBy(colourSelected(id, eval(method) ));
+          PV_GEOMS[id].colorBy(colourSelected(id, method ));
         }
         PV_VIEWERS[id].requestRedraw();
       }
@@ -1022,14 +1099,22 @@ function recolourTertiaries(override = false){
 // Colour pdb structure by highlighting selected residues
 function colourSelected(id, defaultFn) {
 
+
+
+
+	//console.log(defaultFn)
+
   // Default colouring
-  if (SELECTED_SITES.lower == -1) {
-    return defaultFn();
+  if (SELECTED_SITES.lower == -1 && defaultFn != "color.confidence") {
+  	let fn = eval(defaultFn);
+    return fn();
   }
 
 
   // Colour function
   var colorFunc = function(atom, out, index) {
+
+  	
 
     var chainName = atom.residue().chain().name();
     var chain1Name = atom.residue().chain().structure().chains()[0].name();
@@ -1044,8 +1129,8 @@ function colourSelected(id, defaultFn) {
 
       // Main chain only
       if (chainName != chain1Name) {
-        out[index+0] = 0.6; out[index+1] = 0.6;
-        out[index+2] = 0.6; out[index+3] = 0.8;
+        out[index+0] = 0; out[index+1] = 0;
+        out[index+2] = 0; out[index+3] = 0;
         return;
       }
 
@@ -1066,6 +1151,42 @@ function colourSelected(id, defaultFn) {
       }
 
     }
+
+
+    // Colour by confidence
+    if (defaultFn == "color.confidence" && SELECTED_SITES.lower == -1){
+
+
+    	// Hide PDB structures
+    	if (accessionIsExperimental(acc)){
+    		out[index+0] = 0; out[index+1] = 0;
+      	out[index+2] = 0; out[index+3] = 0;
+      	return;
+    	}
+
+    	//console.log(index, atom.tempFactor());
+    	let confidence = atom.tempFactor();
+    	let rgb = [1,1,1,1];
+    	for (let step = 0; step < ALPHAFOLD_CONFIDENCE_COLS.length; step++){
+    		let range = ALPHAFOLD_CONFIDENCE_COLS[step];
+    		if (confidence >= range.min && confidence < range.max){
+    			rgb = [range.r/255, range.g/255, range.b/255];
+    			break;
+    		}
+    	}
+
+    	
+  		out[index+0] = rgb[0]; out[index+1] = rgb[1];
+    	out[index+2] = rgb[2]; out[index+3] = 1;
+
+
+    	return;
+    	
+
+    }
+
+
+    // Colour by selected site
 
 
 
@@ -1091,7 +1212,9 @@ function colourSelected(id, defaultFn) {
     }
 
 
-    
+
+ 
+
     // index + 0, index + 1 etc. are the positions in the output array
     // at which the red (+0), green (+1), blue (+2) and  alpha (+3)
     // components are to be written.
@@ -1102,6 +1225,8 @@ function colourSelected(id, defaultFn) {
       out[index+0] = 0.6; out[index+1] = 0.6;
       out[index+2] = 0.6; out[index+3] = 0.7;
     }
+
+  	
 
 
   }
