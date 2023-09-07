@@ -121,7 +121,9 @@ mv realigned.fasta align.ali
 Rscript ../../../scripts/dssp2fasta.R
 
 
-
+rm -f unrefined.fasta
+rm -f align.rms
+rm -f align.rmt
 
 # Features
 rm -r -f domains

@@ -50,6 +50,10 @@ do
 	mv align.ali unrefined.fasta
 	mv refined.fasta align.ali
 	Rscript ../../../../../scripts/dssp2fasta.R
+	
+	rm -f unrefined.fasta
+	rm -f align.rms
+	rm -f align.rmt
 
 	cd ../
 
