@@ -890,9 +890,20 @@ function renderInfo(text, resolve=function() { }){
   								<td>` + json.editing + `</td>
   							</tr>`);
   	if (json.PAD != null){
-  		$(".summary table").append(`<tr title="Prokaryotic AARS Database">
+  		let linktext = json.PAD.split("/");
+  		linktext = linktext[linktext.length-1];
+  		$(".summary table").append(`<tr title="A database of AARS HMM motifs.">
   								<th>Prokaryotic AARS Database:</th>
-  								<td><a target="_blank" href="` + json.PAD + `">View</a></td>
+  								<td><a target="_blank" href="` + json.PAD + `">` + linktext + `</a></td>
+  							</tr>`);
+  	}
+
+  	if (json.misynpat != null){
+  		let linktext = json.misynpat.split("=");
+  		linktext = linktext[linktext.length-1];
+  		$(".summary table").append(`<tr title="Mitochondrial Aminoacyl-tRNA Synthetases & Pathologies.">
+  								<th>MiSynPat:</th>
+  								<td><a target="_blank" href="` + json.misynpat + `">` + linktext + `</a></td>
   							</tr>`);
   	}
   	
