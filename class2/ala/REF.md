@@ -13,8 +13,9 @@ Guo, Min, et al. "Paradox of mistranslation of serine for alanine caused by AlaR
 
 Guo, Min, et al. "The C-Ala domain brings together editing and aminoacylation functions on one tRNA." Science 325.5941 (2009b): 744-747.
 
+Qiu, Xiayang, et al. "Cooperative structural dynamics and a novel fidelity mechanism in histidyl-tRNA synthetases." Biochemistry 38.38 (1999): 12296-12304.
 
-
+Schmitt, E., et al. "Crystal structure of aspartyl-tRNA synthetase from Pyrococcus kodakaraensis KOD: archaeon specificity and catalytic mechanism of adenylate formation." The EMBO journal 17.17 (1998): 5227-5237.
 
 Tang, Huei-Lin, et al. "Translation of a yeast mitochondrial tRNA synthetase initiated at redundant non-AUG codons." Journal of Biological Chemistry 279.48 (2004): 49656-49663.
 
