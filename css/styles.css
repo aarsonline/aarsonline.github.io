@@ -228,7 +228,15 @@ ul.aalist li img{
 
 
 
+#tRNA_svg{
+	margin-left:2em;
+	margin-top:5em;
+}
 
+#tRNA_notes{
+	text-align:justify;
+	line-height: 140%;
+}
 
 
 .notes{
@@ -709,6 +717,9 @@ div#treeDiv{
 }
 
 
+
+
+
 #header .title{
 		font-size:4em;
 		text-align:center;
@@ -770,6 +781,16 @@ div#treeDiv{
   display: block;
 }
 
+
+@media only screen and ( max-device-width: 1000px ) {
+	.dropdown-content {
+	  min-width: 200px;
+	  font-size:1.2em;
+	}
+}
+
+
+
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #ddd;}
 
@@ -786,9 +807,6 @@ div#treeDiv{
 }
 
 
-#class2Selector{
-	margin-right:3.6em;
-}
 
 
 
