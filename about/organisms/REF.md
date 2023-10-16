@@ -1,4 +1,3 @@
-Chatton, Bruno, et al. "The yeast VAS1 gene encodes both mitochondrial and cytoplasmic valyl-tRNA synthetases." Journal of Biological Chemistry 263.1 (1988): 52-57.
 
 
 Duchêne, Anne-Marie, et al. "Dual targeting is the rule for organellar aminoacyl-tRNA synthetases in Arabidopsis thaliana." Proceedings of the National Academy of Sciences 102.45 (2005): 16484-16489.

@@ -40,7 +40,6 @@ Mitochondria and chloroplasts have their own translational machinery, distinct f
 They also have their own AARS, but these are not encoded by the small compartmental genomes. 
 Rather, the enzymes are produced in the cytosol and are imported into the mitochondria and chloroplasts using localization signals.
 In general, the same AARS is localized into both compartments through dual targeting (Duchêne 2005).
-In the case of [AlaRS](/class2/ala), [GlyRS](/class2/gly3), [HisRS](/class2/his), and [ValRS](/class1/val), the same AARS operates in the cytoplasm and mitochondria, through alternative initiation (Chatton et al. 1986).
 Due to the endosymbiotic origins of these organelles, their AARS are typically, but not always, of bacterial origin. 
 
 
