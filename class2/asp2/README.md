@@ -35,7 +35,7 @@ and the eukaryote-like form AspRS-E, which displays high levels of sequence and 
 The three-dimensional structure of AsxRS closely resembles that of AsnRS, AspRS, and [LysRS-II](/class2/lys/), with an N-terminal [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK/) and a C-terminal catalytic domain.
 The four members have quite similar catalytic domains and constitute subclass IIb (Cusack et al., 1991; Valencia-Sánchez et al., 2016).
 The subclass IIb synthetases of many eukaryotes contain a flexible domain at their N-termini, which helps to anchor the synthetase onto the tRNA (Frugier et al., 2000).
-Many fungal AsxRS contain a C-terminal domain (DUF2156, Datt et al. 2014) which transfers aspartate from $\text{tRNA}^\text{Asp}$ onto ergosterol (Yakobov et al. 2020).
+Many fungal AsxRS contain a C-terminal domain (formerly known as DUF2156, Datt et al. 2014) which transfers aspartate from $\text{tRNA}^\text{Asp}$ onto ergosterol (Yakobov et al. 2020).
 Editing activity has not been detected for AsxRS (Gomez and Ibba, 2020).
  
  
