@@ -26,6 +26,8 @@ The catalytic domain is not immediately related to any other aminoacyl-tRNA synt
 
 
 
-While most Class I aminoacyl-tRNA synthetases are monomeric, ArgRS is homodimeric. In some archaea, this dimer assembles into a complex with [SerRS](/class2/ser1), which has been reported to increase the efficiency of SerRS under extreme conditions (Godinic-Mikulcic et al. 2011). 
+Under normal conditions, ArgRS is monomeric just like most Class I aminoacyl-tRNA synthetases (Kim et al. 2014).
+However, heme binding incudes ArgRS dimerization in *Plasmodium falciparum*, rendering the enzyme inactive (Jain et al. 2016).
+Moreover, in some archaea, ArgRS assembles into a complex with [SerRS](/class2/ser1), which has been reported to increase the efficiency of SerRS under extreme conditions (Godinic-Mikulcic et al. 2011). 
 It appears that ArgRS lacks editing activity (Gomez and Ibba 2020).
 

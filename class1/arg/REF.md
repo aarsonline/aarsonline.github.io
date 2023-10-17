@@ -5,7 +5,7 @@ Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacyla
 			
 Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases." PLoS computational biology 14.4 (2018): e1006101.
 
-
+Kim, Hyun Sook, et al. "The crystal structure of arginyl-tRNA synthetase from Homo sapiens." FEBS letters 588.14 (2014): 2328-2334.
 
 Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
 
@@ -19,6 +19,9 @@ Konno, Michiko, et al. "Modeling of tRNA‐assisted mechanism of Arg activation 
 
 
 Shimada, Atsushi, et al. "Structural and mutational studies of the recognition of the arginine tRNA-specific major identity element, A20, by arginyl-tRNA synthetase." Proceedings of the National Academy of Sciences 98.24 (2001): 13537-13542.
+
+
+Jain, Vitul, Manickam Yogavel, and Amit Sharma. "Dimerization of arginyl-tRNA synthetase by free heme drives its inactivation in Plasmodium falciparum." Structure 24.9 (2016): 1476-1487.
 
 
 
