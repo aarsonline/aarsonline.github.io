@@ -1,5 +1,5 @@
 
-Arginyl-tRNA synthetase (ArgRS) is a homodimeric enzyme that plays a crucial role in protein synthesis by catalysing the attachment of the amino acid arginine to its cognate tRNA:
+Arginyl-tRNA synthetase (ArgRS) is a monomeric enzyme that plays a crucial role in protein synthesis by catalysing the attachment of the amino acid arginine to its cognate tRNA:
 
 
 
