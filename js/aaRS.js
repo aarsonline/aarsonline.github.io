@@ -892,8 +892,8 @@ function renderInfo(text, resolve=function() { }){
   	if (json.PAD != null){
   		let linktext = json.PAD.split("/");
   		linktext = linktext[linktext.length-1];
-  		$(".summary table").append(`<tr title="A database of AARS HMM motifs.">
-  								<th>Prokaryotic AARS Database:</th>
+  		$(".summary table").append(`<tr title="A database of AARS HMM motifs">
+  								<th>Prokaryotic AARS Database</th>
   								<td><a target="_blank" href="` + json.PAD + `">` + linktext + `</a></td>
   							</tr>`);
   	}
@@ -901,9 +901,18 @@ function renderInfo(text, resolve=function() { }){
   	if (json.misynpat != null){
   		let linktext = json.misynpat.split("=");
   		linktext = linktext[linktext.length-1];
-  		$(".summary table").append(`<tr title="Mitochondrial Aminoacyl-tRNA Synthetases & Pathologies.">
-  								<th>MiSynPat:</th>
+  		$(".summary table").append(`<tr title="Mitochondrial Aminoacyl-tRNA Synthetases & Pathologies">
+  								<th>MiSynPat</th>
   								<td><a target="_blank" href="` + json.misynpat + `">` + linktext + `</a></td>
+  							</tr>`);
+  	}
+
+
+  	if (json.ECnum != null){
+  		let linktext = "https://www.brenda-enzymes.org/enzyme.php?ecno=" + json.ECnum;
+  		$(".summary table").append(`<tr title="Enzyme commission number">
+  								<th>Enzyme commission</th>
+  								<td><a target="_blank" href="` + linktext + `">EC ` + json.ECnum + `</a></td>
   							</tr>`);
   	}
   	
@@ -2274,6 +2283,10 @@ function renderAlignment(divID, isPrimary = true, downloadHref = ""){
 
     // Features
     for (var feature in features){
+
+    	if (HIDE_PROTOZYME && feature == "Protozyme"){
+    		continue;
+    	}
 
       var range = features[feature].range;
       var level = features[feature].level;

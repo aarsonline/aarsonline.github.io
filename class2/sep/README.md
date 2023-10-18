@@ -1,4 +1,4 @@
-O-phosphoseryl-tRNA synthetase (SepRS) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the non-proteinogenic amino acid o-phosphoserine to the tRNA of cysteine:
+O-phosphoseryl-tRNA synthetase (SepRS) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the non-proteinogenic amino acid O-phosphoserine to the tRNA of cysteine:
 
 
 

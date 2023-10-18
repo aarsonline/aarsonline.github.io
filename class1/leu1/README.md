@@ -12,7 +12,7 @@ $ \text{Leu} + \text{tRNA}^\text{Leu} + \text{ATP} \xrightarrow{\text{LeuRS-B}} 
 
 LeuRS-B is found in most bacteria and organelles, and differs from the archaeal-like form [LeuRS-A](/class1/leu2), which is found in most archaea. 
 Either type may reside in a eukaryotic cytosol.   The two forms are characterized by their abilities to charge tRNAs corresponding to six different codons.
-In the standard genetic code, [ArgRS](/class1/arg) and [SerRS](/class1/ser1) are the only other AARS which decode as many as six codons.
+In the standard genetic code, [ArgRS](/class1/arg) and [SerRS](/class2/ser1) are the only other AARS which decode as many as six codons.
 The structures of LeuRS-A and -B are distinguished by 
 i) the placement of the editing domain within their primary sequence  (Fukunaga et al. 2005), 
 ii) the C-terminal domain which recognises tRNA (Tukalo et al. 2005), and 

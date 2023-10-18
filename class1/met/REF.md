@@ -16,6 +16,8 @@ Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 2
 Blanquet, Sylvain, et al. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 6: Methionyl-tRNA Synthetases.
 
 
+Schwartz, Michael H., and Tao Pan. "Temperature dependent mistranslation in a hyperthermophile adapts proteins to lower temperatures." Nucleic acids research 44.1 (2015): 294-303.
+
 
 Crepin, Thibaut, et al. "Three-dimensional structure of methionyl-tRNA synthetase from Pyrococcus abyssi." Biochemistry 43.9 (2004): 2635-2644.
 
