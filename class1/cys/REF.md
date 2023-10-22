@@ -9,7 +9,7 @@ Hou, Ya-Ming and John J. Perona. "The Aminoacyl-tRNA Synthetases" CRC Press (200
 
 
 
-Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
+Komatsoulis GA, and John Abelson. "Recognition of tRNA(Cys) by cysteinyl-tRNA synthetase". Biochemistry 32, 7435-7444 (1993).
 
 
 
@@ -20,6 +20,7 @@ Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of ami
 Fersht, Alan R., and Colin Dingwall. "Cysteinyl-tRNA synthetase from Escherichia coli does not need an editing mechanism to reject serine and alanine. High binding energy of small groups in specific molecular interactions." Biochemistry 18.7 (1979): 1245-1249.
 
 
+Sherlin LD et al. "Influence of transfer RNA tertiary structure on aminoacylation efficiency by glutaminyl and cysteinyl-tRNA synthetases." J Mol Biol 299, 431-436 (2000).
 
 
 Sauerwald, Anselm, et al. "RNA-dependent cysteine biosynthesis in archaea." Science 307.5717 (2005): 1969-1972.
