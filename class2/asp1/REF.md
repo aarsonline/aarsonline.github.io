@@ -41,3 +41,8 @@ Giegé, Richard and Rees, Bernard. "The Aminoacyl-tRNA Synthetases" CRC Press (2
 
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
+
+Taft, Ryan J., et al. "Mutations in DARS cause hypomyelination with brain stem and spinal cord involvement and leg spasticity." The American Journal of Human Genetics 92.5 (2013): 774-780.
+
+Scheper, Gert C., et al. "Mitochondrial aspartyl-tRNA synthetase deficiency causes leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation." Nature genetics 39.4 (2007): 534-539.
+
