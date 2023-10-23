@@ -33,5 +33,5 @@ In lower eukaryotes, AlaRS is one of the few aminoacyl-tRNA synthetases which op
 
 Clinical significance
 
-Dominant mutations in the human cytosolic AlaRS gene AARS cause Charcot-Marie-Tooth disease type 2N, an inherited form of peripheral neuropathy (Latour et al. 2010), whereas recessive mutations in the same gene lead to  developmental and epileptic encephalopathy (Simons et al. 2015). Human mitochondrial AlaRS gene AARS2 is involved in two main recessive disease phenotypes. One is a fatal infantile cardiomyopathy (Gotz et al. 2011), and the other is a progressive leukoencephalopathy with ovarian failure (Dallabona et al. 2014).
+Dominant mutations in the human cytosolic AlaRS gene AARS1 cause Charcot-Marie-Tooth disease type 2N, an inherited form of peripheral neuropathy (Latour et al. 2010), whereas recessive mutations in the same gene lead to  developmental and epileptic encephalopathy (Simons et al. 2015). Human mitochondrial AlaRS gene AARS2 is involved in two main recessive disease phenotypes. One is a fatal infantile cardiomyopathy (Gotz et al. 2011), and the other is a progressive leukoencephalopathy with ovarian failure (Dallabona et al. 2014).
 
