@@ -73,6 +73,11 @@ Dallabona, Cristina, et al. "Novel (ovario) leukodystrophy related to AARS2 muta
 
 Götz, Alexandra, et al. "Exome sequencing identifies mitochondrial alanyl-tRNA synthetase mutations in infantile mitochondrial cardiomyopathy." The American Journal of Human Genetics 88.5 (2011): 635-642.
 
+Lee, Jeong Woong, et al. "Editing-defective tRNA synthetase causes protein misfolding and neurodegeneration." Nature 443.7107 (2006): 50-55.
+
+Hilander, Taru, et al. "Editing activity for eliminating mischarged tRNAs is essential in mammalian mitochondria." Nucleic Acids Research 46.2 (2018): 849-860.
+
+
 
 
 
