@@ -65,3 +65,14 @@ Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of ami
 
 Arutaki, Misa, et al. "G: U-Independent RNA minihelix aminoacylation by Nanoarchaeum equitans alanyl-tRNA synthetase: an insight into the evolution of aminoacyl-tRNA synthetases." Journal of molecular evolution 88 (2020): 501-509.
 
+Latour, Philippe, et al. "A major determinant for binding and aminoacylation of tRNAAla in cytoplasmic alanyl-tRNA synthetase is mutated in dominant axonal Charcot-Marie-Tooth disease." The American Journal of Human Genetics 86.1 (2010): 77-82.
+
+Simons, Cas, et al. "Loss-of-function alanyl-tRNA synthetase mutations cause an autosomal-recessive early-onset epileptic encephalopathy with persistent myelination defect." The American Journal of Human Genetics 96.4 (2015): 675-681.
+
+Dallabona, Cristina, et al. "Novel (ovario) leukodystrophy related to AARS2 mutations." Neurology 82.23 (2014): 2063-2071.
+
+Götz, Alexandra, et al. "Exome sequencing identifies mitochondrial alanyl-tRNA synthetase mutations in infantile mitochondrial cardiomyopathy." The American Journal of Human Genetics 88.5 (2011): 635-642.
+
+
+
+
