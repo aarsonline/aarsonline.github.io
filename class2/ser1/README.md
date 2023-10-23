@@ -23,7 +23,7 @@ Editing in SerRS occurs at the pre-transfer level, despite lacking an edit domai
 
 Clinical significance
 
-Recessive mutations in the human SARS1 gene encoding the cytosolic SerRS cause a neurodevelopmental disorder with microcephaly, ataxia, and seizures (NEDMAS) (Musante et al. 2017). The human mitochondrial SerRS is involved in two main distinct phenotypes, which are both recessive. One is called HUPRA syndrome for hyperuricemia, pulmonary hypertension, renal failure, and alkalosis (Belostotsky et al. 2011), and the other causes spastic tetraparesis without renal involvement (Linnankivi et al. 2016). 
+Recessive mutations in the human SARS1 gene encoding the cytosolic SerRS cause a neurodevelopmental disorder with microcephaly, ataxia, and seizures (NEDMAS) (Musante et al. 2017). The human mitochondrial SerRS, encoded by gene SARS2, is involved in two main distinct phenotypes, which are both recessive. One is called HUPRA syndrome for hyperuricemia, pulmonary hypertension, renal failure, and alkalosis (Belostotsky et al. 2011), and the other causes spastic tetraparesis without renal involvement (Linnankivi et al. 2016). 
 
 There is also a [second class II SerRS](/class2/ser2), evolutionarily distinct from this one, which is found in methanogenic archaea (Bilokapic et al. 2006). 
 
