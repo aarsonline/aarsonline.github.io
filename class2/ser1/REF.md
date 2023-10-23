@@ -39,6 +39,12 @@ Bilokapic, Silvija, et al. "Structure of the unusual seryl-tRNA synthetase revea
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
+Belostotsky, Ruth, et al. "Mutations in the mitochondrial seryl-tRNA synthetase cause hyperuricemia, pulmonary hypertension, renal failure in infancy and alkalosis, HUPRA syndrome." The American Journal of Human Genetics 88.2 (2011): 193-200.
+
+Linnankivi, Tarja, et al. "Splicing defect in mitochondrial Seryl‐tRNA synthetase gene causes progressive spastic paresis instead of HUPRA syndrome." Human Mutation 37.9 (2016): 884-888.
+
+Musante, Luciana, et al. "Mutations of the aminoacyl‐tRNA‐synthetases SARS and WARS2 are implicated in the etiology of autosomal recessive intellectual disability." Human mutation 38.6 (2017): 621-636.
+
 
 
 Guitart, Tanit, et al. "New Aminoacyl-tRNA Synthetase-like Protein in Insecta with an Essential Mitochondrial Function." Journal of Biological Chemistry 285.49 (2010): 38157-38166.
