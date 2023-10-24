@@ -1,3 +1,4 @@
+Wang, Mao, et al. "Wars2 is a determinant of angiogenesis." Nature Communications 7 (2016): 12061
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
