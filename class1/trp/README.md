@@ -6,6 +6,11 @@ Tryptophanyl-tRNA synthetase (TrpRS) is an enzyme that plays a crucial role in p
 
 $ \text{Trp} + \text{tRNA}^\text{TrpRS} + \text{ATP} \xrightarrow{\text{TrpRS}} \text{Trp-tRNA}^\text{TrpRS} + \text{AMP} + \text{PP}_i  $
 
+
+
+
+
+
 ## Structure 
 
 
@@ -18,6 +23,7 @@ Lastly, while most Class I synthetases approach the tRNA acceptor stem from the 
 
 
 
+
 TrpRS from prokaryotic and archaeal/eukaryotic organisms form quite distinct groups, with respect to their sequences, allosteries, and domain architectures (Carter 2005).
 The archaeal-like TrpRS contains an additional N-terminal domain known as the eukaryote-specific-extension, ESE (Yang et al. 2007).
 Both the ESE and the C-terminal [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_WY) undergo vast conformational changes upon substrate binding, making the archaeal-like form quite complex (Shen et al. 2008).
@@ -25,7 +31,11 @@ However, despite the intricate allostery displayed by TrpRS, the catalytic domai
 ancestral models, such as  protozymes (Onodera et al. 2021) and urzymes (Pham et al. 2010), which display activation and aminoacylation activity respectively. 
 The connecting peptide 1 (CP1) domains in TrpRS and TyrRS occur in their simplest forms.
 
+
+
 ## Editing
+
+
 
 
 ## Non-translational functions
@@ -36,4 +46,8 @@ In certain parasites, TrpRS possesses an N-terminal domain homologous to the edi
 
 The rat mitochondrial TrpRS (WARS2) was shown to be a determinant for angiogenesis (Wang et al. 2016)
 
+
 ## Clinical significance
+
+
+

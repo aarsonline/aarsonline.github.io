@@ -10,6 +10,13 @@ $ \text{Gly} + \text{tRNA}^\text{Gly} + \text{ATP} \xrightarrow{\text{GlyRS-B}} 
   
   
 
+GlyRS-B is present in most bacteria and is phylogenetically distinct from the dimeric families [GlyRS-A](/class2/gly1) and [GlyRS-E](/class2/gly3), which are present in archaea, eukaryotes,
+ and some bacteria (Shiba, 2005).
+ The full-length $\alpha$-$\beta$ type of GlyRS-B also operates in chloroplasts (Uwer et al. 1998). 
+  
+
+## Structure
+
 The catalytic domain of GlyRS-B is the smallest among all of Class II. The catalytic domains of AlaRS and GlyRS-B, which constitute subclass IId (Valencia-Sánchez et al., 2016), 
 are characterized by their absence of the small interface between motifs 1 and 2 (Douglas et al. 2023). 
 The small interface promotes dimerization in other Class II synthetases (Qiu et al. 1999, Schmitt et al. 1998), while AlaRS and GlyRS-B form oligomers through alternative means. 
@@ -30,9 +37,18 @@ Both subunit species are essential for GlyRS-B activity (Ostrem et al., 1974). T
   
   
 
-GlyRS-B is present in most bacteria and is phylogenetically distinct from the dimeric families [GlyRS-A](/class2/gly1) and [GlyRS-E](/class2/gly3), which are present in archaea, eukaryotes,
- and some bacteria (Shiba, 2005).
- The full-length $\alpha$-$\beta$ type of GlyRS-B also operates in chloroplasts (Uwer et al. 1998). 
+
  
 
 
+
+
+
+## Editing
+
+
+## Non-translational functions
+
+
+
+## Clinical significance

@@ -37,6 +37,9 @@ It is likely that GlnRS originated in the eukaryota, and was later acquired by c
 
 
 
+## Structure
+
+
 GluRS-B, GlxRS-B, and GluGlnRS are the bacterial counterparts to the eurarchaeal  [GluRS-E](/class1/glu3) and GlxRS-A, respectively, differentiated by their distinct catalytic domain sequences and anticodon binding domain structures.
 The three families are challenging to distinguish using sequence-based comparisons (Schulze et al. 2006), and hence their putative functional assignments
 are unified in a single alignment below.
@@ -52,3 +55,14 @@ The members of subclass Ib, alongside LysRS-I and [ArgRS](/class1/arg/), require
 
 
 
+
+
+
+## Editing
+
+
+## Non-translational functions
+
+
+
+## Clinical significance

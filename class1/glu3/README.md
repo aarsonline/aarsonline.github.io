@@ -20,7 +20,12 @@ It is found in many eukaryotic cytosols, and is characterized by an N-terminal g
 Chung et al. 2022 identified four potential regions of the *Gallus Gallus* GluRS-E which may offer selectivity against tRNA$^\text{Gln}$.
 
 
+A fused glutamyl-prolyl tRNA synthetase (EPRS) also exists in most animals (Berthonneau et al. 2000). 
+EPRS contains the catalytic domains from both GluRS-E and [ProRS-A](/class2/pro1/), as well as the ProRS-A zinc binding domain. 
+Glutamic acid is a metabolic precursor for proline, which suggests a possible explanation for the origin of this protein (Eswarappa et al. 2018). 
 
+
+## Structure
 
 The N-terminal catalytic domain of GluRS-E closely resembles the other members of subclass Ib: [GlnRS](/class1/gln/), [GluRS-B](/class1/glu1/), GlxRS-A,  and GlxRS-B.
 Their catalytic domains are characterized by an insertion within CP1, containing a loop flanked by two helices (SC1b IM), which 
@@ -30,8 +35,16 @@ However it is distinct to the bacterial form GluRS-B, which instead has an $\alp
 The members of subclass Ib, alongside [ArgRS](/class1/arg/) and  [LysRS-I](/class1/lys/), require the presence of tRNA to catalyze activation of the amino acid substrate (Dubois et al. 2005).
 
 
-A fused glutamyl-prolyl tRNA synthetase (EPRS) also exists in most animals (Berthonneau et al. 2000). 
-EPRS contains the catalytic domains from both GluRS-E and [ProRS-A](/class2/pro1/), as well as the ProRS-A zinc binding domain. 
-Glutamic acid is a metabolic precursor for proline, which suggests a possible explanation for the origin of this protein (Eswarappa et al. 2018). 
 
 
+
+
+
+## Editing
+
+
+## Non-translational functions
+
+
+
+## Clinical significance

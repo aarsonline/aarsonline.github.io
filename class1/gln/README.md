@@ -13,6 +13,10 @@ This non-discriminating enzyme is still found in systems which lack GlnRS, such 
 It is likely that GlnRS originated in the eukaryota, and was later acquired by certain bacteria through horizontal gene transfer (Siatecka et al. 1998). 
 
 
+
+## Structure
+
+
 The N-terminal catalytic domain of GlnRS closely resembles that of [GluRS-B](/class1/glu1/) , [GluRS-E](/class1/glu3/), and [GlxRS-A](/class1/glu2/) , 
 constituting subclass Ib (Perona  and Hadd 2012, Gomez et al., 2020).
 Their catalytic domains are characterized by an insertion within CP1, containing a loop flanked by two helices (SC1b IM), which 
@@ -29,3 +33,13 @@ for the assembly of the MARS complex (Kim et al. 2000).
 It may also contribute to the enzyme's ability to discriminate against tRNA$^\text{Glu}$ (Hadd et al. 2014). 
 
 
+
+
+## Editing
+
+
+## Non-translational functions
+
+
+
+## Clinical significance

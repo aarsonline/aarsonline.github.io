@@ -24,6 +24,9 @@ subclass Ia (Perona and Hadd 2012, Gomez and Ibba, 2020).
 Members of subclass Ia are characterized by their hydrophobic amino acid substrates, as well as the connecting peptide 2 (CP2) and zinc finger (ZF) insertions, depicted below. 
 CP2 is a 30-40 amino acid two-helix bundle on the surface of the catalytic domain (Starzyk et al. 1987) and appears to be essential for amino acid activation (Zhou et al. 2008). 
 Upstream from this resides a cysteine-rich zinc finger, 20-40 amino acids in length, also essential for effective aminoacylation (Nureki et al. 1993, Sugiura et al. 2000). 
+IleRS, ValRS, and LeuRS-B are further characterized by connecting peptide 3 (CP3), which contains a second zinc-finger motif in certain organisms (Fukunaga et al. 2005).
+Its functional role is unclear. 
+
 
 The tRNA is recognised by two C-terminal domains (Tukalo et al. 2005, Rock et al. 2007).
 The first is a  [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) that recognises the anticodon binding domain, and is universal across the members of subclass Ia plus [CysRS](/class1/cys) and ArgRS.
@@ -39,11 +42,11 @@ This editing domain typically resides within the zinc finger, providing further 
 such alanine, cysteine, threonine, valine, isoleucine, methionine, homocysteine, and norvaline (Gomez and Ibba, 2020).
 However, unlike LeuRS-A, ValRS, and IleRS, the editing domain of LeuRS-B resides downstream of the zinc finger and CP2 (Fukunaga et al. 2005).
 Thus, the domain appears to have hopped between the two positions, or may have originated as a trans-acting factor.
-IleRS, ValRS, and LeuRS-B are further characterized by connecting peptide 3 (CP3), which contains a second zinc-finger motif in certain organisms (Fukunaga et al. 2005).
-Its functional role is unclear. 
+
 
 
 ## Non-translational functions
+
 
 ## Clinical significance
 
