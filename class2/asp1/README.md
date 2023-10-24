@@ -16,10 +16,12 @@ A helix in the anticodon binding domain may enable AspRS to discriminate between
 Some organisms contain genes for both proteins.  
 
 
+## Structure
+
 The three-dimensional structure of AsnRS closely resembles that of AsxRS, [AsnRS](/class2/asn/), and [LysRS-II](/class2/lys/), with an N-terminal [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK/) and a C-terminal catalytic domain.
 The four members have quite similar catalytic domains and constitute subclass IIb (Cusack et al., 1991; Valencia-Sánchez et al., 2016).
 The subclass IIb synthetases of many eukaryotes contain a flexible domain at their N-termini, which helps to anchor the synthetase onto the tRNA (Frugier et al., 2000).
-Editing activity has not been detected for AspRS (Gomez abd Ibba, 2020).
+
 
 
 The C-terminal catalytic domain of AspRS is quite typical of a Class II AARS.
@@ -27,7 +29,11 @@ Like most members of the superfamily, ATP binding is coordinated by the arginine
 The catalytic domain of AspRS, much like the other members of subclass IIb, is characterized by the subclass IIb insertion modules 1 and 2.
 In the special case of AspRS, the first insertion module is considerably more elaborated than the rest of the subclass (Douglas et al. 2023). This extensive module makes up a five-stranded antiparallel $\beta$-sheet flanked by $\alpha$-helices that interacts with the tRNA through a network of water molecules (Eiler et al. 1999). 
 
-Clinical significance
+## Editing
 
-Recessive mutations in the human gene DARS1 encoding the cytosolic AspRS cause a phenotype of hypomyelination with brainstem and spinal cord involvement and spasticity (HBSL) (Taft et al. 2013). Similar brain disease LBSL for leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation is caused by recessive mutations in the DARS2 gene encoding the human mitochondrial AspRS (Scheper et al. 2007). DARS2 was the first identified mitochondrial AARS disease gene.  
 
+## Non-translational functions
+
+
+
+## Clinical significance

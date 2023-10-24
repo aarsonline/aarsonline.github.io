@@ -8,6 +8,11 @@ $ \text{Ser} + \text{tRNA}^\text{Sec} + \text{ATP} \xrightarrow{\text{SerRS}} \t
 
 
 This first reaction enables the incorporation of serine into the polypeptide, while the second enables incorporation of the 21st proteinogenic amino acid selenocysteine (Lee et al. 1989). The latter is achieved by incorporating selenocysteine at the position of the UGA stop codon, rather than stopping translation. The efficiency of this process is determined by a range of regulatory factors. 
+There is also a [second class II SerRS](/class2/ser2), evolutionarily distinct from this one, which is found in methanogenic archaea (Bilokapic et al. 2006). 
+
+
+
+## Structure
 
 SerRS is part of subclass IIa alongside [ProRS](/class2/pro1), [ThrRS](/class2/thr), and the [dimeric GlyRS](/class2/gly1) (Gomez and Ibba 2020, Valencia-Sánchez et al. 2016, Perona et al. 2012). 
 SerRS stands apart from the rest of the subclass due to its abnormal tRNA binding domain - the N-terminal long variable arm (Dock-Bregon et al. 1990).
@@ -19,11 +24,19 @@ In contrast, the C-terminal catalytic domain of SerRS is quite typical of a clas
 The catalytic domain is a seven stranded antiparallel fold.
 
 
-Editing in SerRS occurs at the pre-transfer level, despite lacking an edit domain. This process has been characterized for threonine, cysteine, and serine hydroxamate (Gruic-Sovulj et al. 2007). 
 
-Clinical significance
+## Editing
+
+Editing in SerRS occurs at the pre-transfer level, despite lacking an edit domain. 
+This process has been characterized for threonine, cysteine, and serine hydroxamate (Gruic-Sovulj et al. 2007). 
+
+
+## Non-translational functions
+
+
+
+## Clinical significance
 
 Recessive mutations in the human SARS1 gene encoding the cytosolic SerRS cause a neurodevelopmental disorder with microcephaly, ataxia, and seizures (NEDMAS) (Musante et al. 2017). The human mitochondrial SerRS, encoded by gene SARS2, is involved in two main distinct phenotypes, which are both recessive. One is called HUPRA syndrome for hyperuricemia, pulmonary hypertension, renal failure, and alkalosis (Belostotsky et al. 2011), and the other causes spastic tetraparesis without renal involvement (Linnankivi et al. 2016). 
 
-There is also a [second class II SerRS](/class2/ser2), evolutionarily distinct from this one, which is found in methanogenic archaea (Bilokapic et al. 2006). 
 

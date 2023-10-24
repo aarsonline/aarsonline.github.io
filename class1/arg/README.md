@@ -6,6 +6,8 @@ Arginyl-tRNA synthetase (ArgRS) is a monomeric enzyme that plays a crucial role 
 $ \text{Arg} + \text{tRNA}^\text{Arg} + \text{ATP} \xrightarrow{\text{ArgRS}} \text{Arg-tRNA}^\text{Arg} + \text{AMP} + \text{PP}_i  $
 
 
+## Structure
+
 
 In contrast to most Class I and II aminoacyl-tRNA synthetases, ArgRS requires the presence of $\text{tRNA}^\text{Arg}$ for effective arginine activation (Mitra et al. 1967, Eriani and Cavarelli 2005).
 tRNA binding is coordinated by the N- and C-terminal domains, which are adjacent in the tertiary structure (Cavarelli et al. 1998). 
@@ -29,5 +31,17 @@ The catalytic domain is not immediately related to any other aminoacyl-tRNA synt
 Under normal conditions, ArgRS is monomeric just like most Class I aminoacyl-tRNA synthetases (Kim et al. 2014).
 However, heme binding induces ArgRS dimerization in *Plasmodium falciparum*, rendering the enzyme inactive (Jain et al. 2016).
 Moreover, in some archaea, ArgRS assembles into a complex with [SerRS](/class2/ser1), which has been reported to increase the efficiency of SerRS under extreme conditions (Godinic-Mikulcic et al. 2011). 
-It appears that ArgRS lacks editing activity (Gomez and Ibba 2020).
+
+
+
+## Editing
+
+
+
+
+## Non-translational functions
+
+
+## Clinical significance
+
 

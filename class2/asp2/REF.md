@@ -45,3 +45,7 @@ Datt, Manish, and Amit Sharma. "Novel and unique domains in aminoacyl-tRNA synth
 
 Yakobov, Nathaniel, et al. "RNA-dependent sterol aspartylation in fungi." Proceedings of the National Academy of Sciences 117.26 (2020): 14948-14957.
 
+Taft, Ryan J., et al. "Mutations in DARS cause hypomyelination with brain stem and spinal cord involvement and leg spasticity." The American Journal of Human Genetics 92.5 (2013): 774-780.
+
+Scheper, Gert C., et al. "Mitochondrial aspartyl-tRNA synthetase deficiency causes leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation." Nature genetics 39.4 (2007): 534-539.
+

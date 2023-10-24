@@ -14,11 +14,11 @@ The same mechanism is employed by the Class I [GlxRS](/class1/glu2/) and [GlnRS]
 leading to the hypothesis that AsnRS and GlnRS were among the last of the synthetases to evolve (de Pouplana and Schimmel, 2001).
 
   
+## Structure
 
 The three-dimensional structure of AsnRS closely resembles that of AsxRS, [AspRS](/class2/asp1/), and [LysRS-II](/class2/lys/), with an N-terminal [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK/) and a C-terminal catalytic domain.
 The four members have quite similar catalytic domains and constitute subclass IIb (Cusack et al., 1991; Valencia-Sánchez et al., 2016).
 The subclass IIb synthetases of many eukaryotes contain a flexible domain at their N-termini, which helps to anchor the synthetase onto the tRNA (Frugier et al., 2000).
-Editing activity has not been detected for AsnRS (Gomez and Ibba, 2020).
 
   
 
@@ -29,3 +29,11 @@ This specificity is also achieved by the replacement of positively charged resid
 charged ones in the active site (Kern et al., 2005).
 The catalytic domain of AsnRS, much like the other members of subclass IIb, is characterized by the subclass IIb insertion modules 1 and 2 (Douglas et al. 2023).
 
+## Editing
+
+
+## Non-translational functions
+
+
+
+## Clinical significance

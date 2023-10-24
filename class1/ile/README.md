@@ -11,17 +11,13 @@ $ \text{Ile} + \text{tRNA}^\text{Ile} + \text{ATP} \xrightarrow{\text{IleRS}} \t
 IleRS features a N-terminal catalytic domain, C-terminal tRNA binding domains, and a post-transfer editing domain inserted within the catalytic domain (Nordin and Schimmel 2005).
 
 
+## Structure
 
 IleRS is closely related to the [LeuRS-A](/class1/leu2), [LeuRS-B](/class1/leu1), [ValRS](/class1/val), and [MetRS](/class1/met) families, which comprise 
 subclass Ia (Perona and Hadd 2012, Gomez and Ibba, 2020).
 Members of subclass Ia are characterized by their hydrophobic amino acid substrates, as well as the connecting peptide 2 (CP2) and zinc finger (ZF) insertions, depicted below. 
 CP2 is a 30-40 amino acid two-helix bundle on the surface of the catalytic domain (Starzyk et al. 1987) and appears to be essential for amino acid activation (Zhou at al. 2008). 
 Upstream from this resides a cysteine-rich zinc finger, 20-40 amino acids in length, also essential for effective aminoacylation (Nureki et al. 1993, Sugiura et al. 2000). 
-
-
-IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a), absent from MetRS.
-The editing domain typically resides within the zinc finger, providing further amino acid selectivity by expelling a wide range of mistargetted amino acids 
-such alanine, cysteine, threonine, valine, isoleucine, methionine, homocysteine, and norvaline (Gomez and Ibba, 2020).
 IleRS, ValRS, and the bacterial-like LeuRS-B are further characterized by connecting peptide 3 (CP3), which contains a second zinc-finger motif in certain organisms (Fukunaga et al. 2005).
 Its functional role is unclear. 
 
@@ -38,9 +34,26 @@ It lacks the N-terminal extension and zinc finger motif (Brkic et al. 2023), and
 
 
 
+## Editing
+
+
+IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a), absent from MetRS.
+The editing domain typically resides within the zinc finger, providing further amino acid selectivity by expelling a wide range of mistargetted amino acids 
+such alanine, cysteine, threonine, valine, isoleucine, methionine, homocysteine, and norvaline (Gomez and Ibba, 2020).
+
+
+## Non-translational functions
+
+
+## Clinical significance
+
+
+Certain bacteria, such as *Staphylococcus aureus*, have an abnormal GxHH sequence profile in place of the standard HxGH motif in IleRS-2, 
+promoting antibiotic resistance (Brkic et al. 2023).
 
 
 
-Many bacteria express both types of IleRS. Certain bacteria, such as *Staphylococcus aureus*, have an abnormal GxHH sequence profile in place of the standard HxGH motif in IleRS-2, promoting antibiotic resistance (Brkic et al. 2023).
+
+
 
 
