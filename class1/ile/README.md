@@ -48,10 +48,9 @@ such alanine, cysteine, threonine, valine, isoleucine, methionine, homocysteine,
 ## Clinical significance
 
 
-Certain bacteria, such as *Staphylococcus aureus*, have an abnormal GxHH sequence profile in place of the standard HxGH motif in IleRS-2, 
-promoting antibiotic resistance (Brkic et al. 2023).
+Certain bacteria, such as *Staphylococcus aureus*, have an abnormal GxHH sequence profile in place of the standard HxGH motif in IleRS-2, promoting antibiotic resistance (Brkic et al. 2023).
 
-
+Recessive mutations in the human gene IARS2 encoding the mitochondrial IleRS cause Leigh syndrome or a phenotype including cataracts, growth hormone deficiency with short stature, partial sensorineural deafness, and peripheral neuropathy (firstly reported in Schwartzentruber et al. 2014).
 
 
 
