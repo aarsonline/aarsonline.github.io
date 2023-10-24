@@ -1,3 +1,4 @@
+Bayat, Vafa, et al. "Mutations in the mitochondrial methionyl-tRNA synthetase case a neurodegenerative phenotype in flies and a recessive ataxia (ARSAL) in humans." PLoS Biology 10.3 (2012): e1001288.
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
