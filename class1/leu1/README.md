@@ -8,7 +8,7 @@ The bacterial-like leucyl-tRNA synthetase (LeuRS-B) is an enzyme that plays a cr
 $ \text{Leu} + \text{tRNA}^\text{Leu} + \text{ATP} \xrightarrow{\text{LeuRS-B}} \text{Leu-tRNA}^\text{Leu} + \text{AMP} + \text{PP}_i  $
 
 
-
+## Structure
 
 LeuRS-B is found in most bacteria and organelles, and differs from the archaeal-like form [LeuRS-A](/class1/leu2), which is found in most archaea. 
 Either type may reside in a eukaryotic cytosol.   The two forms are characterized by their abilities to charge tRNAs corresponding to six different codons.
@@ -25,6 +25,14 @@ Members of subclass Ia are characterized by their hydrophobic amino acid substra
 CP2 is a 30-40 amino acid two-helix bundle on the surface of the catalytic domain (Starzyk et al. 1987) and appears to be essential for amino acid activation (Zhou et al. 2008). 
 Upstream from this resides a cysteine-rich zinc finger, 20-40 amino acids in length, also essential for effective aminoacylation (Nureki et al. 1993, Sugiura et al. 2000). 
 
+The tRNA is recognised by two C-terminal domains (Tukalo et al. 2005, Rock et al. 2007).
+The first is a  [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) that recognises the anticodon binding domain, and is universal across the members of subclass Ia plus [CysRS](/class1/cys) and ArgRS.
+The second is a compact $\alpha$-$\beta$ domain unique to LeuRS-B.
+The domain is flexibly linked with the rest of the protein and mutational studies suggest it is essential for effective aminoacylation (Tukalo et al. 2005).
+
+
+
+## Editing
 
 ValRS,	IleRS, and LeuRS share a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a), absent from MetRS.
 This editing domain typically resides within the zinc finger, providing further amino acid selectivity by expelling a wide range of mistargetted amino acids 
@@ -35,12 +43,11 @@ IleRS, ValRS, and LeuRS-B are further characterized by connecting peptide 3 (CP3
 Its functional role is unclear. 
 
 
+## Non-translational functions
 
+## Clinical significance
 
-The tRNA is recognised by two C-terminal domains (Tukalo et al. 2005, Rock et al. 2007).
-The first is a  [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) that recognises the anticodon binding domain, and is universal across the members of subclass Ia plus [CysRS](/class1/cys) and ArgRS.
-The second is a compact $\alpha$-$\beta$ domain unique to LeuRS-B.
-The domain is flexibly linked with the rest of the protein and mutational studies suggest it is essential for effective aminoacylation (Tukalo et al. 2005).
+Recessive mutations in the human gene LARS2 encoding the mitochondrial leuRS cause the Perrault syndrome (firstly reported in Pierce et al. 2013).
 
 
 
