@@ -44,4 +44,5 @@ Moreover, in some archaea, ArgRS assembles into a complex with [SerRS](/class2/s
 
 ## Clinical significance
 
+Recessive mutations in the human gene RARS2 encoding the mitochondrial ArgRS cause the brain disease Pontocerebellar hypoplasia type 6 (PCH6) (firstly described in Edvardson et al. 2007).
 
