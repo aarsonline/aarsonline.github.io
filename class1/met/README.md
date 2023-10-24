@@ -41,6 +41,7 @@ Thermophilic archaea can adapt to lower temperatures by misacylating tRNA$^\text
 
 ## Clinical significance
 
+Recessive mutations in the human gene MARS2 encoding the mitochondrial MetRS cause a syndrome named ARSAL for Autosomal Recessive Spastic Ataxia with Leukoencephalopathy (firstly reported in Bayat et al. 2012).
 
 
 
