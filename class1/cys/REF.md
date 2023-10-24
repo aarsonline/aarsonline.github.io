@@ -1,3 +1,4 @@
+Hallmann, Kerstin, et al. "A homozygous splice-site mutation in CARS2 is associated with progressive myoclonic epilepsy". Neurology 83.23 (2014): 2183-2187.
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
