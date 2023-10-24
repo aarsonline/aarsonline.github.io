@@ -32,7 +32,7 @@ ThrRS also has an editing function, which occurs at the post-transfer level to r
 
 ## Non-translational functions
 
-The human mitochondrial ThrRS (TARS2) is required for threonine-sensitive activation of mTORC1, the mammalian Target Of Rapamycin Complex1 (Kim et al. 2021). The authors showed that in the presence of threonine, a fraction fo TARS2 is found in the cytosol and contributes to the functional switch of the lysosoma Rag/Ragulator complex then able to bind mTORC1.
+The human mitochondrial ThrRS (TARS2) is required for threonine-sensitive activation of mTORC1, the mammalian Target Of Rapamycin Complex1 (Kim et al. 2021). The authors showed that in the presence of threonine, a fraction of TARS2 is found in the cytosol and contributes to the functional switch of the lysosomal Rag/Ragulator complex then able to bind mTORC1.
 
 ## Clinical significance
 
