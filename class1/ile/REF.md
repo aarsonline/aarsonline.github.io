@@ -1,3 +1,4 @@
+Schwartzentruber, Jeremy, et al. "Mutation in the nuclear-encoded mitochondrial isoleucyl-tRNA synthetase IARS2 in patients with cataracts, growth hormone deiciency with short stature, partial sensorineural deafness, and peripheral neuropathy or with Leigh syndrome." Human mutation 35.11 (2014): 1285-1289.
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
