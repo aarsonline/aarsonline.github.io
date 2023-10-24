@@ -1,4 +1,4 @@
-
+Kim, Sung-Hoon, et al. "Mitochondrial Threonyl-tRNA Synthetase TASR2 is required for threonine-sensitive mTORC1 activation". Molecular Cell 81.2 (2021): 398-407.
 
 Wolf, Yuri I., et al. "Evolution of aminoacyl-tRNA synthetases—analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events." Genome research 9.8 (1999): 689-710.
 
