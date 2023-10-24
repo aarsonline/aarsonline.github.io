@@ -1,3 +1,4 @@
+Pierce, Sarah B., et al. "Mutations in LARS2, encoding mitochondrial leucyl-tRNA synthetase, lead to premature ovarian failure and hearing loss in Perrault syndrome." American Journal of Human Genetics 92.4 (2013): 614-620.
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
