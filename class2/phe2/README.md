@@ -15,6 +15,10 @@ Unlike most Class II synthetases, which are homodimeric, PheRS-B operates as a h
 There are three known variants of PheRS: one found predominantly in bacteria, one found in eukaryotes/archaea [PheRS-A](/class2/phe3), and one localized to eukaryotic organelles [PheRS-M](/class2/phe5). 
 This page specifically refers to the $\beta$ subunit of the bacterial variant (PheRS-B$\beta$). 
 
+
+## Structure
+
+
 The catalytic activity of PheRS-B is confined to the $\alpha$ subunit, while tRNA recognition and editing activity is executed by the $\beta$ subunit, 
 which is over twice the size of $\alpha$ (Fishman et al. 2001). The other heterotetrameric Class II synthetase is the bacterial [GlyRS-B](/class2/gly2), which is also composed of two catalytic $\alpha$ subunits and two non-catalytic  $\beta$ subunits. 
 However, unlike GlyRS-B, efficient catalysis in PheRS-B is not possible without the full tetrameric assembly (Mosyak et al. 1995). 
@@ -29,8 +33,6 @@ labeled below for convenience.
 
 
 
-The $\beta$ subunit's editing domain facilitates the removal of mischarged tyrosyl groups from $\text{tRNA}^\text{Phe}$.
-The editing domain is located at domains B3-B4, near the N-terminus (Roy et al. 2004, Mosyak et al. 1995). 
 The [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_F) (domain B8) is located at the C-terminus, and is homologous to that of PheRS-M. This domain is unique in its charging of the 2′OH of tRNA, 
 while other members of Class II charge 3′OH (Goldgur et al. 1997).
 This contrasts with the eukaryotic PheRS tetramer, whose anticodon binding domain resides in the $\alpha$ chain.
@@ -38,3 +40,17 @@ A paralog of the N-terminal RNA binding domain EMAP is also found in some forms 
 
 
 
+
+
+## Editing
+
+
+The $\beta$ subunit's editing domain facilitates the removal of mischarged tyrosyl groups from $\text{tRNA}^\text{Phe}$.
+The editing domain is located at domains B3-B4, near the N-terminus (Roy et al. 2004, Mosyak et al. 1995). 
+
+
+## Non-translational functions
+
+
+
+## Clinical significance

@@ -15,6 +15,9 @@ This page specifically refers to the $\alpha$ subunit of the archaral-like varia
 
 
 
+## Structure
+
+
 Although both PheRS-A subunits possess a Class II catalytic domain, catalytic activity appears to be restricted to the $\alpha$ subunit. tRNA recognition also occurs in the $\alpha$ chain (in contrast to the bacterial tetramer, for which anticodon recognition occurs through the $\beta$ chain), and editing activity is restricted to $\beta$.  The C-terminal catalytic core is similar to that of other PheRS families, as well as [HisRS](/class2/his) and [SepRS](/class2/sep), which together comprise subclass IIc (Douglas et al. 2023, Kavran et al. 2007, Perona et al. 2012, Valencia-Sánchez et al. 2016).
 
 
@@ -26,3 +29,18 @@ The anticodon binding domain is proposed to be a short loop upstream of the cata
 
 
 
+
+
+
+## Editing
+
+
+
+
+Post-transfer editing is performed by the [&beta; subunit](/class2/phe4).
+
+## Non-translational functions
+
+
+
+## Clinical significance
