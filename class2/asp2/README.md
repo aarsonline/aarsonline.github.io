@@ -8,7 +8,7 @@ $ \text{Asp} + \text{tRNA}^\text{Asp} + \text{ATP} \xrightarrow{\text{AspRS-E}} 
 
 
 
-Whereas, the non-discriminating bacterial-like aspartyl-tRNA synthetase (AsxRS) catalyzes the following two reactions:
+Whereas, the non-discriminating aspartyl-tRNA synthetase (AsxRS) catalyzes the following two reactions:
 
 
 $ \text{Asp} + \text{tRNA}^\text{Asp} + \text{ATP} \xrightarrow{\text{AsxRS}} \text{Asp-tRNA}^\text{Asn} + \text{AMP} + \text{PP}_i  $ 
