@@ -55,6 +55,17 @@ AA_FONT_COLS = {A: "#ffffff", I: "#ffffff", L: "#ffffff", M: "#ffffff", F: "#fff
           X: "#ffffff"};
 
 
+_3DI_COLS = {A: "#df9a8c", I: "#609d7b", L: "#fe4c8b", M: "#12a564", F: "#d99e81", W: "#d1a368", V: "#fb7edd",
+          K: "#d7a304", R: "#9487d0",
+          D: "#b4a3d8", E: "#ff5701",
+          N: "#d570fd", S: "#e842fe", Q: "#da8e99", T: "#42a299",
+          C: "#fb72c5",
+          G: "#7491c5",
+          P: "#cb99c4",
+          H: "#94abe1", Y: "#17a8fd",
+          X: "#c0c0c0"};
+
+
 
 // http://bioinformatica.isa.cnr.it/SUSAN/NAR2/dsspweb.html#:~:text=DSSP%20assigns%20seven%20different%20secondary,no%20secondary%20structure%20is%20recognized
 AA_COLS_2 = {E: "#FFC20A", H: "#0C7BDC", G: "#08569a", I: "#043158", T:"#333333", S: "#696969",  B: "#d3d3d3",  N: "#ffffff"};
@@ -192,6 +203,11 @@ $("#main").append(`
 
 
 			<div id="alignment2" class="svgDiv">
+
+			</div>
+
+
+			<div id="alignment3" class="svgDiv">
 
 			</div>
 
@@ -390,8 +406,18 @@ $("#main").append(`
 	$(".notes").show(100);
 
     //console.log(DATA);
-    renderAlignment("alignment", true, "data/align.ali");
-    renderAlignment("alignment2", false, "data/secondary.fasta");
+    renderAlignment("alignment", 0, "data/align.ali");
+    renderAlignment("alignment2", 1, "data/secondary.fasta");
+
+    if (DATA.threedi == null){
+    	$("alignment3").hide(0);
+    }else{
+    	$("#alignment3").before("<h2>FoldSeek 3Di structure</h2>");
+    	renderAlignment("alignment3", 2, "data/3di.fasta");
+    }
+    
+
+
     renderSecondary($("#secondary"));
 
 
@@ -402,6 +428,7 @@ $("#main").append(`
   // More section titles
   $("#alignment").before("<h2>Primary structure</h2>");
   $("#alignment2").before("<h2>Secondary structure</h2>");
+  
   $("#secondary").before("<h2>Domain architecture</h2>");
   $("#secondary").before("<div class='helperNote'>Click on an accession or domain below, or drag a region, to select it. Right click on an accession for more information.</div>");
   let imgWidth = IS_MOBILE ? 30 : 15;
@@ -500,12 +527,21 @@ $("#main").append(`
   $("#alignment").scroll(function () { 
     $("#alignment2").scrollTop($("#alignment").scrollTop());
     $("#alignment2").scrollLeft($("#alignment").scrollLeft());
+    $("#alignment3").scrollTop($("#alignment").scrollTop());
+    $("#alignment3").scrollLeft($("#alignment").scrollLeft());
   });
   $("#alignment2").scroll(function () { 
     $("#alignment").scrollTop($("#alignment2").scrollTop());
     $("#alignment").scrollLeft($("#alignment2").scrollLeft());
+    $("#alignment3").scrollTop($("#alignment2").scrollTop());
+    $("#alignment3").scrollLeft($("#alignment2").scrollLeft());
   });
-
+	$("#alignment3").scroll(function () { 
+    $("#alignment").scrollTop($("#alignment3").scrollTop());
+    $("#alignment").scrollLeft($("#alignment3").scrollLeft());
+    $("#alignment2").scrollTop($("#alignment3").scrollTop());
+    $("#alignment2").scrollLeft($("#alignment3").scrollLeft());
+  });
 
 
 
@@ -1984,14 +2020,20 @@ function selectSites(rescroll = true){
 		// Update canvas colours async
     setTimeout(function(){
 		
-		renderAlignment("alignment", true, "data/align.ali");
-		renderAlignment("alignment2", false, "data/secondary.fasta");
+		renderAlignment("alignment", 0, "data/align.ali");
+		renderAlignment("alignment2", 1, "data/secondary.fasta");
+		if (DATA.threedi == null){
+
+    }else{
+    	renderAlignment("alignment3", 2, "data/3di.fasta");
+    }
 
 		// Rescroll
 		if (SELECTED_SITES.lower != -1 && rescroll){
 		  var xpos = ALN_LABEL_WIDTH + NT_WIDTH*(SELECTED_SITES.lower) - $("#alignment").parent().width()/2;
 		  $("#alignment").scrollLeft(xpos);
 		  $("#alignment2").scrollLeft(xpos);
+		  $("#alignment3").scrollLeft(xpos);
 		}
     
 	}, 1);
@@ -2083,11 +2125,12 @@ function getAlignmentPosFromUngapped(accession, accPos){
 /*
 * Draw a canvas of primary/secondary as an alignment 
 */
-function renderAlignment(divID, isPrimary = true, downloadHref = ""){
+function renderAlignment(divID, datatype = 0, downloadHref = ""){
 	
 
 	// Number of sequences
-  var alignment = isPrimary ? DATA.alignment : DATA.secondary;
+  var alignment = datatype == 1 ? DATA.secondary : datatype == 2 ? DATA.threedi : DATA.alignment;
+  if (alignment == null) return;
   var accessions = DATA.accessions;
   var nseq = accessions.length;
   var nsites = alignment[accessions[0]].length;
@@ -2172,8 +2215,6 @@ function renderAlignment(divID, isPrimary = true, downloadHref = ""){
         var aa = seq[site];
 
 
-        //if (aa == "-" && !isPrimary) continue;
-        //if (aa == "-") continue;
 
 
       // Rect
@@ -2181,9 +2222,12 @@ function renderAlignment(divID, isPrimary = true, downloadHref = ""){
       let textCol = "#000000";
       if (aa == "-"){
         col = "#ffffff";
-      }else if (isPrimary){
+      }else if (datatype == 0){
       	textCol = AA_FONT_COLS[aa];
         col = AA_COLS[aa];
+      }else if (datatype == 2){
+      	textCol = "black";
+        col = _3DI_COLS[aa];
       }else{
 				textCol = AA_FONT_COLS_2[aa];
         col = AA_COLS_2[aa];
@@ -2334,7 +2378,7 @@ function renderAlignment(divID, isPrimary = true, downloadHref = ""){
 	if (!IS_MOBILE) {
 		
 		let aars = accessions[0].split("_");
-		let downloadFileName = aars[0] + (isPrimary ? ".primary" : ".secondary") + ".fasta";
+		let downloadFileName = aars[0] + (datatype == 0 ? ".primary" : datatype == 1 ? ".secondary" : ".3di") + ".fasta";
 
 		// Toolbar after alignment
 		if ($(`[for="` + divID + `"].alignmentToolBar`).length == 0){
@@ -2348,7 +2392,7 @@ function renderAlignment(divID, isPrimary = true, downloadHref = ""){
 		toolbar.append($(`<span> Accession: <span class="fader taxonSel"></span> </span>`));
 		
 		// SSE legend
-		if (!isPrimary){
+		if (datatype == 1){
 			toolbar.append($(`<span class="sseLegend" > <span style="color:` + AA_FONT_COLS_2["N"] + `; background-color:` + AA_COLS_2["N"] + `">N</span> - none </span>`));
 			
 			toolbar.append($(`<span class="sseLegend" > <span style="color:` + AA_FONT_COLS_2["T"] + `; background-color:` + AA_COLS_2["T"] + `">T</span> - H-bonded turn </span>`));
@@ -2604,36 +2648,48 @@ function loadSecondaryStructureAlignment(fasta, resolve = function() { }){
 
   DATA.secondary = sequences;
 
-  // All done
-  resolve();
+   // Load secondary structure alignment
+  fetch("data/3di.fasta").then(response => response.text()).then(text => load3diAlignment(text, resolve));
+
+
 
 }
 
 
-/*
-function loadStructures(listOfStructures, resolve){
 
+function load3diAlignment(fasta, resolve = function() { }){
 
-    // Load dssp files with secondary structure
-    var lines = listOfStructures.split("\n");
-    var structures = [];
-    for (var i = 0; i < lines.length; i ++){
+	if (fasta == null || fasta == ""){
+		DATA.threedi = null;
+		resolve();
+		return;
+	}
 
-      var fileName = lines[i];
-      if (fileName == "" || fileName[0] == "#") continue;
-      fileName = fileName.replace("structures/", "dssp/");
-      fileName = "data/" + fileName + ".dssp";
+  var lines = fasta.split("\n");
+  var sequences = {};
+  var acc = "seq";
+  var dir = "";
+  for (var i = 0; i < lines.length; i ++){
 
-      structures.push(fileName);
+    var line = lines[i];
 
+    if (line.trim() == "") continue;
+
+    if (line[0] == ">"){
+      dir = line.substring(1, line.length).trim();
+      var acc_split = dir.split("/");
+      acc = acc_split[acc_split.length -1];
+    }else{
+      sequences[acc] = line;
     }
 
+  }
+
+  DATA.threedi = sequences;
 
 
-    DATA.secondary = {};
-    loadStructure(structures, resolve);
-
-
+  // All done
+  resolve();
 
 }
 
@@ -2732,7 +2788,6 @@ function loadStructure(structures, resolve = function() { } ){
 }
 
 
-*/
 
 // Draw a class I or II catalytic domain layout
 function renderCatalyticDomainInserts(text, classNr){

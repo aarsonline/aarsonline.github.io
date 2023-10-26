@@ -24,8 +24,8 @@ nsites = as.numeric(nchar(out.fasta)[1])
 structures = character(0)
 
 dirs = list.dirs(path=wd, recursive=T)
-#dirs = dirs[grep(paste0(wd, "/class./.+/data$"), dirs)]
-dirs = dirs[grep(paste0(wd, "/.+/data$"), dirs)]
+dirs = dirs[grep(paste0(wd, "/class2/.+/data$"), dirs)]
+#dirs = dirs[grep(paste0(wd, "/.+/data$"), dirs)]
 for (d in dirs){
 
 	structuresD = readLines(paste0(d, "/structures.txt"))
