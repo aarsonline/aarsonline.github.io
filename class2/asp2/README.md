@@ -56,8 +56,7 @@ Like the other members of subclass IIb, its catalytic domain is characterized by
 
 Recessive mutations in the human gene DARS1 encoding the cytosolic AspRS cause a phenotype of hypomyelination with brainstem and spinal cord involvement and spasticity (HBSL)
  (Taft et al. 2013). Similar brain disease LBSL for leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation is caused
- by recessive mutations in the DARS2 gene encoding the human mitochondrial AspRS (Scheper et al. 2007). DARS2 was the first identified mitochondrial AARS disease gene.  
-
+ by recessive mutations in the DARS2 gene encoding the human mitochondrial AspRS (Scheper et al. 2007) (Please refer to AspRS page for information on DARS2).
 
 
 
