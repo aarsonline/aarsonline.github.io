@@ -49,5 +49,7 @@ The rat mitochondrial TrpRS (WARS2) was shown to be a determinant for angiogenes
 
 ## Clinical significance
 
+Biallelic recessive variants in the human gene WARS2 encoding the mitochondrial TrpRS cause neurodevelopmental disorder with movement disorders (as early-onset tremor-parkinsonism syndrome) and intellectual disability (firstly described in Musante et al. 2017).
+
 
 
