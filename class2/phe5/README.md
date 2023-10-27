@@ -31,4 +31,4 @@ None identified yet.
 
 ## Clinical significance
 
-Recessive mutations in the human gene FARS2 encoding the mitochondrial PheRS cause the brain disease Alpers encephalopathy (firstly described in Shamseldin et al. 2012).
+Biallelic recessive variants in the human gene FARS2 encoding the mitochondrial PheRS cause the brain disease Alpers encephalopathy (firstly described in Shamseldin et al. 2012).
