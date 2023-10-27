@@ -50,7 +50,7 @@ Thus, the domain appears to have hopped between the two positions, or may have o
 
 ## Clinical significance
 
-Recessive mutations in the human gene LARS2 encoding the mitochondrial leuRS cause the Perrault syndrome (firstly reported in Pierce et al. 2013).
+Biallelic recessive variants in the human gene LARS2 encoding the mitochondrial leuRS cause the Perrault syndrome (firstly reported in Pierce et al. 2013).
 
 
 
