@@ -1,3 +1,5 @@
+Musante, Luciana, et al. "Mutations of the aminoacyl-tRNA SARS and WARS2 are implicated in the etiology of autosomal recessive intellectual disability." Humna mutation 38.6 (2017): 621-636.
+
 Wang, Mao, et al. "Wars2 is a determinant of angiogenesis." Nature Communications 7 (2016): 12061
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
