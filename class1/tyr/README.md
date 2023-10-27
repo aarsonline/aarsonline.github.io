@@ -55,9 +55,7 @@ Coupled with the lack of cross-reactivity between TyrRS and tRNA$^\text{Tyr}$ be
 
 ## Clinical significance
 
-
-
-Recessive mutations in the human gene YARS2 encoding the mitochondrial TyrRS cause a phenotype including Myopathy, Lactic Acidosis, Sideroblastic Anaemia 2 (MLASA2) (firstly reported in Riley et al. 2010).
+Biallelic recessive variants in the human gene YARS2 encoding the mitochondrial TyrRS cause a phenotype including Myopathy, Lactic Acidosis, Sideroblastic Anaemia 2 (MLASA2) (firstly reported in Riley et al. 2010).
 
 
 
