@@ -35,3 +35,5 @@ HisRS does not have editing activity (Gomez et al. 2020).
 
 
 ## Clinical significance
+
+Recessive mutations in the human gene HARS2 encoding the mitochondrial HisRS cause the Perrault syndrome, associated with ovarian dysgenesis and sensorineural hearing loss (firstly described in Pierce et al. 2011).
