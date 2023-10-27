@@ -36,6 +36,8 @@ The human mitochondrial ThrRS (TARS2) is required for threonine-sensitive activa
 
 ## Clinical significance
 
+Recessive mutations in the human gene TARS2 encoding the mitochondrial ThrRS cause a mitochondrial encephalomyopathy (fristly described in Diodato et al. 2014).
+
 
 
 
