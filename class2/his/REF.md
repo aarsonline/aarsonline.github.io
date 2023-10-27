@@ -1,3 +1,4 @@
+Pierce, Sarah B., et al. "Mutations in mitochondrial histidyl-tRNA synthetase HARS2 cause ovarian dysgenesis and sensorineural hearing loss of Perrault syndrome." Proceedings in the National Academy of Sciences USA 108.16 (2011): 6543-6548.
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
