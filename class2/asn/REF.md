@@ -1,3 +1,7 @@
+Sofou, Kalliopi, et al. "Whole exome sequencing reveals mutations in NARS2 ad PARS2, encoding the mitochondrial asparaginyl-tRNA synthetase and prolyl-tRNA synthetase, in patients with Alpers syndrome." Molecular genetics and genomic medicine 3.1 (2015): 59-68.
+
+Simon, Mariella, et al. "Mutations of human NARS2, encoding the mitochondrial asparaginyl-tRNA synthetase, cause nonsyndromic deafness and Leigh syndrome." PLoS Genetics 11.3 (2015): e1005097.
+
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
 Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacylation and beyond." Nucleic Acids Research 51.4 (2023): 1528-1570.
