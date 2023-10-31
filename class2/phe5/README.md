@@ -31,4 +31,4 @@ None identified yet.
 
 ## Clinical significance
 
-Biallelic recessive variants in the human gene FARS2 encoding the mitochondrial PheRS cause the brain disease Alpers encephalopathy (firstly described in Shamseldin et al. 2012).
+Biallelic recessive variants (homozygous and compound heterozygous) in the human gene FARS2 encoding the mitochondrial PheRS cause the brain disease Alpers encephalopathy (firstly described in Shamseldin et al. 2012). The exhaustive list of disease-causing variants of FARS2 (including location of the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=FARS2). Mutations have been mapped to all domains of the mt-PheRS except the N-terminal mitochondrial targeting sequence. 
