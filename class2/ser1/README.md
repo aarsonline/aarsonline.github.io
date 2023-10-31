@@ -33,6 +33,7 @@ This process has been characterized for threonine, cysteine, and serine hydroxam
 
 ## Non-translational functions
 
+Human SerRS has been implied in the regulation of several pathways, including angiogenesis through regulating VEGFA expression by competing with cMyc (Xu et al. 2012, Shi et al., 2014), glucose and lipid metabolism (Zhao et al., 2021), and physiological translational read-through (Liu et al., 2023).  
 
 
 ## Clinical significance
