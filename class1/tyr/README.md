@@ -55,7 +55,9 @@ Human cytoplasmic TyrRS was among the first aminoacyl-tRNA synthetases to be dis
 
 ## Clinical significance
 
-Biallelic recessive variants in the human gene YARS2 encoding the mitochondrial TyrRS cause a phenotype including Myopathy, Lactic Acidosis, Sideroblastic Anaemia 2 (MLASA2) (firstly reported in Riley et al. 2010). Dominant mutations in YARS1 encoding the cytoplasmic TyrRS are causative for Charcot-Marie-Tooth neuropathy (Jordanova et al., 2006). 
+Dominant mutations in YARS1 encoding the human cytosolic TyrRS are causative for Charcot-Marie-Tooth neuropathy (Jordanova et al. 2006). 
+
+Biallelic recessive variants (homozygous and compound heterozygous) in the human gene YARS2 encoding the mitochondrial TyrRS cause a phenotype including Myopathy, Lactic Acidosis, Sideroblastic Anaemia 2 (MLASA2) (firstly reported in Riley et al. 2010). THe exhaustive list of disease-causing variants of mt-TyrRS (including location on the sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=YARS2). Mutations have been mapped to all domains of the mt-TyrRS.
 
 
 
