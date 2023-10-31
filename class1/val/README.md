@@ -51,3 +51,5 @@ Its discrimination first against size (i.e. by filtering out isoleucine), and se
 
 
 ## Clinical significance
+
+Biallelic recessive variants (homozygous and compound heterozygous) in the human gene VARS2 encoding the mitochondrial ValRS cause a phenotype including mitochondrial encephalo-cardiomyopathy (firstly reported in Taylor et al. 2014). The exhaustive list of disease-causing variants of mt-ValRS (including location on sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=VARS2). Mutations have been mapped to all the domains of mt-ValRS except the N-terminal mitochondrial targetting sequence (MTS).
