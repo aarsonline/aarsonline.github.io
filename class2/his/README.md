@@ -36,4 +36,4 @@ HisRS does not have editing activity (Gomez et al. 2020).
 
 ## Clinical significance
 
-Biallelic recessive variants in the human gene HARS2 encoding the mitochondrial HisRS cause the Perrault syndrome, associated with ovarian dysgenesis and sensorineural hearing loss (firstly described in Pierce et al. 2011).
+Biallelic recessive variants in the human gene HARS2 encoding the mitochondrial HisRS cause the Perrault syndrome, associated with ovarian dysgenesis and sensorineural hearing loss (firstly described in Pierce et al. 2011). The exhaustive list of disease-causing variants of HARS2 (including location on the sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=HARS2). Mutations have been mapped to all domains of the mt-HisRS.
