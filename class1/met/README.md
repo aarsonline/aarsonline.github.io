@@ -40,7 +40,7 @@ Thermophilic archaea can adapt to lower temperatures by misacylating tRNA$^\text
 
 
 ## Clinical significance
-Biallelic recessive variants in the human gene MARS2 encoding the mitochondrial MetRS cause a syndrome named ARSAL for Autosomal Recessive Spastic Ataxia with Leukoencephalopathy (firstly reported in Bayat et al. 2012).
+Biallelic recessive variants in the human gene MARS2 encoding the mitochondrial MetRS cause a syndrome named ARSAL for Autosomal Recessive Spastic Ataxia with Leukoencephalopathy (firstly reported in Bayat et al. 2012). The exhaustive list of disease-causing variants (including location on the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=MARS2).
 
 
 
