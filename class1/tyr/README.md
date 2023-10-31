@@ -51,11 +51,11 @@ Coupled with the lack of cross-reactivity between TyrRS and tRNA$^\text{Tyr}$ be
 
 ## Non-translational functions
 
-
+Human cytoplasmic TyrRS was among the first aminoacyl-tRNA synthetases to be discovered to have non-translational functions when it was found to stimulate angiogenesis (Wakasugi et al., 2002). Since then, many functions of TyrRS as a regulator of cellular stress response and signaling have been discovered. TyrRS translocates to the cell nucleus under cell stress and can protect against DNA damage (Wei et al., 2014) following acetylation at position K244 (Cao et al., 2017). In the cell nucleus, TyrRS can control the expression of genes regulating protein synthesis (Jones et al, 2023). Human TyrRS was also shown to bind the molecule resveratrole, leading to nuclear localization and PARP1 activation (Sajish et al., 2014; Gao et al., 2019). These effects of resveratrol on TyrRS have been associated with neurodegeneration (Jhanji et al., 2022). TyrRS further regulates actin bundling (Ermanoska et al., 2023) and can stimulate platelet production by mimicking inflammatory stress (Morodomi et al., 2022). 
 
 ## Clinical significance
 
-Biallelic recessive variants in the human gene YARS2 encoding the mitochondrial TyrRS cause a phenotype including Myopathy, Lactic Acidosis, Sideroblastic Anaemia 2 (MLASA2) (firstly reported in Riley et al. 2010).
+Biallelic recessive variants in the human gene YARS2 encoding the mitochondrial TyrRS cause a phenotype including Myopathy, Lactic Acidosis, Sideroblastic Anaemia 2 (MLASA2) (firstly reported in Riley et al. 2010). Dominant mutations in YARS1 encoding the cytoplasmic TyrRS are causative for Charcot-Marie-Tooth neuropathy (Jordanova et al., 2006). 
 
 
 
