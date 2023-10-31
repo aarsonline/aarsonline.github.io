@@ -1,3 +1,4 @@
+Taylor, Robert W., et al. "Use of whole-exome sequencing to determine the genetic basis of multiple mitochondrial respiratory chain complex deficiences." JAMA 312.1 (2014): 68-77.
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
