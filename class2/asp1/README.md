@@ -39,4 +39,4 @@ In the special case of AspRS, the first insertion module is considerably more el
 ## Clinical significance
 
 Brain disease LBSL for leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation is caused by
-biallelic recessive variants in the DARS2 gene encoding the human mitochondrial AspRS (Scheper et al. 2007). DARS2 was the first identified mitochondrial AARS disease gene.  
+biallelic recessive variants (homozygous and compound heterozygous) in the DARS2 gene encoding the human mitochondrial AspRS (Scheper et al. 2007). DARS2 was the first identified mitochondrial AARS disease gene. The exhaustive list of disease-causing variants of DARS2 (including location on the sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=DARS2). Mutations have been mapped to all domains of the mt-AspRS. 
