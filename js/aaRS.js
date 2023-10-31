@@ -509,6 +509,12 @@ $("#main").append(`
 		dropdownCol.append("<option value='bySS'>SSE</option>");
 		dropdownCol.append("<option value='ssSuccession'>SSE succession</option>");
 		dropdownCol.append("<option value='confidence'>AlphaFold confidence</option>");
+
+		dropdownCol.append("<option value='aa'>Amino acid</option>");
+		if (DATA.threedi != null){
+			dropdownCol.append("<option value='threedi'>3Di</option>");
+		}
+		
 		$(dropdownCol).val("bySS");
 		$(dropdownCol).on("change", function(){
 			 recolourTertiaries();
@@ -1161,7 +1167,7 @@ function colourSelected(id, defaultFn) {
 	console.log(defaultFn)
 
   // Default colouring
-  if (SELECTED_SITES.lower == -1 && defaultFn != "color.confidence") {
+  if (SELECTED_SITES.lower == -1 && defaultFn != "color.confidence" && defaultFn != "color.aa" && defaultFn != "color.threedi") {
   	let fn = eval(defaultFn);
     return fn();
   }
@@ -1209,6 +1215,8 @@ function colourSelected(id, defaultFn) {
     }
 
 
+
+
     // Colour by confidence
     if (defaultFn == "color.confidence" && SELECTED_SITES.lower == -1){
 
@@ -1242,6 +1250,51 @@ function colourSelected(id, defaultFn) {
     }
 
 
+    // Colour by 3di
+    if ((defaultFn == "color.aa" || defaultFn == "color.threedi") && SELECTED_SITES.lower == -1){
+
+
+    	let seq = defaultFn == "color.aa" ? DATA.alignment[acc] : DATA.threedi[acc];
+    	if (seq == null){
+    		 out[index+0] = 0; out[index+1] = 0;
+      	 out[index+2] = 0; out[index+3] = 0;
+      	 return;
+    	}
+    	let nsites = seq.length;
+    	let resNum = atom.residue().index();
+      let pdbIndex = 0;
+    	for (var siteNum = 0; siteNum < nsites; siteNum++){
+
+	      if (seq[siteNum] == "-"){
+
+	      }else{
+
+	        if (pdbIndex == resNum){
+
+
+
+	          // Colour
+	          let character = seq[siteNum];
+	          let col = defaultFn == "color.aa" ? AA_COLS[character] : _3DI_COLS[character];
+	          //console.log(acc, col, character);
+	          let rgb = hexToRGB(col);
+	          out[index+0] = rgb[0]; out[index+1] = rgb[1];
+      			out[index+2] = rgb[2]; out[index+3] = 1.0;
+
+	          return;
+	        }
+	        pdbIndex++;
+	      }
+
+	    }
+
+	    out[index+0] = 0; out[index+1] = 0;
+    	out[index+2] = 0; out[index+3] = 0;
+    	return;
+
+    }
+
+
     // Colour by selected site
 
 
@@ -1269,6 +1322,8 @@ function colourSelected(id, defaultFn) {
 
 
 
+
+
  
 
     // index + 0, index + 1 etc. are the positions in the output array
@@ -1292,6 +1347,33 @@ function colourSelected(id, defaultFn) {
 
 }
 
+
+function hexToRGB(h) {
+
+	let r = 0, g = 0, b = 0;
+	if (h == null){
+		return [r, g, b];
+	}
+
+  
+
+  if (h.length == 4) {
+    r = "0x" + h[1] + h[1];
+    g = "0x" + h[2] + h[2];
+    b = "0x" + h[3] + h[3];
+    
+  } else if (h.length == 7) {
+    r = "0x" + h[1] + h[2];
+    g = "0x" + h[3] + h[4];
+    b = "0x" + h[5] + h[6];
+  }
+    
+  r = +(r / 255).toFixed(1);
+  g = +(g / 255).toFixed(1);
+  b = +(b / 255).toFixed(1);
+  
+  return [r, g, b]
+}
 
 
 /*
