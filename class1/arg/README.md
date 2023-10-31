@@ -40,9 +40,12 @@ Moreover, in some archaea, ArgRS assembles into a complex with [SerRS](/class2/s
 
 
 ## Non-translational functions
+Human cytoplasmic ArgRS has been found to translocate to the cell nucleus in response to changing levels of its metabolite arginine and to mediate alternative, non-translational functions (Cui et al., 2023). 
 
 
 ## Clinical significance
 
 Biallelic recessive variants in the human gene RARS2 encoding the mitochondrial ArgRS cause the brain disease Pontocerebellar hypoplasia type 6 (PCH6) (firstly described in Edvardson et al. 2007). The exhaustive list of PCH6-related variants of RARS2 (including location on the sequence and on the stucture, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=RARS2).
+
+Homozygous and compound heterozygous variants in human RARS1 encoding the cytoplasmic ArgRS are associated with Hypomyelinating Leukodystrophy, a white matter brain disorder. Mutations have been mapped to all domains of ArgRS, with the most prevalent ones found in the N-terminal leucine zipper (Wolf et al., 2014; Nafisinia et al., 2017; Mendes et al., 2020).   
 
