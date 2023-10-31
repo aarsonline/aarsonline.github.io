@@ -487,7 +487,7 @@ li.tRNA div{
 }
 
 h1#fullName{
-	%text-align:left;
+	text-align:left;
 	%margin-left:0.4em;
 }
 
@@ -755,6 +755,16 @@ div#treeDiv{
   height:100%;
 }
 
+
+@media only screen and ( max-device-width: 800px ) {
+	.dropbtn {
+	  padding: 0.5em;
+	  font-size: 0.8em;
+	  margin-right:0.6em;
+	 }
+}
+
+
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
@@ -975,6 +985,13 @@ div.reaction span{
 	}
 }
 
+
+@media only screen and ( max-device-width: 800px ) {
+	.math {
+		font-size: 0.5em;
+		max-width:100%;
+	}
+}
 
 
 
