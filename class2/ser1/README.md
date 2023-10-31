@@ -38,6 +38,8 @@ Human SerRS has been implied in the regulation of several pathways, including an
 
 ## Clinical significance
 
-Recessive mutations in the human SARS1 gene encoding the cytosolic SerRS cause a neurodevelopmental disorder with microcephaly, ataxia, and seizures (NEDMAS) (Musante et al. 2017). The human mitochondrial SerRS, encoded by gene SARS2, is involved in two main distinct phenotypes, which are both recessive. One is called HUPRA syndrome for hyperuricemia, pulmonary hypertension, renal failure, and alkalosis (Belostotsky et al. 2011), and the other causes spastic tetraparesis without renal involvement (Linnankivi et al. 2016). 
+Recessive mutations in the human SARS1 gene encoding the cytosolic SerRS cause a neurodevelopmental disorder with microcephaly, ataxia, and seizures (NEDMAS) (Musante et al. 2017). 
+
+The human mitochondrial SerRS, encoded by gene SARS2, is involved in two main distinct phenotypes, which are both recessive. One is called HUPRA syndrome for hyperuricemia, pulmonary hypertension, renal failure, and alkalosis (Belostotsky et al. 2011), and the other causes spastic tetraparesis without renal involvement (Linnankivi et al. 2016). The exhaustive list of disease-causing variants of SRAS2 (including location on the sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=SARS2). So far, mutations have been mapped to only the catalytic domain of mt-SerRS. 
 
 
