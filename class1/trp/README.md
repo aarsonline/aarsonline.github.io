@@ -50,7 +50,9 @@ The rat mitochondrial TrpRS (WARS2) was shown to be a determinant for angiogenes
 
 ## Clinical significance
 
-Biallelic recessive variants in the human gene WARS2 encoding the mitochondrial TrpRS cause neurodevelopmental disorder with movement disorders (as early-onset tremor-parkinsonism syndrome) and intellectual disability (firstly described in Musante et al. 2017). One variant of the human gene WARS1 which encodes cytoplasmic TrpRS has been associated with Charcot-Marie-Tooth neuropathy (Tsai et al., 2017). 
+One variant of the human gene WARS1 which encodes the cytosolic TrpRS has been associated with Charcot-Marie-Tooth neuropathy (Tsai et al. 2017). 
+
+Biallelic recessive variants (homozygous and compound heterozygous) in the human gene WARS2 encoding the mitochondrial TrpRS cause neurodevelopmental disorder with movement disorders (as early-onset tremor-parkinsonism syndrome) and intellectual disability (firstly described in Musante et al. 2017). The exhaustive list of disease-causing variants of mt-TrpRS (including location on the sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=WARS2). Mutations have been mapped to all domain of the mt-TrpRS.
 
 
 
