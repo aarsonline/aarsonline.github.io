@@ -35,9 +35,9 @@ The two families belong to subclass IIa, which includes other enzymes such as [P
 
 ## Non-translational functions
 
-
+Human GlyRS interacts with Neuropilin-1 and its increased aberrant interactions upon confirmational opening caused by point mutations has been linked to human diseases (He et al., 2015). GlyRS also interacts with HDAC6 (Mo et al., 2018) and G3BP (Cui et al. 2023), both of which have also been associated with disease progression in Charcot-Marie-Tooth neuropathy. 
 
 ## Clinical significance
 
-GlyRS-E is involved in a wide range of human diseases, including a serine-to-leucine mutation in its anticodon binding domain which impairs mitochondrial metabolism in neurons, associated with motor nerve degeneration (Cader et al. 2007, Boczonadi et al., 2018).
+GlyRS-E is involved in a wide range of human diseases, including a serine-to-leucine mutation in its anticodon binding domain which impairs mitochondrial metabolism in neurons, associated with motor nerve degeneration (Cader et al. 2007, Boczonadi et al., 2018). Dominant variants in human GARS1 encoding cytoplasmic GlyRS are associated with Charcot-Marie-Tooth neuropathy (James et al., 2006; Eskuri et al., 2012; Griffin et al., 2014, and others). Overexpression of the corresponding tRNA can alleviate disease progression in mice (Zuko et al., 2021; Spaulding et al., 2021).  
 
