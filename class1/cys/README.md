@@ -48,7 +48,7 @@ and serine (Fersht et al. 1979, Newberry et al., 2002; Hou and Perona, 2005). In
 
 ## Clinical significance
 
-Biallelic recessive variants in the human gene CARS2 encoding the mitochondrial CysRS cause a phenotype of epileptic encephalopathy (firstly descrived in Hallmann et al., 2014).
+Biallelic recessive variants (homozygous and compound heterozygous) in the human gene CARS2 encoding the mitochondrial CysRS cause a phenotype of epileptic encephalopathy (firstly descrived in Hallmann et al., 2014). The exhaustive list of the disease-related variants (including location on the sequence and structure, the conservation of the affected residues, abd the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=CARS2). Mutations have been mapped to all domains of the mt-CysRS.
 
 
 
