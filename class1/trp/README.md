@@ -41,7 +41,8 @@ The connecting peptide 1 (CP1) domains in TrpRS and TyrRS occur in their simples
 ## Non-translational functions
 
 Some eukaryotes contain an additional domain upstream of the ESE.
-In humans, TrpRS contains the WHEP domain, which plays a role in the primary defense system against infection (Ahn et al. 2017).
+In humans, TrpRS contains the WHEP domain, which plays a role in the primary defense system against infection (Ahn et al. 2017). Human TrpRS is strongly upregulated upon IFN-gamma stimulation and can mediate high affinity tryptophan uptake (Miyanokoshi et al., 2018; Yokosawa et al., 2020). Human TrpRS can also form a complex with DNA-dependent protein kinase and PARP-1, which links IFN-gamma and p53 signaling (Sajish et al., 2012). 
+
 In certain parasites, TrpRS possesses an N-terminal domain homologous to the editing domain of [ThrRS](/class2/thr) and [AlaRS](/class2/ala) (Merritt et al. 2011).
 
 The rat mitochondrial TrpRS (WARS2) was shown to be a determinant for angiogenesis (Wang et al. 2016)
@@ -49,7 +50,7 @@ The rat mitochondrial TrpRS (WARS2) was shown to be a determinant for angiogenes
 
 ## Clinical significance
 
-Biallelic recessive variants in the human gene WARS2 encoding the mitochondrial TrpRS cause neurodevelopmental disorder with movement disorders (as early-onset tremor-parkinsonism syndrome) and intellectual disability (firstly described in Musante et al. 2017).
+Biallelic recessive variants in the human gene WARS2 encoding the mitochondrial TrpRS cause neurodevelopmental disorder with movement disorders (as early-onset tremor-parkinsonism syndrome) and intellectual disability (firstly described in Musante et al. 2017). One variant of the human gene WARS1 which encodes cytoplasmic TrpRS has been associated with Charcot-Marie-Tooth neuropathy (Tsai et al., 2017). 
 
 
 
