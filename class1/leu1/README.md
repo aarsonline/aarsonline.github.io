@@ -50,7 +50,7 @@ Thus, the domain appears to have hopped between the two positions, or may have o
 
 ## Clinical significance
 
-Biallelic recessive variants in the human gene LARS2 encoding the mitochondrial leuRS cause the Perrault syndrome (firstly reported in Pierce et al. 2013).
+Biallelic recessive (homozygous and compound heterozygous) variants in the human gene LARS2 encoding the mitochondrial leuRS cause the Perrault syndrome (firstly reported in Pierce et al. 2013). The exhaustive list of disease-causing variants (including location on the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=LARS2). Mutations have been mapped to all domains of the mt-LeuRS except the C-terminal tRNA-edge binding domain.
 
 
 
