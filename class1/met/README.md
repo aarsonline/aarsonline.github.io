@@ -40,7 +40,7 @@ Thermophilic archaea can adapt to lower temperatures by misacylating tRNA$^\text
 
 
 ## Clinical significance
-Mutations in the human gene MARS1 encoding the cytoplasmic MetRS have been implied as disease-causing in Charcot-Marie-Tooth neuropathy (Gonzales et al., 2013; Hyun et al., 2014; Rips et al., 2018; Wei et al., 2019). However, incomplete penetrance has not been reported for certain MARS1 mutations (Gonzales et al., 2013; Wei et al., 2019). 
+Mutations in the human gene MARS1 encoding the cytosolic MetRS have been implied as disease-causing in Charcot-Marie-Tooth neuropathy (Gonzales et al., 2013; Hyun et al., 2014; Rips et al., 2018; Wei et al., 2019). However, incomplete penetrance has not been reported for certain MARS1 mutations (Gonzales et al., 2013; Wei et al., 2019). 
 
 Biallelic recessive variants in the human gene MARS2 encoding the mitochondrial MetRS cause a syndrome named ARSAL for Autosomal Recessive Spastic Ataxia with Leukoencephalopathy (firstly reported in Bayat et al. 2012). The exhaustive list of disease-causing variants (including location on the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=MARS2).
 
