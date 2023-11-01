@@ -64,3 +64,11 @@ Wolf, Yuri I., et al. "Evolution of aminoacyl-tRNA synthetases—analysis of uni
 
 Hadd, Andrew, and John J. Perona. "Coevolution of specificity determinants in eukaryotic glutamyl-and glutaminyl-tRNA synthetases." Journal of molecular biology 426.21 (2014): 3619-3633.
 
+Wei, Na, Qian Zhang, and Xiang-Lei Yang. "Neurodegenerative Charcot–Marie–Tooth disease as a case study to decipher novel functions of aminoacyl-tRNA synthetases." Journal of Biological Chemistry 294.14 (2019): 5321-5339.
+
+Gonzalez, Michael, et al. "Exome sequencing identifies a significant variant in methionyl-tRNA synthetase (MARS) in a family with late-onset CMT2." Journal of Neurology, Neurosurgery & Psychiatry 84.11 (2013): 1247-1249.
+
+Hyun, Y. S., et al. "Rare variants in methionyl‐and tyrosyl‐tRNA synthetase genes in late‐onset autosomal dominant Charcot–Marie–Tooth neuropathy." Clinical genetics 86.6 (2014): 592-594.
+
+Rips, Jonathan, et al. "MARS variant associated with both recessive interstitial lung and liver disease and dominant Charcot-Marie-Tooth disease." European journal of medical genetics 61.10 (2018): 616-620.
+
