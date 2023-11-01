@@ -64,3 +64,11 @@ Pham, Yen, et al. "Tryptophanyl-tRNA synthetase Urzyme: a model to recapitulate 
 
 Onodera, Kazaha, et al. "Amino acid activation analysis of primitive aminoacyl-tRNA synthetases encoded by both strands of a single gene using the malachite green assay." BioSystems 208 (2021): 104481.
 
+Tsai, Pei-Chien, et al. "A recurrent WARS mutation is a novel cause of autosomal dominant distal hereditary motor neuropathy." Brain 140.5 (2017): 1252-1266.
+
+Miyanokoshi, Miki, Takumi Yokosawa, and Keisuke Wakasugi. "Tryptophanyl-tRNA synthetase mediates high-affinity tryptophan uptake into human cells." Journal of Biological Chemistry 293.22 (2018): 8428-8438.
+
+Yokosawa, Takumi, Aomi Sato, and Keisuke Wakasugi. "Tryptophan Depletion Modulates Tryptophanyl-tRNA Synthetase-Mediated High-Affinity Tryptophan Uptake into Human Cells." Genes 11.12 (2020): 1423.
+
+Sajish, Mathew, et al. "Trp-tRNA synthetase bridges DNA-PKcs to PARP-1 to link IFN-γ and p53 signaling." Nature chemical biology 8.6 (2012): 547-554.
+
