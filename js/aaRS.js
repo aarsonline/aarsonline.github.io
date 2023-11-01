@@ -2225,8 +2225,8 @@ function renderAlignment(divID, datatype = 0, downloadHref = ""){
 
 	// Number of sequences
   var alignment = datatype == 1 ? DATA.secondary : datatype == 2 ? DATA.threedi : DATA.alignment;
-  if (alignment == null) return;
   var accessions = DATA.accessions;
+  if (alignment == null ||  alignment[accessions[0]] == null) return;
   var nseq = accessions.length;
   var nsites = alignment[accessions[0]].length;
 
