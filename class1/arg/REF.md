@@ -41,3 +41,12 @@ Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 2
 
 
 Godinic-Mikulcic, Vlatka, et al. "An archaeal tRNA-synthetase complex that enhances aminoacylation under extreme conditions." Journal of Biological Chemistry 286.5 (2011): 3396-3404.
+
+
+Mendes, Marisa I., et al. "RARS1‐related hypomyelinating leukodystrophy: Expanding the spectrum." Annals of clinical and translational neurology 7.1 (2020): 83-93.
+
+Nafisinia, Michael, et al. "Mutations in RARS cause a hypomyelination disorder akin to Pelizaeus–Merzbacher disease." European Journal of Human Genetics 25.10 (2017): 1134-1141.
+
+Wolf, Nicole I., et al. "Mutations in RARS cause hypomyelination." Annals of neurology 76.1 (2014): 134-139.
+
+Cui, Haissi, et al. "Arg-tRNA synthetase links inflammatory metabolism to RNA splicing and nuclear trafficking via SRRM2." Nature cell biology 25.4 (2023): 592-603.
