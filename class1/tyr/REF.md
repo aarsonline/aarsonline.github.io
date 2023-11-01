@@ -57,3 +57,21 @@ Aravind, L., and Eugene V. Koonin. "Novel predicted RNA-binding domains associat
 
 Yaremchuk, Anna, et al. "Class I tyrosyl-tRNA synthetase has a class II mode of cognate tRNA recognition." The EMBO Journal 21.14 (2002): 3829-3840.
 
+Jordanova, Albena, et al. "Disrupted function and axonal distribution of mutant tyrosyl-tRNA synthetase in dominant intermediate Charcot-Marie-Tooth neuropathy." Nature genetics 38.2 (2006): 197-202.
+
+Wakasugi, Keisuke, et al. "A human aminoacyl-tRNA synthetase as a regulator of angiogenesis." Proceedings of the National Academy of Sciences 99.1 (2002): 173-177.
+
+Wei, Na, et al. "Oxidative stress diverts tRNA synthetase to nucleus for protection against DNA damage." Molecular cell 56.2 (2014): 323-332.
+
+Cao, Xuanye, et al. "Acetylation promotes TyrRS nuclear translocation to prevent oxidative damage." Proceedings of the National Academy of Sciences 114.4 (2017): 687-692.
+
+Jones, Julia A., et al. "Nuclear translocation of an aminoacyl-tRNA synthetase may mediate a chronic “integrated stress response”." Cell Reports 42.6 (2023).
+
+Sajish, Mathew, and Paul Schimmel. "A human tRNA synthetase is a potent PARP1-activating effector target for resveratrol." Nature 519.7543 (2015): 370-373.
+
+Jhanji, Megha, et al. "Cis-and trans-resveratrol have opposite effects on histone serine-ADP-ribosylation and tyrosine induced neurodegeneration." Nature Communications 13.1 (2022): 3244.
+
+Ermanoska, Biljana, et al. "Tyrosyl-tRNA synthetase has a noncanonical function in actin bundling." Nature communications 14.1 (2023): 999.
+
+Morodomi, Yosuke, et al. "Inflammatory platelet production stimulated by tyrosyl-tRNA synthetase mimicking viral infection." Proceedings of the National Academy of Sciences 119.48 (2022): e2212659119.
+
