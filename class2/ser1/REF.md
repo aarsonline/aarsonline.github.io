@@ -57,3 +57,11 @@ Picchioni, Daria, et al. "Mitochondrial protein synthesis and mtDNA levels coord
 
 
 Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+
+Shi, Yi, et al. "tRNA synthetase counteracts c-Myc to develop functional vasculature." Elife 3 (2014): e02349.
+
+Xu, Xiaoling, et al. "Unique domain appended to vertebrate tRNA synthetase is essential for vascular development." Nature communications 3.1 (2012): 681.
+
+Zhao, Jin, et al. "Glucose-sensitive acetylation of Seryl tRNA synthetase regulates lipid synthesis in breast cancer." Signal Transduction and Targeted Therapy 6.1 (2021): 303.
+
+Liu, Ze, et al. "Seryl-tRNA synthetase promotes translational readthrough by mRNA binding and involvement of the selenocysteine incorporation machinery." Nucleic Acids Research 51.19 (2023): 10768-10781.
