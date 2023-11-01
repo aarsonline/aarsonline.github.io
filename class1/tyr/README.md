@@ -9,7 +9,7 @@ $ \text{Tyr} + \text{tRNA}^\text{Tyr} + \text{ATP} \xrightarrow{\text{TyrRS}} \t
 
 
 
-TyrRS is expressed by all living organisms and is one of several aminoacyl-tRNA synthetases expressed by the mimiviruses (Abergel et al. 2007).
+TyrRS is expressed by all living organisms and is one of several aminoacyl-tRNA synthetases that have been collected by giant viruses (Abergel et al. 2007).
 
 
 
@@ -46,12 +46,12 @@ However in some parasites, TyrRS exists as a double length duplicated enzyme whi
 ## Editing
 
 Editing activity has not been detected for TyrRS, which remains one of the more promiscuous AARS with respect to amino acid recognition (Bedouelle 2005).
-Coupled with the lack of cross-reactivity between TyrRS and tRNA$^\text{Tyr}$ between bacteria and archaea, this property has made TyrRS a favorable target for engineering unnatural amino acids into the genetic code (Kobayashi et al. 2003).
+Coupled with the lack of cross-reactivity between TyrRS and tRNA$^\text{Tyr}$ between bacteria and archaea, TyrRS has become a favorable target for engineering unnatural amino acids into the genetic code (Kobayashi et al. 2003).
 
 
 ## Non-translational functions
 
-Human cytoplasmic TyrRS was among the first aminoacyl-tRNA synthetases to be discovered to have non-translational functions when it was found to stimulate angiogenesis (Wakasugi et al., 2002). Since then, many functions of TyrRS as a regulator of cellular stress response and signaling have been discovered. TyrRS translocates to the cell nucleus under cell stress and can protect against DNA damage (Wei et al., 2014) following acetylation at position K244 (Cao et al., 2017). In the cell nucleus, TyrRS can control the expression of genes regulating protein synthesis (Jones et al, 2023). Human TyrRS was also shown to bind the molecule resveratrole, leading to nuclear localization and PARP1 activation (Sajish et al., 2014; Gao et al., 2019). These effects of resveratrol on TyrRS have been associated with neurodegeneration (Jhanji et al., 2022). TyrRS further regulates actin bundling (Ermanoska et al., 2023) and can stimulate platelet production by mimicking inflammatory stress (Morodomi et al., 2022). 
+Human cytosolic TyrRS was among the first aminoacyl-tRNA synthetases to be discovered to have non-translational functions when it was found to stimulate angiogenesis (Wakasugi et al., 2002). Since then, many functions of TyrRS as a regulator of cellular stress response and signaling have been discovered. TyrRS translocates to the cell nucleus under cell stress and can protect against DNA damage (Wei et al., 2014) following acetylation at position K244 (Cao et al., 2017). In the cell nucleus, TyrRS can control the expression of genes regulating protein synthesis (Jones et al, 2023). Human TyrRS was also shown to bind the molecule resveratrole, leading to nuclear localization and PARP1 activation (Sajish et al., 2014; Gao et al., 2019). These effects of resveratrol on TyrRS have been associated with neurodegeneration (Jhanji et al., 2022). TyrRS further regulates actin bundling (Ermanoska et al., 2023) and can stimulate platelet production by mimicking inflammatory stress (Morodomi et al., 2022). 
 
 ## Clinical significance
 

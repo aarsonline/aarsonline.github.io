@@ -16,7 +16,7 @@ Daniel Y. Dubois, Jacques Lapointe and Shun-ichi Sekine. "The Aminoacyl-tRNA Syn
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
 
-
+Echevarria, Lucia, et al. "Glutamyl-tRNAGln amidotransferase is essential for mammalian mitochondrial translation in vivo." Biochemical Journal 460.1 (2014): 91-101.
 
 de Pouplana, Lluıs Ribas, and Paul Schimmel. "Operational RNA code for amino acids in relation to genetic code in evolution." Journal of Biological Chemistry 276.10 (2001): 6881-6884.
 
@@ -24,7 +24,7 @@ de Pouplana, Lluıs Ribas, and Paul Schimmel. "Operational RNA code for amino ac
 
 Raczniak, Gregory, et al. "A single amidotransferase forms asparaginyl-tRNA and glutaminyl-tRNA in Chlamydia trachomatis." Journal of Biological Chemistry 276.49 (2001): 45862-45867.
 
-
+Nagao, Asuteka, et al. "Biogenesis of glutaminyl-mt tRNAGln in human mitochondria." Proceedings of the National Academy of Sciences 106.38 (2009): 16209-16214.
 
 
 Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.

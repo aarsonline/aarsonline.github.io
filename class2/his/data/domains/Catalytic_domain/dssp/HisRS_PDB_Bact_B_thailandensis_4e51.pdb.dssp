@@ -1,12 +1,12 @@
-==== Secondary Structure Definition by the program DSSP, CMBI version 2.0                          ==== DATE=2023-06-28        .
+==== Secondary Structure Definition by the program DSSP, CMBI version 2.0                          ==== DATE=2023-11-01        .
 REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
 HEADER    LIGASE                                  13-MAR-12   4E51                                                             .
 COMPND    MOL_ID: 1; MOLECULE: HISTIDINE--TRNA LIGASE; CHAIN: A, B; SYNONYM: HIS                                               .
 SOURCE    MOL_ID: 1; ORGANISM_SCIENTIFIC: BURKHOLDERIA THAILANDENSIS; ORGANISM_T                                               .
 AUTHOR    SEATTLE STRUCTURAL GENOMICS CENTER FOR INFECTIOUS DISEASE (SSGCID)                                                   .
-  300  4  0  0  0 TOTAL NUMBER OF RESIDUES, NUMBER OF CHAINS, NUMBER OF SS-BRIDGES(TOTAL,INTRACHAIN,INTERCHAIN)                .
- 14349.8   ACCESSIBLE SURFACE OF PROTEIN (ANGSTROM**2)                                                                         .
-  218 72.7   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(J)  , SAME NUMBER PER 100 RESIDUES                              .
+  299  4  0  0  0 TOTAL NUMBER OF RESIDUES, NUMBER OF CHAINS, NUMBER OF SS-BRIDGES(TOTAL,INTRACHAIN,INTERCHAIN)                .
+ 14306.3   ACCESSIBLE SURFACE OF PROTEIN (ANGSTROM**2)                                                                         .
+  217 72.6   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(J)  , SAME NUMBER PER 100 RESIDUES                              .
     7  2.3   TOTAL NUMBER OF HYDROGEN BONDS IN     PARALLEL BRIDGES, SAME NUMBER PER 100 RESIDUES                              .
    47 15.7   TOTAL NUMBER OF HYDROGEN BONDS IN ANTIPARALLEL BRIDGES, SAME NUMBER PER 100 RESIDUES                              .
     1  0.3   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I-5), SAME NUMBER PER 100 RESIDUES                              .
@@ -18,10 +18,10 @@ AUTHOR    SEATTLE STRUCTURAL GENOMICS CENTER FOR INFECTIOUS DISEASE (SSGCID)    
     0  0.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+1), SAME NUMBER PER 100 RESIDUES                              .
    13  4.3   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+2), SAME NUMBER PER 100 RESIDUES                              .
    36 12.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+3), SAME NUMBER PER 100 RESIDUES                              .
-  100 33.3   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+4), SAME NUMBER PER 100 RESIDUES                              .
+   99 33.1   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+4), SAME NUMBER PER 100 RESIDUES                              .
     8  2.7   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+5), SAME NUMBER PER 100 RESIDUES                              .
   1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30     *** HISTOGRAMS OF ***           .
-  1  0  0  1  2  0  2  0  0  2  0  0  0  0  0  2  1  0  0  1  0  0  0  0  0  0  0  0  0  0    RESIDUES PER ALPHA HELIX         .
+  1  0  0  1  2  0  2  0  1  1  0  0  0  0  0  2  1  0  0  1  0  0  0  0  0  0  0  0  0  0    RESIDUES PER ALPHA HELIX         .
   0  1  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0    PARALLEL BRIDGES PER LADDER      .
   0  0  2  0  2  0  2  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0    ANTIPARALLEL BRIDGES PER LADDER  .
   0  1  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0    LADDERS PER SHEET                .
@@ -97,7 +97,7 @@ AUTHOR    SEATTLE STRUCTURAL GENOMICS CENTER FOR INFECTIOUS DISEASE (SSGCID)    
    69   88 A R        -     0   0   13    -37,-2.7    31,-2.2    -2,-0.5     3,-0.1  -0.206  35.7-172.2 -54.2 129.0   16.1    6.2   51.6               
    70   89 A P  S    S+     0   0    0      0, 0.0     2,-0.3     0, 0.0    -1,-0.2   0.411  77.3   1.1 -91.4  -0.0   15.9    2.4   51.6               
    71   90 A E        -     0   0    0     27,-0.1     4,-0.1    42,-0.0    29,-0.1  -0.916  64.6-132.6 179.9 162.2   12.3    2.6   52.5               
-   72   91 A N  S  > S+     0   0    2     -2,-0.3     4,-2.0   231,-0.2     5,-0.2   0.586  79.4  85.3-121.9 -11.6    9.6    5.2   53.2               
+   72   91 A N  S  > S+     0   0    2     -2,-0.3     4,-2.0   230,-0.2     5,-0.2   0.586  79.4  85.3-121.9 -11.6    9.6    5.2   53.2               
    73   92 A T  H  > S+     0   0    0      1,-0.2     4,-2.5     2,-0.2     5,-0.2   0.919  94.6  45.8 -59.0 -46.3    7.7    4.3   56.4               
    74   93 A A  H  > S+     0   0    0      1,-0.2     4,-2.5     2,-0.2    -1,-0.2   0.869 111.8  52.0 -66.2 -36.1   10.2    6.0   58.8               
    75   94 A A  H  > S+     0   0    0      2,-0.2     4,-2.4     1,-0.2    -1,-0.2   0.850 108.5  51.2 -68.4 -33.6   10.4    9.1   56.7               
@@ -168,7 +168,7 @@ AUTHOR    SEATTLE STRUCTURAL GENOMICS CENTER FOR INFECTIOUS DISEASE (SSGCID)    
   140  161 A D  H 3<5S+     0   0   77     -4,-3.0    -1,-0.2     1,-0.2    -2,-0.2   0.799 114.2  47.9 -58.0 -33.4   -7.7   -4.0   38.6               
   141  162 A L  H 3<5S-     0   0   12     -4,-2.2    -1,-0.2    -5,-0.2    -2,-0.2   0.690 112.8-118.7 -82.9 -17.6   -4.4   -5.0   37.1               
   142  163 A G  T <<5 +     0   0   56     -4,-1.3     2,-0.2    -3,-0.6    -3,-0.2   0.331  64.4 143.1  95.3  -4.5   -5.7   -8.4   35.9               
-  143  164 A L      < -     0   0   13     -5,-1.3    -1,-0.3    -6,-0.3     2,-0.3  -0.483  25.1-177.1 -75.6 136.9   -3.3  -10.5   38.0               
+  143  164 A L      < -     0   0   24     -5,-1.3    -1,-0.3    -6,-0.3     2,-0.3  -0.483  25.1-177.1 -75.6 136.9   -3.3  -10.5   38.0               
   144  165 A T        +     0   0  131     -2,-0.2     3,-0.1     1,-0.2    -1,-0.0  -0.798  55.8  46.0-127.2 167.1   -4.5  -13.7   39.5               
   145  166 A G        +     0   0   41     -2,-0.3   114,-0.8     1,-0.3     2,-0.5   0.864  67.8 136.8  63.2  36.8   -2.9  -16.2   41.8               
   146  167 A I  E     -D  258   0A  20     -3,-0.2     2,-0.4   112,-0.2    -1,-0.3  -0.959  39.4-157.8-106.5 133.3   -1.4  -13.8   44.2               
@@ -321,11 +321,10 @@ AUTHOR    SEATTLE STRUCTURAL GENOMICS CENTER FOR INFECTIOUS DISEASE (SSGCID)    
   293  317 A R  H  > S+     0   0   47     -3,-0.2     4,-1.8     2,-0.2    -1,-0.3   0.906 111.2  47.1 -67.1 -39.6    8.5   -7.1   40.5               
   294  318 A I  H  X S+     0   0    0     -4,-1.6     4,-2.1    -3,-0.2    -2,-0.2   0.890 109.8  54.5 -67.6 -36.2    4.8   -6.4   39.7               
   295  319 A L  H  X S+     0   0    4     -4,-2.9     4,-2.0     2,-0.2    -2,-0.2   0.949 104.8  52.8 -62.0 -46.2    5.8   -5.1   36.2               
-  296  320 A E  H  X S+     0   0   94     -4,-2.3     4,-3.0     1,-0.2     5,-0.2   0.932 108.2  52.2 -56.4 -41.3    7.6   -8.4   35.5               
-  297  321 A L  H  X S+     0   0   25     -4,-1.8     4,-2.7     1,-0.2    -1,-0.2   0.901 105.5  53.1 -58.5 -43.1    4.4  -10.2   36.5               
-  298  322 A L  H  < S+     0   0   33     -4,-2.1    -1,-0.2     2,-0.2    -2,-0.2   0.874 112.6  45.8 -63.2 -36.3    2.4   -8.1   34.0               
-  299  323 A K  H  < S+     0   0  110     -4,-2.0    -2,-0.2     2,-0.2    -1,-0.2   0.971 111.9  49.6 -67.7 -54.6    4.8   -9.1   31.3               
-  300  324 A E  H  <        0   0   90     -4,-3.0    -2,-0.2     1,-0.3    -3,-0.2   0.902 360.0 360.0 -49.2 -43.9    4.9  -12.8   32.2               
-  301  325 A E     <        0   0  106     -4,-2.7    -1,-0.3    -5,-0.2    -2,-0.2   0.322 360.0 360.0 -91.6 360.0    1.1  -12.9   32.2               
-  302        !              0   0    0      0, 0.0     0, 0.0     0, 0.0     0, 0.0   0.000 360.0 360.0 360.0 360.0    0.0    0.0    0.0
-  303  501 A H              0   0   10    -36,-0.1  -231,-0.2  -188,-0.1  -230,-0.1   0.000 360.0 360.0 360.0 360.0    8.2   -1.4   54.4               
+  296  320 A E  H  X S+     0   0   94     -4,-2.3     4,-3.0     1,-0.2    -1,-0.2   0.932 108.2  52.2 -56.4 -41.3    7.6   -8.4   35.5               
+  297  321 A L  H  < S+     0   0   34     -4,-1.8    -1,-0.2     1,-0.2    -2,-0.2   0.901 105.5  53.1 -58.5 -43.1    4.4  -10.2   36.5               
+  298  322 A L  H  < S+     0   0   46     -4,-2.1    -1,-0.2     2,-0.2    -2,-0.2   0.874 112.6  45.8 -63.2 -36.3    2.4   -8.1   34.0               
+  299  323 A K  H  <        0   0  113     -4,-2.0    -2,-0.2     1,-0.2    -1,-0.2   0.971 360.0 360.0 -67.7 -54.6    4.8   -9.1   31.3               
+  300  324 A E     <        0   0  118     -4,-3.0    -2,-0.2    -5,-0.2    -3,-0.2   0.902 360.0 360.0 -49.2 360.0    4.9  -12.8   32.2               
+  301        !              0   0    0      0, 0.0     0, 0.0     0, 0.0     0, 0.0   0.000 360.0 360.0 360.0 360.0    0.0    0.0    0.0
+  302  501 A H              0   0   10    -15,-0.1  -230,-0.2  -187,-0.0  -229,-0.1   0.000 360.0 360.0 360.0 360.0    8.2   -1.4   54.4               

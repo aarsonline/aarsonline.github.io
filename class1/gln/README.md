@@ -43,3 +43,9 @@ It may also contribute to the enzyme's ability to discriminate against tRNA$^\te
 
 
 ## Clinical significance
+
+
+
+There is no mitochondrial GlnRS in humans. Instead mitochondrial Gln-tRNA$^\text{Gln}$ is produced through the non-discriminating GlxRS, coupled with a transmidation pathway (Echevarria et al. 2014, Nagao et al. 2009).
+
+

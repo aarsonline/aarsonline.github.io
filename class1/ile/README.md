@@ -13,9 +13,9 @@ IleRS features a N-terminal catalytic domain, C-terminal tRNA binding domains, a
 
 ## Structure
 
-IleRS is closely related to the [LeuRS-A](/class1/leu2), [LeuRS-B](/class1/leu1), [ValRS](/class1/val), and [MetRS](/class1/met) families, which comprise 
+IleRS is closely related to the [LeuRS-A](/class1/leu2), [LeuRS-B](/class1/leu1), [ValRS](/class1/val), [MetRS](/class1/met), and [CysRS](/class1/cys) families, which comprise 
 subclass Ia (Perona and Hadd 2012, Gomez and Ibba, 2020).
-Members of subclass Ia are characterized by their hydrophobic amino acid substrates, as well as the connecting peptide 2 (CP2) and zinc finger (ZF) insertions, depicted below. 
+Most members of subclass Ia are characterized by their hydrophobic amino acid substrates, as well as the connecting peptide 2 (CP2) and zinc finger (ZF) insertions, depicted below. 
 CP2 is a 30-40 amino acid two-helix bundle on the surface of the catalytic domain (Starzyk et al. 1987) and appears to be essential for amino acid activation (Zhou at al. 2008). 
 Upstream from this resides a cysteine-rich zinc finger, 20-40 amino acids in length, also essential for effective aminoacylation (Nureki et al. 1993, Sugiura et al. 2000). 
 IleRS, ValRS, and the bacterial-like LeuRS-B are further characterized by connecting peptide 3 (CP3), which contains a second zinc-finger motif in certain organisms (Fukunaga et al. 2005).
@@ -28,9 +28,7 @@ The domain is universal across the members of subclass Ia, as well as [CysRS](/c
 However, the remaining C-terminal regions vary between the two types.
 The first type, IleRS-1, is found in certain bacteria, organelles, and eukaryotic cytosols.
 It possesses a [C-terminal junction domain](/superfamily/class1/C-terminal_junction_domain) and a zinc finger downstream from the helical bundle.
-Together with an N-terminal extension, the three C-terminal domains recognise the anticodon loop (Silvian et al. 1999).  
-The second type, IleRS-2, is found in many archaea, bacteria, and eukaryotic cytosols. 
-It lacks the N-terminal extension and zinc finger motif (Brkic et al. 2023), and achieves anticodon loop recognition through a much larger variation of the C-terminal junction domain.
+Together with an N-terminal extension, the three C-terminal domains recognise the anticodon loop (Silvian et al. 1999).  The second type, IleRS-2, is found in many archaea, bacteria, and eukaryotic cytosols. It lacks the N-terminal extension and zinc finger motif (Brkic et al. 2023), and achieves anticodon loop recognition through a much larger variation of the C-terminal junction domain.
 
 
 
@@ -48,11 +46,11 @@ such alanine, cysteine, threonine, valine, isoleucine, methionine, homocysteine,
 ## Clinical significance
 
 
-Certain bacteria, such as *Staphylococcus aureus*, have an abnormal GxHH sequence profile in place of the standard HxGH motif in IleRS-2, promoting antibiotic resistance (Brkic et al. 2023).
 
 Biallelic recessive (homozygous and compound heterozygous) variants in the human gene IARS2 encoding the mitochondrial IleRS cause Leigh syndrome or a phenotype including cataracts, growth hormone deficiency with short stature, partial sensorineural deafness, and peripheral neuropathy (firstly reported in Schwartzentruber et al. 2014). The exhaustive list of disease-related variants (including location on the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=IARS2). Mutations have been mapped to all domains of the mt-IleRS, except to the terminal mitochondrial targeting sequence (MTS).
 
 
+Certain bacteria, such as *Staphylococcus aureus*, have an abnormal GxHH sequence profile in place of the standard HxGH motif in IleRS-2, promoting antibiotic resistance (Brkic et al. 2023).
 
 
 

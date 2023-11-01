@@ -19,6 +19,9 @@ The three types of ProRS belong to subclass IIa, which includes other enzymes su
 
 
 
+In most animals, including humans, prolyl-tRNA is produced by a fusion protien glutamyl-prolyl tRNA synthetase (EPRS) (Berthonneau et al. 2000). 
+EPRS contains the catalytic domains from both [GluRS-E](/class1/glu3/) and ProRS-A, as well as the ProRS-A zinc binding domain, and the GluRS GST domain. 
+Glutamic acid is a metabolic precursor for proline, which suggests a possible explanation for the origin of this protein (Eswarappa et al. 2018). 
 
 
 

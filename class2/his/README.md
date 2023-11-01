@@ -18,7 +18,7 @@ The catalytic domain is characterized by the ~100 residue HisRS insertion module
 The module recognises the acceptor stem and undergoes vast conformational changes upon tRNA binding (Tian et al. 2015).
 
 
-In eukaryotes, HisRS is one of the few aminoacyl-tRNA synthetases that operate in both the cytoplasm as well as the mitochondria, alongside [AlaRS](/class2/ala/),  [GlyRS](/class2/gly3/), and  [ValRS](/class1/val/). Localisation into these compartments is achieved through alternative initiation, which governs the expression of an N-terminal mitochondrial localisation signal (Natsoulis et al. 1986, Chiu et al. 1992).
+In eukaryotes, HisRS is one of the few aminoacyl-tRNA synthetases that operate in both the cytosol as well as the mitochondria, alongside [AlaRS](/class2/ala/),  [GlyRS](/class2/gly3/), and  [ValRS](/class1/val/). Localisation into these compartments is achieved through alternative initiation, which governs the expression of an N-terminal mitochondrial localisation signal (Natsoulis et al. 1986, Chiu et al. 1992).
 
 
 
@@ -27,7 +27,7 @@ In eukaryotes, HisRS is one of the few aminoacyl-tRNA synthetases that operate i
 ## Editing
 
 
-HisRS does not have editing activity (Gomez et al. 2020).
+
 
 
 ## Non-translational functions

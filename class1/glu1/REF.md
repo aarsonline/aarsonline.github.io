@@ -18,7 +18,7 @@ Daniel Y. Dubois, Jacques Lapointe and Shun-ichi Sekine. "The Aminoacyl-tRNA Syn
 Raczniak, Gregory, et al. "A single amidotransferase forms asparaginyl-tRNA and glutaminyl-tRNA in Chlamydia trachomatis." Journal of Biological Chemistry 276.49 (2001): 45862-45867.
 
 
-
+Echevarria, Lucia, et al. "Glutamyl-tRNAGln amidotransferase is essential for mammalian mitochondrial translation in vivo." Biochemical Journal 460.1 (2014): 91-101.
 
 Lapointe JA, Duplain LO, Proulx MA. A single glutamyl-tRNA synthetase aminoacylates tRNAGlu and tRNAGln in Bacillus subtilis and efficiently misacylates Escherichia coli tRNAGln1 in vitro. Journal of Bacteriology. 1986 Jan;165(1):88-93.
 
@@ -26,7 +26,7 @@ Lapointe JA, Duplain LO, Proulx MA. A single glutamyl-tRNA synthetase aminoacyla
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
-
+Nagao, Asuteka, et al. "Biogenesis of glutaminyl-mt tRNAGln in human mitochondria." Proceedings of the National Academy of Sciences 106.38 (2009): 16209-16214.
 
 Hadd, Andrew, and John J. Perona. "Coevolution of specificity determinants in eukaryotic glutamyl-and glutaminyl-tRNA synthetases." Journal of molecular biology 426.21 (2014): 3619-3633.
 

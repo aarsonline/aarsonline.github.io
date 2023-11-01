@@ -51,4 +51,7 @@ Editing in LysRS-II occurs at the pre-transfer level, without the need for a ded
 ## Clinical significance
 
 
+There is no specialized mitochondrial LysRS in humans. KARS encodes isoforms that are localized to either compartment.  
+
+
 

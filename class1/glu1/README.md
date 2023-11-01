@@ -66,3 +66,8 @@ The members of subclass Ib, alongside LysRS-I and [ArgRS](/class1/arg/), require
 
 
 ## Clinical significance
+
+
+
+In the human mitochondria, Gln-tRNA$^\text{Gln}$ is produced through the non-discriminating GlxRS coupled with a transmidation pathway (Echevarria et al. 2014, Nagao et al. 2009).
+

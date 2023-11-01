@@ -10,7 +10,7 @@ $ \text{Met} + \text{tRNA}^\text{Met} + \text{ATP} \xrightarrow{\text{MetRS}} \t
 
 
 MetRS is closely related to the [LeuRS-A](/class1/leu2), [LeuRS-B](/class1/leu1), [ValRS](/class1/val), and [IleRS](/class1/ile) families, which comprise subclass Ia (Gomez and Ibba, 2020).
-Members of subclass Ia are characterized by their hydrophobic amino acid substrates, the connecting peptide 2 (CP2) insertion, and a zinc finger (ZF, Sugiura et al. 2001), depicted below. 
+Members of subclass Ia are characterized by their hydrophobic amino acid substrates, the connecting peptide 2 (CP2) insertion, and a zinc finger (Sugiura et al. 2001), depicted below. 
 The CP2 module is 30-40 amino acids in length (Starzyk et al. 1987) and exists as two antiparallel $\alpha$-helices on the surface of the catalytic domain. 
 It appears to be essential for amino acid activation (Zhou et al. 2008).
 MetRS is also one of several aminoacyl-tRNA synthetases expressed by mimiviruses (Abergel et al. 2007).

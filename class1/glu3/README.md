@@ -20,8 +20,8 @@ It is found in many eukaryotic cytosols, and is characterized by an N-terminal g
 Chung et al. 2022 identified four potential regions of the *Gallus Gallus* GluRS-E which may offer selectivity against tRNA$^\text{Gln}$.
 
 
-A fused glutamyl-prolyl tRNA synthetase (EPRS) also exists in most animals (Berthonneau et al. 2000). 
-EPRS contains the catalytic domains from both GluRS-E and [ProRS-A](/class2/pro1/), as well as the ProRS-A zinc binding domain. 
+In most animals, including humans, glutamyl-tRNA is produced by a fusion protien glutamyl-prolyl tRNA synthetase (EPRS) (Berthonneau et al. 2000). 
+EPRS contains the catalytic domains from both GluRS-E and [ProRS-A](/class2/pro1/), as well as the ProRS-A zinc binding domain, and the GluRS GST domain. 
 Glutamic acid is a metabolic precursor for proline, which suggests a possible explanation for the origin of this protein (Eswarappa et al. 2018). 
 
 

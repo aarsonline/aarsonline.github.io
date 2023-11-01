@@ -555,7 +555,14 @@ $("#main").append(`
 		let accessionSelect = $("#accessionSelect");
     for (let f in DATA.accessions){
     	let acc = getNameOfAccession(DATA.accessions[f]);
+    	//let icon = " style='background-image:url(/fig/" + getLifeDomainOfAccession(DATA.accessions[f]) + ".png)'";
+    	let domain = getLifeDomainOfAccession(DATA.accessions[f]);
+    	if (domain == "Mitochondrial"){
+    		acc = acc + " | organelle";
+    	}
+    	//console.log(acc, icon)
     	accessionSelect.append("<option value='" + DATA.accessions[f] + "'>" + acc + "</option>");
+    	
     }
     $(accessionSelect).on("change", function(){
       console.log("selected", $(accessionSelect).val());
@@ -678,9 +685,13 @@ function getDirectoryOfAccession(acc){
 // Return the official name of a sequence, indepenedent of its file name
 function getNameOfAccession(acc){
 
+
+
+
 	
 	acc = acc.replace(".pdb", "");
 	let metadata = DATA.metadata[acc];
+	//console.log(acc, metadata);
 	if (metadata == null){
 		
 		// Try to match by gene name
@@ -1557,6 +1568,8 @@ function renderSecondary(svg){
 
 
 
+
+
       var textCol = "black";
       var col = level == 1 ? LEVEL_1_COL : level == 2 ? LEVEL_2_COL : level == 3 ? LEVEL_3_COL : LEVEL_4_COL;
       var txt = feature;
@@ -2196,7 +2209,7 @@ function getAlignmentPosFromUngapped(accession, accPos){
 
 	}
 
-	return -1;
+	return nsites;
 
 
 }
