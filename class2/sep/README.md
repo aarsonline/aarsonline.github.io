@@ -9,7 +9,7 @@ $ \text{Sep} + \text{tRNA}^\text{Cys} + \text{ATP} \xrightarrow{\text{SepRS}} \t
 Unlike most Class II synthetases, SepRS exists as a homotetramer (Fukunaga and Shigeyuki 2007). The tetramer binds two tRNACys molecules and functions via half-of-the-sites activity (Hauenstein et al., 2008).
 
 
-In certain methanogenic archaea, the standard Class I [CysRS](/class1/cys/) is absent. To encode cysteine in these organisms, SepRS charges tRNA$^\text{Cys}$ with o-phosphoserine (Sep), to form Sep-tRNA$^\text{Cys}$. This intermediate is then converted to Cys-tRNA$^\text{Cys}$ by a pyridoxyl phosphate-dependent enzyme, Sep-tRNA:Cys-tRNA synthase (SepCysS) (Sauerwald et al. 2005). In ancestral methanogens, a third protein, SepCysE, forms a bridge between SepRS and SepCysS to create a ternary complex named the transsulfursome (Liu et al., 2014; Chen et al., 2017). The route to biosynthesis of cysteine in methanogens also depends on the activity of SepCysS (Sauerwald et al., 2005; Rauch et al., 2017; Mukai et al., 2022). 
+In certain methanogenic archaea, the standard Class I [CysRS](/class1/cys/) is absent. To encode cysteine in these organisms, SepRS charges tRNA$^\text{Cys}$ with O-phosphoserine (Sep), to form Sep-tRNA$^\text{Cys}$. This intermediate is then converted to Cys-tRNA$^\text{Cys}$ by a pyridoxyl phosphate-dependent enzyme, Sep-tRNA:Cys-tRNA synthase (SepCysS) (Sauerwald et al. 2005). In ancestral methanogens, a third protein, SepCysE, forms a bridge between SepRS and SepCysS to create a ternary complex named the transsulfursome (Liu et al., 2014; Chen et al., 2017). The route to biosynthesis of cysteine in methanogens also depends on the activity of SepCysS (Sauerwald et al., 2005; Rauch et al., 2017; Mukai et al., 2022). 
 
 
 ## Structure
