@@ -1,3 +1,7 @@
+Itoh, Masayuki, et al. "Biallelic KARS pathogenic variants cause an early-onset progressive leukodystrophy." Brain 142.3 (2019): 560-573.
+
+McLaughlin, Heather M., et al. "Compound heterozygosity for loss-of-function lysyl-tRNA synthetase mutations in a patient with peripheral neuropathy." American Journal of Human Genetics 87.4 (2010): 560-566.
+
 Tolkunova, Elena, et al. "The human lysyl-tRNA synthetase gene encodes both the cytoplasmic and mitochondrial enzymes by means of an unusual alternative splicing of the primary transcript." Journal of Biological Chemistry 275.45 (2000): 35063-35069.
 
 
