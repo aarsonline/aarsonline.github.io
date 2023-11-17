@@ -33,5 +33,4 @@ ProRS-M is predicted to localize to organelles and is one of the few AARS famili
 
 ## Clinical significance
 
-
-
+Biallelic recessive variants (homozygous and compound heterozygous) in the human gene PARS2 encoding the mitochondrial ProRS cause a disease named Alpers syndrome (firstly described in Sofou et al. 2015). The exhaustive list of disease-causing variants of PARS2 (including location on the sequence and the structure, the conservation fo the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=PARS2). Mutations have been mapped to all domains of the mt-ProRS except the N-terminal mitochondrial targeting sequence.  
