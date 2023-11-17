@@ -70,4 +70,5 @@ The members of subclass Ib, alongside LysRS-I and [ArgRS](/class1/arg/), require
 
 
 In the human mitochondria, Gln-tRNA$^\text{Gln}$ is produced through the non-discriminating GlxRS coupled with a transmidation pathway (Echevarria et al. 2014, Nagao et al. 2009).
+Biallelic recessive variants (homozygous and compound heterozygous) in the human gene EARS2, encoding the mitochondrial gluRS cause the brain disease LTBL for Leukoencephalopathy with thalamus and brainstem involvement and high lactate (firstly described in Steenweg et al. 2012). The exhaustive list of disease-causing variants of EARS2 (including location on the sequence and the structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=EARS2). Mutations have been mapped to all domains of the mt-GluRS.
 
