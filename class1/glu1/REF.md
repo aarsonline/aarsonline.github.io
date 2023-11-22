@@ -75,3 +75,28 @@ Siatecka, Miroslawa, et al. "Modular evolution of the Glx‐tRNA synthetase fami
 
 
 
+Lamour, Valérie et al. "Evolution of the Glx-tRNA synthetase family: the glutaminyl enzyme as a case of horizontal gene transfer." Proceedings of the National Academy of Sciences 91.18 (1994): 8670–8674.
+
+
+
+Tumbula, Debra L. et al. "Domain-specific recruitment of amide amino acids for protein synthesis." Nature 407 (2000): 106-110.
+
+
+
+Wilcox, Michael, and Nirenberg, Marshall. "Transfer RNA as a cofactor coupling amino acid synthesis with that of protein." Proceedings of the National Academy of Sciences 61.1 (1968): 229-236.
+
+
+
+Schön, Astrid, et al;, "Protein biosynthesis in organelles requires misaminoacylation of tRNA." Nature 331 (1988) 187-190.
+
+
+
+Curnow, Alan W., et al., "Glu-tRNAGln amidotransferase: A novel heterotrimeric enzyme required for correct decoding of glutamine codons during translation." Proceedings of the National Academy of Sciences 94.22 (1997): 11819–11826.
+
+
+
+Becker, Hubert D., et al., "Thermus thermophilus: a link in evolution of the tRNA-dependent amino acid amidation pathways." Proceedings of the National Academy of Sciences 95.22 (1998): 12832-12837.
+
+
+
+
