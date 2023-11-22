@@ -1,5 +1,5 @@
 
-The non-discriminating Archaeal-like glutamyl-tRNA synthetase (GlxRS-A) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the amino acid glutamate to its cognate tRNA, as well as the tRNA of glutamine. These reactions proceed through the following mechanisms:
+The non-discriminating Archaeal-like glutamyl-tRNA synthetase (GlxRS-A) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the amino acid glutamate to its cognate tRNA$^\text{GlU}$, as well as to tRNA$^\text{Gln}$. These reactions proceed through the following mechanisms:
 
 
 
@@ -30,7 +30,7 @@ Their catalytic domains are characterized by an insertion within CP1, containing
 may play a role in acceptor stem recognition  (Rath et al. 1998, Nureki et al. 2010).
 GlxRS-A has a $\beta$-barrel anticodon binding domain located at the C-terminal end (Rould et al. 1991), which is homologous to GluRS-E and GlnRS.
 However it is distinct to the bacterial form GluRS-B, which instead has an $\alpha$-helical anticodon binding domain of bacterial origin. 
-The members of subclass Ib, alongside [ArgRS](/class1/arg/) and  [LysRS-I](/class1/lys/), require the presence of tRNA to catalyze activation of the amino acid substrate (Dubois et al. 2005).
+The members of subclass Ib, alongside [ArgRS](/class1/arg/) and  [LysRS-I](/class1/lys/), require the presence of tRNA to catalyze activation of the amino acid substrate (Mitra and Mehler 1966, Ibba et al., 1999).
 
 
 
