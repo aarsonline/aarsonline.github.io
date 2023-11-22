@@ -95,7 +95,7 @@ Curnow, Alan W., et al., "Glu-tRNAGln amidotransferase: A novel heterotrimeric e
 
 
 
-Becker, Hubert D., et al., "Thermus thermophilus: a link in evolution of the tRNA-dependent amino acid amidation pathways." Proceedings of the National Academy of Sciences 95.22 (1998): 12832-12837.
+Becker, Hubert D., and Kern, Daniel. "Thermus thermophilus: a link in evolution of the tRNA-dependent amino acid amidation pathways." Proceedings of the National Academy of Sciences 95.22 (1998): 12832-12837.
 
 
 
