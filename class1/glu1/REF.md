@@ -99,4 +99,8 @@ Becker, Hubert D., and Kern, Daniel. "Thermus thermophilus: a link in evolution 
 
 
 
+Nureki, Osamu, et al., "Architectures of class-defining and specific domains of glutamyl-tRNA synthetase." Science 267.5206 (1995) 1958-1965.
+
+
+
 
