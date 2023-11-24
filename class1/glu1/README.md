@@ -51,7 +51,7 @@ This non-discriminating enzyme is found in all organisms that lack GlnRS, such a
 ## Structure
 
 
-GluRS-B (Nureki et al., 1994), GlxRS-B (Schulze et al., 2006), and GluGlnRS are the bacterial counterparts to the eurarchaeal  [GluRS-E](/class1/glu3) and GlxRS-A, respectively, differentiated by their distinct catalytic domain sequences and anticodon binding domain structures.
+GluRS-B (Nureki et al., 1995), GlxRS-B (Schulze et al., 2006), and GluGlnRS are the bacterial counterparts to the eurarchaeal  [GluRS-E](/class1/glu3) and GlxRS-A, respectively, differentiated by their distinct catalytic domain sequences and anticodon binding domain structures.
 The three families are challenging to distinguish using sequence-based comparisons (Schulze et al. 2006), and hence their putative functional assignments
 are unified in a single alignment below.
 
