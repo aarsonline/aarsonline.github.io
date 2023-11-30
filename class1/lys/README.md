@@ -9,8 +9,7 @@ $ \text{Lys} + \text{tRNA}^\text{Lys} + \text{Lys} \xrightarrow{\text{LysRS-I}} 
 
 
 
-The Class I LysRS is present in most archaea and some bacteria. Whereas, most organisms a instead have a [Class II LysRS](/class2/lys). 
-These two variants arose through convergent evolution (Terada et al. 2002).
+The Class I LysRS is present in most archaea and some bacteria, but to date has not been found in eukaryotes. Most organisms instead have a [Class II LysRS](/class2/lys). These two forms of LysRS arose through convergent evolution (Terada et al. 2002). 
 
 
 
@@ -18,7 +17,7 @@ These two variants arose through convergent evolution (Terada et al. 2002).
 ## Structure
 
 The C-terminal [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EK) is &alpha;-helical rich and similar to [GluRS](/class1/glu1) (Terada et al. 2002). 
-However, the catalytic domain is not immediately related to any other Class I synthetases, and as such, the enzyme belongs to its own subclass d (Douglas et al. 2023).
+However, the catalytic domain is not immediately related to any other Class I synthetases, and as such, the enzyme belongs to its own subclass d (Douglas et al. 2023). 
 Like most members of the superfamily, ATP binding is coordinated by the backbone brackets (Kaiser et al. 2018). 
 The catalytic domain is characterized by the $\beta$-rich LysRS-I insertion module. Its functional role remains unclear. 
 
@@ -31,7 +30,7 @@ The catalytic domain is characterized by the $\beta$-rich LysRS-I insertion modu
 
 ## Non-translational functions
 
-
+Unlike the Class II LyRS, the class I form is not capable of synthesizing the alarmone Ap4A.
 
 ## Clinical significance
 
