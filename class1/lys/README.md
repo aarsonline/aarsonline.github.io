@@ -23,8 +23,6 @@ The catalytic domain is characterized by the $\beta$-rich LysRS-I insertion modu
 
 
 
-
-
 ## Editing
 No editing or other proofreading activities have yet been observed for any Class I LysRS
 
