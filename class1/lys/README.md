@@ -26,6 +26,7 @@ The catalytic domain is characterized by the $\beta$-rich LysRS-I insertion modu
 ## Editing
 No editing or other proofreading activities have yet been observed for any Class I LysRS
 
+
 ## Non-translational functions
 
 Unlike the Class II LyRS, the class I form is not capable of synthesizing the alarmone Ap4A.
