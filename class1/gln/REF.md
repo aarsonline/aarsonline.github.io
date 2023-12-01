@@ -26,6 +26,11 @@ Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacyla
 Perona, John J. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 9: Glutaminyl-tRNA Synthetases.
 
 
+Nabholz, Christopher E., et al. "Leishmania tarentolaecontains distinct cytosolic andmitochondrial glutaminyl–tRNA synthetase activities." Proceedings of the National Academy of Sciences USA 94 (1997): 7903-7908.
+
+
+Deniziak, Marzanna et al., "Deinococcus glutaminyl-tRNA synthetase is a chimer between proteins from an ancient and the modern pathways of aminoacyl-tRNA formation. " Nucleic Acids Research 35.5 (2007) 1421-1431.
+
 
 Daniel Y. Dubois, Jacques Lapointe and Shun-ichi Sekine. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 10: Glutamyl-tRNA Synthetases.
 
