@@ -16,8 +16,11 @@ There is also a [second class II SerRS](/class2/ser2), evolutionarily distinct f
 
 SerRS is part of subclass IIa alongside [ProRS](/class2/pro1), [ThrRS](/class2/thr), and the [dimeric GlyRS](/class2/gly1) (Gomez and Ibba 2020, Valencia-Sánchez et al. 2016, Perona et al. 2012). 
 SerRS stands apart from the rest of the subclass due to its abnormal tRNA binding domain - the N-terminal long variable arm (Dock-Bregon et al. 1990).
+This variable arm takes the form of a long coiled-coil domain that has been shown to bind mRNA as well as tRNA (Miseta et al. 1991m Liu et al. 2023).
 The mammalian mitochondrial tRNA<sup>Ser</sup> molecules deviate markedly from their cytosolic counterparts. Hence, the mammalian mitochondrial SerRS N-terminal domain differs in such organisms, while still retaining its coiled coil structure (Chimnaronk et al. 2005).
-Many animals, notably insects, contain a paralog of SerRS (seryl-tRNA synthetase-like insect mitochondrial protein, SLIMP) which forms a heterodimer with the mitochondrial SerRS and is involved in cell regulation (Guitart et al. 2010, Picchioni et al. 2019). 
+Many animals, notably insects, contain a paralog of SerRS (seryl-tRNA synthetase-like insect mitochondrial protein, SLIMP) which forms a heterodimer with the mitochondrial SerRS (SerRS2) and is involved in cell regulation (Guitart et al. 2010, Picchioni et al. 2019). 
+In the SLIMP-SerRS2 heterodimer, the SerRS2 subunit has lost its coiled-coil domain, while the SLIMP subunit ablates the active site cavity (Picchioni et al. 2019).
+
 
 
 In contrast, the C-terminal catalytic domain of SerRS is quite typical of a class II aaRS. Like most members of the superfamily, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018). 
@@ -33,7 +36,7 @@ This process has been characterized for threonine, cysteine, and serine hydroxam
 
 ## Non-translational functions
 
-Human SerRS has been implied in the regulation of several pathways, including angiogenesis through regulating VEGFA expression by competing with cMyc (Xu et al. 2012, Shi et al., 2014), glucose and lipid metabolism (Zhao et al., 2021), and physiological translational read-through (Liu et al., 2023).  
+Human SerRS has been implicated in the regulation of several pathways, including cardiovascular development (Amsterdam et al. 2004; Herzog 2009), angiogenesis through regulating VEGFA expression by competing with cMyc (Xu et al. 2012, Shi et al., 2014), glucose and lipid metabolism (Zhao et al., 2021), and physiological translational read-through (Liu et al., 2023).  
 
 
 ## Clinical significance
