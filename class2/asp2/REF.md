@@ -23,8 +23,7 @@ Becker, Hubert Dominique, et al. "Existence of two distinct aspartyl-tRNA synthe
 
 Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases." PLoS computational biology 14.4 (2018): e1006101.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
 Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic Origins of Glycyl tRNA Synthetases." Journal of Biological Chemistry 291.28 (2016): 14430-14446.

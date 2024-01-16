@@ -1698,7 +1698,7 @@ function renderSecondary(svg){
 
       if (site == 0 || (site+1) % 50 == 0){
       	var y = SEC_HEIGHT*0.5;
-        drawSVGobj(svgContent, "text", {x: x + 2, y: y, style: "text-anchor:start; dominant-baseline:central; font-family:Source sans pro; font-size:" + NT_FONT_SIZE + "px"}, value=site+1)
+        drawSVGobj(svgContent, "text", {x: x + 2, y: y, style: "text-anchor:start; dominant-baseline:central; font-family:Raleway; font-size:" + NT_FONT_SIZE + "px"}, value=site+1)
 				drawSVGobj(svgContent, "line", {x1:x, x2:x, y1:SEC_HEIGHT*0.25, y2:SEC_HEIGHT, style:"stroke:black;stroke-width:1px"})
    
 	  	}else if((site+1) % 25 == 0){
@@ -2268,7 +2268,7 @@ function renderAlignment(divID, datatype = 0, downloadHref = ""){
 
       let cls = DATA.isAlpha[[acc]] ? "alpha" : "pdb";
   
-  	  ctx.font = NT_FONT_SIZE + "px Source sans pro";
+  	  ctx.font = NT_FONT_SIZE + "px Raleway";
   	  ctx.textAlign = "end";
       ctx.fillStyle = "#366BA1";
   	  ctx.fillText(accPrint, x, y);
@@ -2463,7 +2463,7 @@ function renderAlignment(divID, datatype = 0, downloadHref = ""){
 
   		// Text
   		ctx.fillStyle = textCol;
-  		ctx.font = FEATURE_FONT_SIZE + "px Source sans pro";
+  		ctx.font = FEATURE_FONT_SIZE + "px Raleway";
   		ctx.fillText(txt, x1-NT_WIDTH + (x2-x1)/2, y);
 
 
@@ -2743,8 +2743,13 @@ function loadSecondaryStructureAlignment(fasta, resolve = function() { }){
 
   DATA.secondary = sequences;
 
-   // Load secondary structure alignment
-  fetch("data/3di.fasta").then(response => response.text()).then(text => load3diAlignment(text, resolve));
+   // Load 3di structure alignment
+  //fetch("data/3di.fasta").then(response => response.text()).then(text => load3diAlignment(text, resolve));
+  
+  
+    // All done
+	DATA.threedi = null;
+	resolve();
 
 
 
@@ -2754,6 +2759,8 @@ function loadSecondaryStructureAlignment(fasta, resolve = function() { }){
 
 function load3diAlignment(fasta, resolve = function() { }){
 
+
+	
 	if (fasta == null || fasta == ""){
 		DATA.threedi = null;
 		resolve();

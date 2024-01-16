@@ -35,6 +35,6 @@ Tan, Kemin, et al. "The crystal structures of the α-subunit of the α2β2 tetra
 
 Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases." PLoS computational biology 14.4 (2018): e1006101.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Uwer, Ursula, Lothar Willmitzer, and Thomas Altmann. "Inactivation of a glycyl-tRNA synthetase leads to an arrest in plant embryo development." The Plant Cell 10.8 (1998): 1277-1294.

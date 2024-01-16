@@ -12,8 +12,9 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 <script language='JavaScript' type='text/JavaScript' src="/js/util.js"></script>
+<!--
 <script language='JavaScript' type='text/JavaScript' src="/js/mainPage.js"></script>
-
+-->
         
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -51,18 +52,18 @@ function init(){
 
 
 	// Add loading wheel
-	$("#catalyticDomainDIV").before(`<div id="mainloader" class='loader'><img src='/fig/loader.png'></img></div>`);
-	$("#catalyticDomainDIV").hide(0);
+	//$("#catalyticDomainDIV").before(`<div id="mainloader" class='loader'><img src='/fig/loader.png'></img></div>`);
+	//$("#catalyticDomainDIV").hide(0);
 
 
-	setTimeout(function(){
+	//setTimeout(function(){
 
 
-		drawTree();
+		//drawTree();
 
 		// Remove loading wheel
-		$("#mainloader").remove();
-		$("#catalyticDomainDIV").show(200);
+		//$("#mainloader").remove();
+		//$("#catalyticDomainDIV").show(200);
 
 
 
@@ -70,7 +71,7 @@ function init(){
 		//showEle(eles, 0);
 		
 
-	}, 50);
+	//}, 50);
 
 
 	
@@ -260,7 +261,7 @@ showEle = function(eles, i, timeout = 200){
 			<h1>Issues</h1>
 
 
-			User feedback is welcomed. If you spot an error or have any inquiries, please create an issue or start a discussion on <a href="https://github.com/aarsonline/aarsonline.github.io">GitHub</a> or contact jordan.douglas@auckland.ac.nz. <br><br> 
+			If you spot an error or have any inquiries, please create an issue or start a discussion on <a href="https://github.com/aarsonline/aarsonline.github.io">GitHub</a> or contact jordan.douglas@auckland.ac.nz. <br><br> 
 
 
 
@@ -278,9 +279,9 @@ showEle = function(eles, i, timeout = 200){
 			
 				<h1>References</h1>
 
-				If you find this tool helpful for your research, please cite our preprint: <br><br>
+				A manuscript for this work is in preparation. In the meantime, if you find this website is helpful for your research please cite: <br><br>
 
-				Douglas, J., Bouckaert, R., Carter, C., & Wills, P. R.  (2023). Enzymic recognition of amino acids drove the evolution of primordial genetic codes.
+				Douglas, J., Bouckaert, R., Carter Jr, C. W., & Wills, P. R. (2023). Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Nucleic Acids Research, gkad1160.
 			</div>
 
 

@@ -22,8 +22,7 @@ Becker, Hubert D., and Kern, Daniel. "Thermus thermophilus: a link in evolution 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
 Daniel Y. Dubois, Jacques Lapointe and Shun-ichi Sekine. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 10: Glutamyl-tRNA Synthetases.

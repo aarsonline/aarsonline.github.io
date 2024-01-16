@@ -57,8 +57,7 @@ Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering 
 Wolf, Yuri I., et al. "Evolution of aminoacyl-tRNA synthetases—analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events." Genome research 9.8 (1999): 689-710.
 
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
 Hadd, Andrew, and John J. Perona. "Coevolution of specificity determinants in eukaryotic glutamyl-and glutaminyl-tRNA synthetases." Journal of molecular biology 426.21 (2014): 3619-3633.

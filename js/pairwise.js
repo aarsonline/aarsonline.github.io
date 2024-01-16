@@ -86,8 +86,7 @@ plotMatrix = function(text){
 
     var y = (i)*FAMILY_MATRIX_SIZE + MATRIX_PADDING;
     drawSVGobj(svg, "rect", {x:y, y:y, width:FAMILY_MATRIX_SIZE, height:FAMILY_MATRIX_SIZE, style: "fill:white; stroke-width:0.5px; stroke:black;"})
-    drawSVGobj(svg, "text", {x: y+FAMILY_MATRIX_SIZE/2, y: y+FAMILY_MATRIX_SIZE/2, style: "text-anchor:middle; dominant-baseline:central;font-size:" + MATRIX_FONT_SIZE + "px"}, familyTidyName)
-
+    let textMain = drawSVGobj(svg, "text", {x: y+FAMILY_MATRIX_SIZE/2, y: y+FAMILY_MATRIX_SIZE/2, transform:"rotate(45," + (y+FAMILY_MATRIX_SIZE/2) + "," + (y+FAMILY_MATRIX_SIZE/2) + ")", style: "text-anchor:middle; dominant-baseline:central;font-size:" + MATRIX_FONT_SIZE + "px"}, familyTidyName)
     
     for (var j = i+1; j < nfamilies; j ++){
 

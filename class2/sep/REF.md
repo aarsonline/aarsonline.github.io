@@ -1,6 +1,5 @@
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
 Fukunaga, Ryuya, and Shigeyuki Yokoyama. "Structural insights into the first step of RNA-dependent cysteine biosynthesis in archaea." Nature structural & molecular biology 14.4 (2007): 272-279.

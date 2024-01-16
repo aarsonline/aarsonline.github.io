@@ -11,8 +11,7 @@ Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacyla
 
 Cusack, S., A. Yaremchuk, and M. Tukalo. "The crystal structures of T. thermophilus lysyl‐tRNA synthetase complexed with E. coli tRNA (Lys) and a T. thermophilus tRNA (Lys) transcript: anticodon recognition and conformational changes upon binding of a lysyl‐adenylate analogue." The EMBO journal 15.22 (1996): 6321-6334.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Cusack, Stephen, Michael Härtlein, and Reuben Leberman. "Sequence, structural and evolutionary relationships between class 2 aminoacyl-tRNA synthetases." Nucleic acids research 19.13 (1991): 3489-3498.
 

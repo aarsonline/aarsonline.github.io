@@ -46,4 +46,4 @@ Chen, Shun-Jia, et al. "Saccharomyces cerevisiae possesses a stress-inducible gl
 Boczonadi, Veronika, et al. "Mutations in glycyl-tRNA synthetase impair mitochondrial metabolism in neurons." Human molecular genetics 27.12 (2018): 2187-2204.
 
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.

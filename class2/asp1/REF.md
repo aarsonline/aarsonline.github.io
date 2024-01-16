@@ -7,7 +7,7 @@ Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacyla
 
 Iwasaki, Wataru, et al. "Structural basis of the water-assisted asparagine recognition by asparaginyl-tRNA synthetase." Journal of molecular biology 360.2 (2006): 329-342.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Kern, Daniel, Hervé Roy, and Hubert Dominique Becker. "Asparaginyl-tRNA synthetases." Madame Curie Bioscience Database [Internet]. Landes Bioscience, 2013.
 

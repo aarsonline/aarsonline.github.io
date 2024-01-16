@@ -16,7 +16,7 @@ Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering 
 
 Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases." PLoS computational biology 14.4 (2018): e1006101.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Torres-Larios, Alfredo, et al. "Structural basis of translational control by Escherichia coli threonyl tRNA synthetase." nature structural biology 9.5 (2002): 343-347.
 

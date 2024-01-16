@@ -9,7 +9,7 @@ Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 2
 
 
 
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
 Hugues Bedouelle. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 12: Tyrosyl-tRNA Synthetases.

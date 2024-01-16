@@ -61,7 +61,7 @@ Cusack, Stephen, Michael Härtlein, and Reuben Leberman. "Sequence, structural a
 
 Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic Origins of Glycyl tRNA Synthetases." Journal of Biological Chemistry 291.28 (2016): 14430-14446.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Arutaki, Misa, et al. "G: U-Independent RNA minihelix aminoacylation by Nanoarchaeum equitans alanyl-tRNA synthetase: an insight into the evolution of aminoacyl-tRNA synthetases." Journal of molecular evolution 88 (2020): 501-509.
 
