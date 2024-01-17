@@ -73,79 +73,79 @@ function init(){
 
 
 			<div>
-				<img src="../fig/icon_basic.png" />
+				<img class="imgIcon" src="../fig/icon_basic.png" />
 				<a href="arg">Arginyl tRNA synthetase</a>
 			</div>
 
 			<div>
-				<img src="../fig/icon_cys.png" />
+				<img class="imgIcon" src="../fig/icon_cys.png" />
 				<a href="cys">Cysteinyl tRNA synthetase</a>
 			</div>
 
 			<div>
-				<img src="../fig/icon_polar.png" />
+				<img class="imgIcon" src="../fig/icon_polar.png" />
 				<a href="gln">Glutaminyl tRNA synthetase</a>
 			</div>
 
 			<div>
-				<img src="../fig/icon_acidic.png" />
+				<img class="imgIcon" src="../fig/icon_acidic.png" />
 				<a href="glu1">Glutamyl tRNA synthetase (Bacterial-like)</a>
 			</div>
 
 
 			<div>
-				<img src="../fig/icon_acidic.png" />
+				<img class="imgIcon" src="../fig/icon_acidic.png" />
 				<a href="glu3">Glutamyl tRNA synthetase (Eukaryote-like, discriminating)</a>
 			</div>
 
 
 
 			<div>
-				<img src="../fig/icon_acidic.png" />
+				<img class="imgIcon" src="../fig/icon_acidic.png" />
 				<a href="glu2">Glutamyl tRNA synthetase (Archaeal-like, non-discriminating)</a>
 			</div>
 
 			<div>
-				<img src="../fig/icon_hydrophobic.png" />
+				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 				<a href="ile">Isoleucyl tRNA synthetase</a>
 			</div>
 
 
 			<div>
-				<img src="../fig/icon_hydrophobic.png" />
+				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 				<a href="leu2">Leucyl tRNA synthetase (Archaeal-like)</a>
 			</div>
 
 
 			<div>
-				<img src="../fig/icon_hydrophobic.png" />
+				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 				<a href="leu1">Leucyl tRNA synthetase (Bacterial-like)</a>
 			</div>
 
 
 			<div>
-				<img src="../fig/icon_basic.png" />
+				<img class="imgIcon" src="../fig/icon_basic.png" />
 				<a href="lys">Lysyl tRNA synthetase</a>
 			</div>
 
 			<div>
-				<img src="../fig/icon_hydrophobic.png" />
+				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 				<a href="met">Methionyl tRNA synthetase</a>
 			</div>
 
 			<div>
-				<img src="../fig/icon_hydrophobic.png" />
+				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 				<a href="trp">Tryptophanyl tRNA synthetase</a>
 			</div>
 
 
 			<div>
-				<img src="../fig/icon_aromatic.png" />
+				<img class="imgIcon" src="../fig/icon_aromatic.png" />
 				<a href="tyr">Tyrosyl tRNA synthetase</a>
 			</div>
 
 			<div>
-				<img src="../fig/icon_hydrophobic.png" />
+				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 				<a href="val">Valyl tRNA synthetase</a>
 			</div>
 
@@ -160,32 +160,32 @@ function init(){
 			
 			
 				<div>
-					<img src="../fig/icon_white.png" />
+					<img class="imgIcon" src="../fig/icon_white.png" />
 					<a href="/superfamily/class1/Anticodon_binding_domain_CRIMVL">Anticodon binding domain (CRIMVL)</a>
 				</div>
 				
 				
 				<div>
-					<img src="../fig/icon_acidic.png" />
+					<img class="imgIcon" src="../fig/icon_acidic.png" />
 					<a href="/superfamily/class1/Anticodon_binding_domain_EK">Anticodon binding domain (EK)</a>
 				</div>
 				
 				
 				<div>
-					<img src="../fig/icon_acidic.png" />
+					<img class="imgIcon" src="../fig/icon_acidic.png" />
 					<a href="/superfamily/class1/Anticodon_binding_domain_EQ">Anticodon binding domain (EQ)</a>
 				</div>
 				
 
 				<div>
-					<img src="../fig/icon_aromatic.png" />
+					<img class="imgIcon" src="../fig/icon_aromatic.png" />
 					<a href="/superfamily/class1/Anticodon_binding_domain_WY">Anticodon binding domain (WY)</a>
 				</div>
 				
 				
 				
 				<div>
-					<img src="../fig/icon_hydrophobic.png" />
+					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 					<a href="/superfamily/class1/C-terminal_junction_domain">C-terminal junction domain (IV)</a>
 				</div>
 
@@ -193,7 +193,7 @@ function init(){
 				<h2>Editing domains</h1>
 
 				<div>
-					<img src="../fig/icon_hydrophobic.png" />
+					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 					<a href="/superfamily/class1/Editing_domain_1a">Editing domain 1a (LIV) </a>
 				</div>
 
@@ -202,12 +202,12 @@ function init(){
 				
 				
 				<div>
-					<img src="../fig/icon_white.png" />
+					<img class="imgIcon" src="../fig/icon_white.png" />
 					<a href="/superfamily/class2/Anticodon_binding_domain_DNK">EMAP, also Class II anticodon binding domain DNK</a>
 				</div>
 				
 				<div>
-					<img src="../fig/icon_white.png" />
+					<img class="imgIcon" src="../fig/icon_white.png" />
 					<a href="/superfamily/class1/GST">Glutathione S-transferase (GST) domain </a>
 				</div>
 				
@@ -229,7 +229,9 @@ function init(){
 					Similar structures have larger scores within the range [0,1].
 					Click on a cell to visit the alignment.
 				</div>
-				<svg id="pairwiseSVG" height=0 width=0></svg>
+				<div id="pairwiseDIV">
+					<svg id="pairwiseSVG" height=0 width=0></svg>
+				</div>
 
 
 		</li>

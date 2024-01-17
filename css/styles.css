@@ -602,8 +602,8 @@ div#treeDiv{
 
 
 @media only screen and ( max-device-width: 1200px ) {
-	#contents{
-		width: 95%;
+	.contents{
+		width: 800px;
 	}
 }
 
@@ -680,6 +680,16 @@ div#treeDiv{
 	%height: 150px;
 
 }
+
+
+
+@media only screen and ( max-device-width: 1200px ) {
+	.loader img{
+		width: 500%;
+		height: auto;
+	}
+}
+
 
 @keyframes spin {
   0% { transform: rotate(0deg); }
@@ -824,6 +834,10 @@ div#treeDiv{
 
 
 
+#pairwiseDIV{
+	overflow-x:scroll;
+	width:100%;
+}
 
 
 #flexContainer, .flexContainer {
@@ -847,6 +861,14 @@ div#treeDiv{
 #flexContainer, .flexContainer>li {
 	margin-bottom:1em;
 	max-width: 100%;
+}
+
+
+@media only screen and ( max-device-width: 1200px ) {
+	#flexContainer, .flexContainer>li {
+		margin-bottom:5em;
+		line-height: 4em;
+	}
 }
 
 
@@ -1016,13 +1038,14 @@ div.reaction span{
 img.imgIcon{
 	vertical-align:middle;
 	width:2em;
+	height:auto;
 }
 
 
 @media only screen and ( max-device-width: 1200px ) {
 	img.imgIcon{
-		vertical-align:middle;
 		width:4em;
+		height:auto;
 	}
 }
 
