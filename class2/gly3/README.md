@@ -40,5 +40,5 @@ Human GlyRS interacts with Neuropilin-1 and its increased aberrant interactions 
 ## Clinical significance
 
 Dominant variants in human GARS1 encoding cytosolic GlyRS are associated with Charcot-Marie-Tooth neuropathy (James et al., 2006; Eskuri et al., 2012; Griffin et al., 2014, and others). Overexpression of the corresponding tRNA can alleviate disease progression in mice (Zuko et al., 2021; Spaulding et al., 2021).  
-There is no specialized mitochondrial GlyRS in humans. GARS1 encodes isoforms that are localized to either compartment.  
+There is no specialized mitochondrial GlyRS in humans. GARS1 encodes isoforms that are localized to either compartment.
 

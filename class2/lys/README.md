@@ -51,7 +51,7 @@ Editing in LysRS-II occurs at the pre-transfer level, without the need for a ded
 ## Clinical significance
 
 
-There is no specialized mitochondrial LysRS in humans. KARS encodes isoforms that are localized to either compartment.  
+There is no specialized mitochondrial LysRS in humans. By means of an unsual alternative splicing of primary transcript, KARS encodes isoforms that are localized to either compartment (Tolkunova et al. 2000). Dominant and biallelic recessive variants have been found in patients, and associated either with peripheral neuropathy (as for instance the Charcot-Marie-Tooth disease, firstly described by McLaughlin et al. 2010) or with affections of the central nervous system (as for instance a progressive leukodystrophy, Itoh et al. 2019). The exhaustive list of disease-causing variants of KARS (inlcuding location on the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=KARS). Mutations have been mapped to all domains of the LysRS. 
 
 
 

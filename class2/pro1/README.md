@@ -37,6 +37,11 @@ Post-transfer editing allows the removal of mischarged residues from $\text{tRNA
 
 ## Non-translational functions
 
+In human cells, EPRS is part of the of the interferon (IFN)- gamma-activated inhibitor of translation (GAIT) complex involved in translational silencing of genes involved in inflammation (Sampath et al., 2004). 
+It is also a mTOR-S6K1 effector that regulates long-chain fatty acid uptake (Arif et al., 2017).
+ All these noncanonical function of EPRS are regulated by posttranslational modification of the WHEP domains of EPRS (Jia et al., 2008).
+
+
 
 
 ## Clinical significance

@@ -9,8 +9,7 @@ Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class
 
 Kim, Hyun Sook, et al. "The crystal structure of arginyl-tRNA synthetase from Homo sapiens." FEBS letters 588.14 (2014): 2328-2334.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Cavarelli, Jean, et al. "L-arginine recognition by yeast arginyl-tRNA synthetase." The EMBO journal 17.18 (1998): 5438-5448.
 

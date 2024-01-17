@@ -56,7 +56,7 @@ Picchioni, Daria, et al. "Mitochondrial protein synthesis and mtDNA levels coord
 
 
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Shi, Yi, et al. "tRNA synthetase counteracts c-Myc to develop functional vasculature." Elife 3 (2014): e02349.
 

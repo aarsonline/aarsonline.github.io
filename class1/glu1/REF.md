@@ -1,11 +1,11 @@
+Steenweg, Marjan E. et al. "Leukoencephalopathy with thalamus and brainstem involvement and high lactate 'LTBL' caused by EARS2 mutations." Brain 135.5 (2012): 1387-1394.
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
 Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacylation and beyond." Nucleic Acids Research 51.4 (2023): 1528-1570.
 
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
 
@@ -71,6 +71,35 @@ Schulze, Jörg O., et al. "Crystal structure of a non-discriminating glutamyl-tR
 
 
 Siatecka, Miroslawa, et al. "Modular evolution of the Glx‐tRNA synthetase family: Rooting of the evolutionary tree between the bacteria and archaea/eukarya branches." European Journal of Biochemistry 256.1 (1998): 80-87.
+
+
+
+Lamour, Valérie et al. "Evolution of the Glx-tRNA synthetase family: the glutaminyl enzyme as a case of horizontal gene transfer." Proceedings of the National Academy of Sciences 91.18 (1994): 8670–8674.
+
+
+
+Tumbula, Debra L. et al. "Domain-specific recruitment of amide amino acids for protein synthesis." Nature 407 (2000): 106-110.
+
+
+
+Wilcox, Michael, and Nirenberg, Marshall. "Transfer RNA as a cofactor coupling amino acid synthesis with that of protein." Proceedings of the National Academy of Sciences 61.1 (1968): 229-236.
+
+
+
+Schön, Astrid, et al;, "Protein biosynthesis in organelles requires misaminoacylation of tRNA." Nature 331 (1988) 187-190.
+
+
+
+Curnow, Alan W., et al., "Glu-tRNAGln amidotransferase: A novel heterotrimeric enzyme required for correct decoding of glutamine codons during translation." Proceedings of the National Academy of Sciences 94.22 (1997): 11819–11826.
+
+
+
+Becker, Hubert D., and Kern, Daniel. "Thermus thermophilus: a link in evolution of the tRNA-dependent amino acid amidation pathways." Proceedings of the National Academy of Sciences 95.22 (1998): 12832-12837.
+
+
+
+Nureki, Osamu, et al., "Architectures of class-defining and specific domains of glutamyl-tRNA synthetase." Science 267.5206 (1995) 1958-1965.
+
 
 
 

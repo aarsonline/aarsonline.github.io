@@ -3,7 +3,7 @@
 # Organisms of AARS Online
 
 The AARS operate the genetic code in the two-or-three domains of life - bacteria, archaea, and eukaryotes - as well as mitochondria and chloroplasts, and even in certain viruses.
-AARS Online contains samples from these five genetic environments. Within each environment, the AlphaFold samples are taxonomically diverse and there are no two samples from the same phylum.
+AARS Online contains samples from these five genetic environments. Within each environment, the AlphaFold samples are taxonomically diverse and generally there are no two samples from the same phylum.
 All sequences here are linked to their source data on GenBank (for AlphaFold predictions) or the Protein Data Bank (solved structures).
 
 

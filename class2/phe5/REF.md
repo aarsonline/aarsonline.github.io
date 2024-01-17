@@ -1,8 +1,7 @@
 
 Shamseldin, Hanan, E. et al. "Genomic analysis of mitochondrial diseases in a consanguineous population reveals novel candidate disease genes." ournal of Medical Genetics 49.4 (2012): 234-241.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
 

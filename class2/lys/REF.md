@@ -1,11 +1,17 @@
+Itoh, Masayuki, et al. "Biallelic KARS pathogenic variants cause an early-onset progressive leukodystrophy." Brain 142.3 (2019): 560-573.
+
+McLaughlin, Heather M., et al. "Compound heterozygosity for loss-of-function lysyl-tRNA synthetase mutations in a patient with peripheral neuropathy." American Journal of Human Genetics 87.4 (2010): 560-566.
+
+Tolkunova, Elena, et al. "The human lysyl-tRNA synthetase gene encodes both the cytoplasmic and mitochondrial enzymes by means of an unusual alternative splicing of the primary transcript." Journal of Biological Chemistry 275.45 (2000): 35063-35069.
+
+
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
 Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacylation and beyond." Nucleic Acids Research 51.4 (2023): 1528-1570.
 
 Cusack, S., A. Yaremchuk, and M. Tukalo. "The crystal structures of T. thermophilus lysyl‐tRNA synthetase complexed with E. coli tRNA (Lys) and a T. thermophilus tRNA (Lys) transcript: anticodon recognition and conformational changes upon binding of a lysyl‐adenylate analogue." The EMBO journal 15.22 (1996): 6321-6334.
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
-
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Cusack, Stephen, Michael Härtlein, and Reuben Leberman. "Sequence, structural and evolutionary relationships between class 2 aminoacyl-tRNA synthetases." Nucleic acids research 19.13 (1991): 3489-3498.
 

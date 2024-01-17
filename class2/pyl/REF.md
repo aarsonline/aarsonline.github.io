@@ -1,5 +1,5 @@
 
-Douglas, J, Bouckaert, R., Carter, C., & Wills, P. R. Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Research Square (2023).
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 Kavran, Jennifer M., et al. "Structure of pyrrolysyl-tRNA synthetase, an archaeal enzyme for genetic code innovation." Proceedings of the National Academy of Sciences 104.27 (2007): 11268-11273.
 

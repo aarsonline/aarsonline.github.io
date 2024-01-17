@@ -5,10 +5,15 @@
 
 body { 
 	font-size:14px;
-	font-family: "Source Sans Pro", "Arial"; 
+	font-family: "Raleway", "Source Sans Pro", "Arial"; 
 	text-size-adjust: 250%;
 	margin:0;
 	min-height:1500px;
+}
+
+
+select { 
+	font-family: "Raleway", "Source Sans Pro", "Arial"; 
 }
 
 
@@ -472,7 +477,7 @@ li.tRNA div{
 #introduction{
 	 line-height: 140%;
 	 font-size:1.0em;
-
+	overflow-x:hidden;
 
 }
 
@@ -597,8 +602,8 @@ div#treeDiv{
 
 
 @media only screen and ( max-device-width: 1200px ) {
-	#contents{
-		width: 95%;
+	.contents{
+		width: 800px;
 	}
 }
 
@@ -676,6 +681,16 @@ div#treeDiv{
 
 }
 
+
+
+@media only screen and ( max-device-width: 1200px ) {
+	.loader img{
+		width: 15em;
+		height: auto;
+	}
+}
+
+
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
@@ -751,16 +766,17 @@ div#treeDiv{
   font-size: 1.0em;
   border: none;
   border-radius:0.0em;
-  margin-right:1.2em;
+  margin-right:0.6em;
+  margin-left:0.6em;
   height:100%;
 }
 
 
-@media only screen and ( max-device-width: 800px ) {
+@media only screen and ( max-device-width: 1200px ) {
 	.dropbtn {
-	  padding: 0.5em;
-	  font-size: 0.8em;
-	  margin-right:0.6em;
+	  
+	  font-size: 1em;
+	  min-width: 10em;
 	 }
 }
 
@@ -818,6 +834,10 @@ div#treeDiv{
 
 
 
+#pairwiseDIV{
+	overflow-x:scroll;
+	width:100%;
+}
 
 
 #flexContainer, .flexContainer {
@@ -841,6 +861,14 @@ div#treeDiv{
 #flexContainer, .flexContainer>li {
 	margin-bottom:1em;
 	max-width: 100%;
+}
+
+
+@media only screen and ( max-device-width: 1200px ) {
+	#flexContainer, .flexContainer>li {
+		margin-bottom:5em;
+		line-height: 4em;
+	}
 }
 
 
@@ -978,10 +1006,16 @@ div.reaction span{
 
 
 @media only screen and ( max-device-width: 1200px ) {
+	
 	.math {
-		font-size: 1vw;
+		height: 2em;
+		font-size: 1.8em;
 		text-size-adjust: 100%;
 		max-width:100%;
+	}
+	
+	.math .mrow {
+		
 	}
 }
 
@@ -1004,13 +1038,14 @@ div.reaction span{
 img.imgIcon{
 	vertical-align:middle;
 	width:2em;
+	height:auto;
 }
 
 
 @media only screen and ( max-device-width: 1200px ) {
 	img.imgIcon{
-		vertical-align:middle;
 		width:4em;
+		height:auto;
 	}
 }
 
