@@ -4,6 +4,10 @@ Siatecka, Miroslawa, et al. "Modular evolution of the Glx‐tRNA synthetase fami
 
 Lamour, Valérie et al. "Evolution of the Glx-tRNA synthetase family: the glutaminyl enzyme as a case of horizontal gene transfer." Proceedings of the National Academy of Sciences 91.18 (1994): 8670–8674.
 
+
+Gruic-Sovulj, I., Uter, N., Bullock, T., & Perona, J.J. "tRNA-dependent aminoacyl-adenylate hydrolysis by a nonediting class I aminoacyl-tRNA synthetase." J. Biol. Chem. 280(25), 23978-86 (2005). 
+
+
 Skouloubris, Stéphane, et al. "A noncognate aminoacyl-tRNA synthetase that may resolve a missing link in protein evolution." Proceedings of the National Academy of Sciences 100.20 (2003): 11297-11302.
 
 Salazar, Juan C., et al. "Coevolution of an aminoacyl-tRNA synthetase with its tRNA substrates." Proceedings of the National Academy of Sciences 100.24 (2003): 13863-13868.
@@ -52,7 +56,7 @@ Nagao, Asuteka, et al. "Biogenesis of glutaminyl-mt tRNAGln in human mitochondri
 
 Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.
 
-
+Sherlin, Luke D., and Perona, John J. "tRNA-dependent active site assembly in a class I aminoacyl-tRNA synthetase." Structure 11, 591-603 (2003). 
 
 Wolf, Yuri I., et al. "Evolution of aminoacyl-tRNA synthetases—analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events." Genome research 9.8 (1999): 689-710.
 
