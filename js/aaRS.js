@@ -16,6 +16,8 @@ SELECTED_SITES = {lower: -1, upper: -1};
 SELECTED_ACCESSION = null;
 
 
+COLOUR_BY_MAJORITY = true;
+
 
 // Colour gradient
 // https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10
@@ -2328,6 +2330,35 @@ function renderAlignment(divID, datatype = 0, downloadHref = ""){
         col = AA_COLS_2[aa];
       }
 
+
+
+
+      // Majority colouring?
+      if (COLOUR_BY_MAJORITY){
+
+
+      	// What is majority group?
+      	let countAA = 0;
+      	for (var seqNum2 = 0; seqNum2 < nseq; seqNum2++){
+      		let acc2 = accessions[seqNum2];
+      		let seq2 = alignment[acc2];
+      		let aa2 = seq2[site];
+      		if (aa == aa2){
+      			countAA++;
+      		}
+      	}
+
+      	if (countAA > nseq/2){
+
+      	}else{
+      		col = col + "34";
+      		textCol = "black";
+      	}
+
+
+
+
+      }
 
 	
 
