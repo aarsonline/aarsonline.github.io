@@ -5,18 +5,22 @@ Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visuali
 Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacylation and beyond." Nucleic Acids Research 51.4 (2023): 1528-1570.
 
 
+Chung, S. et al., "Structural basis for the antibiotic resistance of eukaryotic isoleucyl-tRNA synthetase." Mol Cells 43(4): 350-359 (2020). 
+
 Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
 
-
+Bilus, Mirna et al. "On the mechanism and origin of isoleucyl-tRNA synthetase editing against norvaline." J. Mol. Biol. 431, 1284-1297 (2019).
 
 Brian E. Nordin and Paul Schimmel. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 4: Isoleuyl-tRNA Synthetases.
 
 
+Dulic, Morana, et al., "Partitioning of tRNA-dependent editing between pre- and post-transfer pathways in class I aminoacyl-tRNA synthetases." J. Biol. Chem. 285, 23799-23809 (2010).
 
+Dulic, Morana, et al., "Determinants for tRNA-dependent pre-transfer editing in the synthetic site of isoleucyl-tRNA synthetase." Biochemistry 53, 6189-6198 (2014). 
 
 Zhou, Xiao-Long, Bin Zhu, and En-Duo Wang. "The CP2 domain of leucyl-tRNA synthetase is crucial for amino acid activation and post-transfer editing." Journal of Biological Chemistry 283.52 (2008): 36608-36616.
 
