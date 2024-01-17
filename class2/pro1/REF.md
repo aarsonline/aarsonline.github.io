@@ -53,3 +53,14 @@ Eswarappa, Sandeep M., et al. "Metabolic origin of the fused aminoacyl-tRNA synt
 Berthonneau, Eric, and Marc Mirande. "A gene fusion event in the evolution of aminoacyl-tRNA synthetases." FEBS letters 470.3 (2000): 300-304.
 
 
+Sampath, Prabha, et al., "Noncanonical Function of Glutamyl-Prolyl-tRNA Synthetase: Gene-Specific Silencing of Translation" Cell 119 (2004) 195–208.
+
+
+
+Arif, Abdul, et al., "EPRS is a critical mTORC1-S6K1 effector that influences adiposity in mice." Nature 542.7641 (2017) 357-361.
+
+
+
+Jia, Jie, et al., "WHEP domains direct noncanonical function of glutamyl-Prolyl tRNA synthetase in translational control of gene expression." Molecular Cell 29.6 (2008) 679-90.
+
+
