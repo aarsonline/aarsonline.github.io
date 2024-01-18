@@ -16,7 +16,7 @@ SELECTED_SITES = {lower: -1, upper: -1};
 SELECTED_ACCESSION = null;
 
 
-COLOUR_BY_MAJORITY = true;
+COLOUR_BY_MAJORITY = false;
 
 
 // Colour gradient

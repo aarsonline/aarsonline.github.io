@@ -5,11 +5,13 @@ IS_MOBILE = (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|com
 // Adds a header to the top of the page and a footer to the bottom
 function renderHeader(includeFooter = true){
 
-
+	if (IS_MOBILE){
+			$("body").addClass("mobile");
+	}
 
   
   // Header, footer
-  $("body").prepend("<div id='header'><span class='title'><a title='AARS Online' style='text-decoration:none; color:black' href='/'><img src='/fig/logo.png' height='100%'/><a></span></div>")
+  $("body").prepend("<div id='header'><span class='title'><a title='AARS Online' class='mainLogo'  href='/'><img src='/fig/logo.png' height='100%'/><a></span></div>")
 
   if (includeFooter){
     $("body").append("<div id='footer'></div>")

@@ -6,9 +6,14 @@
 body { 
 	font-size:14px;
 	font-family: "Raleway", "Source Sans Pro", "Arial"; 
-	text-size-adjust: 250%;
+	
 	margin:0;
 	min-height:1500px;
+}
+
+body.mobile{
+	font-size:18px;
+	/*text-size-adjust: 250%;*/
 }
 
 
@@ -19,6 +24,15 @@ select {
 
 svg {
 	user-select: none;
+}
+
+body.mobile table {
+    font-size: 33px;
+}
+
+
+body.mobile a {
+    font-size: 30px;
 }
 
 @media only screen and ( min-device-width: 1000px ) {
@@ -88,13 +102,7 @@ g.matrixcell:hover text{
 }
 
 
-@media only screen and ( max-device-width: 1200px ) {
-	.pdblabel{
-		margin-top: -4.2em;
 
-	}
-
-}
 
 
 
@@ -277,6 +285,11 @@ ul.aalist li img{
 	width:100%;
 	min-width:200px;
 	max-width:800px;
+}
+
+
+body.mobile .summary{
+	/*font-size: 2em;*/
 }
 
 
@@ -622,6 +635,11 @@ div#treeDiv{
 	max-width: 30em;
 }
 
+body.mobile .dropdownDiv select{
+	font-size:1.5em;
+}
+
+
 
 .dropdownDiv.colouring {
 	margin-top:0em;
@@ -726,6 +744,7 @@ div#treeDiv{
 
 
 #header {
+	vertical-align:middle;
 	width:100%;
 	height:5em;
 	background-image: linear-gradient(140deg, #008cba77, #008cba94);
@@ -736,13 +755,18 @@ div#treeDiv{
 
 
 #header .title{
-		font-size:4em;
-		text-align:center;
-		margin-left:1.5em;
-		vertical-align:bottom:
+	font-size:4em;
+	text-align:center;
+	margin-left:1.5em;
+	vertical-align:bottom:
 }
 
-
+body.mobile #header .title{
+	font-size:4em;
+	text-align:center;
+	margin-left:0.5em;
+	vertical-align:bottom:
+}
 
 
 @media only screen and ( max-device-width: 1200px ) {
@@ -760,10 +784,9 @@ div#treeDiv{
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #008cbacc;
+  background-color: #008cba88;
   color: white;
   padding: 0.8em;
-  font-size: 1.0em;
   border: none;
   border-radius:0.0em;
   margin-right:0.6em;
@@ -774,18 +797,31 @@ div#treeDiv{
 
 @media only screen and ( max-device-width: 1200px ) {
 	.dropbtn {
-	  
-	  font-size: 1em;
-	  min-width: 10em;
+	  font-size:1.5em;
+	  padding: 0.1em;
+	  min-width: 4em;
 	 }
 }
 
+
+.mainLogo{
+	text-decoration:none;
+	color:black;
+	
+}
+
+
+.mainLogo img{
+	max-width: 20vw;
+	max-height:100%;
+	height:auto;
+}
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
   display: inline-block;
-  margin-right:1.2em;
+  /*margin-right:1.2em;*/
   float:right;
 }
 
@@ -796,7 +832,9 @@ div#treeDiv{
   background-color: #fff;
   min-width: 120px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  border-radius:0.3em 0em 0.3em 0.3em;
   z-index: 2;
+  right: 1em;
 }
 
 /* Links inside the dropdown */
@@ -807,13 +845,21 @@ div#treeDiv{
   display: block;
 }
 
-
+/*
 @media only screen and ( max-device-width: 1200px ) {
 	.dropdown-content {
 	  min-width: 200px;
 	  font-size:1.2em;
 	}
 }
+*/
+
+body.mobile .dropdown-content {
+  min-width: 200px;
+  font-size:30px;
+}
+
+
 
 
 
@@ -1025,13 +1071,13 @@ div.reaction span{
 
 #issues{
 	text-align:center;
-	padding:1em;
+	padding:0em;
 }
 
 
 #issues a{
-	margin-left:2em;
-	margin-right:2em;
+	margin-left:1em;
+	margin-right:1em;
 }
 
 
