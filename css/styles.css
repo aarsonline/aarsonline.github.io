@@ -12,8 +12,9 @@ body {
 }
 
 body.mobile{
-	font-size:18px;
-	/*text-size-adjust: 250%;*/
+	/*font-size:18px;*/
+	text-size-adjust: 250%;
+	-webkit-text-size-adjust: 250%;
 }
 
 
@@ -26,6 +27,7 @@ svg {
 	user-select: none;
 }
 
+/*
 body.mobile table {
     font-size: 33px;
 }
@@ -34,6 +36,7 @@ body.mobile table {
 body.mobile a {
     font-size: 30px;
 }
+*/
 
 @media only screen and ( min-device-width: 1000px ) {
 	.mobile-display{
@@ -93,9 +96,9 @@ g.matrixcell:hover text{
 
 
 .pdblabel{
-	margin-top: -1.5em;
+	margin-top: -4em;
 	margin-left: 0.5em;
-	margin-bottom: 1em;
+	margin-bottom: 4em;
 	font-size: 1em;
 	font-style:italic;
 	color: #000000;
@@ -799,7 +802,7 @@ body.mobile #header .title{
 	.dropbtn {
 	  font-size:1.5em;
 	  padding: 0.1em;
-	  min-width: 4em;
+	  min-width: 8em;
 	 }
 }
 
@@ -1023,6 +1026,7 @@ span.sseLegend span{
 
 .aafig img{
 	width:65%;
+	max-width:500px;
 }
 
 
