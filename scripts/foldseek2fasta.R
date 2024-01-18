@@ -1,12 +1,6 @@
 library(seqinr)
 
 
-# Define a function to read sequences from a text file
-read_sequences <- function(sequence_file) {
-  sequences <- readLines(sequence_file)
-  return(sequences)
-}
-
 
 
 args =commandArgs(trailingOnly = TRUE)
@@ -23,7 +17,7 @@ output_fasta <- args[4]
 
 # Read PDB files and sequences
 pdb_structures <- readLines(pdb_directory)
-sequences <- read_sequences(sequence_file)
+sequences <- readLines(sequence_file)
 ref.fasta = read.fasta(ref_fasta)
 
 
@@ -106,5 +100,14 @@ for (i in 1:length(fasta_lines)) {
 
 write.fasta(seq_3di_gapped.aln, names(seq_3di_gapped.aln), output_fasta)
 cat("FASTA file generated: ", output_fasta, "\n")
+
+
+
+
+
+
+
+
+
 
 

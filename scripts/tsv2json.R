@@ -35,11 +35,19 @@ for (id in in.df[,idCol]){
 		gene = in.df[in.df[,idCol] == id,"sequence"]
 		transl_table = in.df[in.df[,idCol] == id,"transl_table"]
 
+		gene = unique(gene)
+		transl_table = unique(transl_table)
+		#print(paste(id, gene))
+
 		if (length(gene) == 1 & !is.na(gene) & nchar(gene) > 0 & length(gene) == 1 & !is.na(gene) & nchar(gene) > 0){
 			ptn = seqinr::translate(strsplit(as.character(gene), "")[[1]], numcode=as.numeric(transl_table))
 			ptn = paste(ptn, collapse="")
 			ptn = gsub("[*].*", "", ptn)
 			in.df[in.df[,idCol] == id,"proteinSeq"] = ptn
+
+			if (is.na(ptn)){
+				print(id)
+			}
 		}
 
 

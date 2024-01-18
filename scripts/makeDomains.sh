@@ -50,6 +50,8 @@ do
 	mv align.ali unrefined.fasta
 	mv refined.fasta align.ali
 	Rscript ../../../../../scripts/dssp2fasta.R
+
+	bash ../../../../../scripts/foldseek2fastaDomain.sh
 	
 	rm -f unrefined.fasta
 	rm -f align.rms

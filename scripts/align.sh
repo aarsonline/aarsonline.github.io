@@ -125,6 +125,11 @@ rm -f unrefined.fasta
 rm -f align.rms
 rm -f align.rmt
 
+
+bash ../../../scripts/foldseek2fasta.sh
+
+#exit
+
 # Features
 rm -r -f domains
 mkdir domains
