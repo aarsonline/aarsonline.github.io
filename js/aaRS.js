@@ -689,7 +689,6 @@ function getNameOfAccession(acc){
 
 
 
-
 	
 	acc = acc.replace(".pdb", "");
 	let metadata = DATA.metadata[acc];
