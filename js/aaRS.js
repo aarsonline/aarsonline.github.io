@@ -209,7 +209,7 @@ $("#main").append(`
 			</div>
 
 
-			<div id="alignment3" class="svgDiv">
+			<div style="display:none" id="alignment3" class="svgDiv">
 
 			</div>
 
