@@ -9,7 +9,7 @@ $ \text{Pyl} + \text{tRNA}^\text{Pyl} + \text{ATP} \xrightarrow{\text{PylRS}} \t
 
 
 
-PylRS is among the rarest AARS, found only in a small group of bacteria and archaea (Guo et al. 2022). Pyrrolysine is encoded by the stop codon UAG (Hao et al. 2002; Srinivasan et al. 2002), translated by a dedicated pyrrolysine tRNA (tRNA$^\text{Pyl}$). The activity of PylRS from Methanosarcina barkeri was first reported in 2004 (Polycarpo et al. 2004; Blight et al. 2004).
+PylRS is among the rarest AARS, found only in a small group of bacteria and archaea (Guo et al. 2022). Pyrrolysine is encoded by the stop codon UAG (Hao et al. 2002; Srinivasan et al. 2002), translated by a dedicated pyrrolysine tRNA (tRNA$^\text{Pyl}$). The activity of PylRS from *Methanosarcina barkeri* was first reported in 2004 (Polycarpo et al. 2004; Blight et al. 2004).
 
 
 ## Structure
@@ -20,7 +20,7 @@ PylRS exists in three different isoforms: PylSn-PylSc, dPylSn, and PylSn+PylSc (
 The structure of PylRS's catalytic domain is similar to that of [HisRS](/class2/his), [SepRS](/class2/sep) and [PheRS](/class2/phe1), which are part of subclass IIc
 (Kavran et al. 2007, Perona et al. 2012, Englert et al. 2013, Valencia-Sánchez et al. 2016, Douglas et al. 2023). However, its sequence closely resembles subclass IIb - [AsnRS](/class2/asn/), [AspRS](/class2/asp1), and [LysRS-II](/class2/lys/) (Fournier et al. 2009). Accordingly, PylRS is assigned to subclass IIe (Douglas et al. 2023).
 
-Like AlaRS and SerRS, PylRS does not recognize the tRNA anticodon. Instead, PylRS selects its tRNA substrate by recognizing the base at position 73 and T-loop and variable loop elements (Suzuki et al. 2017). dPylSn recognizes the overall shape of tRNA$^\text{Pyl}$ (Krahn et al. 2023). The binding of ATP in the active site is coordinated by the arginine tweezers located in motifs 2 and 3 (Kaiser et al. 2018).
+Like AlaRS and [SerRS](/class2/ser1/), PylRS does not recognize the tRNA anticodon. Instead, PylRS selects its tRNA substrate by recognizing the base at position 73 and T-loop and variable loop elements (Suzuki et al. 2017). dPylSn recognizes the overall shape of tRNA$^\text{Pyl}$ (Krahn et al. 2023). The binding of ATP in the active site is coordinated by the arginine tweezers located in motifs 2 and 3 (Kaiser et al. 2018).
 
 
 ## Editing
