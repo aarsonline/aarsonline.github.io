@@ -15,6 +15,7 @@
 <link rel="stylesheet" type="text/css" href="../css/styles.css">
 <script language='JavaScript' type='text/JavaScript' src="/js/pairwise.js"></script>
 <script language='JavaScript' type='text/JavaScript' src="/js/util.js"></script>
+<script language='JavaScript' type='text/JavaScript' src="/js/drawTree.js"></script>
         
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -49,6 +50,7 @@
 function init(){
 		renderHeader(false);
 		renderPairwiseMatrix();
+		drawFamilyTree(1, $("#familyTreeLI"));
 }
 
 
@@ -72,91 +74,129 @@ function init(){
 			<h2>Families</h1>
 
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_basic.png" />
-				<a href="arg">Arginyl tRNA synthetase</a>
-			</div>
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_cys.png" />
-				<a href="cys">Cysteinyl tRNA synthetase</a>
-			</div>
-
-			<div>
-				<img class="imgIcon" src="../fig/icon_polar.png" />
-				<a href="gln">Glutaminyl tRNA synthetase</a>
-			</div>
-
-			<div>
-				<img class="imgIcon" src="../fig/icon_acidic.png" />
-				<a href="glu1">Glutamyl tRNA synthetase (Bacterial-like)</a>
-			</div>
+				<h3>Subclass <i>Ia</i></h3>
 
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_acidic.png" />
-				<a href="glu3">Glutamyl tRNA synthetase (Eukaryote-like, discriminating)</a>
-			</div>
+					<div>
+						<img class="imgIcon" src="../fig/icon_cys.png" />
+						<a href="cys">CysRS: cysteinyl-tRNA synthetase</a>
+					</div>
 
 
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_acidic.png" />
-				<a href="glu2">Glutamyl tRNA synthetase (Archaeal-like, non-discriminating)</a>
-			</div>
-
-			<div>
-				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-				<a href="ile">Isoleucyl tRNA synthetase</a>
-			</div>
+					<div>
+						<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+						<a href="ile">ileRS: isoleucyl-tRNA synthetase</a>
+					</div>
 
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-				<a href="leu2">Leucyl tRNA synthetase (Archaeal-like)</a>
-			</div>
+					<div>
+						<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+						<a href="leu2">LeyRS-A leucyl-tRNA synthetase (Archaeal-like)</a>
+					</div>
 
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-				<a href="leu1">Leucyl tRNA synthetase (Bacterial-like)</a>
-			</div>
+					<div>
+						<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+						<a href="leu1">LeuRS-B: leucyl-tRNA synthetase (Bacterial-like)</a>
+					</div>
 
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_basic.png" />
-				<a href="lys">Lysyl tRNA synthetase</a>
-			</div>
-
-			<div>
-				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-				<a href="met">Methionyl tRNA synthetase</a>
-			</div>
-
-			<div>
-				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-				<a href="trp">Tryptophanyl tRNA synthetase</a>
-			</div>
+								<div>
+						<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+						<a href="met">MetRS: methionyl-tRNA synthetase</a>
+					</div>
 
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_aromatic.png" />
-				<a href="tyr">Tyrosyl tRNA synthetase</a>
-			</div>
 
-			<div>
-				<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-				<a href="val">Valyl tRNA synthetase</a>
-			</div>
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+						<a href="val">ValRS: valyl-tRNA synthetase</a>
+					</div>
+
+
+				<h3>Subclass <i>Ib</i></h3>
+
+
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_polar.png" />
+						<a href="gln">GlnRS: glutaminyl-tRNA synthetase</a>
+					</div>
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_acidic.png" />
+						<a href="glu1">GluRS-B and GlxRS-B: glutamyl-tRNA synthetases (Bacterial-like)</a>
+					</div>
+
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_acidic.png" />
+						<a href="glu3">GluRS-E: glutamyl-tRNA synthetase (Eukaryote-like, discriminating)</a>
+					</div>
+
+
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_acidic.png" />
+						<a href="glu2">GlxRS-A: glutamyl-tRNA synthetase (Archaeal-like, non-discriminating)</a>
+					</div>
+
+
+				<h3>Subclass <i>Ic</i></h3>
+
+
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+						<a href="trp">TrpRS: tryptophanyl tRNA synthetase</a>
+					</div>
+
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_aromatic.png" />
+						<a href="tyr">TyrRS: tyrosyl tRNA synthetase</a>
+					</div>
+
+
+				<h3>Subclass <i>Id</i></h3>
+
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_basic.png" />
+						<a href="lys">LysRS-I: lysyl tRNA synthetase (Class I)</a>
+					</div>
+
+
+				<h3>Subclass <i>Ie</i></h3>
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_basic.png" />
+					<a href="arg">ArgRS: arginyl tRNA synthetase</a>
+				</div>
+
+
 
 
 		</li>
 
 
+			<li class="contents" id="familyTreeLI">
+
+
+			</li>
+		
+
+
 
 		<li class="contents">
 
-				<h2>tRNA binding domains</h1>
+
+				<h2>Non-catalytic domains</h2>
+
+				<h3>tRNA binding domains</h3>
 			
 			
 				<div>
@@ -190,14 +230,14 @@ function init(){
 				</div>
 
 
-				<h2>Editing domains</h1>
+				<h3>Editing domains</h3>
 
 				<div>
 					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
 					<a href="/superfamily/class1/Editing_domain_1a">Editing domain 1a (LIV) </a>
 				</div>
 
-				<h2>Other domains</h1>
+				<h3>Other domains</h3>
 
 				
 				
@@ -215,6 +255,7 @@ function init(){
 
 
 		</li>
+
 
 
 
