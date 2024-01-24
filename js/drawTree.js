@@ -286,7 +286,7 @@ function getImageOfFamily(familyName){
 		return "icon_gly";
 	}
 
-	if (shortName == "LysRS" || shortName == "ArgRS" || shortName == "HisRS" || shortName == "PylRS"){
+	if (shortName == "LysRS" || shortName == "ArgRS" || shortName == "PylRS"){
 		return "icon_basic";
 	}
 
@@ -300,7 +300,11 @@ function getImageOfFamily(familyName){
 	}
 
 
-	if (shortName == "IleRS" || shortName == "MetRS" || shortName == "LeuRS" || shortName == "ValRS" || shortName == "AlaRS" || shortName == "PheRS" || shortName == "TyrRS" || shortName == "TrpRS"){
+	if (shortName == "TyrRS" || shortName == "HisRS"){
+		return "icon_aromatic";
+	}
+
+	if (shortName == "IleRS" || shortName == "MetRS" || shortName == "LeuRS" || shortName == "ValRS" || shortName == "AlaRS" || shortName == "PheRS" || shortName == "TrpRS"){
 		return "icon_hydrophobic";
 	}
 
