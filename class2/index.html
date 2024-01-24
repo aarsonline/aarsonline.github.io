@@ -14,7 +14,10 @@
 <link rel="stylesheet" type="text/css" href="../css/styles.css">
 <script language='JavaScript' type='text/JavaScript' src="/js/pairwise.js"></script>
 <script language='JavaScript' type='text/JavaScript' src="/js/util.js"></script>
-        
+<script language='JavaScript' type='text/JavaScript' src="/js/drawTree.js"></script>
+
+
+
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
@@ -47,6 +50,7 @@
 function init(){
 		renderHeader(false);
 		renderPairwiseMatrix();
+		drawFamilyTree(2, $("#familyTreeLI"));
 }
 
 
@@ -69,142 +73,184 @@ function init(){
 
 				<h2>AARS Families</h1>
 
-				<div>
-					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-					<a href="ala">Alanyl-tRNA synthetase</a>
-				</div>
 
-				<div>
-					<img class="imgIcon" src="../fig/icon_polar.png" />
-					<a href="asn">Asparginyl-tRNA synthetase</a>
-				</div>
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_acidic.png" />
-					<a href="asp1">Aspartyl-tRNA synthetase (discriminating)</a>
-				</div>
+					<h3>Subclass <i>IIa</i></h3>
 
 
-				<div>
-					<img class="imgIcon" src="../fig/icon_acidic.png" />
-					<a href="asp2">Eukaryotic and Archaeal aspartyl-tRNA synthetases (discriminating and non-discriminating)</a>
-				</div>
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_gly.png" />
-					<a href="gly1">Glycyl-tRNA synthetase (Archaeal-like)</a>
-				</div>
+					<div>
+						<img class="imgIcon" src="../fig/icon_gly.png" />
+						<a href="gly1">GlyRS-A: glycyl-tRNA synthetase (Archaeal-like)</a>
+					</div>
 
 
-				<div>
-					<img class="imgIcon" src="../fig/icon_gly.png" />
-					<a href="gly3">Glycyl-tRNA synthetase (Eukaryote-like)</a>
-				</div>
-				
-				
-				<div>
-					<img class="imgIcon" src="../fig/icon_gly.png" />
-					<a href="gly2">Glycyl-tRNA synthetase (Bacterial-like)</a>
-				</div>
-
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_aromatic.png" />
-					<a href="his">Histidyl-tRNA synthetase</a>
-				</div>
-				
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_basic.png" />
-					<a href="lys">Lysyl-tRNA synthetase</a>
-				</div>
-
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_cys.png" />
-					<a href="sep">O-phosphoseryl-tRNA Synthetase</a>
-				</div>
-
-
-
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-					<a href="phe1">Phenylalanyl-tRNA synthetase &alpha; subunit (Bacterial-like)</a>
-				</div>
-
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-					<a href="phe2">Phenylalanyl-tRNA synthetase &beta; subunit (Bacterial-like)</a>
-				</div>
-
-
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-					<a href="phe3">Phenylalanyl-tRNA synthetase &alpha; subunit (Archaeal-like)</a>
-				</div>
-
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-					<a href="phe4">Phenylalanyl-tRNA synthetase &beta; subunit (Archaeal-like)</a>
-				</div>
-
-
-
-				<div>
-					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
-					<a href="phe5">Phenylalanyl-tRNA Synthetase (Mitochondrial-like)</a>
-				</div>
+					<div>
+						<img class="imgIcon" src="../fig/icon_gly.png" />
+						<a href="gly3">GlyRS-E: glycyl-tRNA synthetase (Eukaryote-like)</a>
+					</div>
+					
 
 		
 
 				<div>
 					<img class="imgIcon" src="../fig/icon_pro.png" />
-					<a href="pro1">Prolyl-tRNA synthetase (Archaeal-like)</a>
+					<a href="pro1">ProRS-A: prolyl-tRNA synthetase (Archaeal-like)</a>
 				</div>
 
 				<div>
 					<img class="imgIcon" src="../fig/icon_pro.png" />
-					<a href="pro2">Prolyl-tRNA synthetase (Bacterial-like)</a>
+					<a href="pro2">ProRS-B: prolyl-tRNA synthetase (Bacterial-like)</a>
 				</div>
 
 				<div>
 					<img class="imgIcon" src="../fig/icon_pro.png" />
-					<a href="pro3">Prolyl-tRNA synthetase (Mitochondrial-like)</a>
+					<a href="pro3">ProRS-M: prolyl-tRNA synthetase (Mitochondrial-like)</a>
 				</div>
+
+
+
+
+
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_polar.png" />
+					<a href="ser1">SerRS: seryl-tRNA synthetase (standard)</a>
+				</div>
+				
+				
+				<div>
+					<img class="imgIcon" src="../fig/icon_polar.png" />
+					<a href="ser2">SerRS-A: seryl-tRNA synthetase (Archaeal-like)</a>
+				</div>
+
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_polar.png" />
+					<a href="thr">ThrRS: threonyl-tRNA synthetase</a>
+				</div>
+
+					<h3>Subclass <i>IIb</i></h3>
+
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_acidic.png" />
+						<a href="asp1">AspRS-B: aspartyl-tRNA synthetase (Bacterial-like)</a>
+					</div>
+
+
+					<div>
+						<img class="imgIcon" src="../fig/icon_acidic.png" />
+						<a href="asp2">AspRS-E: aspartyl-tRNA synthetases (Eukaryote-like)</a>
+					</div>
+
+
+
+						<div>
+							<img class="imgIcon" src="../fig/icon_polar.png" />
+							<a href="asn">AsnRS: asparginyl-tRNA synthetase</a>
+						</div>
 
 
 				<div>
 					<img class="imgIcon" src="../fig/icon_basic.png" />
-					<a href="pyl">Pyrrolysyl-tRNA synthetase</a>
+					<a href="lys">LysRS-II: Lysyl-tRNA synthetase (Class II)</a>
 				</div>
 
 
+
+					<h3>Subclass <i>IIc</i></h3>
+
+
+
 				<div>
-					<img class="imgIcon" src="../fig/icon_polar.png" />
-					<a href="ser1">Seryl-tRNA synthetase (standard)</a>
+					<img class="imgIcon" src="../fig/icon_aromatic.png" />
+					<a href="his">HisRS: histidyl-tRNA synthetase</a>
 				</div>
 				
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_cys.png" />
+					<a href="sep">SepRS: O-phosphoseryl-tRNA synthetase</a>
+				</div>
+
+
+
+
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+					<a href="phe1">PheRS-B&alpha;: phenylalanyl-tRNA synthetase &alpha; chain (Bacterial-like)</a>
+				</div>
+
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+					<a href="phe2">PheRS-B&beta;: phenylalanyl-tRNA synthetase &beta; chain (Bacterial-like)</a>
+				</div>
+
+
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+					<a href="phe3">PheRS-A&alpha;: phenylalanyl-tRNA synthetase &alpha; chain (Archaeal-like)</a>
+				</div>
+
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+					<a href="phe4">PheRS-A&beta;: phenylalanyl-tRNA synthetase &beta; chain (Archaeal-like)</a>
+				</div>
+
+
+
+				<div>
+					<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+					<a href="phe5">PheRS-M: phenylalanyl-tRNA synthetase (Mitochondrial-like)</a>
+				</div>
+
+
+
+					<h3>Subclass <i>IId</i></h3>
+
+						<div>
+							<img class="imgIcon" src="../fig/icon_hydrophobic.png" />
+							<a href="ala">AlaRS: alanyl-tRNA synthetase</a>
+						</div>
+
 				
+					<div>
+						<img class="imgIcon" src="../fig/icon_gly.png" />
+						<a href="gly2">GlyRS-B: glycyl-tRNA synthetase (Bacterial-like)</a>
+					</div>
+
+
+					<h3>Subclass <i>IIe</i></h3>
+
+
+
 				<div>
-					<img class="imgIcon" src="../fig/icon_polar.png" />
-					<a href="ser2">Seryl-tRNA synthetase (Archaeal-like)</a>
+					<img class="imgIcon" src="../fig/icon_basic.png" />
+					<a href="pyl">PylRS: pyrrolysyl-tRNA synthetase</a>
 				</div>
 
 
-				<div>
-					<img class="imgIcon" src="../fig/icon_polar.png" />
-					<a href="thr">Threonyl-tRNA synthetase</a>
-				</div>
+
 
 			</li>
 
+
+
+			<li class="contents" id="familyTreeLI">
+
+
+			</li>
+		
+
+
 			<li class="contents">
 
-					<h2>tRNA binding domains</h1>
+					<h2>Non-catalytic domains</h2>
+
+					<h3>tRNA binding domains</h3>
 				
 				
 					<div>
@@ -224,7 +270,7 @@ function init(){
 						<a href="/superfamily/class2/Anticodon_binding_domain_F">Anticodon binding domain (F)</a>
 					</div>
 
-						<h2>Editing domains</h1>
+						<h3>Editing domains</h3>
 
 					<div>
 						<img class="imgIcon" src="../fig/icon_white.png" />
@@ -234,7 +280,6 @@ function init(){
 			</li>
 
 
-		
 
 
 

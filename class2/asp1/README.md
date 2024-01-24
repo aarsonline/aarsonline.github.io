@@ -1,4 +1,4 @@
-The discriminating aspartyl tRNA synthetase (AspRS) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the amino acid aspartate to its cognate tRNA:
+The bacterial-like aspartyl tRNA synthetase (AspRS) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the amino acid aspartate to its cognate tRNA:
 
 
 
