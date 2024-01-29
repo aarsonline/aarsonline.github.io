@@ -7,7 +7,7 @@ Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacyla
 
 Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
-
+Karaca, Ender, et al. "Genes that affect brain structure and function identified by rare variant analyses of Mendelian neurologic disease." Neuron 88.3 (2015): 499-513.
 
 Osamu Nureki and Shigeyuki Yokoyama. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 7: Valyl-tRNA Synthetases.
 
