@@ -27,10 +27,6 @@ Zhou, Xiao-Long, Bin Zhu, and En-Duo Wang. "The CP2 domain of leucyl-tRNA synthe
 
 Starzyk, Ruth M., Teresa A. Webster, and Paul Schimmel. "Evidence for dispensable sequences inserted into a nucleotide fold." Science 237.4822 (1987): 1614-1618.
 
-Casey, Jillian P., et al. "Identification of a mutation in LARS as a novel cause of infantile hepatopathy." Molecular genetics and metabolism 106.3 (2012): 351-358.
-
-Lenz, Dominic, et al. "Genotypic diversity and phenotypic spectrum of infantile liver failure syndrome type 1 due to variants in LARS1." Genetics in Medicine 22.11 (2020): 1863-1873.
-
 Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.
 
 

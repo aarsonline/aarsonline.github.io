@@ -34,6 +34,7 @@ Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
 
+Mendes, Marisa I., et al. "Bi-allelic mutations in EPRS, encoding the glutamyl-prolyl-aminoacyl-tRNA synthetase, cause a hypomyelinating leukodystrophy." The American Journal of Human Genetics 102.4 (2018): 676-684.
 
 
 Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic Origins of Glycyl tRNA Synthetases." Journal of Biological Chemistry 291.28 (2016): 14430-14446.

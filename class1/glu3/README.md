@@ -45,4 +45,6 @@ In human cells, EPRS is part of the of the interferon (IFN)- gamma-activated inh
 
 ## Clinical significance
 
-The human gene EPRS encoding the cytosolic glutamyl-prolyl tRNA synthetase is involved in autosomal recessive hypomyelinating leukodystrophy 15 (HLD15), which is caused by homozygous or compound heterozygous mutations (Mendes et al. 2018).
+
+The human EPRS gene is involved in autosomal recessive hypomyelinating leukodystrophy 15 (HLD15), which is caused by homozygous or compound heterozygous mutations (Mendes et al. 2018).
+

@@ -46,6 +46,6 @@ It is also a mTOR-S6K1 effector that regulates long-chain fatty acid uptake (Ari
 
 ## Clinical significance
 
-The human genome does not contain a separate gene for the cytosolic prolyl tRNA synthetase, but it is encoded by the EPRS gene for glutamyl-prolyl tRNA synthetase. Please see glu3 for clinical significance of EPRS.
+The human EPRS gene is involved in autosomal recessive hypomyelinating leukodystrophy 15 (HLD15), which is caused by homozygous or compound heterozygous mutations (Mendes et al. 2018).
 
 

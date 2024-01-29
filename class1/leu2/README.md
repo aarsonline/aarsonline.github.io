@@ -66,3 +66,8 @@ Mutational studies have revealed that mutating the histidine residues of the HIG
 
 
 ## Clinical significance
+
+Biallelic recessive variants in the human gene LARS1 encoding the cytosolic LeuRS cause infantile liver failure syndrome 1 (ILFS1) (Casey et al. 2012; Lenz et al. 2020). Liver failure can occur in conjunction with abnormalities of growth, blood, nervous system, and musculature. 
+The human LARS2 gene encoding mitochondrial LeuRS is part of the bacterial-like LeuRS-B family.
+
+
