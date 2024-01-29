@@ -30,7 +30,7 @@ Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution 
 
 Daniel Y. Dubois, Jacques Lapointe and Shun-ichi Sekine. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 10: Glutamyl-tRNA Synthetases.
 
-
+Mendes, Marisa I., et al. "Bi-allelic mutations in EPRS, encoding the glutamyl-prolyl-aminoacyl-tRNA synthetase, cause a hypomyelinating leukodystrophy." The American Journal of Human Genetics 102.4 (2018): 676-684.
 
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
