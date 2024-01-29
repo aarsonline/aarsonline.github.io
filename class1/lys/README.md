@@ -16,7 +16,7 @@ The Class I LysRS is present in most archaea and some bacteria, but to date has 
 
 ## Structure
 
-The C-terminal [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EK) is &alpha;-helical rich and similar to [GluRS](/class1/glu1) (Terada et al. 2002).  Lysine activation and recognition by Class I LysRS is tRNA-dependent, an attribute of several class I, but not class II, synthetases.
+The C-terminal [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EK) is &alpha;-helical rich and similar to [GluRS](/class1/glu1) (Terada et al. 2002).  Lysine activation and recognition by Class I LysRS is tRNA-dependent, an attribute of several class I, but not class II, synthetases (Ibba et. 1999).
 However, the catalytic domain is not immediately related to any other Class I synthetases, and as such, the enzyme belongs to its own subclass d (Douglas et al. 2023). 
 Like most members of the superfamily, ATP binding is coordinated by the backbone brackets (Kaiser et al. 2018). 
 The catalytic domain is characterized by the $\beta$-rich LysRS-I insertion module. Its functional role remains unclear. 
