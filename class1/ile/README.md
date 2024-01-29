@@ -42,8 +42,9 @@ Post-transfer editing defines the "double sieve" selectivity mechanism of certai
  The structural mechanism of post-transfer editing involves translocation of the single-stranded 3'-end of the misacylated tRNA from 
  the synthetic site to the post-transfer editing site in the inserted editing domain (Silvian et al., 1999).
 
+
 In IleRS, tRNA-dependent pre-transfer editing of misactivated Val-AMP plays a significant role in establishing selectivity against valine. 
-This reaction is important because the mechanistic rate constant for transfer of Val to tRNA$^\text{Ile}$ is unusually slow, allowing effective competition by an active-site water molecule. 
+This reaction is important because the mechanistic rate constant for transfer of Val to tRNA$^\text{Ile}$ is unusually slow, allowing effective competition by an active-site water molecule (Dulic et al. 2010, 2014). 
 In contrast, ValRS-catalyzed transfer of noncognate threonine to tRNA$^\text{Val}$ is rapid, so that editing by ValRS is accomplished almost entirely by the post-transfer reaction. 
 The rate of tRNA-dependent pre-transfer editing by IleRS is not sensitive to mutations in the inserted editing domain that inactivate post-transfer editing, 
 demonstrating that this activity occurs in the synthetic active site (Dulic et al., 2010). 
