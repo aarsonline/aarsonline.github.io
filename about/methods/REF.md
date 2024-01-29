@@ -26,3 +26,7 @@ Bouckaert, Remco R. "OBAMA: OBAMA for Bayesian amino-acid model averaging." Peer
 
 Bouckaert, Remco, et al. "BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis." PLoS computational biology 15.4 (2019): e1006650.
 
+Mirdita, M., Schütze, K., Moriwaki, Y. et al. ColabFold: making protein folding accessible to all. Nat Methods 19, 679–682 (2022). https://doi.org/10.1038/s41592-022-01488-1
+
+Tamarind Bio. State of the art computational tools for biology. (2023). https://www.tamarind.bio/.
+

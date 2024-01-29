@@ -7,6 +7,9 @@
 ## Protein structure prediction
 
 Protein structures were predicted with AlphaFold v2.3.0 (Jumper et al. 2021).
+Some of these AlphaFold calls were executed using ColabFold through Tamarind Bio (Mirdita et al. 2022).
+
+
 
 ## Alignments
 
