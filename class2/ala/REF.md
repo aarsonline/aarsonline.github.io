@@ -1,3 +1,5 @@
+Euro, Liliya, et al. "Structural modeling of tissue-specific mitochondrial alanyl-tRNA synthetase (AARS2) defects predicts differential effects on aminoacylation." Frontiers in Genetics 6 (2015): 21.
+
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
 Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacylation and beyond." Nucleic Acids Research 51.4 (2023): 1528-1570.
