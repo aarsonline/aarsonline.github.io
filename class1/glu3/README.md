@@ -16,7 +16,7 @@ Their diversification occurred after the last universal common ancestor, with ba
 
 
 This page details the eukaryote-like GluRS-E, which is a discriminating form of GluRS found in many eukaryotic cytosols, and is characterized by an N-terminal glutathione S-transferase ([GST](/superfamily/class1/GST)) domain (Simader et al., 2006). However, in the yeast Saccharomyces cerevisisae it has been shown to also be capable of being imported into mitochondria to generate the mitochondrial Glu-tRNA$^\text{Gln}$ that will be transamidated by a mitochondrial GatFAB AdT (Frechin et al., 2009).
-In most animals, including humans, glutamyl-tRNA is produced by a fusion protien glutamyl-prolyl tRNA synthetase (EPRS) (Cerini et al., 1991, Berthonneau et al. 2000). 
+In most animals, including humans, glutamyl-tRNA is produced by a fusion protein glutamyl-prolyl tRNA synthetase (EPRS) (Cerini et al., 1991, Berthonneau et al. 2000). 
 EPRS contains the catalytic domains from both GluRS-E and [ProRS-A](/class2/pro1/), as well as the ProRS-A zinc binding domain, and the GluRS GST domain. 
 Glutamic acid is a metabolic precursor for proline, which suggests a possible explanation for the origin of this protein (Eswarappa et al. 2018).In addition, in mammals, EPRS is a component of the multisynthetase complex (MSC) (Bandyopadhyay and Deutscher, 1971) composed of 9 aminoacyl-tRNA synthetases (7 mono-functional aminoacyl-tRNA synthetases and the bi-functional EPRS) and 3 Aminoacyl-tRNA synthetase Interacting Multifunctional Proteins (AIMPs: AIMP1 or P43, AIMP2 or P38 and AIMP3 or P18 )(Mirande et al., 1982, Park et al., 2005). 
 
@@ -44,3 +44,5 @@ In human cells, EPRS is part of the of the interferon (IFN)- gamma-activated inh
 
 
 ## Clinical significance
+
+The human gene EPRS encoding the cytosolic glutamyl-prolyl tRNA synthetase is involved in autosomal recessive hypomyelinating leukodystrophy 15 (HLD15), which is caused by homozygous or compound heterozygous mutations (Mendes et al. 2018).
