@@ -38,5 +38,7 @@ The catalytic domain of AsnRS, much like the other members of subclass IIb, is c
 
 ## Clinical significance
 
+The human gene NARS1 encoding the cytosolic AsnRS has been linked to two similar neurodevelopmental diseases. The first named NEDMILG for neurodevelopmental disorder with microcephaly, impaired language, and gait abnormalities is caused by biallelic variants (homozygous or heterozygous), whereas in the second entity named NEDMILEG for neurodevelopmental disorder with microcephaly, impaired language, epilepsy, and gait abnormalities the causative variant is a de novo heterozygous mutation (Manole et al. 2020). 
+
 Biallelic recessive variants (homozygous and compound heterozygous) in the human gene NARS2 encoding the mitochondrial AsnRS cause brain disease and phenotypes including Alpers syndrome (Sofou et al. 2015) and non-syndromic deafness and Leigh syndrome (Simon et al. 2015). The exhaustive list of disease-causing variants of NARS2 (including location on sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=NARS2). Mutations have been mapped to all domains of the mt-AsnRS except the N-terminal mitochondrial targeting sequence.
 
