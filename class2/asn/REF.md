@@ -46,3 +46,4 @@ de Pouplana, Lluıs Ribas, and Paul Schimmel. "Operational RNA code for amino ac
 
 Raczniak, Gregory, et al. "A single amidotransferase forms asparaginyl-tRNA and glutaminyl-tRNA in Chlamydia trachomatis." Journal of Biological Chemistry 276.49 (2001): 45862-45867.
 
+Manole, Andreea, et al. "De novo and bi-allelic pathogenic variants in NARS1 cause neurodevelopmental delay due to toxic gain-of-function and partial loss-of-function effects." The American Journal of Human Genetics 107.2 (2020): 311-324.
