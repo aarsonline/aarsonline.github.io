@@ -11,7 +11,7 @@ Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacyla
 Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.
 
 
-
+Theil, Arjan F., et al. "Bi-allelic TARS mutations are associated with brittle hair phenotype." The American Journal of Human Genetics 105.2 (2019): 434-440.
 
 
 Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases." PLoS computational biology 14.4 (2018): e1006101.
