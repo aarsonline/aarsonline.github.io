@@ -53,3 +53,7 @@ Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic
 
 Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases." PLoS computational biology 14.4 (2018): e1006101.
 
+Puffenberger, Erik G., et al. "Genetic mapping and exome sequencing identify variants associated with five novel diseases." PloS one 7.1 (2012): e28936.
+
+Safka Brozkova, Dana, et al. "Loss of function mutations in HARS cause a spectrum of inherited peripheral neuropathies." Brain 138.8 (2015): 2161-2172.
+
