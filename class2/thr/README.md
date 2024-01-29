@@ -36,7 +36,9 @@ The human mitochondrial ThrRS (TARS2) is required for threonine-sensitive activa
 
 ## Clinical significance
 
-Biallelic recessive variants (homozygous and heterozygous compound) in the human gene TARS2 encoding the mitochondrial ThrRS cause a mitochondrial encephalomyopathy (fristly described in Diodato et al. 2014). The exhaustive list of disease-causing variants of TARS2 (including location on the sequence and the structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=TARS2). Mutations have been mapped to all domains of the mt-ThrRS except the N-terminal mitochondrial targeting sequence (MTS). 
+The human gene TARS1 encoding the cytosolic ThrRS has been linked to autosomal recessive nonphotosensitive trichothiodystrophy-7 (TTD7), which is caused by homozygous or compound heterozygous variants (Theil et al. 2019). It is characterized by brittle hair and ichthyosis, a skin disease.
+
+Biallelic recessive variants (homozygous and heterozygous compound) in the human gene TARS2 encoding the mitochondrial ThrRS cause a mitochondrial encephalomyopathy (firstly described in Diodato et al. 2014). The exhaustive list of disease-causing variants of TARS2 (including location on the sequence and the structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=TARS2). Mutations have been mapped to all domains of the mt-ThrRS except the N-terminal mitochondrial targeting sequence (MTS). 
 
 
 
