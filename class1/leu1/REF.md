@@ -14,12 +14,19 @@ Tommie L. Lincecum, Jr. and Susan A. Martinis. "The Aminoacyl-tRNA Synthetases" 
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
-
+Cvetesic, Nevena, et al. "Kinetic partitioning between synthetic and editing pathways in class I aminoacyl-tRNA synthetases occurs at both pre-transfer and post-transfer hydrolytic steps." J. Biol. Chem. 287, 25381-25394 (2012).
 
 Cusack, Stephen, Anna Yaremchuk, and Michael Tukalo. "The 2 Å crystal structure of leucyl-tRNA synthetase and its complex with a leucyl-adenylate analogue." The EMBO Journal 19.10 (2000): 2351-2361.
 
+Bilus, Mirna, et al., "On the mechanism and origin of isoleuyl-tRNA synthetase editing against norvaline." J. Mol. Biol. 431, 1284-1297 (2019).
 
 
+
+Palencia, A., et al. "Structural dynamics of the aminoacylation and proofreading functional cycle of bacterial leucyl-tRNA synthetase." Nat. Struct. Mol. Biol. 19, 677-684 (2012).
+Pang, L., et al. "Partitioning of the initial catalytic steps of leucyl-tRNA synthetase is driven by an active site peptide-plane flip." Commun. Biol. 5(1):883 (2022).
+
+
+Dulic, Morana, et al. "Kinetic origin of substrate specificity in post-transfer editing by leucyl-tRNA synthetase." J. Mol. Biol. 430, 1-16 (2018).
 
 Zhou, Xiao-Long, Bin Zhu, and En-Duo Wang. "The CP2 domain of leucyl-tRNA synthetase is crucial for amino acid activation and post-transfer editing." Journal of Biological Chemistry 283.52 (2008): 36608-36616.
 

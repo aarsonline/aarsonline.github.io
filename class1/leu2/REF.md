@@ -4,11 +4,6 @@ Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visuali
 Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacylation and beyond." Nucleic Acids Research 51.4 (2023): 1528-1570.
 
 
-Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
-
-Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacylation and beyond." Nucleic Acids Research 51.4 (2023): 1528-1570.
-
-
 Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
@@ -19,8 +14,6 @@ Tommie L. Lincecum, Jr. and Susan A. Martinis. "The Aminoacyl-tRNA Synthetases" 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
 
-
-Cusack, Stephen, Anna Yaremchuk, and Michael Tukalo. "The 2 Å crystal structure of leucyl-tRNA synthetase and its complex with a leucyl-adenylate analogue." The EMBO Journal 19.10 (2000): 2351-2361.
 
 
 
@@ -57,11 +50,6 @@ Fukunaga, Ryuya, and Shigeyuki Yokoyama. "Crystal structure of leucyl-tRNA synth
 
 
 
-Rock, Fernando L., et al. "An antifungal agent inhibits an aminoacyl-tRNA synthetase by trapping tRNA in the editing site." science 316.5832 (2007): 1759-1761.
-
-
-
-Tukalo, Michael, et al. "The crystal structure of leucyl-tRNA synthetase complexed with tRNALeu in the post-transfer–editing conformation." Nature structural & molecular biology 12.10 (2005): 923-930.
 
 
 

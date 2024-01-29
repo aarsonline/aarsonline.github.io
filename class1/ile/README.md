@@ -10,7 +10,7 @@ the two halves of the Rossmann fold (Nureki et al., 1998)
 ## Structure
 
 IleRS is closely related to the [LeuRS-A](/class1/leu2), [LeuRS-B](/class1/leu1), [ValRS](/class1/val), [MetRS](/class1/met), and [CysRS](/class1/cys) families, which comprise 
-subclass Ia (Perona and Hadd 2012, Gomez and Ibba, 2020).
+subclass Ia (Perona and Hadd 2012, Gomez and Ibba, 2020, Douglas et al. 2023).
 Most members of subclass Ia are characterized by their hydrophobic amino acid substrates, as well as the connecting peptide 2 (CP2) and zinc finger (ZF) insertions, depicted below. 
 CP2 is a 30-40 amino acid two-helix bundle on the surface of the catalytic domain (Starzyk et al. 1987) and appears to be essential for amino acid activation (Zhou at al. 2008). 
 Upstream from this resides a cysteine-rich zinc finger, 20-40 amino acids in length, also essential for effective aminoacylation (Nureki et al. 1993, Sugiura et al. 2000). 
@@ -19,8 +19,8 @@ Its functional role is unclear.
 
 
 There are two types of IleRS, which have distinct sequences and C-terminal domain architectures. 
-Both forms possess a  [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL), that recognises the anticodon loop, residing downstream from the catalytic domain.
-The helical domain is universal across the members of subclass Ia, and is also found in [ArgRS](/class1/arg).
+Both forms possess a  [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL), that recognizes the anticodon loop, residing C-terminal to the catalytic domain.
+This helical domain is universal across the members of subclass Ia, and is also found in [ArgRS](/class1/arg).
 However, the remaining C-terminal regions vary between the two IleRS types.
 The first type, IleRS-1, is found in certain bacteria, organelles, and eukaryotic cytosols.
 It possesses a [C-terminal junction domain](/superfamily/class1/C-terminal_junction_domain) and a zinc finger downstream from the helical bundle.
@@ -30,12 +30,15 @@ It lacks the N-terminal extension and zinc finger motif (Brkic et al. 2023), and
 
 
 
+Most X-ray crystallographic work on IleRS has focused on enzymes from the domain Bacteria. However, a structure of the enzyme from a eukaryotic enzyme is of interest because bacterial IleRS from pathogenic organisms are targets for the development of pharmaceuticals. The crystal structure of Candida albicans IleRS showed structural differences compared to the bacterial enzyme, in both signature Class I AARS motifs (HIGH and KMSKS) found in the active site (Chung et al., 2020). The authors suggest that the more compact active site of the eukaryotic enzyme plays an important role in the resistance of this enzyme to anti-infective agents. The resistance of the bacterium *Staphylococcus aureus* to antibiotics targeting IleRS is also due to alterations in the HIGH motif (Brkic et al., 2023).
+
+
 ## Editing
 
-IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a) inserted between the two halves of the Rossmann fold, which is absent from the Class 1a MetRS and CysRS enzymes. 
+IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a) inserted between the two halves of the Rossmann fold, which is absent from the Class Ia MetRS and CysRS enzymes. 
 The post-transfer editing domain enhances amino acid selectivity by catalyzing the hydrolysis of misacylated amino acids. 
 In the case of IleRS, significant misacylation requiring post-transfer editing occurs for both valine and norvaline (Bilus et al., 2019; Gomez and Ibba, 2020). 
-Post-transfer editing defines the "double sieve" selectivity mechanism of certain aaRS enzymes, including IleRS, against noncognate amino acids.
+Post-transfer editing defines the "double sieve" selectivity mechanism of certain AARS enzymes, including IleRS, against noncognate amino acids.
  The structural mechanism of post-transfer editing involves translocation of the single-stranded 3'-end of the misacylated tRNA from 
  the synthetic site to the post-transfer editing site in the inserted editing domain (Silvian et al., 1999).
 
@@ -58,9 +61,5 @@ Biallelic recessive (homozygous and compound heterozygous) variants in the human
 
 
 
-Most X-ray crystallographic work on IleRS has focused on enzymes from the domain Bacteria. 
-However, a structure of the enzyme from a eukaryotic enzyme is of interest because bacterial IleRS from pathogenic organisms are targets for the development of pharmaceuticals. 
-The crystal structure of *Candida albicans* IleRS showed structural differences compared to the bacterial enzyme, in both signature Class I aaRS motifs (HIGH and KMSKS) found in the active site (Chung et al., 2020).
-The authors suggest that the more compact active site of the eukaryotic enzyme plays an important role in the resistance of this enzyme to anti-infective agents. 
-The resistance of the bacterium *Staphylococcus aureus* to antibiotics targeting IleRS is also due to alterations in the HIGH motif (Brkic et al., 2023). 
+Antibiotic resistance for *Staphylococcus aureus* is conferred by mutations in IleRS  (Brkic et al., 2023). 
 

@@ -15,8 +15,6 @@ Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 2
 
 Bilus, Mirna et al. "On the mechanism and origin of isoleucyl-tRNA synthetase editing against norvaline." J. Mol. Biol. 431, 1284-1297 (2019).
 
-Brian E. Nordin and Paul Schimmel. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 4: Isoleuyl-tRNA Synthetases.
-
 
 Dulic, Morana, et al., "Partitioning of tRNA-dependent editing between pre- and post-transfer pathways in class I aminoacyl-tRNA synthetases." J. Biol. Chem. 285, 23799-23809 (2010).
 
@@ -60,4 +58,4 @@ Chen, Bingyi, et al. "Inhibitory mechanism of reveromycin A at the tRNA binding 
 
 
 
-Brkic, Alojzije, et al. "Antibiotic hyper-resistance in a class I aminoacyl-tRNA synthetase with altered active site signature motif." bioRxiv (2023): 2023-01.
+Brkic, Alojzije, et al. "Antibiotic hyper-resistance in a class I aminoacyl-tRNA synthetase with altered active site signature motif." Nature Communications 14(1): 5498 (2023).

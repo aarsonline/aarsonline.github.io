@@ -63,4 +63,11 @@ Fukunaga, Ryuya, and Shigeyuki Yokoyama. "Crystal structure of leucyl-tRNA synth
 
 Fukai, Shuya, et al. "Structural basis for double-sieve discrimination of L-valine from L-isoleucine and L-threonine by the complex of tRNAVal and valyl-tRNA synthetase." Cell 103.5 (2000): 793-803.
 
+Fukai, Shuya, et al. "Mechanism of molecular interactions for tRNA(Val) recognition by valyl-tRNA synthetase." RNA 9, 100-111 (2003).
+
+
+Silvian, Laura F., Jimin Wang, and Thomas A. Steitz. "Insights into editing from an ile-tRNA synthetase structure with tRNAile and mupirocin." Science 285.5430 (1999): 1074-1077.
+
+
+Bilus, Mirna, et al., "On the mechanism and origin of isoleuyl-tRNA synthetase editing against norvaline." J. Mol. Biol. 431, 1284-1297 (2019).
 

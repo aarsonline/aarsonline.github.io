@@ -1,5 +1,5 @@
 
-The archaeal-like leucyl-tRNA synthetase (LeuRS-A) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the amino acid leucine to its cognate tRNA:
+The archaeal-like leucyl-tRNA synthetase (LeuRS-A) plays a crucial role in protein synthesis by catalyzing the attachment of leucine to its cognate tRNA:
 
 
 
@@ -11,11 +11,12 @@ $ \text{Leu} + \text{tRNA}^\text{Leu} + \text{ATP} \xrightarrow{\text{LeuRS-A}} 
 
 
 LeuRS-A is found in most archaea, and differs from the bacterial-like form [LeuRS-B](/class1/leu1), which is found in most bacteria and organelles. 
-Either type may reside in a eukaryotic cytosol.  The two forms are characterized by their abilities to charge tRNAs corresponding to six different codons.
-In the standard genetic code, [ArgRS](/class1/arg) and [SerRS](/class2/ser1) are the only other AARS which decode as many as six codons.
+Either type may reside in the eukaryotic cytosol. 
+ The two forms are characterized by their abilities to charge tRNAs corresponding to the six distinct leucine codons.
+In the standard genetic code, [ArgRS](/class1/arg) and [SerRS](/class2/ser1) are the only other AARS that decode as many as six codons.
 The structures of LeuRS-A and -B are distinguished by 
 i) the placement of the editing domain within their primary sequence  (Fukunaga et al. 2005), 
-ii) the C-terminal domain which recognises tRNA (Tukalo et al. 2005), and 
+ii) the C-terminal domain which recognises tRNA, and 
 iii) the two LeuRS-A insertion modules depicted below, also known as the archaeal leucyl-specific domains 1 and 2 (Fukunaga et al. 2005).
 
 
@@ -23,7 +24,7 @@ iii) the two LeuRS-A insertion modules depicted below, also known as the archaea
 
 
 LeuRS-A and -B alike are closely related to the [IleRS](/class1/ile), [ValRS](/class1/val), and [MetRS](/class1/met) families, which comprise 
-subclass Ia (Perona and Hadd 2012, Gomez and Ibba, 2020).
+subclass Ia (Perona and Hadd 2012, Gomez and Ibba, 2020, Douglas et al. 2023).
 Members of subclass Ia are characterized by their hydrophobic amino acid substrates, as well as the connecting peptide 2 (CP2) and zinc finger (ZF) insertions, depicted below. 
 CP2 is a 30-40 amino acid two-helix bundle on the surface of the catalytic domain (Starzyk et al. 1987) and appears to be essential for amino acid activation (Zhou et al. 2008). 
 Upstream from this resides a cysteine-rich zinc finger, 20-40 amino acids in length, also essential for effective aminoacylation (Nureki et al. 1993, Sugiura et al. 2000).
@@ -32,16 +33,17 @@ LeuRS-A is lacking the connecting peptide 3 (CP3) domain found in IleRS, ValRS, 
 
 
 The tRNA is recognised by two C-terminal domains (Fukunaga et al. 2005).
-The first is a [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) that recognises the anticodon binding domain, and is universal across the members of subclass Ia plus [CysRS](/class1/cys) and ArgRS.
+The first is a [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
 The second domain (the C-terminal domain) is unique to LeuRS-A and appears to be beneficial, but not essential, for aminoacylation activity (Fukunaga et al. 2005).
 
 
 
 ## Editing
 
-ValRS,	IleRS, and LeuRS share a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a), absent from MetRS.
-This editing domain typically resides within the zinc finger, providing further amino acid selectivity by expelling a wide range of mistargetted amino acids 
-such alanine, cysteine, threonine, valine, isoleucine, methionine, homocysteine, and norvaline (Gomez and Ibba, 2020).
+
+
+IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a) inserted between the two halves of the Rossmann fold, which is absent from the Class Ia MetRS and CysRS enzymes. 
+The post-transfer editing domain enhances amino acid selectivity by catalyzing the hydrolysis of misacylated amino acids. 
 However, unlike LeuRS-A, ValRS, and IleRS, the editing domain of LeuRS-B resides downstream of the zinc finger and CP2 (Fukunaga et al. 2005).
 Thus, the domain appears to have hopped between the two positions, or may have originated as a trans-acting factor.
 
