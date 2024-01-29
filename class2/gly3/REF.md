@@ -11,6 +11,9 @@ Wolf, Yuri I., et al. "Evolution of aminoacyl-tRNA synthetases—analysis of uni
 Chang, Kuang-Jung, and Chien-Chia Wang. "Translation initiation from a naturally occurring non-AUG codon in Saccharomyces cerevisiae." Journal of Biological Chemistry 279.14 (2004): 13778-13785.
 
 
+
+
+
 Qin, Xiangjing, et al. "Cocrystal structures of glycyl-tRNA synthetase in complex with tRNA suggest multiple conformational states in glycylation." Journal of Biological Chemistry 289.29 (2014): 20359-20369.
 
 Cader, Muhammed Z., et al. "Crystal structure of human wildtype and S581L-mutant glycyl-tRNA synthetase, an enzyme underlying distal spinal muscular atrophy." FEBS letters 581.16 (2007): 2959-2964.

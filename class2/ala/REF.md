@@ -13,6 +13,8 @@ Guo, Min, et al. "Paradox of mistranslation of serine for alanine caused by AlaR
 
 
 
+
+
 Guo, Min, et al. "The C-Ala domain brings together editing and aminoacylation functions on one tRNA." Science 325.5941 (2009b): 744-747.
 
 Qiu, Xiayang, et al. "Cooperative structural dynamics and a novel fidelity mechanism in histidyl-tRNA synthetases." Biochemistry 38.38 (1999): 12296-12304.

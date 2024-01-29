@@ -27,10 +27,9 @@ This module is absent in archaea.
   
 
 
-In lower eukaryotes, AlaRS is one of the few aminoacyl-tRNA synthetases which operate in both the cytoplasm and mitochondria, 
-alongside [GlyRS](/class2/gly3), [HisRS](/class2/his/), and [ValRS](/class1/val/). The two forms of AlaRS were likely of organellar, 
-and hence bacterial, origin. Therefore, the archaeal form of AlaRS stands apart from the rest of the family. Localisation into these compartments is achieved 
-through alternative initiation, which governs the expression of an N-terminal mitochondrial localisation signal (Tang et al. 2004). One exception to this is the
+In lower eukaryotes, AlaRS is among a small subgroup of aminoacyl-tRNA synthetases (together with [ValRS](/class1/val), [GlyRS](/class2/gly3), and [HisRS](/class2/his)) that operate in both the cytosol and the mitochondria. 
+The two forms of AlaRS were likely of organellar, and hence bacterial, origin. Therefore, the archaeal form of AlaRS stands apart from the rest of the family. Localization into these compartments is achieved 
+through alternative initiation, which governs the expression of an N-terminal mitochondrial localization signal (Tang et al. 2004). One exception to this is the
  AlaRS of the yeast *Vanderwaltozyma polyspora*, which has two genes encoding AlaRS; one for either compartment (Chang et al. 2011). 
  It is likely that these two genes arose from a recent duplication event. In mammals, separate nuclear genes encode the cytosolic and mitochondrial AlaRS.
 

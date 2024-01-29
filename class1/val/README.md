@@ -8,7 +8,7 @@ $ \text{Val} + \text{tRNA}^\text{Val} + \text{ATP} \xrightarrow{\text{ValRS}} \t
 
 
 
-In lower eukaryotes, ValRS is among a small subgroup of aminoacyl-tRNA synthetases (together with [AlaRS](/class2/ala), [GlyRS](/class2/gly3), and [HisRS](/class2/his) Chatton et al. 1986)) that operate in both the cytosol and the mitochondria.
+In lower eukaryotes, ValRS is among a small subgroup of aminoacyl-tRNA synthetases (together with [AlaRS](/class2/ala), [GlyRS](/class2/gly3), and [HisRS](/class2/his) (Chatton et al. 1986)) that operate in both the cytosol and the mitochondria.
 Phylogenetic analyses suggest that, in eukaryotes, the cytosolic ValRS arose by horizontal transfer from mitochondria, and is therefore of bacterial origin (Brown et a. 1995).
 Thus, the archaeal form of ValRS stands apart from the rest of the family.
 
