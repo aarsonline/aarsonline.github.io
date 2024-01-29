@@ -37,3 +37,6 @@ Ambrogelly, Alexandre, et al. "The Aminoacyl-tRNA Synthetases" CRC Press (2005):
 
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
+
+Ibba, Michael, Losey, Heather, Kawarabayasi, Yutaka, Kikuchi, Hisasi, Bunjun, Shipra, and Dieter Söll. Substrate recognition by class I lysyl-tRNA synthetases: a molecular basis for gene displacement. Proc. Natl. Acad. Sci. USA 96.2 (1999): 418-423.
+
