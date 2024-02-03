@@ -25,13 +25,16 @@ Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic
 
 Becker, Hubert Dominique, et al. "Existence of two distinct aspartyl-tRNA synthetases in Thermus thermophilus. Structural and biochemical properties of the two enzymes." Biochemistry 36.29 (1997): 8785-8797.
 
+Becker HD, Kern D. Thermus thermophilus: a link in evolution of the tRNA-dependent amino acid amidation pathways. Proc Natl Acad Sci U S A. 1998 Oct 27;95(22):12832-7. doi: 10.1073/pnas.95.22.12832.
+
+Becker HD, Roy H, Moulinier L, Mazauric MH, Keith G, Kern D. Thermus thermophilus contains an eubacterial and an archaebacterial aspartyl-tRNA synthetase. Biochemistry. 2000 Mar 28;39(12):3216-30. doi: 10.1021/bi992573y.
+
+Curnow AW, Ibba M, Söll D. (1996) tRNA-dependent asparagine formation, Nature, 382(6592):589-90.
+Curnow AW, Tumbula DL, Pelaschier JT, Min B, Söll D. Glutamyl-tRNA(Gln) amidotransferase in Deinococcus radiodurans may be confined to asparagine biosynthesis. Proc Natl Acad Sci U S A. 1998 Oct 27;95(22):12838-43.
 
 Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases." PLoS computational biology 14.4 (2018): e1006101.
 
-
-
-
-Kern, Daniel, et al. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 18: Asparaginyl-tRNA Synthetases.
+Kern D, Roy H, Becker HD. Asparaginyl-tRNA Synthetases. In: Madame Curie Bioscience Database [Internet]. Austin (TX): Landes Bioscience; 2000-2013. Available from: https://www.ncbi.nlm.nih.gov/books/NBK6048/; originally in Kern D., Roy H. & Becker, H. D. (2005). Asparaginyl-tRNA synthetase, in The Aminoacyl-tRNA synthetases, edited by Michael Ibba, Christopher Francklyn and Stephen Cusack. Landes Bioscience, 193-209.
 
 
 
@@ -40,6 +43,10 @@ Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 2
 
 
 de Pouplana, Lluıs Ribas, and Paul Schimmel. "Operational RNA code for amino acids in relation to genetic code in evolution." Journal of Biological Chemistry 276.10 (2001): 6881-6884.
+
+
+
+Roy H, Becker HD, Reinbolt J, Kern D. When contemporary aminoacyl-tRNA synthetases invent their cognate amino acid metabolism. Proc Natl Acad Sci U S A. 2003 Aug 19;100(17):9837-42. doi: 10.1073/pnas.1632156100.
 
 
 
