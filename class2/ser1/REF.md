@@ -18,6 +18,12 @@ Dock-Bregon, Anne‐Catherine, et al. "The contacts of yeast tRNASer with seryl�
 Biou, Valerie, et al. "The 2.9 Å crystal structure of T. thermophilus seryl-tRNA synthetase complexed with tRNA Ser." Science 263.5152 (1994): 1404-1410.
 
 
+Miseta, A., Woodley, C. L., Greenberg, J. R., & Slobin, L. I. (1991). Mammalian seryl-tRNA synthetase associates with mRNA in vivo and has homology to elongation factor 1 alpha. Journal of Biological Chemistry, 266(29), 19158-19161.
+
+Herzog, W., Müller, K., Huisken, J., & Stainier, D. Y. (2009). Genetic evidence for a noncanonical function of seryl-tRNA synthetase in vascular development. Circulation research, 104(11), 1260-1266.
+
+Amsterdam, A., Nissen, R. M., Sun, Z., Swindell, E. C., Farrington, S., & Hopkins, N. (2004). Identification of 315 genes essential for early zebrafish development. Proceedings of the National Academy of Sciences, 101(35), 12792-12797.
+
 
 Weygand-Durasevic, Ivana and Cusack, Stephen. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 17: Seryl-tRNA Synthetases.
 
