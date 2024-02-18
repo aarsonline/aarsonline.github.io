@@ -17,6 +17,10 @@ PylRS is among the rarest AARS, found only in a small group of bacteria and arch
 
 PylRS exists in three different isoforms: PylSn-PylSc, dPylSn, and PylSn+PylSc (Guo et al. 2022). PylSn-PylSc is the predominant isoform in Archaea and consists of a single polypeptide with two domains: an N-terminal tRNA-binding domain (PylSn) and a C-terminal catalytic domain (PylSc). This PylRS isoform displays poor solubility (Suzuki et al. 2017) and behaves as a homodimer (Lee et al. 2008). In Bacteria, PylRS is generally encoded in two separate genes corresponding to the PylSn and PylSc domains, which yields the PylSn+PylSc isoform (Jiang et al. 2012). In vitro, PylSc alone is capable of tRNA aminoacylation, but PylSn is required in vivo (Herring et al. 2007). The fusion or fission of AARS genes that results in switching between homodimeric and heterotetrameric enzymes has also been observed in [AlaRS](/class2/ala) and [GlyRS-B](/class2/gly2). The third PylRS isoform (dPylSn) contains the PylSc only and is present primarily in archaeal species and a few bacteria (Borrel et al. 2014; Guo et al. 2022). 
 
+
+<img src="/fig/PylRS_domain_architectures.png" alt="PylRS domain architecture"/>
+
+
 The structure of PylRS's catalytic domain is similar to that of [HisRS](/class2/his), [SepRS](/class2/sep) and [PheRS](/class2/phe1), which are part of subclass IIc
 (Kavran et al. 2007, Perona et al. 2012, Englert et al. 2013, Valencia-Sánchez et al. 2016, Douglas et al. 2023). However, its sequence closely resembles subclass IIb - [AsnRS](/class2/asn/), [AspRS](/class2/asp1), and [LysRS-II](/class2/lys/) (Fournier et al. 2009). Accordingly, PylRS is assigned to subclass IIe (Douglas et al. 2023).
 
