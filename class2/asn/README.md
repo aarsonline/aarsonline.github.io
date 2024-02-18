@@ -8,15 +8,22 @@ $ \text{Asn} + \text{tRNA}^\text{Asn} + \text{ATP} \xrightarrow{\text{AsnRS}} \t
 
 
 
-Some organisms do not possess AsnRS, in which case the incorporation of asparagine into the polypeptide can be accomplished through the use
-of a non-discriminating [AsxRS](/class2/asp2/), coupled with amidotransferase activity (Becker et al. 1997, Raczniak et al. 2001).
-The same mechanism is employed by the Class I [GlxRS](/class1/glu2/) and [GlnRS](/class1/gln/) families,
-leading to the hypothesis that AsnRS and GlnRS were among the last of the synthetases to evolve (de Pouplana and Schimmel, 2001).
+## Organisms that lack AsnRS
+Although AsnRS is classically involved in direct \text{Asn-tRNA}^\text{Asn} synthesis in the cytoplasm of all eukaryotes, about half of bacteria and archaea lack this enzyme, making direct tRNAAsn charging with L-asparagine impossible (Kern et al, 2005). Instead, they possess “non-discriminating AspRSs” (ND-AspRS) that charge L-aspartate to both \text{tRNA}^\text{Asp} and\text{tRNA}^\text{Asn} yielding either an \text{Asp-tRNA}^\text{Asp} or a misacylated \text{Asp-tRNA}^\text{Asn} (Becker & Kern, 1998; Becker et al., 2000; Curnow et al., 1996).
 
-  
+$ \text{Asp} + \text{tRNA}^\text{Asp} + \text{ATP} \xrightarrow{\text{ND-AspRS}} \text{Asp-tRNA}^\text{Asp} + \text{AMP} + \text{PP}_i $
+$ \text{Asp} + \text{tRNA}^\text{Asn} + \text{ATP} \xrightarrow{\text{ND-AspRS}} \text{Asp-tRNA}^\text{Asn} + \text{AMP} + \text{PP}_i $
+
+Although \text{Asp-tRNA}^\text{Asp} is directly used in protein synthesis, misacylated \text{Asp-tRNA}^\text{Asn} is then used by a dedicated aminoacyl-tRNA-dependent amidotransferase (AdT), that eventually amidates it to \text{Asn-tRNA}^\text{Asn} (Becker & Kern, 1998; Curnow et al, 1998; Curnow et al, 1996) in an ATP-dependent manner. The AdT activates L-aspartate’s side chain through phosphorylation, followed by amidation using an amido group donor.
+
+$ \text{ATP} + \text{Asp-tRNA}^\text{Asn} + \text{NH3} \xrightarrow{\text{AdT}} \text{Asn-tRNA}^\text{Asn} + \text{ADP} + \text{P}_i $
+
+The same mechanism is employed by the Class I GlxRS families, when a GlnRS is absent, leading to the hypothesis that AsnRS and GlnRS were among the last of the synthetases to evolve (de Pouplana & Schimmel, 2001). AsnRSs likely evolved in eukaryotes from an E-AspRS, from where they became horizontally transferred to some bacteria and archaea (Roy et al., 2003).
+
+
 ## Structure
 
-The three-dimensional structure of AsnRS closely resembles that of AsxRS, [AspRS](/class2/asp1/), and [LysRS-II](/class2/lys/), with an N-terminal [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK/) and a C-terminal catalytic domain.
+The three-dimensional structure of AsnRS closely resembles that of AsxRS, [AspRS](/class2/asp1/), [AspRS](/class2/asp2/) and [LysRS-II](/class2/lys/), with an N-terminal [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK/) and a C-terminal catalytic domain.
 The four members have quite similar catalytic domains and constitute subclass IIb (Cusack et al., 1991; Valencia-Sánchez et al., 2016).
 The subclass IIb synthetases of many eukaryotes contain a flexible domain at their N-termini, which helps to anchor the synthetase onto the tRNA (Frugier et al., 2000).
 
