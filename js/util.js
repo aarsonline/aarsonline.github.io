@@ -82,7 +82,6 @@ function renderHeader(includeFooter = true){
 	$("#class2Selector div").append(`<a href='/class2/phe5'>PheRS-M</a>`);
 	$("#class2Selector div").append(`<a href='/class2/pro1'>ProRS-A</a>`);
 	$("#class2Selector div").append(`<a href='/class2/pro2'>ProRS-B</a>`);
-	$("#class2Selector div").append(`<a href='/class2/pro3'>ProRS-M</a>`);
 	$("#class2Selector div").append(`<a href='/class2/pyl'>PylRS</a>`);
 	$("#class2Selector div").append(`<a href='/class2/sep'>SepRS</a>`);
 	$("#class2Selector div").append(`<a href='/class2/ser1'>SerRS</a>`);
