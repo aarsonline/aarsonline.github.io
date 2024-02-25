@@ -71,3 +71,13 @@ Hyun, Y. S., et al. "Rare variants in methionyl‐and tyrosyl‐tRNA synthetase 
 
 Rips, Jonathan, et al. "MARS variant associated with both recessive interstitial lung and liver disease and dominant Charcot-Marie-Tooth disease." European journal of medical genetics 61.10 (2018): 616-620.
 
+Netzer, Nir, et al. "Innate immune and chemically triggered oxidative stress modifies translational fidelity." Nature 462.7272 (2009): 522-526.
+
+Lee, Jin Young, et al. "Promiscuous methionyl-tRNA synthetase mediates adaptive mistranslation to protect cells against oxidative stress." Journal of cell science 127.19 (2014): 4234-4245.
+
+Ko, Young-Gyu, et al. "Nucleolar localization of human Methionyl–Trna Synthetase and its role in ribosomal RNA synthesis." The Journal of cell biology 149.3 (2000): 567-574.
+
+Jones, Thomas E., Rebecca W. Alexander, and Tao Pan. "Misacylation of specific nonmethionyl tRNAs by a bacterial methionyl-tRNA synthetase." Proceedings of the National Academy of Sciences 108.17 (2011): 6933-6938.
+
+Jakubowski, Hieronim. "Homocysteine thiolactone: metabolic origin and protein homocysteinylation in humans." The Journal of nutrition 130.2 (2000): 377S-381S.
+
