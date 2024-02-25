@@ -67,10 +67,13 @@ Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution 
 Hadd, Andrew, and John J. Perona. "Coevolution of specificity determinants in eukaryotic glutamyl-and glutaminyl-tRNA synthetases." Journal of molecular biology 426.21 (2014): 3619-3633.
 
 
+Johannesen, Katrine M., et al. "Defining and expanding the phenotype of QARS-associated developmental epileptic encephalopathy." Neurology Genetics 5.6 (2019).
 
+Chan, Denise L., et al. "A case of QARS1 associated epileptic encephalopathy and review of epilepsy in aminoacyl-tRNA synthetase disorders." Brain and Development 44.2 (2022): 142-147.
 
+Fuchs, Sabine A., et al. "Aminoacyl-tRNA synthetase deficiencies in search of common themes." Genetics in Medicine 21.2 (2019): 319-330.
 
-
+Ko, Young-Gyu, et al. "Glutamine-dependent antiapoptotic interaction of human glutaminyl-tRNA synthetase with apoptosis signal-regulating kinase 1." Journal of Biological Chemistry 276.8 (2001): 6030-6036.
 
 Kim, Taeho, et al. "Catalytic peptide of human glutaminyl-tRNA synthetase is essential for its assembly to the aminoacyl-tRNA synthetase complex." Journal of Biological Chemistry 275.28 (2000): 21768-21772.
 
@@ -85,7 +88,3 @@ Rould, M. A., J. J. Perona, and T. A. Steitz. "Structural basis of anticodon loo
 
 
 Nureki, Osamu, et al. "Structure of an archaeal non-discriminating glutamyl-tRNA synthetase: a missing link in the evolution of Gln-tRNAGln formation." Nucleic acids research 38.20 (2010): 7286-7297.
-
-
-
-
