@@ -48,8 +48,8 @@ Both cytosolic and mitochondrial CysRS catalyzes the formation of cysteine hydro
 
 Human CysRS binds Toll-like receptor 2 via its UNE-C1 domain and can activate the immune response (Cho et al., 2020). The UNE-C1 domain is currently explored as an immunoadjuvant to boost anti-tumor immunity (Cho et al., 2020). This pro-inflammatory function of CysRS was also explored in Alzheimer's disease, where it drives neuro-inflammation (Qi et al., 2024). 
 
-A splice variant of human CysRS interacts with EF-1γ (Kim et al., 2000). 
-
+A splice variant of human CysRS interacts with EF-1γ (Kim et al., 2000). Human CysRS activates AMP‐activated protein kinase (AMPK) upon cysteine starvation (Yuan et al., 2021). 
+ 
 ## Clinical significance
 
 Biallelic recessive variants (homozygous and compound heterozygous) in the human gene CARS2 encoding the mitochondrial CysRS cause a phenotype of epileptic encephalopathy (firstly descrived in Hallmann et al., 2014). The exhaustive list of the disease-related variants (including location on the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=CARS2). Mutations have been mapped to all domains of the mt-CysRS.
