@@ -44,7 +44,11 @@ and serine (Fersht et al. 1979, Newberry et al., 2002; Hou and Perona, 2005). In
 
 ## Non-translational functions
 
+Both cytosolic and mitochondrial CysRS catalyzes the formation of cysteine hydropersulfides (CysS–(S)n–H formation), a post-translational modification that may function as antioxidants, redox signaling intermediates, and as metal ligands (Akaike et al., 2017). 
 
+Human CysRS binds Toll-like receptor 2 via its UNE-C1 domain and can activate the immune response (Cho et al., 2020). The UNE-C1 domain is currently explored as an immunoadjuvant to boost anti-tumor immunity (Cho et al., 2020). This pro-inflammatory function of CysRS was also explored in Alzheimer's disease, where it drives neuro-inflammation (Qi et al., 2024). 
+
+A splice variant of human CysRS interacts with EF-1γ (Kim et al., 2000). 
 
 ## Clinical significance
 
