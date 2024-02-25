@@ -41,3 +41,11 @@ Hauenstein, Scott, et al. "Shape-selective RNA recognition by cysteinyl-tRNA syn
 
 
 Nishimura, Akira, et al. "Mitochondrial cysteinyl-tRNA synthetase is expressed via alternative transcriptional initiation regulated by energy metabolism in yeast cells." Journal of Biological Chemistry 294.37 (2019): 13781-13788.
+
+Cho, Seongmin, et al. "Endogenous TLR2 ligand embedded in the catalytic region of human cysteinyl-tRNA synthetase 1." Journal for immunotherapy of cancer 8.1 (2020).
+
+Qi, Xiu-Hong, et al. "Increased cysteinyl-tRNA synthetase drives neuroinflammation in Alzheimer’s disease." Translational neurodegeneration 13.1 (2024): 3.
+
+Akaike, Takaaki, et al. "Cysteinyl-tRNA synthetase governs cysteine polysulfidation and mitochondrial bioenergetics." Nature communications 8.1 (2017): 1177.
+
+Kim, Jee Eun, et al. "An elongation factor-associating domain is inserted into human cysteinyl-tRNA synthetase by alternative splicing." Nucleic Acids Research 28.15 (2000): 2866-2872.
