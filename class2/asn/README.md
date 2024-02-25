@@ -44,7 +44,7 @@ The catalytic domain of AsnRS, much like the other members of subclass IIb, is c
 
 ## Non-translational functions
 
-
+Deinococcus radiodurans and Thermus thermophilus derive asparagine from asparaginyl-tRNA, which is made from aspartate in the tRNA-dependent transamidation pathway, necessitating aminoacylation by AsnRS first (Min et al., 2002). 
 
 ## Clinical significance
 
