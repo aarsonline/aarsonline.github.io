@@ -49,3 +49,5 @@ Qi, Xiu-Hong, et al. "Increased cysteinyl-tRNA synthetase drives neuroinflammati
 Akaike, Takaaki, et al. "Cysteinyl-tRNA synthetase governs cysteine polysulfidation and mitochondrial bioenergetics." Nature communications 8.1 (2017): 1177.
 
 Kim, Jee Eun, et al. "An elongation factor-associating domain is inserted into human cysteinyl-tRNA synthetase by alternative splicing." Nucleic Acids Research 28.15 (2000): 2866-2872.
+
+Yuan, Mengqiu, et al. "CARS senses cysteine deprivation to activate AMPK for cell survival." The EMBO journal 40.21 (2021): e108028.
