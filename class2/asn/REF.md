@@ -48,7 +48,7 @@ de Pouplana, Lluıs Ribas, and Paul Schimmel. "Operational RNA code for amino ac
 
 Roy H, Becker HD, Reinbolt J, Kern D. When contemporary aminoacyl-tRNA synthetases invent their cognate amino acid metabolism. Proc Natl Acad Sci U S A. 2003 Aug 19;100(17):9837-42. doi: 10.1073/pnas.1632156100.
 
-
+Min, Bokkee, et al. "Transfer RNA-dependent amino acid biosynthesis: an essential route to asparagine formation." Proceedings of the National Academy of Sciences 99.5 (2002): 2678-2683.
 
 
 Raczniak, Gregory, et al. "A single amidotransferase forms asparaginyl-tRNA and glutaminyl-tRNA in Chlamydia trachomatis." Journal of Biological Chemistry 276.49 (2001): 45862-45867.
