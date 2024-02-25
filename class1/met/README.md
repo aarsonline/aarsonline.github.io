@@ -38,6 +38,11 @@ Thermophilic archaea can adapt to lower temperatures by misacylating tRNA$^\text
 
 ## Non-translational functions
 
+Homocysteine thiolactone is produced by bacterial and eukaryotic MetRS to prevent translational incorporation of homocysteine into proteins (Jakubowski, 2000). 
+
+Oxidative stress and immune-stimulatory Toll-like receptor activation cause a loss of accuracy in MetRS, leading to misacylation of tRNAs with methionine to protect proteins against ROS-mediated damage (Netzer et al, 2009). This adaptive mistranslation is induced by phosphorylation of MetRS through extracellular signal-related kinase (ERK1/2) (Lee et al., 2014). Mismethionylation was also shown for bacterial MetRS (Jones et al., 2011).  
+
+Human MetRS localizes to the nucleolus, where ribosome biogenesis takes place, and treatment with an anti-MetRS antibody decreases rRNA production (Ko et al., 2000). 
 
 ## Clinical significance
 Mutations in the human gene MARS1 encoding the cytosolic MetRS have been implied as disease-causing in Charcot-Marie-Tooth neuropathy (Gonzales et al., 2013; Hyun et al., 2014; Rips et al., 2018; Wei et al., 2019). However, incomplete penetrance has not been reported for certain MARS1 mutations (Gonzales et al., 2013; Wei et al., 2019). 
