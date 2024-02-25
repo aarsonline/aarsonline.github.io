@@ -63,12 +63,12 @@ the hydrolysis of Gln-AMP to form Gln and AMP, a reaction analogous to pre-trans
 
 ## Non-translational functions
 
-
+Human GlnRS interacts with apoptosis signal-regulating kinase 1 and inhibits apoptosis (Ko et al., 2001). This interaction and the subsequent prevention of cell death is regulated by the intracellular concentration of glutamine (Ko et al., 2001).
 
 
 ## Clinical significance
 
-
+Mutations in QARS1 have been associated with developmental epileptic encephalopathy (Johannesen et al, 2019; Chan et al., 2022) as well as other abnormalities of the central nervous system and/or senses (Fuchs et al., 2018). 
 
 With the exception of certain human parasites like Leishmania (Nabholz et al., 1994), there is no mitochondrial GlnRS in eukaryotes (including humans). Instead, mitochondrial Gln-tRNA$^\text{Gln}$ is produced through the non-discriminating GlxRS, coupled with a transmidation pathway (Schön et al., 1988, Frechin et al., 2009, Nagao et al. 2009, Echevarria et al. 2014). 
 
