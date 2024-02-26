@@ -50,7 +50,9 @@ Like IleRS, ValRS is able to catalyze pre-transfer editing: the ValRS synthetic 
 
 ## Non-translational functions
 
+Plant ValRS aminoacylates tRNA-Val-like structures found in plant- and insect-specific viruses (Dreher 2010; Sherlock et al., 2020). 
 
+Mammalian ValRS forms a complex with the elongation factor eEF-1H (Motorin et al., 1988). EF-1α and GTP increase valyl-tRNA-Val synthesis by ValRS (Negrutskii et al., 1999).
 
 ## Clinical significance
 
