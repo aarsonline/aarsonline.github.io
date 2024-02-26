@@ -71,3 +71,10 @@ Silvian, Laura F., Jimin Wang, and Thomas A. Steitz. "Insights into editing from
 
 Bilus, Mirna, et al., "On the mechanism and origin of isoleuyl-tRNA synthetase editing against norvaline." J. Mol. Biol. 431, 1284-1297 (2019).
 
+Dreher, Theo W. "Viral tRNAs and tRNA‐like structures." Wiley Interdisciplinary Reviews: RNA 1.3 (2010): 402-414.
+
+Sherlock, Madeline E., et al. "Structural diversity and phylogenetic distribution of valyl tRNA-like structures in viruses." Rna 27.1 (2021): 27-39.
+
+Motorin, Yu A., et al. "Mammalian valyl‐tRNA synthetase forms a complex with the first elongation factor." FEBS letters 238.2 (1988): 262-264.
+
+Negrutskii, Boris S., et al. "Functional interaction of mammalian valyl-tRNA synthetase with elongation factor EF-1α in the complex with EF-1H." Journal of Biological Chemistry 274.8 (1999): 4545-4550.
