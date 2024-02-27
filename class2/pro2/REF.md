@@ -1,3 +1,20 @@
+Crepin, Thibaut, et al. "Structures of two bacterial prolyl-tRNA synthetases with and without a cis-editing domain." Structure 14.10 (2006): 1511-1525.
+
+Burke, Brian, et al. "Divergent Adaptation of tRNA Recognition byMethanococcus jannaschii Prolyl-tRNA Synthetase." Journal of Biological Chemistry 276.23 (2001): 20286-20291.
+
+Stehlin, Catherine, et al. "Species-specific differences in the operational RNA code for aminoacylation of tRNAPro." Biochemistry 37.23 (1998): 8605-8613.
+
+Beuning, Penny J., and Karin Musier-Forsyth. "Hydrolytic editing by a class II aminoacyl-tRNA synthetase." Proceedings of the National Academy of Sciences 97.16 (2000): 8916-8920.
+
+Ahel, Ivan, et al. "Trans-editing of mischarged tRNAs." Proceedings of the National Academy of Sciences 100.26 (2003): 15422-15427.
+
+SternJohn, Julius, et al. "Restoring species-specific posttransfer editing activity to a synthetase with a defunct editing domain." Proceedings of the National Academy of Sciences 104.7 (2007): 2127-2132.
+
+Vargas-Rodriguez, Oscar, et al. "Human trans-editing enzyme displays tRNA acceptor-stem specificity and relaxed amino acid selectivity." Journal of Biological Chemistry 295.48 (2020): 16180-16190.
+
+Nagy, Alexandra B. Kuzmishin, Marina Bakhtina, and Karin Musier-Forsyth. "Trans-editing by aminoacyl-tRNA synthetase-like editing domains." The Enzymes 48 (2020): 69-115.
+
+Liu, Hongjian, et al. "Molecular recognition of tRNA Pro by Escherichia coli proline tRNA synthetase in vitro." Nucleic acids research 23.1 (1995): 165-169.
 
 Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
