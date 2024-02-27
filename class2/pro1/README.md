@@ -33,7 +33,7 @@ Glutamic acid is a metabolic precursor for proline, which suggests a possible ex
 
 ## tRNA recognition
 
-ProRSs identify its tRNA substrates by recognition of the Pro anticodon, specifically bases G35 and G36 (Burke et al. 2001; Stehlin et al. 1998; Liu et al. 1995). ProRS-A from archaea and eukaryotes also moderately rely on the recognition of bases at positions 72 and 73, which correspond to C72 and A73 in archaeal \text{tRNA}^\text{Pro} and C72 and C73 in cytosolic eukaryotic \text{tRNA}^\text{Pro} (Burke et al. 2001; Stehlin et al. 1998). Bacterial ProRS-A recognizes bacterial-type \text{tRNA}^\text{Pro}, which consists of G72 and A73. 
+ProRSs identify its tRNA substrates by recognition of the Pro anticodon, specifically bases G35 and G36 (Burke et al. 2001; Stehlin et al. 1998; Liu et al. 1995). ProRS-A from archaea and eukaryotes also moderately rely on the recognition of bases at positions 72 and 73, which correspond to C72 and A73 in archaeal \text{tRNA}^\text{Pro} and C72 and C73 in cytosolic eukaryotic \text{tRNA}^\text{Pro} (Burke et al. 2001; Stehlin et al. 1998). Bacterial ProRS-A recognizes bacterial-type tRNA^Pro, which consists of G72 and A73. 
 
 
 ## Editing
