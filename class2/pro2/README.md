@@ -10,7 +10,7 @@ $ \text{Pro} + \text{tRNA}^\text{Pro} + \text{ATP} \xrightarrow{\text{ProRS-B}} 
 
 # Structure
 
-The bacterial-like ProRS consists of a conserved aminoacylation domain containing the three conserved motifs of Cass II aaRSs. All ProRSs have a dedicated binding domain for tRNA anticodon recognition. ProRS-B exists in two isoforms. One isoform has a domain (called the INS domain) for ~180 residues long inserted between the conversed Class II motifs 2 and 3. The second isoform encodes a truncated version of the INS domain, consisting of ~40 amino acids. Notably, the ProRS-B isoform with the truncated INS domain arose from two independent times during evolution, leading to two distinct versions, one encoded in organelles and the other in bacteria. In bacteria, ProRS-B with the INS domain is the predominant isoform in bacteria whereas an estimated 11% of bacteria encode an Archaeal-like ProRS [ProRS-A](/class2/pro1) (Vargas-Rodriguez et al. 2013).
+The bacterial-like ProRS consists of a conserved aminoacylation domain containing the three conserved motifs of Cass II aaRSs. All ProRSs have a dedicated binding domain for tRNA anticodon recognition. ProRS-B exists in two isoforms. One isoform has a domain (called the INS domain) for ~180 residues long inserted between the conversed Class II motifs 2 and 3. The second isoform encodes a truncated version of the INS domain, consisting of ~40 amino acids. Notably, the ProRS-B isoform with the truncated INS domain arose twice independently during evolution, leading to two distinct versions, one encoded in organelles and the other in bacteria. In bacteria, ProRS-B with the INS domain is the predominant isoform in bacteria whereas an estimated 11% of bacteria encode an Archaeal-like ProRS [ProRS-A](/class2/pro1) (Vargas-Rodriguez et al. 2013).
 
 All ProRS types belong to subclass IIa, which includes other enzymes such as [ThrRS](/class2/thr), [SerRS](/class2/ser1), and the dimeric [GlyRS](/class2/gly1) (Gomez and Ibba 2020; Valencia-Sánchez et al. 2016; Perona et al. 2012). The [anticodon binding domains](/superfamily/class2/Anticodon_binding_domain_HGPT) of subclass IIa, except for SerRS, are homologous with that of [HisRS](/class2/his) and located at the C-terminal end (Wolf et al. 1999). The catalytic domain of ProRS is typical of a Class II aminoacyl-tRNA synthetase. Like most members of the superfamily, ATP binding is coordinated by the arginine tweezers located in motifs 2 and 3 (Kaiser et al. 2018).
 
@@ -35,9 +35,3 @@ ProRS-B is inherently prone to ligating alanine to its cognate tRNA. Because the
 
 The INS domain of ProRS-B is part of the INS superfamily of aminoacyl-tRNA deacylases. The INS superfamily groups several other families, including the ProXp-ala, ProXp-x, ProXp-ST1, ProXp-ST2, and YbaK families (Kuzmishin Nagy et al. 2020). These enzymes are responsible for helping maintain translational fidelity during protein synthesis. The INS superfamily shares a conserved tertiary structure but displays diverse aminoacyl-tRNA substrate specificities. For example, ProXp-ala and the INS domain of ProRS hydrolyze Ala-tRNAPro, YbaK deacylates Cys-tRNAPro, and ProXp-ST1 and ProXp-ST2 hydrolyze Ser/Thr-tRNAs. Members of the INS superfamily are found in all domains of life, but each family has a distinct phylogenetic distribution (Kuzmishin Nagy et al. 2020); in general, they are distributed more predominantly in bacteria. 
 
-
-## Non-translational functions
-
-
-
-## Clinical significance
