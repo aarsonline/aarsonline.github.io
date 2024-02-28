@@ -16,7 +16,7 @@ Nagy, Alexandra B. Kuzmishin, Marina Bakhtina, and Karin Musier-Forsyth. "Trans-
 
 Liu, Hongjian, et al. "Molecular recognition of tRNA Pro by Escherichia coli proline tRNA synthetase in vitro." Nucleic acids research 23.1 (1995): 165-169.
 
-Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
+Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2024): gkad1160.
 
 Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
 
