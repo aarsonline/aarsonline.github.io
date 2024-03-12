@@ -81,7 +81,7 @@ Lee, Jeong Woong, et al. "Editing-defective tRNA synthetase causes protein misfo
 
 Hilander, Taru, et al. "Editing activity for eliminating mischarged tRNAs is essential in mammalian mitochondria." Nucleic Acids Research 46.2 (2018): 849-860.
 
+Putney, Scott D., and Paul Schimmel. "An aminoacyl tRNA synthetase binds to a specific DNA sequence and regulates its gene transcription." Nature 291.5817 (1981): 632-635.
 
-
-
+Vo, My-Nuong, et al. "ANKRD16 prevents neuron loss caused by an editing-defective tRNA synthetase." Nature 557.7706 (2018): 510-515.
 
