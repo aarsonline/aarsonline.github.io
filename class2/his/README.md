@@ -31,7 +31,7 @@ In lower eukaryotes, HisRS is among a small subgroup of aminoacyl-tRNA synthetas
 
 
 ## Non-translational functions
-
+HisRS can activate immune cells, such as CD4+ and CD8+ lymphocytes, interleukin -2–activated monocytes, and immature dendritic cells by binding to CC chemokine receptor 5 (Howard et al., 2002). Two HisRS splice variants, which both lack catalytic activity, as well as full-length HisRS are secreted by myoblasts (Zhou et al., 2014). 
 
 
 ## Clinical significance
@@ -39,3 +39,5 @@ In lower eukaryotes, HisRS is among a small subgroup of aminoacyl-tRNA synthetas
 Homozygous variant in the HARS1 gene encoding the cytosolic HisRS in humans has been identified to cause Usher syndrome type 3B, characterized by progressive vision and hearing loss during early childhood (Puffenberger et al. 2012). Heterozygous HARS1 variants, on the other hand, underlie autosomal dominant peripheral neuropathy phenotypes, classified as Charcot-Marie-Tooth disease, axonal, type 2W (Safka Brozkova et al. 2015).
 
 Biallelic recessive variants in the human gene HARS2 encoding the mitochondrial HisRS cause the Perrault syndrome, associated with ovarian dysgenesis and sensorineural hearing loss (firstly described in Pierce et al. 2011). The exhaustive list of disease-causing variants of HARS2 (including location on the sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=HARS2). Mutations have been mapped to all domains of the mt-HisRS.
+
+A major cause for anti-synthetase syndrome, a idiopathic inflammatory myopathies, are auto-antibodies directed against HisRS, such as Jo-1 . 
