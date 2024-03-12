@@ -41,7 +41,7 @@ Post-transfer editing is performed by the [&beta; subunit](/class2/phe2).
 
 
 ## Non-translational functions
-
+Thermus thermophilus PheRS binds genomic regions of T. thermophilus DNA but does not seem to recognize regions immediately associated with its own gene (Lechler and Kreutzer, 1998). DNA binding is likely mediated through the dimer binding with the B5 domainof the β-subunit, associated with loop formation, and requires a minimum DNA length of 80 bp (Dou et al., 2001). 
 
 
 ## Clinical significance
