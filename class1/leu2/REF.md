@@ -76,3 +76,5 @@ Kim, Jong Hyun, et al. "Control of leucine-dependent mTORC1 pathway through chem
 Son, Kook, et al. "A Non‐Canonical Function of Leucyl tRNA Synthetase Negatively Regulates Skeletal Myogenesis." The FASEB Journal 31 (2017): 759-6.
 
 Baymiller, Max, et al. "Tissue-specific alternative splicing separates the catalytic and cell signaling functions of human leucyl-tRNA synthetase." Journal of Biological Chemistry 298.4 (2022).
+
+Yu, Ya Chun, Jung Min Han, and Sunghoon Kim. "Aminoacyl-tRNA synthetases and amino acid signaling." Biochimica et Biophysica Acta (BBA)-Molecular Cell Research 1868.1 (2021): 118889.
