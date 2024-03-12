@@ -62,3 +62,6 @@ Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering 
 
 Wolf, Yuri I., et al. "Evolution of aminoacyl-tRNA synthetases—analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events." Genome research 9.8 (1999): 689-710.
 
+Lechler, Armin, and Roland Kreutzer. "The phenylalanyl-tRNA synthetase specifically binds DNA." Journal of molecular biology 278.5 (1998): 897-901.
+
+Dou, Xiaowei, Stefan Limmer, and Roland Kreutzer. "DNA-binding of phenylalanyl-tRNA synthetase is accompanied by loop formation of the double-stranded DNA." Journal of Molecular Biology 305.3 (2001): 451-458.
