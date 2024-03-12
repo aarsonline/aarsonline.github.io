@@ -57,3 +57,8 @@ Puffenberger, Erik G., et al. "Genetic mapping and exome sequencing identify var
 
 Safka Brozkova, Dana, et al. "Loss of function mutations in HARS cause a spectrum of inherited peripheral neuropathies." Brain 138.8 (2015): 2161-2172.
 
+Zampieri, Sandra, et al. "Anti-JO-1 antibodies." Autoimmunity 38.1 (2005): 73-78.
+
+Howard, OM Zack, et al. "Histidyl–tRNA synthetase and asparaginyl–tRNA synthetase, autoantigens in myositis, activate chemokine receptors on T lymphocytes and immature dendritic cells." The Journal of experimental medicine 196.6 (2002): 781-791.
+
+Zhou, Jie J., et al. "Secreted histidyl-tRNA synthetase splice variants elaborate major epitopes for autoantibodies in inflammatory myositis." Journal of Biological Chemistry 289.28 (2014): 19269-19275.
