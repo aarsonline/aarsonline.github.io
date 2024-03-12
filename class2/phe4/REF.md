@@ -49,7 +49,8 @@ Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering 
 
 Roy, Herve, et al. "Post‐transfer editing in vitro and in vivo by the &beta; subunit of phenylalanyl‐tRNA synthetase." The EMBO journal 23.23 (2004): 4639-4648.
 
+Xu, Zhiwen, et al. "Bi-allelic mutations in Phe-tRNA synthetase associated with a multi-system pulmonary disease support non-translational function." The American Journal of Human Genetics 103.1 (2018): 100-114.
 
-
+Wang, Yaofeng, et al. "FARSB Facilitates Hepatocellular Carcinoma Progression by Activating the mTORC1 Signaling Pathway." International Journal of Molecular Sciences 24.23 (2023): 16709.
 
 
