@@ -40,7 +40,9 @@ The anticodon binding domain is proposed to be a short loop upstream of the cata
 Post-transfer editing is performed by the [&beta; subunit](/class2/phe4).
 
 ## Non-translational functions
+Bi-allelic mutations in FARSA or FARSB can cause chronic interstitial lung disease and other abnormalities, suggesting a multi-organ disorder (Schuch et al., 2021). Aminoacylation activity was affected in some patients but not others, suggesting a non-translational function and its subsequent disruption by disease-causing variants (Schuch et al., 2021). 
 
+In Drosophila melanogaster, FARSA activates growth and proliferation - a downregulation of FARSA is associated with a decrease in organ size, while overexpression causes up to 25% faster proliferation (Ho et al., 2021). This effect was not correlated with increased protein synthesis and is therefore likely to be unrelated to FARSA aminoacylation activity (Ho et al., 2021). 
 
 
 ## Clinical significance
