@@ -53,6 +53,7 @@ A conserved tyrosine in the synthetic active site modulates the efficiency of bo
 
 ## Non-translational functions
 
+Antibodies against IleRS are found in a subset of patients with idiopathic inflammatory myopathies (Muro et al., 2021). 
 
 ## Clinical significance
 
