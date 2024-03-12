@@ -63,3 +63,16 @@ Hobson, Jessica J., et al. "A Leucyl-tRNA Synthetase Urzyme: Authenticity of tRN
 
 Carter Jr, Charles W., and Peter R. Wills. "The roots of genetic coding in aminoacyl-tRNA synthetase duality." Annual review of biochemistry 90 (2021): 349-373.
 
+Kim, Sulhee, et al. "Leucine-sensing mechanism of leucyl-tRNA synthetase 1 for mTORC1 activation." Cell Reports 35.4 (2021).
+
+Han, Jung Min, et al. "Leucyl-tRNA synthetase is an intracellular leucine sensor for the mTORC1-signaling pathway." Cell 149.2 (2012): 410-424.
+
+Yoon, Ina, et al. "Glucose-dependent control of leucine metabolism by leucyl-tRNA synthetase 1." Science 367.6474 (2020): 205-210.
+
+Yoon, Suyoung, et al. "Discovery of simplified leucyladenylate sulfamates as novel leucyl-tRNA synthetase (LRS)-targeted mammalian target of rapamycin complex 1 (mTORC1) inhibitors." Bioorganic & Medicinal Chemistry 25.15 (2017): 4145-4152.
+
+Kim, Jong Hyun, et al. "Control of leucine-dependent mTORC1 pathway through chemical intervention of leucyl-tRNA synthetase and RagD interaction." Nature communications 8.1 (2017): 732.
+
+Son, Kook, et al. "A Non‐Canonical Function of Leucyl tRNA Synthetase Negatively Regulates Skeletal Myogenesis." The FASEB Journal 31 (2017): 759-6.
+
+Baymiller, Max, et al. "Tissue-specific alternative splicing separates the catalytic and cell signaling functions of human leucyl-tRNA synthetase." Journal of Biological Chemistry 298.4 (2022).
