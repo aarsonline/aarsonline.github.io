@@ -59,3 +59,5 @@ Chen, Bingyi, et al. "Inhibitory mechanism of reveromycin A at the tRNA binding 
 
 
 Brkic, Alojzije, et al. "Antibiotic hyper-resistance in a class I aminoacyl-tRNA synthetase with altered active site signature motif." Nature Communications 14(1): 5498 (2023).
+
+Muro, Yoshinao, et al. "Immune recognition of lysyl-tRNA synthetase and isoleucyl-tRNA synthetase by anti-OJ antibody-positive sera." Journal of Autoimmunity 122 (2021): 102680.
