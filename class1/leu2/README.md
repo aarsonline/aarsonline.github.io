@@ -64,7 +64,7 @@ Mutational studies have revealed that mutating the histidine residues of the HIG
 
 
 ## Non-translational functions
-
+Human LeuRS non-translational functions have been widely implicated in cell signaling and metabolite response regulation. LeuRS has been shown to bind leucine and to act as one of the sensors for leucine in the mTOR pathway, a key pathway in the regulation of cell growth and nutrient response (Han et al., 2012; Kim et al., 2021). Specifically, LeuRS-dependent mTOR activation enables glucose-dependent control of leucine usage and regulates the division of leucine between anabolic and catabolic processes in response to other available metabolites (Yoon et al., 2020). Inhibition of LeuRS-mediated mTOR activation has been explored as a potential therapeutic option for cancer (Yoon et al., 2017; Kim et al., 2017). Control of mTOR further enables LeuRS to negatively regulate skeletal myogenesis (Son et al., 2018). The dual roles of LeuRS in cell signaling and aminoacylation are separated through different LeuRS splice variants, where a highly expressed variant retains LeuRS' ability to activate mTOR but does not retain enzymatic activity (Baymiller et al., 2022). 
 
 
 ## Clinical significance
