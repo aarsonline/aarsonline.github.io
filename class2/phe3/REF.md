@@ -57,4 +57,6 @@ Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class
 
 Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.
 
+Schuch, Luise A., et al. "FARS1‐related disorders caused by bi‐allelic mutations in cytosolic phenylalanyl‐tRNA synthetase genes: Look beyond the lungs!." Clinical genetics 99.6 (2021): 789-801.
 
+Ho, Manh Tin, et al. "A translation-independent function of PheRS activates growth and proliferation in Drosophila." Disease Models & Mechanisms 14.3 (2021): dmm048132.
