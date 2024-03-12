@@ -60,4 +60,7 @@ Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class
 
 Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.
 
+Lechler, Armin, and Roland Kreutzer. "The phenylalanyl-tRNA synthetase specifically binds DNA." Journal of molecular biology 278.5 (1998): 897-901.
+
+Dou, Xiaowei, Stefan Limmer, and Roland Kreutzer. "DNA-binding of phenylalanyl-tRNA synthetase is accompanied by loop formation of the double-stranded DNA." Journal of Molecular Biology 305.3 (2001): 451-458.
 
