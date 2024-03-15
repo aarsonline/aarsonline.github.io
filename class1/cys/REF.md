@@ -8,7 +8,7 @@ Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacyla
 
 Hou, Ya-Ming and John J. Perona. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 3: Cysteinyl-tRNA Synthetases.
 
-
+Kuo, Molly E., et al. "Cysteinyl-tRNA synthetase mutations cause a multi-system, recessive disease that includes microcephaly, developmental delay, and brittle hair and nails." The American Journal of Human Genetics 104.3 (2019): 520-529.
 
 Komatsoulis GA, and John Abelson. "Recognition of tRNA(Cys) by cysteinyl-tRNA synthetase". Biochemistry 32, 7435-7444 (1993).
 
