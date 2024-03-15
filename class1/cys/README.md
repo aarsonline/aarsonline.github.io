@@ -52,6 +52,8 @@ A splice variant of human CysRS interacts with EF-1γ (Kim et al., 2000). Human 
  
 ## Clinical significance
 
+Homozygous and compound heterozygous variants in the human gene CARS1 enconding the cytosolic CysRS cause complex syndromes that include microcephaly, developmental delay, and brittle hair and nails (Kuo et al., 2019). The brittle-hair-and-nail phenotype most likely reflects the high cysteine content in human keratins. 
+
 Biallelic recessive variants (homozygous and compound heterozygous) in the human gene CARS2 encoding the mitochondrial CysRS cause a phenotype of epileptic encephalopathy (firstly descrived in Hallmann et al., 2014). The exhaustive list of the disease-related variants (including location on the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=CARS2). Mutations have been mapped to all domains of the mt-CysRS.
 
 
