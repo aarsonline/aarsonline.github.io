@@ -19,19 +19,20 @@ Ho, Manh Tin, et al. "α-Phenylalanyl tRNA synthetase competes with Notch signal
 
 Finarov, Igal, et al. "Structure of human cytosolic phenylalanyl-tRNA synthetase: evidence for kingdom-specific design of the active sites and tRNA binding patterns." Structure 18.3 (2010): 343-353.
 
-
+Krenke, Katarzyna, et al. "FARSA mutations mimic phenylalanyl‐tRNA synthetase deficiency caused by FARSB defects." Clinical Genetics 96.5 (2019): 468-472.
 
 
 Fishman, Roman, et al. "Structure at 2.6 Å resolution of phenylalanyl-tRNA synthetase complexed with phenylalanyl-adenylate in the presence of manganese." Acta Crystallographica Section D: Biological Crystallography 57.11 (2001): 1534-1544.
 
-
+Antonellis, Anthony, et al. "Compound heterozygosity for loss‐of‐function FARSB variants in a patient with classic features of recessive aminoacyl‐tRNA synthetase‐related disease." Human Mutation 39.6 (2018): 834-840.
 
 Kavran, Jennifer M., et al. "Structure of pyrrolysyl-tRNA synthetase, an archaeal enzyme for genetic code innovation." Proceedings of the National Academy of Sciences 104.27 (2007): 11268-11273.
 
-
+Zadjali, Fahad, et al. "Homozygosity for FARSB mutation leads to Phe‐tRNA synthetase‐related disease of growth restriction, brain calcification, and interstitial lung disease." Human Mutation 39.10 (2018): 1355-1359.
 
 Cusack, Stephen, Michael Härtlein, and Reuben Leberman. "Sequence, structural and evolutionary relationships between class 2 aminoacyl-tRNA synthetases." Nucleic acids research 19.13 (1991): 3489-3498.
 
+Xu, Zhiwen, et al. "Bi-allelic mutations in Phe-tRNA synthetase associated with a multi-system pulmonary disease support non-translational function." The American Journal of Human Genetics 103.1 (2018): 100-114.
 
 
 Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic Origins of Glycyl tRNA Synthetases." Journal of Biological Chemistry 291.28 (2016): 14430-14446.
