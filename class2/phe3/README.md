@@ -40,8 +40,8 @@ The anticodon binding domain is proposed to be a short loop upstream of the cata
 Post-transfer editing is performed by the [&beta; subunit](/class2/phe4).
 
 ## Non-translational functions
-In Drosophila melanogaster, FARSA activates growth and proliferation - a downregulation of FARSA is associated with a decrease in organ size, while overexpression causes up to 25% faster proliferation (Ho et al., 2021). This effect was not correlated with increased protein synthesis and is therefore likely to be unrelated to FARSA aminoacylation activity (Ho et al., 2021). 
+In Drosophila melanogaster, FARSA activates growth and proliferation - a downregulation of FARSA is associated with a decrease in organ size, while overexpression causes up to 25% faster proliferation (Ho et al., 2021). This effect was not correlated with increased protein synthesis and is therefore likely to be unrelated to FARSA aminoacylation activity (Ho et al. 2021). 
 
 
 ## Clinical significance
-Human cytoplasmic PheRS is a heterodimer consisting of a catalytic alpha subunit, encoded by gene FARSA, and a regulatory beta subunit, encoded by gene FARSB. Bi-allelic variants in either gene, FARSA or FARSB, lead to  a similar syndrome named Rajab interstitial lung disease with brain calcifications-2 (RILDBC1 or RILDBC2) (Antonellis et al. 2018, Zadjali et al. 2018, Xu et al. 2018, Krenke et al. 2019). Aminoacylation activity was affected in some patients but not others, suggesting a non-translational function and its subsequent disruption by disease-causing variants (Schuch et al., 2021).  
+Human cytoplasmic PheRS is a heterodimer consisting of a catalytic alpha subunit, encoded by gene FARSA, and a regulatory beta subunit, encoded by gene FARSB. Bi-allelic variants in either gene, FARSA or FARSB, lead to  a similar syndrome named Rajab interstitial lung disease with brain calcifications-2 (RILDBC1 or RILDBC2) (Antonellis et al. 2018, Zadjali et al. 2018, Xu et al. 2018, Krenke et al. 2019). Aminoacylation activity was affected in some patients but not others, suggesting a non-translational function and its subsequent disruption by disease-causing variants (Schuch et al. 2021).  
