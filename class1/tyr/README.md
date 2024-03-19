@@ -32,13 +32,11 @@ First, tRNA recognition is achieved by the helical anticodon binding domain in b
 distinct tRNA binding domain in the archaea and eukaryota (Wolf et al. 1999). 
 The latter is homologous with the [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_WY) of TrpRS.
 Second, many eukaryotic TyrRS, including the human form, contain a C-terminal RNA binding domain homologous to EMAP (Yaremchuk et al. 2002). 
-This domain is also found in some forms of [MetRS](/class1/met) and [PheRS](/class2/phe2) (Wolf et al. 1999), and is the [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK) of subclass IIb AARS.
+This domain is also found in some forms of [MetRS](/class1/met) and [PheRS](/class2/phe2) (Wolf et al. 1999) and is the [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK) of subclass IIb AARS.
 Lastly, most bacterial and organellar TyrRS possess a C-terminal RNA binding domain, which belongs to the S4 superfamily (Aravind et al. 1999).
 
-
-
-Normally, TyrRS ia a homodimer.
-However in some parasites, TyrRS exists as a double length duplicated enzyme which forms an asymmetric pseudo-dimer, with catalytic activity confined to the N-terminal paralog of the catalytic domain (Larson et al. 2011). 
+Normally, TyrRS is a homodimer.
+However, in some parasites, TyrRS exists as a double-length duplicated enzyme that forms an asymmetric pseudo-dimer, with catalytic activity confined to the N-terminal paralog of the catalytic domain (Larson et al. 2011). 
 
 
 
