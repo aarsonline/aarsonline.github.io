@@ -39,6 +39,11 @@ Zhou, Minyun, et al. "Crystal structures of Saccharomyces cerevisiae tryptophany
 
 Trifonov, Edward N. "Consensus temporal order of amino acids and evolution of the triplet code." Gene 261.1 (2000): 139-151.
 
+Xu, Feng, et al. "Species-specific differences in the operational RNA code for aminoacylation of tRNATrp." Nucleic acids research 29.20 (2001): 4125-4133.
+
+Giegé, Richard, and Gilbert Eriani. “The tRNA identity landscape for aminoacylation and beyond.” Nucleic acids research vol. 51,4 (2023): 1528-1570. doi:10.1093/nar/gkad007
+
+Chatterjee, Abhishek et al. “A tryptophanyl-tRNA synthetase/tRNA pair for unnatural amino acid mutagenesis in E. coli.” Angewandte Chemie (International ed. in English) vol. 52,19 (2013): 5106-9. doi:10.1002/anie.201301094
 
 
 Shen, Ning, et al. "Catalytic mechanism of the tryptophan activation reaction revealed by crystal structures of human tryptophanyl-tRNA synthetase in different enzymatic states." Nucleic acids research 36.4 (2008): 1288-1299.
