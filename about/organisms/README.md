@@ -36,16 +36,15 @@ It is noted that some eukaryotic protein sequences are actually computational pr
 
 ## <img class="imgIcon" src="/fig/Mitochondrial.png" alt="mitochondria icon" /> Mitochondria and chloroplasts 
 
-Mitochondria and chloroplasts have their own translational machinery, largely comprised of components distinct from those in the cytosolic environment in which they reside. 
-They synthesise AARS internally, but these are not all encoded within the genomes of these small intracellular compartments. 
-Rather, many of these enzymes are produced in the cytosol and then imported into the mitochondria and chloroplasts using localization signals.
+Mitochondria and chloroplasts have their own translational machinery, incorporating many components, e.g., various tRNA and AARS species, that are  distinct from those belonging to the cytosolic environment in which these organelles reside. 
+However, the AARS that operate in these intracellular bodies are encoded in the cells' nuclear DNA, synthesised by the translational machinery in the cytosol of the organelles' external environment and targeted for delivery into the  through the operatiopn of associated localization signals.
 In general, the same AARS is localized into both compartments through dual targeting (Duchêne 2005).
-Due to the endosymbiotic origins of these organelles, their endemic AARS are typically, but not always, of bacterial evolutionary origin. 
+Due to the endosymbiotic origins of mitochondria and chloroplasts, their AARS are typically of bacterial evolutionary origin. 
 
 
 Predicting protein cellular localization is a non-trivial problem and existing algorithms are not always accurate (Sun and Habermann 2017). 
 Thus, the classifications of eukaryotic structures into organellar/cytosolic should be considered as putative unless there is direct experimental evidence. 
-If you believe we have misclassified a eukaryotic structure into organellar/cytosolic, please contact us or raise an issue on GitHub.
+Note: if you believe we have misclassified a eukaryotic AARS structure as belonging to an organelle or the cytosolic domain of a cell, please contact us or raise an issue on GitHub.
 
 
 
