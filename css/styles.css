@@ -1147,7 +1147,20 @@ div.reaction span{
 
 
 
+img.imgIcon{
+	vertical-align:middle;
+	width:2em;
+	height:auto;
+	padding: 0;
+	min-width:0;
+}
 
+@media only screen and ( max-device-width: 1200px ) {
+	img.imgIcon{
+		width:4em;
+		height:auto;
+	}
+}
 
 
 
