@@ -43,7 +43,7 @@ Kobayashi, Takatsugu, et al. "Structural basis for orthogonal tRNA specificities
 
 Zhang, Yan, et al. "Crystal structures of apo wild-type M. jannaschii tyrosyl‐tRNA synthetase (TyrRS) and an engineered TyrRS specific for O-methyl-L-tyrosine." Protein science 14.5 (2005): 1340-1349.
 
-
+Giegé, Richard, and Gilbert Eriani. “The tRNA identity landscape for aminoacylation and beyond.” Nucleic acids research vol. 51,4 (2023): 1528-1570. doi:10.1093/nar/gkad007
 
 Wolf, Yuri I., et al. "Evolution of aminoacyl-tRNA synthetases—analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events." Genome research 9.8 (1999): 689-710.
 
