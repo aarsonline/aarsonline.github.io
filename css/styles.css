@@ -172,6 +172,8 @@ svg text.alpha{
 .aarsShowcase {
 	margin-top: 2em;
 	margin-bottom: 2em;
+	margin-left:0.5em;
+	margin-right:0.5em;
 }
 
 
@@ -180,13 +182,20 @@ svg text.alpha{
 }
 
 
-
-ul.aalist li img{
-
-
-
+.flexContainer_left2 .aarsShowcase img{
+	width: 5em;
+	border-radius:100%;
+	float: left;
+	margin-right:0.5em;
+	margin-top:0.5em;
 }
 
+
+
+.flexContainer_left2 .aarsShowcase div{
+	%text-align:justify;
+	height:12em;
+}
 
 
 
@@ -223,6 +232,29 @@ ul.aalist li img{
 	box-shadow: 0.3em 0.25em 0.1em #008cba0a;
 	max-width: 400px;
 }
+
+
+.aarsShowcase table {
+	width:100%;
+	margin-bottom:0.5em;
+}
+
+
+.flexContainer_left li.aarsShowcase{
+	height:6em;
+}
+
+.aarsShowcase table td{
+	text-align:right;
+}
+
+
+.aarsShowcase table td h3{
+	text-align:left;
+	margin:0;
+	font-size:1.3em;
+}
+
 
 
 
@@ -497,12 +529,6 @@ li.tRNA div{
 
 }
 
-
-#introduction img{
-	width:60em;
-	min-width:300px;
-	padding:1em;
-}
 
 
 @media only screen and ( max-device-width: 1200px ) {
@@ -948,6 +974,34 @@ body.mobile .dropdown-content {
 	margin-bottom:1em;
 }
 
+
+.flexContainer_left2 .aarsShowcase{
+	%text-align: justify;
+}
+
+
+.flexContainer_left2{
+  /* We first create a flex layout context */
+  display: flex;
+   flex-flow: row wrap;
+
+  
+  /* Then we define how is distributed the remaining space */
+  justify-content: flex-start;
+  
+  align-items: flex-start;
+  
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.flexContainer_left2>li {
+	margin-bottom:1em;
+}
+
+
+
 #metadataDlg{
 	border-style:solid;
 	border-width:1px;
@@ -1092,20 +1146,32 @@ div.reaction span{
 }
 
 
-img.imgIcon{
-	vertical-align:middle;
-	width:2em;
-	height:auto;
+
+
+
+
+
+#introduction img{
+	width:60em;
+	min-width:300px;
+	padding:1em;
 }
 
 
+#introduction img.imgIcon{
+	vertical-align:middle;
+	width:2em;
+	height:auto;
+	padding: 0;
+	min-width:0;
+}
+
 @media only screen and ( max-device-width: 1200px ) {
-	img.imgIcon{
+	#introduction img.imgIcon{
 		width:4em;
 		height:auto;
 	}
 }
-
 
 
 table.colourLegend{
