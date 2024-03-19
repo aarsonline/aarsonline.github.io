@@ -13,26 +13,18 @@ $ \text{Trp} + \text{tRNA}^\text{Trp} + \text{ATP} \xrightarrow{\text{TrpRS}} \t
 
 ## Structure 
 
+TrpRS, together with its close homolog [TyrRS](/class1/tyr), form the subclass Ic. Consequently, TrpRS and TyrRS share several structural features and phylogenetic origins, possibly emerging from a common ancestor that may have had dual amino acid specificity (Doublié et al. 1995, Fournier et al. 2015). Extant TrpRS and TyrRS acquired specificity for their respective amino acid substrates via conserved aspartates located in the specificity-determining helix (SDH) (Doublié et al. 1995). Additionally, while most Class I synthetases approach the tRNA acceptor stem from the minor groove side, TyrRS and TrpRS approach the acceptor stem directly instead (de Pouplana and Schimmel 2001).
 
-TrpRS, together with its close homolog [TyrRS](/class1/tyr), form the subclass Ic. Consequently, TrpRS and TyrRS share several  features. 
-TyrRS and TrpRS are homodimeric, in contrast to many Class I synthetases, which operate as monomers (Gomez and Ibba, 2020).
-Moreover, the two amino acids may have been among the last amino acids to emerge in the metabolism (Trifonov 2000), 
-and are chemically similar (aromatic side chains), consistent with the hypotheses of the two AARS sharing a common ancestor with either dual specificity, or one synthetase spawning off the other (Doublié et al. 1995, Fournier et al. 2015).
-Conserved aspartate side chains in the specificity determining helix (SDH) allow the respective enzymes to discriminate between tyrosine and tryptophan (Doublié et al. 1995).
-Lastly, while most Class I synthetases approach the tRNA acceptor stem from the minor groove side, TyrRS and TrpRS alike instead approach the acceptor stem directly (de Pouplana and Schimmel 2001).
+TrpRS from prokaryotic and archaeal/eukaryotic organisms form distinct groups with respect to their sequences, allostery, and domain architectures (Carter 2005). The prokaryotic TrpRS form is among the smallest AARSs in length, consisting of approximately 330 amino acids. Structurally, TrpRS displays a compact domain organization encompassing an aminoacylation domain with the canonical Class I motifs and a C-terminal anticodon binding domain [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_WY). Both domains are connected by the connecting peptide 1 (CP1) domain, which occurs in its simplest form in TrpRS and TyrRS. The CP1 mediates the homodimerization of both AARSs. The archaeal-type TrpRS contains an additional N-terminal domain known as the eukaryote-specific-extension (ESE) (Yang et al. 2007). Both the ESE and the C-terminal [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_WY) undergo vast conformational changes upon substrate binding, making the archaeal-like form quite complex (Shen et al. 2008). However, despite the intricate allostery displayed by TrpRS, the catalytic domain is less elaborate than other Class I synthetases, making it a useful scaffold for investigating ancestral models, such as urzymes (Pham et al. 2010; Onodera et al. 2021), which display activation and aminoacylation activity respectively. 
 
+tRNA recognition by TrpRS is mediated by anticodon and acceptor stem interactions. However, tRNA acceptor stem identities have diverged from bacteria to archaea and eukaryotes, creating differences in tRNA recognition by the prokaryotic and archaeal/eukaryotic enzymes (Giegé and Eriani, 2023). Consequently, prokaryotic TrpRS does not cross-react with archaeal/eukaryotic tRNA and vice versa (Xu et al. 2001; Chatterjee et al. 2013).
 
-TrpRS from prokaryotic and archaeal/eukaryotic organisms form distinct groups, with respect to their sequences, allosteries, and domain architectures (Carter 2005).
-The archaeal-like TrpRS contains an additional N-terminal domain known as the eukaryote-specific-extension (ESE) (Yang et al. 2007).
-Both the ESE and the C-terminal [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_WY) undergo vast conformational changes upon substrate binding, making the archaeal-like form quite complex (Shen et al. 2008).
-However, despite the intricate allostery displayed by TrpRS, the catalytic domain itself is less elaborate than other Class I synthetases, making it a useful target for investigating ancestral models, such as  protozymes (Onodera et al. 2021) and urzymes (Pham et al. 2010), which display activation and aminoacylation activity respectively. 
-The connecting peptide 1 (CP1) domains in TrpRS and TyrRS occur in their simplest forms.
 
 
 
 ## Editing
 
-TrpRS lacks editing activity. 
+No editing activity has been reported for TrpRS. 
 
 
 ## Non-translational functions
