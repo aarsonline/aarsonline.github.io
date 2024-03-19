@@ -37,9 +37,9 @@ Tertiary structures are displayed using Protein Viewer (PV), which can be found 
 
 All phylogenetic analyses were performed using BEAST v2.7 (Bouckaert et al. 2019).
 The phylogenies on the family pages are subtrees of the full trees presented in Douglas et al. 2023.
-Whereas the trees presented on protein-domain pages were built using the optimized relaxed clock (v1.1.1) (Douglas et al. 2021), 
+Whereas the trees presented on protein-domain pages were built using the optimized relaxed clock (v1.2.0) (Douglas et al. 2021), 
 the OBAMA substitution model (v1.1.1) (Bouckaert 2020)
-and the BICEPS tree prior (v1.1.1) (Bouckaert et al. 2022), 
+and the Yule Skyline tree prior from the BICEPS package (v1.1.1) (Bouckaert et al. 2022), 
 trees were summarized using the maximum clade credibility tree (Heled and Bouckaert 2013).
 
 
