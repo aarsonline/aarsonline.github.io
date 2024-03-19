@@ -37,7 +37,7 @@ It is noted that some eukaryotic protein sequences are actually computational pr
 ## <img class="imgIcon" src="/fig/Mitochondrial.png" alt="mitochondria icon" /> Mitochondria and chloroplasts 
 
 Mitochondria and chloroplasts have their own translational machinery, incorporating many components, e.g., various tRNA and AARS species, that are  distinct from those belonging to the cytosolic environment in which these organelles reside. 
-However, the AARS that operate in these intracellular bodies are encoded in the cells' nuclear DNA, synthesised by the translational machinery in the cytosol of the organelles' external environment and targeted for correct delivery through the operatiopn of associated localization signals.
+However, the AARS that operate in these intracellular bodies are encoded in the cells' nuclear DNA, synthesised by the translational machinery in the cytosol of the organelles' external environment and targeted for correct delivery through the operation of associated localization signals.
 In general, the same AARS is localized into both compartments through dual targeting (Duchêne 2005).
 Due to the endosymbiotic origins of mitochondria and chloroplasts, their AARS are typically of bacterial evolutionary origin. 
 
