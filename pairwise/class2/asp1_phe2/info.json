@@ -1,59 +1,60 @@
 {
-    "fullName":"AspRS vs PheRS-B\u03b2 pairwise comparison",
+    "fullName":"AspRS-B vs PheRS-B\u03b2 pairwise comparison",
     "class":"Class II",
     "icon":"/fig/icon_white.png",
-    "family1":"AspRS",
+    "family1":"AspRS-B",
     "family2":"PheRS-B\u03b2",
-    "fullName1":"Discriminating Aspartyl-tRNA Synthetase",
+    "fullName1":"Aspartyl-tRNA Synthetase (Bacterial-like)",
     "fullName2":"Phenylalanyl-tRNA Synthetase &beta; Subunit (Bacterial-like)",
-    "description":"Pairwise comparison of the Class II catalytic domains from the Discriminating Aspartyl-tRNA Synthetase (<a href='/class2/asp1'>AspRS</a>) and Phenylalanyl-tRNA Synthetase &beta; Subunit (Bacterial-like) (<a href='/class2/phe2'>PheRS-B\u03b2</a>) families. \n\tThe cross-family RMSD is the average RMSD between pairs of structures from different families, and is\n\t larger than the total RMSD, which compares structures both within- and between-families. TM scores are bound between 0 and 1. \n\t This alignment was generated automatically using 3DCOMB (Wang et al. 2011) and was not corrected with any manual adjustment.",
-    "rmsd":    2.275,
-    "tm":    0.7714,
-    "rmsd1":    2.25,
-    "rmsd2":    3.39,
-    "crossFamilyRmsd":    4.54,
-    "rmsdTotal":    3.69,
+    "description":"Pairwise comparison of the Class II catalytic domains from the Aspartyl-tRNA Synthetase (Bacterial-like) (<a href='/class2/asp1'>AspRS-B</a>) and Phenylalanyl-tRNA Synthetase &beta; Subunit (Bacterial-like) (<a href='/class2/phe2'>PheRS-B\u03b2</a>) families. \n\tThe cross-family RMSD is the average RMSD between pairs of structures from different families, and is\n\t larger than the total RMSD, which compares structures both within- and between-families. TM scores are bound between 0 and 1. \n\t This alignment was generated automatically using 3DCOMB (Wang et al. 2011) and was not corrected with any manual adjustment.",
+    "rmsd":    2.042,
+    "tm":    0.7816,
+    "rmsd1":    2.03,
+    "rmsd2":    3.53,
+    "crossFamilyRmsd":    4.68,
+    "rmsdTotal":    3.71,
     "features":{
         "Protozyme":{
             "acc":"AspRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154434.pdb",
-            "range":"71-111",
+            "range":"69-109",
             "level":            3
         },
         "Motif 1":{
             "acc":"AspRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154434.pdb",
-            "range":"41-50",
+            "range":"39-48",
             "level":            1
         },
         "Motif 2":{
             "acc":"AspRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154434.pdb",
-            "range":"95-104",
+            "range":"93-102",
             "level":            1
         },
         "Motif 3":{
             "acc":"AspRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154434.pdb",
-            "range":"416-425",
-            "level":            1
+            "range":"414-423",
+            "level":            1,
+            "align":"right"
         },
         "IIb IM 1":{
             "acc":"AspRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154434.pdb",
-            "range":"149-310",
+            "range":"147-308",
             "level":            3,
             "level":            3
         },
         "IIb IM 2":{
             "acc":"AspRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154434.pdb",
-            "range":"376-413",
+            "range":"374-411",
             "level":            3,
             "level":            3
         },
         "Tweezer 1":{
             "acc":"AspRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154434.pdb",
-            "range":"102",
+            "range":"100",
             "level":            0
         },
         "Tweezer 2":{
             "acc":"AspRS_AF_Arch_Candidatus_Methanomassiliicoccus_intestinalis_Issoire-Mx1_gene16154434.pdb",
-            "range":"423",
+            "range":"421",
             "level":            0
         }
     }
