@@ -302,6 +302,7 @@ $("#main").append(`
 	`);
 
 
+
   
   if (IS_MOBILE){
 	  let row = $(`<tr><td class="structureCell"><div id="tertiary"> </div></td></tr>`)
@@ -319,6 +320,8 @@ $("#main").append(`
 	
 
 
+	
+
 	// Render the introduction
 	fetch("README.md")      // The path to the raw Markdown file
   .then(response => response.blob())  // Unwrap to a blob...
@@ -326,26 +329,20 @@ $("#main").append(`
   .then(markdown => {                 // ...then pass the raw text into marked.parse
     document.getElementById("introduction").innerHTML = marked.parse(markdown);
     MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
-	$("#introduction").prepend("<h1 id='fullName'>Introduction</h1>");
+		$("#introduction").prepend("<h1 id='fullName'>Introduction</h1>");
   });
 
-
-
+$(".notes").show(100);
 
 	// Render the references
 	fetch("REF.md")      // The path to the raw Markdown file
   .then(response => response.blob())  // Unwrap to a blob...
   .then(blob => blob.text())          // ...then to raw text...
   .then(markdown => {                 // ...then pass the raw text into marked.parse
-
-
-
-  	
-  
-
-    document.getElementById("references").innerHTML = marked.parse(markdown);
+	document.getElementById("references").innerHTML = marked.parse(markdown);
 	
-	
+
+
 	// Sort references alphabetically
 	let refs = $("#references").find("p");
 	
@@ -405,7 +402,7 @@ $("#main").append(`
   loadAllFiles(function(){
 
 
-	$(".notes").show(100);
+	//$(".notes").show(100);
 
     //console.log(DATA);
     renderAlignment("alignment", 0, "data/align.ali");
