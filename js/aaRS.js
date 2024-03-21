@@ -332,7 +332,6 @@ $("#main").append(`
 		$("#introduction").prepend("<h1 id='fullName'>Introduction</h1>");
   });
 
-$(".notes").show(100);
 
 	// Render the references
 	fetch("REF.md")      // The path to the raw Markdown file
