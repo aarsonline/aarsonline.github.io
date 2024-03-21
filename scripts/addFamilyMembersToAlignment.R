@@ -5,7 +5,7 @@ library(seqinr)
 
 
 
-# args=c("../../../../class1/", 'Catalytic_domain', "structures.txt", "align.ali", "3di.fasta", "combined.fasta")
+# args=c("../../../../class1/", 'Catalytic_domain', "structures.txt", "align.ali", "align.ali", "combined.fasta")
 
 # Add family members to the alignment by using the exissing alignment to their reference structure
 args = commandArgs(trailingOnly=TRUE)

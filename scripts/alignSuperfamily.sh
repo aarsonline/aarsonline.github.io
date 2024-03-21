@@ -46,7 +46,7 @@ do
 		# Add the remaining family members to the alignment by aligning them to their reference structure
 		Rscript ../../../../scripts/addFamilyMembersToAlignment.R ../../../../$c $d structures.txt align.ali align.ali combined.fasta # Warnings are vital to fix
 		Rscript ../../../../scripts/addFamilyMembersToAlignment.R ../../../../$c $d structures.txt secondary.fasta secondary.fasta combined.secondary.fasta  # Warnings are vital to fix
-		Rscript ../../../../scripts/addFamilyMembersToAlignment.R ../../../../$c $d structures.txt align.ali 3di.fasta 3di.secondary.fasta # Disregard warnings if the other two pass
+		#Rscript ../../../../scripts/addFamilyMembersToAlignment.R ../../../../$c $d structures.txt align.ali 3di.fasta 3di.secondary.fasta # Disregard warnings if the other two pass
 
 
 

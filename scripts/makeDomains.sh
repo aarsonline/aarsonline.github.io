@@ -36,7 +36,7 @@ do
 
 	
 	rm -f align.ali
-	~/DeepAlign/3DCOMB -r -i structures.txt -o align
+	~/DeepAlign/3DCOMB -i structures.txt -o align
 	Rscript ../../../../../scripts/ensureAlignmentExists.R
 	Rscript ../../../../../scripts/dssp2pdbMulti.R
 
