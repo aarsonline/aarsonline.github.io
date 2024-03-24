@@ -16,3 +16,11 @@ Fukunaga, Ryuya, and Shigeyuki Yokoyama. "Crystal structure of leucyl-tRNA synth
 Fukai, Shuya, et al. "Structural basis for double-sieve discrimination of L-valine from L-isoleucine and L-threonine by the complex of tRNAVal and valyl-tRNA synthetase." Cell 103.5 (2000): 793-803.
 
 Fersht, Alan R., and Meredith M. Kaethner. "Enzyme hyperspecificity. Rejection of threonine by the valyl-tRNA synthetase by misacylation and hydrolytic editing." Biochemistry 15.15 (1976): 3342-3346.
+
+
+
+
+Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.
+
+
+Palencia, Andres, et al. "Structural dynamics of the aminoacylation and proofreading functional cycle of bacterial leucyl-tRNA synthetase." Nature structural & molecular biology 19.7 (2012): 677-684.

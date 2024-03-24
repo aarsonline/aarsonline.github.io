@@ -1,22 +1,29 @@
 
 
-The post-transfer editing domain LIV (Edit-LIV) catalyzes the removal of misacylated residues $X$ from the cognate acceptor stems of isoleucine, leucine, and valine:
 
 
-$ X\text{-tRNA}^\text{Ile} \xrightarrow{\text{Edit-LIV}} X + \text{tRNA}^\text{Ile} $
-
-$ X\text{-tRNA}^\text{Leu} \xrightarrow{\text{Edit-LIV}} X + \text{tRNA}^\text{Leu} $
-
-$ X\text{-tRNA}^\text{Val} \xrightarrow{\text{Edit-LIV}} X + \text{tRNA}^\text{Val} $
 
 
-The domain appears within the catalytic domains of [IleRS](/class1/ile), [ValRS](/class1/val), and the two forms of LeuRS: [LeuRS-A](/class1/leu2) and [LeuRS-B](/class1/leu1).
-This provides further amino acid selectivity by expelling a wide range of mistargetted amino acids such alanine, cysteine, threonine, valine, isoleucine, methionine, homocysteine, and norvaline (Gomez and Ibba, 2020). 
- ValRS also targets misactivated amino acids, such as threonine, through pre-transfer editing activity (Fersht et al. 1976). 
- Its discrimination first against size (i.e. by filtering out isoleucine), and second against polarity (i.e. removal of misactivated threonine) has been described as a double-sieve mechanism (Fersht et al. 1976, Fukai et al. 2000). 
 
 
-Interestingly, the domain resides in two different parts of the catalytic domain's primary sequence: upstream of the CP2 insertion for ValRS, IleRS, and LeuRS-A, and downstream of CP2 in the case of the bacterial-like form LeuRS-B  (Fukunaga et al. 2005).
+The common post-transfer editing domain found in the class I aminoacyl-tRNA synthetases families [IleRS](/class1/ile), [ValRS](/class1/val), [LeuRS-A](/class1/leu2) and [LeuRS-B](/class1/leu1) catalyzes the hydrolytic removal of misacylated amino acids from the 3'-terminal A76 ribose of misacylated tRNAs. For example:
+
+
+$ \text{H}_2\text{O} + \text{Nva-tRNA}^\text{Leu} \xrightarrow{} \text{Nva} + \text{tRNA}^\text{Leu} $
+
+$ \text{H}_2\text{O} + \text{Thr-tRNA}^\text{Val} \xrightarrow{} \text{Thr} + \text{tRNA}^\text{Val} $
+
+$ \text{H}_2\text{O} + \text{Val-tRNA}^\text{Ile} \xrightarrow{} \text{Val} + \text{tRNA}^\text{Ile} $
+
+
+
+In each case, the post-transfer editing reaction occurs after the misacylated single stranded 3'-end of the tRNA is translocated across the enzyme surface from the synthetic active site in the Rossmann fold domain, to the editing domain active site (Nureki et al., 1998; Silvian et al., 1999; Palencia et al., 2012; reviewed in Perona & Hadd, 2012).
+
+In all cases, the editing and synthetic domains adopt a very similar relative orientation, enabling the common translocation mechanism. Interestingly, however, the insertion point of the editing domain into the Rossmann fold is variable: the domain resides upstream of the CP2 insertion for ValRS, IleRS, and LeuRS-A, but downstream of CP2 in the case of the bacterial-like form LeuRS-B (Fukunaga et al. 2005).
+
+
+
+
 
 
 

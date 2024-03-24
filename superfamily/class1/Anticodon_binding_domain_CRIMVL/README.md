@@ -1,4 +1,9 @@
-The anticodon binding domain CRIMVL is an $\alpha$-helical protein. It resides at the C-termini of several Class I AARS: [CysRS](/class1/cys/), [ArgRS](/class1/arg/),  [IleRS](/class1/ile/),  [MetRS](/class1/met/), [ValRS](/class1/val/), [LeuRS-A](/class1/leu2/), and [LeuRS-B](/class1/leu1/), where it recognises the tRNA anticodon loop, approaching the acceptor stem from the minor groove side (de Pouplana and Schimmel, 2001). 
+
+
+
+A common structurally homologous and primarily $\alpha$-helical domain is found in the C-terminal portions of the primary sequences of seven class I aminoacyl-tRNA synthetase families: [CysRS](/class1/cys/), [ArgRS](/class1/arg/),  [IleRS](/class1/ile/),  [MetRS](/class1/met/), [ValRS](/class1/val/), [LeuRS-A](/class1/leu2/), and [LeuRS-B](/class1/leu1/). In each case, the domain interacts with the anticodon stem- loop portion of the respective tRNA, although its functional role differs depending on the extent to which the particular enzyme relies on discriminating among anticodon bases to select its cognate tRNAs from the cellular pool. For example, LeuRS must recognize six distinct tRNA<sup>Leu</sup> anticodons, and so its CRIMVL domain does not make sequence-specific interactions with anticodon nucleotide bases. In contrast, all three nucleotides of the GCA anticodon of tRNA<sup>Cys</sup> are directly recognized by hydrogen-bonding and other favorable interactions with the CRIMVL domain, which in this case becomes well-ordered only upon tRNA binding. 
+
+
 
 
 
