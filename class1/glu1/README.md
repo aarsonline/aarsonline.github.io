@@ -32,7 +32,7 @@ Phylogeny strongly suggests that GlnRS originated in the eukaryota, and was late
 
 
 
-When GlnRS is absent, its role is replaced by a 2-step transamidation pathway involving a non-discriminating form of GluRS that attaches Glu to tRNAGln. A second enzymic step, performed by an tRNA-dependent amidotransferase (AdT), will amidate the misacylated Glu attached to tRNAGln into Gln prior to protein synthesis (Nirenberg and Wilcox, 1968, Schön et al., 1988, Curnow et al., 1997), as it does with [AsxRS](/class2/asp2/)  (Becker et al., 1998, Raczniak et al. 2001).
+When GlnRS is absent, its role is replaced by a 2-step transamidation pathway involving a non-discriminating form of GluRS that attaches Glu to tRNAGln. A second enzymic step, performed by an tRNA-dependent amidotransferase (AdT), will amidate the misacylated Glu attached to tRNAGln , producing the required Gln residue prior to protein synthesis (Nirenberg and Wilcox, 1968, Schön et al., 1988, Curnow et al., 1997), as it does with [AsxRS](/class2/asp2/)  (Becker et al., 1998, Raczniak et al. 2001).
 The second step of this reaction is:
 
 
@@ -81,5 +81,5 @@ The members of subclass Ib, alongside [ArgRS](/class1/arg/) and LysRS-I, require
 
 
 In the human mitochondria, Gln-tRNA$^\text{Gln}$ is produced through through the transmidation pathway whereby, like in bacteria, a non-discriminating GlxRS generates a mitochondrial Glu-tRNA$^\text{Gln}$ prior to its conversion by a mitochondrial GatCAB AdT into mitochondrial Gln-tRNA$^\text{Gln}$ (Nagao et al. 2009, Echevarria et al. 2014).
-Biallelic recessive variants (homozygous and compound heterozygous) in the human gene EARS2, encoding the mitochondrial gluRS cause the brain disease LTBL for Leukoencephalopathy with thalamus and brainstem involvement and high lactate (firstly described in Steenweg et al. 2012). The exhaustive list of disease-causing variants of EARS2 (including location on the sequence and the structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=EARS2). Mutations have been mapped to all domains of the mt-GluRS.
+Biallelic recessive variants (homozygous and compound heterozygous) in the human gene EARS2, which encodes the mitochondrial gluRS, cause the brain disease Leukoencephalopathy (LTBL) affecting the thalamus and brainstem and resulting in high lactate (firstly described in Steenweg et al. 2012). The exhaustive list of disease-causing variants of EARS2 (including location on the sequence and the structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=EARS2). Mutations have been mapped to all domains of the mt-GluRS.
 
