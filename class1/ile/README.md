@@ -30,12 +30,12 @@ It lacks the N-terminal extension and zinc finger motif (Brkic et al. 2023), and
 
 
 
-Most X-ray crystallographic work on IleRS has focused on enzymes from the domain Bacteria. However, a structure of the enzyme from a eukaryotic enzyme is of interest because bacterial IleRS from pathogenic organisms are targets for the development of pharmaceuticals. The crystal structure of Candida albicans IleRS showed structural differences compared to the bacterial enzyme, in both signature Class I AARS motifs (HIGH and KMSKS) found in the active site (Chung et al., 2020). The authors suggest that the more compact active site of the eukaryotic enzyme plays an important role in the resistance of this enzyme to anti-infective agents. The resistance of the bacterium *Staphylococcus aureus* to antibiotics targeting IleRS is also due to alterations in the HIGH motif (Brkic et al., 2023).
+Most X-ray crystallographic work on IleRS has focused on enzymes from the domain Bacteria. However, a structure of the enzyme from a eukaryotic enzyme is of interest because bacterial IleRS from pathogenic organisms are targets for the development of pharmaceuticals. The crystal structure of *Candida albicans* IleRS showed structural differences compared to the bacterial enzyme, in both signature Class I AARS motifs (HIGH and KMSKS) found in the active site (Chung et al., 2020). The authors suggest that the more compact active site of the eukaryotic enzyme plays an important role in the resistance of this enzyme to anti-infective agents. The resistance of the bacterium *Staphylococcus aureus* to antibiotics targeting IleRS is also due to alterations in the HIGH motif (Brkic et al., 2023).
 
 
 ## Editing
 
-IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a) inserted between the two halves of the Rossmann fold, which is absent from the Class Ia MetRS and CysRS enzymes. 
+IleRS, LeuRS, and ValRS share a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a) inserted between the two halves of the Rossmann fold, which is absent from the Class Ia MetRS and CysRS enzymes. 
 The post-transfer editing domain enhances amino acid selectivity by catalyzing the hydrolysis of misacylated amino acids. 
 In the case of IleRS, significant misacylation requiring post-transfer editing occurs for both valine and norvaline (Bilus et al., 2019; Gomez and Ibba, 2020). 
 Post-transfer editing defines the "double sieve" selectivity mechanism of certain AARS enzymes, including IleRS, against noncognate amino acids.
