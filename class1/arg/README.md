@@ -9,10 +9,10 @@ $ \text{Arg} + \text{tRNA}^\text{Arg} + \text{ATP} \xrightarrow{\text{ArgRS}} \t
 ## Structure
 
 
-In contrast to most Class I and II aminoacyl-tRNA synthetases, ArgRS requires the presence of $\text{tRNA}^\text{Arg}$ for effective arginine activation (Mitra et al. 1967, Eriani and Cavarelli 2005).
+In contrast to the mode of action of most Class I and II aminoacyl-tRNA synthetases, ArgRS requires the presence of its cognate $\text{tRNA}^\text{Arg}$ for effective arginine activation (Mitra et al. 1967, Eriani and Cavarelli 2005).
 tRNA binding is coordinated by the N- and C-terminal domains, which are adjacent in the tertiary structure (Cavarelli et al. 1998). 
 The N-terminal domain is a two layer &alpha;/&beta; unit that recognises the D-loop, and the C-terminal domain is a four helix bundle that recognises the anticodon. 
-Structural and mutation studies suggest that the interaction between the N-terminal domain and the D-loop are not stable, and deletion of the N-terminal domain has only a small effect on tRNA aminoacylation activity (Konno et al. 2009).
+Structural and mutation studies suggest that the interaction between the N-terminal domain and the D-loop is not stable, and deletion of the N-terminal domain has only a small effect on tRNA aminoacylation activity (Konno et al. 2009).
  Furthermore,  the orientation of this domain relative to the catalytic domain also varies across structures (Shimada et al.2001). 
 The N-terminal domain is characteristic of ArgRS and is lacking in other Class I structures, while the C-terminal [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) is also found in
 [CysRS](/class1/cys), [LeuRS](/class1/leu1), [ValRS](/class1/val), [MetRS](/class1/met), and [IleRS](/class1/ile).
