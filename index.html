@@ -2,13 +2,13 @@
 <html>
 <head>
 <title>AARS Online</title>
+<meta name="viewport" content="width=device-width, initial-scale=0.41, maximum-scale=1" />
 
 <meta name="description" content="AARS Online: an interative database of aminoacyl-tRNA synthetases">
 <meta name="keywords" content="aminoacyl-tRNA synthetase,AARS,database,application,tool,visualization,protein,biochemistry,molecular biology,bioinformatics">
 
 
 <link rel="icon" href="fig/icon.png">
-<meta name="viewport" content="width=device-width, initial-scale=0.41, maximum-scale=1" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 <script language='JavaScript' type='text/JavaScript' src="/js/util.js"></script>
@@ -137,7 +137,7 @@ showEle = function(eles, i, timeout = 200){
 			
 			<li class="aarsShowcase">
 				<span class="">
-						Enzymes are sampled from 
+						Enzymes from 
 						Bacteria <img class="imgIcon" src="/fig/Bacteria.png"/>, 
 						Archaea <img class="imgIcon" src="/fig/Archaea.png"/>, 
 						Eukaryotes <img class="imgIcon" src="/fig/Eukaryota.png"/>, 
@@ -206,6 +206,311 @@ showEle = function(eles, i, timeout = 200){
 -->
 
 	<div id='catalyticDomainDIV' style="width:100%; text-align:center; overflow-x: auto;"></div>
+
+
+
+	<div class="banner">
+
+
+
+
+				<h1>Curation team</h1>
+
+				<ul class="flexContainer_left2">
+
+					<li class="aarsShowcase">
+					
+						<table>
+							<tr>
+								<td>
+									<h3>Jordan Douglas</h3> 
+								</td>
+								<td>
+										Administrator
+								</td>
+							</tr>
+						</table>
+						
+
+						<div>
+							<img src="https://profiles.auckland.ac.nz/jordan-douglas/photo">
+							Jordan Douglas is a Research Fellow at the University of Auckland, New Zealand.	
+							His research interests lie in phylogenetics, virus evolution, and the origin of genetic coding through the lens of the aminoacyl-tRNA synthetases.
+							<a href="https://profiles.auckland.ac.nz/jordan-douglas">View profile.</a>
+						</div>
+
+					</li>
+
+
+					<li class="aarsShowcase">
+
+							<table>
+							<tr>
+								<td>
+									<h3>Peter Wills</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+					
+						<div>
+							<img src="fig/profiles/peter.jpg">
+							Peter Wills is an emeritus theoretical biologist at the University of Auckland.  His research focuses on the origin of genetic coding as a reflexive interplay between processes of chemistry and computation, each guiding the other through levels of increasing complexity and specificity, still visible in the phylogeny of AARS.
+						</div>
+
+					</li>
+
+
+					<li class="aarsShowcase">
+					
+
+							<table>
+							<tr>
+								<td>
+									<h3>Charles Carter Jr.</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="fig/profiles/charlie.png">
+							Charlie Carter studied TrpRS mechanisms based on crystal structures. His studies of AARS urzymes—models for the ancestral AARS that first enforced the genetic code—helped to validate the Rodin and Ohno bidirectional coding hypothesis. He and Peter Wills then showed how base-paired AARS ancestry also could explain the substrate binding differences needed for a binary coding alphabet.
+						</div>
+
+					</li>
+
+
+					<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>Marie Sissler</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="/fig/profiles/marie.jpg">
+							Marie Sissler is a Research Director at CNRS - Strasbourg University, France. 
+							She works on diverse aspects of mitochondrial RNA biology. 
+							She is particularly interested in mitochondrial aminoacyl-tRNA synthetases in diverse biological models such as humans and trypanosomatids, under healthy and pathological contexts.
+							<a href="https://mito.unistra.fr/">Lab website.</a>
+						</div>
+
+					</li>
+
+
+
+
+
+					<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>Oscar Vargas-Rodriguez</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="/fig/profiles/oscar.jpg">
+							Oscar Vargas-Rodriguez is an Assistant Professor at the University of Connecticut School of Medicine, USA. His research focuses on understanding how aminoacyl-tRNA synthetases and tRNAs regulate translational fidelity and its interplay with cellular homeostasis.
+							<a href="https://health.uconn.edu/vargas-rodriguez-lab/">Lab website.</a>
+						</div>
+
+					</li>
+
+
+					
+
+					<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>Henna Tyynismaa</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="/fig/profiles/henna.jpg">
+							Henna Tyynismaa is a Professor in medical molecular genetics at the University of Helsinki, Finland. She is interested in the role of aminoacyl-tRNA synthetases in human diseases.
+							<a href="https://www.helsinki.fi/en/researchgroups/medical-neurogenetics-group">Lab website.</a>
+						</div>
+
+					</li>
+
+
+
+
+						<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>John Perona</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="fig/profiles/john.jpg">
+							John Perona served as Professor of Biochemistry at UCSB (1994-2011) and PSU (2011-2024). John writes the Earthward newsletter on Substack and is author of From Knowledge to Power: The Comprehensive Handbook of Climate Science and Advocacy. He investigates how advances in science and technology can be incorporated into policymaking, focusing on climate change and the transition to a renewable energy economy.
+							<a href="https://www.fromknowledgetopower.com">View website.</a>
+						</div>
+
+					</li>
+
+					<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>Haissi Cui</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="/fig/profiles/haissi.jpg">
+							The Cui lab studies mammalian aminoacyl-tRNA synthetases. They strive to explore how the localization of aminoacylation is controlled by developing chemical tools, employing biochemical methods, and studying cellular and animal models. Haissi's favorite aminoacyl-tRNA synthetase is ArgRS.
+							<a href="https://haissicui-lab.ca">Lab website.</a>
+						</div>
+
+					</li>
+
+
+					<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>Frederic Fischer</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="/fig/profiles/fred.jpg">
+							Frederic Fischer is an Associate Professor in biochemistry and molecular biology at the University of Strasbourg, France. He is interested in non-canonical utilizations of aminoacyl-tRNAs and in particular in aminoacyl-tRNA transferases that reroute them away from protein synthesis to introduce aminoacyl modifications in various macromolecules in prokaryotes and eukaryotes.
+							<a href="https://dyps.unistra.fr/en/">Lab website.</a>
+						</div>
+
+					</li>
+
+
+						
+<!-- 
+
+					<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>Hubert Becker</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+							Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+						</div>
+
+					</li>
+
+
+					<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>Michael Ibba</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+							Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+						</div>
+
+					</li>
+
+
+					<li class="aarsShowcase">
+					
+
+						<table>
+							<tr>
+								<td>
+									<h3>Lluís Ribas de Pouplana</h3> 
+								</td>
+								<td>
+										Curator
+								</td>
+							</tr>
+						</table>
+
+						<div>
+							<img src="https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+							Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+						</div>
+
+					</li>
+ -->
+
+
+				</ul>
+
+
+				More profiles coming soon...
+
+
+	</div>
 
 
 
@@ -288,7 +593,7 @@ showEle = function(eles, i, timeout = 200){
 
 				A manuscript for this work is in preparation. In the meantime, if you find this website is helpful for your research please cite: <br><br>
 
-				Douglas, J., Bouckaert, R., Carter Jr, C. W., & Wills, P. R. (2023). Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Nucleic Acids Research, gkad1160.
+				Douglas, J., Bouckaert, R., Carter Jr, C. W., & Wills, P. R. (2024). Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Nucleic Acids Research, 52(2), 558-571.
 			</div>
 
 
