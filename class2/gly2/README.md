@@ -18,7 +18,7 @@ GlyRS-B is present in most bacteria and is phylogenetically distinct from the di
 ## Structure
 
 The catalytic domain of GlyRS-B is the smallest among all of Class II. The catalytic domains of AlaRS and GlyRS-B, which constitute subclass IId (Valencia-Sánchez et al., 2016), 
-are characterized by their absence of the small interface between motifs 1 and 2 (Douglas et al. 2023). 
+are characterized by absence of the small interface between motifs 1 and 2 (Douglas et al. 2023). 
 The small interface promotes dimerization in other Class II synthetases (Qiu et al. 1999, Schmitt et al. 1998), while AlaRS and GlyRS-B form oligomers through alternative means. 
 GlyRS-B operates as a heterotetramer composed of two $\alpha$ subunits and two $\beta$ subunits, unlike most Class II synthetases which are homodimeric.
  Other Class II tetramers include [PheRS](/class2/phe1) and [SepRS](/class2/sep). In certain bacteria, such as *Chlamydia trachomatis*,
@@ -29,7 +29,7 @@ GlyRS-B operates as a heterotetramer composed of two $\alpha$ subunits and two $
   
   
 
-Both subunit species are essential for GlyRS-B activity (Ostrem et al., 1974). The $\alpha$ subunits contain all of the determinants for activating glycine, and are able to do so as a dimer without the $\beta$ subunits. This dimerization is supported by a C-terminal three helix bundle (Tan et al. 2012). The $\beta$ subunits, significantly larger in size, contain tRNA recognition elements essential for producing Gly-tRNA$^\text{Gly}$ and do not display catalytic activity (Nagel et al., 1984). Like most Class II synthetases, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018). It appears that GlyRS-B lacks editing activity (Gomez et al., 2020).
+Both subunit species are essential for GlyRS-B activity (Ostrem et al., 1974). The $\alpha$ subunits contain all of the determinants for activating glycine, and are able to do so as a dimer without the $\beta$ subunits. This dimerization is supported by a C-terminal three helix bundle (Tan et al. 2012). The $\beta$ subunits, significantly larger in size, contain tRNA recognition elements essential for producing Gly-tRNA$^\text{Gly}$ and do not display catalytic activity (Nagel et al., 1984). Like most Class II synthetases, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018). 
 
   
   
@@ -45,6 +45,8 @@ Both subunit species are essential for GlyRS-B activity (Ostrem et al., 1974). T
 
 
 ## Editing
+
+It appears that GlyRS-B lacks editing activity (Gomez et al., 2020).
 
 
 ## Non-translational functions
