@@ -24,7 +24,7 @@ The crystal structure of the E. coli CysRS-tRNA$^\text{Cys}$ complex showed that
 All three nucleotides of the GCA anticodon exhibit direct recognition by hydrogen-bonding and other favorable interactions with this domain, 
 which becomes well-ordered only upon tRNA binding.  In E.coli, tRNA discrimination by CysRS also relies on indirect readout of the globular 
 tertiary core of the enzyme, mediated by contacts with the sugar-phosphate backbone at an unusual G15-G48 Levitt base-pair (Sherlin et al., 2000; Hauenstein et al., 2004).
-The α/β domain resides downstream from the [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) (Hou and Perona, 2005), 
+The α/β domain resides downstream from the [helical domain](/d/crimvl) (Hou and Perona, 2005), 
 which is also found in [ArgRS](/class1/arg), [LeuRS](/class1/leu1), [ValRS](/class1/val), [MetRS](/class1/met), and [IleRS](/class1/ile).
 In CysRS however, the helical domain is substantially smaller and recognizes the anticodon and D stems, rather than the anticodon loop (Hauenstein et al. 2004).
 Acceptor stem recognition may be further coordinated by a disordered module on the surface of the catalytic domain (Newberry et al. 2002).

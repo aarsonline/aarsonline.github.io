@@ -12,7 +12,7 @@ $ \text{Thr} + \text{tRNA}^\text{Thr} + \text{ATP} \xrightarrow{\text{ThrRS}} \t
   
   
 
-ThrRS belongs to subclass IIa, which includes other enzymes such as [ProRS](/class2/pro1), [SerRS](/class2/ser1), and the dimeric [GlyRS](/class2/gly1) (Gomez et al. 2020, Valencia-Sánchez et al. 2016, Perona et al. 2012). The [anticodon binding domains](/superfamily/class2/Anticodon_binding_domain_HGPT) of subclass IIa, with the exception of SerRS, are homologous with that of [HisRS](/class2/his), and are located at the C-terminal end (Wolf et al. 1999). 
+ThrRS belongs to subclass IIa, which includes other enzymes such as [ProRS](/class2/pro1), [SerRS](/class2/ser1), and the dimeric [GlyRS](/class2/gly1) (Gomez et al. 2020, Valencia-Sánchez et al. 2016, Perona et al. 2012). The [anticodon binding domains](/d/hgpt) of subclass IIa, with the exception of SerRS, are homologous with that of [HisRS](/class2/his), and are located at the C-terminal end (Wolf et al. 1999). 
 
 
 
@@ -26,7 +26,7 @@ The catalytic domain of ThrRS is typical of a Class II aminoacyl-tRNA synthetase
 ## Editing
 
 
-ThrRS also has an editing function, which occurs at the post-transfer level to remove mischarged serines from tRNA$^\text{Thr}$ (Dock-Bregeon et al. 2000). This is achieved through the two N-terminal domains N1 and N2 (Dock-Bregeon et al. 2004). The [editing domain](/superfamily/class2/Editing_domain_AT/) (N2) is homologous with that of [AlaRS](/class2/ala), which is conversely located downstream of the catalytic domain (Sankaranarayanan et al. 1999). In some archaea, a non-homologous N-terminal editing domain, which also targets mischarged serine, is present instead of the N1 and N2 domains in ThrRS (Hussain et al. 2006)
+ThrRS also has an editing function, which occurs at the post-transfer level to remove mischarged serines from tRNA$^\text{Thr}$ (Dock-Bregeon et al. 2000). This is achieved through the two N-terminal domains N1 and N2 (Dock-Bregeon et al. 2004). The [editing domain](/d/editat/) (N2) is homologous with that of [AlaRS](/class2/ala), which is conversely located downstream of the catalytic domain (Sankaranarayanan et al. 1999). In some archaea, a non-homologous N-terminal editing domain, which also targets mischarged serine, is present instead of the N1 and N2 domains in ThrRS (Hussain et al. 2006)
 
 
 

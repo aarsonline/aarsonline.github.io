@@ -30,7 +30,7 @@ Its functional role is unclear.
 
 
 The tRNA is recognised by two C-terminal domains (Tukalo et al. 2005, Rock et al. 2007).
-The first is a  [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
+The first is a  [helical domain](/d/crimvl) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
 The second is a compact $\alpha$-$\beta$ domain unique to LeuRS-B.
 The domain is flexibly linked with the rest of the protein and mutational studies suggest it is essential for effective aminoacylation (Tukalo et al. 2005).
 
@@ -39,7 +39,7 @@ The domain is flexibly linked with the rest of the protein and mutational studie
 ## Editing
 
 
-IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a) inserted between the two halves of the Rossmann fold, which is absent from the subclass Ia MetRS and CysRS enzymes. The post-transfer editing domain enhances amino acid selectivity by catalyzing the hydrolysis of misacylated amino acids. Interestingly, and unlike LeuRS-A, ValRS, and IleRS, the editing domain of LeuRS-B resides downstream of the zinc finger and CP2 (Fukunaga et al. 2005). Thus, the domain appears to have hopped between the two positions, or may have originated as a trans-acting factor.
+IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/d/edit1a) inserted between the two halves of the Rossmann fold, which is absent from the subclass Ia MetRS and CysRS enzymes. The post-transfer editing domain enhances amino acid selectivity by catalyzing the hydrolysis of misacylated amino acids. Interestingly, and unlike LeuRS-A, ValRS, and IleRS, the editing domain of LeuRS-B resides downstream of the zinc finger and CP2 (Fukunaga et al. 2005). Thus, the domain appears to have hopped between the two positions, or may have originated as a trans-acting factor.
 
  In LeuRS, post-transfer editing is best characterized for hydrolysis of misacylated norvaline, $\text{Nva-tRNA}^\text{Leu}$ (Bilus et al., 2019; Dulic et al., 2018; Cvetesic et al., 2012). Detailed kinetic analyses have shown that, like ValRS, LeuRS achieves fidelity against noncognate amino acids almost entirely at the post-transfer editing step. The efficiency of post-transfer editing is controlled by kinetic partitioning beteen hydrolysis and dissociation of the misacylated tRNA (Cvetesic et al., 2012).
 

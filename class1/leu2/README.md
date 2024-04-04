@@ -33,7 +33,7 @@ LeuRS-A is lacking the connecting peptide 3 (CP3) domain found in IleRS, ValRS, 
 
 
 The tRNA is recognised by two C-terminal domains (Fukunaga et al. 2005).
-The first is a [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
+The first is a [helical domain](/d/crimvl) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
 The second domain (the C-terminal domain) is unique to LeuRS-A and appears to be beneficial, but not essential, for aminoacylation activity (Fukunaga et al. 2005).
 
 
@@ -42,7 +42,7 @@ The second domain (the C-terminal domain) is unique to LeuRS-A and appears to be
 
 
 
-IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a) inserted between the two halves of the Rossmann fold, which is absent from the Class Ia MetRS and CysRS enzymes. 
+IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/d/edit1a) inserted between the two halves of the Rossmann fold, which is absent from the Class Ia MetRS and CysRS enzymes. 
 The post-transfer editing domain enhances amino acid selectivity by catalyzing the hydrolysis of misacylated amino acids. 
 However, unlike LeuRS-A, ValRS, and IleRS, the editing domain of LeuRS-B resides downstream of the zinc finger and CP2 (Fukunaga et al. 2005).
 Thus, the domain appears to have hopped between the two positions, or may have originated as a trans-acting factor.

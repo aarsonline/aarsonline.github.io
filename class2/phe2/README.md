@@ -33,10 +33,10 @@ labeled below for convenience.
 
 
 
-The [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_F) (domain B8) is located at the C-terminus, and is homologous to that of PheRS-M. This domain is unique in its charging of the 2′OH of tRNA, 
+The [anticodon binding domain](/d/f) (domain B8) is located at the C-terminus, and is homologous to that of PheRS-M. This domain is unique in its charging of the 2′OH of tRNA, 
 while other members of Class II charge 3′OH (Goldgur et al. 1997).
 This contrasts with the eukaryotic PheRS tetramer, whose anticodon binding domain resides in the $\alpha$ chain.
-A paralog of the N-terminal RNA binding domain EMAP is also found in some forms of [TyrRS](/class1/tyr) and [MetRS](/class1/met) (Wolf et al. 1999), and is the [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK) of subclass IIb AARS.
+A paralog of the N-terminal RNA binding domain EMAP is also found in some forms of [TyrRS](/class1/tyr) and [MetRS](/class1/met) (Wolf et al. 1999), and is the [anticodon binding domain](/d/dnk) of subclass IIb AARS.
 
 
 

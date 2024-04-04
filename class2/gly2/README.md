@@ -12,8 +12,9 @@ $ \text{Gly} + \text{tRNA}^\text{Gly} + \text{ATP} \xrightarrow{\text{GlyRS-B}} 
 
 GlyRS-B is present in most bacteria and is phylogenetically distinct from the dimeric families [GlyRS-A](/class2/gly1) and [GlyRS-E](/class2/gly3), which are present in archaea, eukaryotes,
  and some bacteria (Shiba, 2005).
- The full-length $\alpha$-$\beta$ type of GlyRS-B also operates in chloroplasts (Uwer et al. 1998). 
-  
+ The full-length $\alpha$-$\beta$ type of GlyRS-B also operates in chloroplasts (Uwer et al. 1998).
+
+
 
 ## Structure
 
@@ -29,11 +30,7 @@ GlyRS-B operates as a heterotetramer composed of two $\alpha$ subunits and two $
   
   
 
-Both subunit species are essential for GlyRS-B activity (Ostrem et al., 1974). The $\alpha$ subunits contain all of the determinants for activating glycine, and are able to do so as a dimer without the $\beta$ subunits. This dimerization is supported by a C-terminal three helix bundle (Tan et al. 2012). The $\beta$ subunits, significantly larger in size, contain tRNA recognition elements essential for producing Gly-tRNA$^\text{Gly}$ and do not display catalytic activity (Nagel et al., 1984). Like most Class II synthetases, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018). 
-
-  
-  
-  
+Both subunit species are essential for GlyRS-B activity (Ostrem et al., 1974). The $\alpha$ subunits contain all of the determinants for activating glycine, and are able to do so as a dimer without the $\beta$ subunits. This dimerization is supported by a C-terminal three helix bundle (Tan et al. 2012). The $\beta$ subunits, significantly larger in size, contain tRNA recognition elements essential for producing Gly-tRNA$^\text{Gly}$ and do not display catalytic activity (Nagel et al., 1984). Like most Class II synthetases, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018). The $\beta$ chain contains the [ancient tRNA latch](/d/atl) domain.
   
   
 

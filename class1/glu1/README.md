@@ -27,7 +27,7 @@ $ \text{Glu} + \text{tRNA}^\text{Gln} + \text{ATP} \xrightarrow{\text{GluGlnRS}}
 
 
 As discovered by Lamour and Mirande in 1994 and discussed more recently by Hadd and Perona 2014, there is a complex coevolutionary history between glutamyl- and glutaminyl-tRNA synthetases, which comprise subclass Ib (Lamour et al., 1994, Perona and Hadd. 2012, Gomez et al., 2020). 
-Their diversification occurred after the last universal common ancestor, with bacterial-like forms being characterized by an [$\alpha$-helical anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EK), and the archaeal and eukaryotic forms possessing a [$\beta$-barrel anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EQ) (Satiecka et al., 1998).
+Their diversification occurred after the last universal common ancestor, with bacterial-like forms being characterized by an [$\alpha$-helical anticodon binding domain](/d/ek), and the archaeal and eukaryotic forms possessing a [$\beta$-barrel anticodon binding domain](/d/eq) (Satiecka et al., 1998).
 Phylogeny strongly suggests that GlnRS originated in the eukaryota, and was later only acquired by certain bacteria, but never by archaea (Tumbula et al., 2000) through horizontal gene transfer (Lamour et al. 1994). Therefore, all eukaryotes express both GlnRS and GluRS, while all archaea and more than 90% of bacterial species studied thus far do not encode a GlnRS gene. 
 
 

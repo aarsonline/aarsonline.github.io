@@ -19,11 +19,11 @@ Its functional role is unclear.
 
 
 There are two types of IleRS, which have distinct sequences and C-terminal domain architectures. 
-Both forms possess a  [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL), that recognizes the anticodon loop, residing C-terminal to the catalytic domain.
+Both forms possess a  [helical domain](/d/crimvl), that recognizes the anticodon loop, residing C-terminal to the catalytic domain.
 This helical domain is universal across the members of subclass Ia, and is also found in [ArgRS](/class1/arg).
 However, the remaining C-terminal regions vary between the two IleRS types.
 The first type, IleRS-1, is found in certain bacteria, organelles, and eukaryotic cytosols.
-It possesses a [C-terminal junction domain](/superfamily/class1/C-terminal_junction_domain) and a zinc finger downstream from the helical bundle.
+It possesses a [C-terminal junction domain](/d/iv) and a zinc finger downstream from the helical bundle.
 Together with an N-terminal extension, the three C-terminal domains recognise the anticodon loop (Silvian et al. 1999).  
 The second type, IleRS-2, is found in many archaea, bacteria, and eukaryotic cytosols. 
 It lacks the N-terminal extension and zinc finger motif (Brkic et al. 2023), and achieves anticodon loop recognition through a much larger variation of the C-terminal junction domain.
@@ -35,7 +35,7 @@ Most X-ray crystallographic work on IleRS has focused on enzymes from the domain
 
 ## Editing
 
-IleRS, LeuRS, and ValRS share a post-transfer [editing domain](/superfamily/class1/Editing_domain_1a) inserted between the two halves of the Rossmann fold, which is absent from the Class Ia MetRS and CysRS enzymes. 
+IleRS, LeuRS, and ValRS share a post-transfer [editing domain](/d/edit1a) inserted between the two halves of the Rossmann fold, which is absent from the Class Ia MetRS and CysRS enzymes. 
 The post-transfer editing domain enhances amino acid selectivity by catalyzing the hydrolysis of misacylated amino acids. 
 In the case of IleRS, significant misacylation requiring post-transfer editing occurs for both valine and norvaline (Bilus et al., 2019; Gomez and Ibba, 2020). 
 Post-transfer editing defines the "double sieve" selectivity mechanism of certain AARS enzymes, including IleRS, against noncognate amino acids.

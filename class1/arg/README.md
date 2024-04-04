@@ -14,7 +14,7 @@ tRNA binding is coordinated by the N- and C-terminal domains, which are adjacent
 The N-terminal domain is a two layer &alpha;/&beta; unit that recognises the D-loop, and the C-terminal domain is a four helix bundle that recognises the anticodon. 
 Structural and mutation studies suggest that the interaction between the N-terminal domain and the D-loop is not stable, and deletion of the N-terminal domain has only a small effect on tRNA aminoacylation activity (Konno et al. 2009).
  Furthermore,  the orientation of this domain relative to the catalytic domain also varies across structures (Shimada et al.2001). 
-The N-terminal domain is characteristic of ArgRS and is lacking in other Class I structures, while the C-terminal [anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL) is also found in
+The N-terminal domain is characteristic of ArgRS and is lacking in other Class I structures, while the C-terminal [anticodon binding domain](/d/crimvl) is also found in
 [CysRS](/class1/cys), [LeuRS](/class1/leu1), [ValRS](/class1/val), [MetRS](/class1/met), and [IleRS](/class1/ile).
 ArgRS charges tRNAs that correspond to six different codons. In the standard genetic code, leucine and serine are the only other amino acids which are encoded by six codons.
 

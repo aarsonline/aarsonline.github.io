@@ -7,7 +7,7 @@ Histidyl-tRNA synthetase (HisRS) is an enzyme that plays a crucial role in prote
 $ \text{His} + \text{tRNA}^\text{His} + \text{ATP} \xrightarrow{\text{HisRS}} \text{His-tRNA}^\text{His} + \text{AMP} + \text{PP}_i  $
 
 
-The catalytic domain of HisRS closely resembles [PheRS](/class2/phe1)  and [SepRS](/class2/sep), which herein constitute subclass IIc (Douglas et al. 2023). However, its C-terminal [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_HGPT) resembles members of subclass IIa (Wolf et al. 1999), and accordingly some studies have instead classified HisRS under IIa (O'Donoghue et al. 2003, de Pouplana et al. 2001, Perona and Hadd 2012). 
+The catalytic domain of HisRS closely resembles [PheRS](/class2/phe1)  and [SepRS](/class2/sep), which herein constitute subclass IIc (Douglas et al. 2023). However, its C-terminal [anticodon binding domain](/d/hgpt) resembles members of subclass IIa (Wolf et al. 1999), and accordingly some studies have instead classified HisRS under IIa (O'Donoghue et al. 2003, de Pouplana et al. 2001, Perona and Hadd 2012). 
 
 
 ## Structure

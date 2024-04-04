@@ -18,8 +18,8 @@ As discovered by Lamour and Mirande and discussed more recently by Hadd and Pero
 
 
  The bacterial-like forms of the subclass (GluRS-B, [GlxRS-B](/class1/glu1), and [GluGlnRS](/class1/glu1)) are characterized by an 
- [$\alpha$-helical anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EK), while the archaeal and eukaryotic forms 
- (GlnRS, [GluRS-E](/class1/glu3), and GlxRS-A) possess a [$\beta$-barrel anticodon binding domain](/superfamily/class1/Anticodon_binding_domain_EQ) (Satiecka et al., 1998). 
+ [$\alpha$-helical anticodon binding domain](/d/ek), while the archaeal and eukaryotic forms 
+ (GlnRS, [GluRS-E](/class1/glu3), and GlxRS-A) possess a [$\beta$-barrel anticodon binding domain](/d/eq) (Satiecka et al., 1998). 
 
 
 

@@ -18,7 +18,7 @@ Some bacterial species, including *Escherichia coli* have two copies of the clas
 ## Structure
 
 
-The three-dimensional structure of LysRS-II closely resembles that of [AspRS](/class2/asp1/), [AsnRS](/class2/asn/), and [AsxRS](/class2/asp2/), with an N-terminal [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_DNK/) and a C-terminal catalytic domain.
+The three-dimensional structure of LysRS-II closely resembles that of [AspRS](/class2/asp1/), [AsnRS](/class2/asn/), and [AsxRS](/class2/asp2/), with an N-terminal [anticodon binding domain](/d/dnk/) and a C-terminal catalytic domain.
 The four members have quite similar catalytic domains and constitute subclass IIb (Cusack et al., 1991; Valencia-Sánchez et al., 2016).
 The subclass IIb synthetases of many eukaryotes contain a flexible domain at their N-termini, which helps to anchor the synthetase onto the tRNA (Frugier et al., 2000).
 

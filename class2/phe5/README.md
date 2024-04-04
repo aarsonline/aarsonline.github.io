@@ -19,7 +19,7 @@ The other two variants of PheRS are heterotetrameric, with [PheRS-B](/class2/phe
 The catalytic core of PheRS-M is similar to that of the other PheRS families, as well as [HisRS](/class2/his) and [SepRS](/class2/sep). 
 Together, these enzymes comprise subclass IIc (Douglas et al., 2023, Kavran et al. 2007, Perona et al. 2012, Valencia-Sánchez et al. 2016). 
 The core of PheRS-M is most similar to the [&alpha; chain](/class2/phe1) of the bacterial PheRS.
-In contrast, the C-terminal [anticodon binding domain](/superfamily/class2/Anticodon_binding_domain_F) appears to have been borrowed from the bacterial [&beta; subunit](/class2/phe2)  (domain B8; Klipcan et al. 2010). This suggests that the mitochondrial PheRS may be a chimera between the two bacterial PheRS subunits. 
+In contrast, the C-terminal [anticodon binding domain](/d/f) appears to have been borrowed from the bacterial [&beta; subunit](/class2/phe2)  (domain B8; Klipcan et al. 2010). This suggests that the mitochondrial PheRS may be a chimera between the two bacterial PheRS subunits. 
 
 ## Editing
 
