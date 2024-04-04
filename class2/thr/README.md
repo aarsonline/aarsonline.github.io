@@ -19,7 +19,7 @@ ThrRS belongs to subclass IIa, which includes other enzymes such as [ProRS](/cla
 ## Structure
 
 
-The catalytic domain of ThrRS is typical of a Class II aminoacyl-tRNA synthetase. Like most members of the superfamily, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018). The catalytic domain is characterized by the ~40 residue ThrRS insertion module which resides between motifs 2 and 3, and is stabilized by a short $\beta$ strand that runs parallel with the six stranded antiparallel fold of the catalytic domain (Douglas et al. 2023). This module, also known as the threonine loop, undergoes large conformational changes upon threonine binding (Torres-Larios et al. 2003).
+The catalytic domain of ThrRS is typical of a Class II aminoacyl-tRNA synthetase. Like most members of the superfamily, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018). The catalytic domain is characterized by the ~40 residue ThrRS insertion module which resides between motifs 2 and 3, which is stabilized by a short $\beta$ strand that runs parallel with the six stranded antiparallel fold of the catalytic domain (Douglas et al. 2023). This module, also known as the threonine loop, undergoes large conformational changes upon threonine binding (Torres-Larios et al. 2003).
 
   
 
