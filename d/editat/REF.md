@@ -1,23 +1,11 @@
+Ahel, I., Korencic, D., Ibba, M., and Söll, D. (2003). Trans-editing of mischarged tRNAs. Proc Natl Acad Sci USA 100, 15422-15427.
 
+Beebe, K., Mock, M., Merriman, E., and Schimmel, P. (2008). Distinct domains of tRNA synthetase recognize the same base pair. Nature 451, 90-93.
 
-Schimmel, Paul. "Mistranslation and its control by tRNA synthetases." Philosophical Transactions of the Royal Society B: Biological Sciences 366.1580 (2011): 2965-2971.
+Dock-Bregeon, A.C., Rees, B., Torres-Larios, A., Bey, G., Caillet, J., and Moras, D. (2004). Achieving error-free translation; the mechanism of proofreading of threonyl-tRNA synthetase at atomic resolution. Mol Cell 16, 375-386.
 
+Guo, M., Chong, Y.E., Shapiro, R., Beebe, K., Yang, X.L., and Schimmel, P. (2009). Paradox of mistranslation of serine for alanine caused by AlaRS recognition dilemma. Nature 462, 808-812.
 
+Kelly, P., Backes, N., Mohler, K., Buser, C., Kavoor, A., Rinehart, J., Phillips, G., and Ibba, M. (2019). Alanyl-tRNA synthetase quality control prevents global dysregulation of the Escherichia coli proteome. mBio 10.
 
-Guo, Min, et al. "Paradox of mistranslation of serine for alanine caused by AlaRS recognition dilemma." Nature 462.7274 (2009a): 808-812.
-
-
-
-Guo, Min, et al. "The C-Ala domain brings together editing and aminoacylation functions on one tRNA." Science 325.5941 (2009b): 744-747.
-
-
-Beebe, Kirk, et al. "Distinct domains of tRNA synthetase recognize the same base pair." Nature 451.7174 (2008): 90-93.
-
-
-Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
-
-Dock-Bregeon, Anne-Catherine, et al. "Transfer RNA–mediated editing in threonyl-tRNA synthetase: the class II solution to the double discrimination problem." Cell 103.6 (2000): 877-884.
-
-
-Dock-Bregeon, A. C., Rees, B., Torres-Larios, A., Bey, G., Caillet, J., & Moras, D. (2004). Achieving error-free translation: the mechanism of proofreading of threonyl-tRNA synthetase at atomic resolution. Molecular cell, 16(3), 375-386.
-
+Kuzmishin Nagy, A.B., Bakhtina, M., and Musier-Forsyth, K. (2020). Trans-editing by aminoacyl-tRNA synthetase-like editing domains. Enzymes 48, 69-115.
