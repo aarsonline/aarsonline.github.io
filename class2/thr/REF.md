@@ -1,53 +1,43 @@
-Diodato, Daria, et al. "VARS2 and TARS2 mutations in patients with mitochondrial encephalomyopathies." Human mutation 35.8 (2014): 983-989. 
+Diodato, D., Melchionda, L., Haack, T.B., Dallabona, C., Baruffini, E., Donnini, C., Granata, T., Ragona, F., Balestri, P., Margollicci, M., et al. (2014). VARS2 and TARS2 mutations in patients with mitochondrial encephalomyopathies. Hum Mutat 35, 983-989.
 
-Kim, Sung-Hoon, et al. "Mitochondrial Threonyl-tRNA Synthetase TARS2 is required for threonine-sensitive mTORC1 activation". Molecular Cell 81.2 (2021): 398-407.
+Dock-Bregeon, A., Sankaranarayanan, R., Romby, P., Caillet, J., Springer, M., Rees, B., Francklyn, C.S., Ehresmann, C., and Moras, D. (2000). Transfer RNA-mediated editing in threonyl-tRNA synthetase. The class II solution to the double discrimination problem. Cell 103, 877-884.
 
-Wolf, Yuri I., et al. "Evolution of aminoacyl-tRNA synthetases—analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events." Genome research 9.8 (1999): 689-710.
+Dock-Bregeon, A.C., Rees, B., Torres-Larios, A., Bey, G., Caillet, J., and Moras, D. (2004). Achieving error-free translation; the mechanism of proofreading of threonyl-tRNA synthetase at atomic resolution. Mol Cell 16, 375-386.
 
-Lin, Brian Y., Patricia P. Chan, and Todd M. Lowe. "tRNAviz: explore and visualize tRNA sequence features." Nucleic acids research 47.W1 (2019): W542-W547.
+Douglas, J., Bouckaert, R., Carter, C.W., Jr., and Wills, P.R. (2024). Enzymic recognition of amino acids drove the evolution of primordial genetic codes. Nucleic Acids Res 52, 558-571.
 
-Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacylation and beyond." Nucleic Acids Research 51.4 (2023): 1528-1570.
+Hussain, T., Kruparani, S.P., Pal, B., Dock-Bregeon, A.C., Dwivedi, S., Shekar, M.R., Sureshbabu, K., and Sankaranarayanan, R. (2006). Post-transfer editing mechanism of a D-aminoacyl-tRNA deacylase-like domain in threonyl-tRNA synthetase from archaea. EMBO J.
 
-Perona, John J., and Andrew Hadd. "Structural diversity and protein engineering of the aminoacyl-tRNA synthetases." Biochemistry 51.44 (2012): 8705-8729.
+Ibba, M., and Söll, D. (2000). Aminoacyl-tRNA synthesis. Annu Rev Biochem 69, 617-650.
 
+Kaiser, F., Bittrich, S., Salentin, S., Leberecht, C., Haupt, V.J., Krautwurst, S., Schroeder, M., and Labudde, D. (2018). Backbone brackets and arginine tweezers delineate Class I and Class II aminoacyl tRNA synthetases. PLoS Comput Biol 14, e1006101.
 
-Theil, Arjan F., et al. "Bi-allelic TARS mutations are associated with brittle hair phenotype." The American Journal of Human Genetics 105.2 (2019): 434-440.
+Korencic, D., Ahel, I., Schelert, J., Sacher, M., Ruan, B., Stathopoulos, C., Blum, P., Ibba, M., and Söll, D. (2004). A freestanding proofreading domain is required for protein synthesis quality control in Archaea. Proc Natl Acad Sci USA 101, 10260-10265.
 
+Ling, J., Peterson, K.M., Simonovic, I., Cho, C., Söll, D., and Simonovic, M. (2012a). Yeast mitochondrial threonyl-tRNA synthetase recognizes tRNA isoacceptors by distinct mechanisms and promotes CUN codon reassignment. Proc Natl Acad Sci USA 109, 3281-3286.
 
-Kaiser, Florian, et al. "Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases." PLoS computational biology 14.4 (2018): e1006101.
+Ling, J., Peterson, K.M., Simonovic, I., Söll, D., and Simonovic, M. (2012b). The mechanism of pre-transfer editing in yeast mitochondrial threonyl-tRNA synthetase. J Biol Chem 287, 28518-28525.
 
-Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
+Perona, J.J., and Hadd, A. (2012). Structural diversity and protein engineering of the aminoacyl-tRNA synthetases. Biochemistry 51, 8705-8729.
 
-Torres-Larios, Alfredo, et al. "Structural basis of translational control by Escherichia coli threonyl tRNA synthetase." nature structural biology 9.5 (2002): 343-347.
+Rubio Gomez, M.A., and Ibba, M. (2020). Aminoacyl-tRNA synthetases. RNA 26, 910-936.
 
+Sankaranarayanan, R., Dock-Bregeon, A.C., Romby, P., Caillet, J., Springer, M., Rees, B., Ehresmann, C., Ehresmann, B., and Moras, D. (1999). The structure of threonyl-tRNA synthetase-tRNAThr complex enlightens its repressor activity and reveals an essential zinc ion in the active site. Cell 97, 371-381.
 
+Shen, P.S., Park, J., Qin, Y., Li, X., Parsawar, K., Larson, M.H., Cox, J., Cheng, Y., Lambowitz, A.M., Weissman, J.S., et al. (2015). Protein synthesis. Rqc2p and 60S ribosomal subunits mediate mRNA-independent elongation of nascent chains. Science 347, 75-78.
 
-Dock-Bregeon, Anne-Catherine, et al. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 16: Threonyl-tRNA Synthetases.
+Sitron, C.S., and Brandman, O. (2020). Detection and degradation of stalled nascent chains via ribosome-associated quality control. Annu Rev Biochem 89, 417-442.
 
+Su, D., Lieberman, A., Lang, B.F., Simonovic, M., Söll, D., and Ling, J. (2011). An unusual tRNAThr derived from tRNAHis reassigns in yeast mitochondria the CUN codons to threonine. Nucleic Acids Res 39, 4866-4874.
 
+Theil, A.F., Botta, E., Raams, A., Smith, D.E., Mendes, M.I., Caligiuri, G., Giachetti, S., Bione, S., Carriero, R., and Liberi, G. (2019). Bi-allelic TARS mutations are associated with brittle hair phenotype. Am J Hum Genet 105, 434-440.
 
-Dock-Bregeon, Anne-Catherine, et al. "Transfer RNA–mediated editing in threonyl-tRNA synthetase: the class II solution to the double discrimination problem." Cell 103.6 (2000): 877-884.
+Torres-Larios, A., Sankaranarayanan, R., Rees, B., Dock-Bregeon, A.C., and Moras, D. (2003). Conformational movements and cooperativity upon amino acid, ATP and tRNA binding in threonyl-tRNA synthetase. J Mol Biol 331, 201-211.
 
+Wellman, T.L., Eckenstein, M., Wong, C., Rincon, M., Ashikaga, T., Mount, S.L., Francklyn, C.S., and Lounsbury, K.M. (2014). Threonyl-tRNA synthetase overexpression correlates with angiogenic markers and progression of human ovarian cancer. BMC Cancer 14, 620.
 
-Torres-Larios, Alfredo, et al. "Conformational movements and cooperativity upon amino acid, ATP and tRNA binding in threonyl-tRNA synthetase." Journal of molecular biology 331.1 (2003): 201-211.
+Williams, T.F., Mirando, A.C., Wilkinson, B., Francklyn, C.S., and Lounsbury, K.M. (2013). Secreted Threonyl-tRNA synthetase stimulates endothelial cell migration and angiogenesis. Sci Rep 3, 1317.
 
-Dock-Bregeon, Anne-Catherine, et al. "Achieving error-free translation: the mechanism of proofreading of threonyl-tRNA synthetase at atomic resolution." Molecular cell 16.3 (2004): 375-386.
+Wolf, Y.I., Aravind, L., Grishin, N.V., and Koonin, E.V. (1999). Evolution of aminoacyl-tRNA synthetases--analysis of unique domain architectures and phylogenetic trees reveals a complex history of horizontal gene transfer events. Genome Res 9, 689-710.
 
-
-
-Hussain, Tanweer, et al. "Post‐transfer editing mechanism of ad‐aminoacyl‐tRNA deacylase‐like domain in threonyl‐tRNA synthetase from archaea." The EMBO Journal 25.17 (2006): 4152-4162.
-
-
-
-Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
-
-
-
-
-	Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic Origins of Glycyl tRNA Synthetases." Journal of Biological Chemistry 291.28 (2016): 14430-14446.
-
-
-
-		
-Sankaranarayanan, Rajan, et al. "The structure of threonyl-tRNA synthetase-tRNAThr complex enlightens its repressor activity and reveals an essential zinc ion in the active site." Cell 97.3 (1999): 371-381.
 
