@@ -22,7 +22,7 @@ Dulic, Morana, et al., "Determinants for tRNA-dependent pre-transfer editing in 
 
 Zhou, Xiao-Long, Bin Zhu, and En-Duo Wang. "The CP2 domain of leucyl-tRNA synthetase is crucial for amino acid activation and post-transfer editing." Journal of Biological Chemistry 283.52 (2008): 36608-36616.
 
-
+Kopajtich, Robert, et al. "Biallelic IARS mutations cause growth retardation with prenatal onset, intellectual disability, muscular hypotonia, and infantile hepatopathy." The American Journal of Human Genetics 99.2 (2016): 414-422.
 
 Starzyk, Ruth M., Teresa A. Webster, and Paul Schimmel. "Evidence for dispensable sequences inserted into a nucleotide fold." Science 237.4822 (1987): 1614-1618.
 
