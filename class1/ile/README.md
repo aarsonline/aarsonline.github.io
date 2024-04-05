@@ -57,11 +57,11 @@ Antibodies against IleRS are found in a subset of patients with idiopathic infla
 
 ## Clinical significance
 
-
+Compound heterozygous variants in the human gene IARS1 encoding the cytosolic IleRS have been identified in individuals with growth retardation, impaired intellectual development, hypotonia, and hepatopathy (GRIDHH, Kopajtich et al. 2016).
 
 Biallelic recessive (homozygous and compound heterozygous) variants in the human gene IARS2 encoding the mitochondrial IleRS cause Leigh syndrome or a phenotype including cataracts, growth hormone deficiency with short stature, partial sensorineural deafness, and peripheral neuropathy (firstly reported in Schwartzentruber et al. 2014). The exhaustive list of disease-related variants (including location on the sequence and structure, the conservation of the affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=IARS2). Mutations have been mapped to all domains of the mt-IleRS, except to the terminal mitochondrial targeting sequence (MTS).
 
 
 
-Antibiotic resistance for *Staphylococcus aureus* is conferred by mutations in IleRS  (Brkic et al., 2023). 
+Antibiotic resistance for *Staphylococcus aureus* is conferred by mutations in IleRS  (Brkic et al. 2023). 
 
