@@ -13,7 +13,7 @@ As discovered by Lamour and Mirande and discussed more recently by Hadd and Pero
  Therefore, all eukaryotes express both GlnRS and GluRS, while all archaea and more than 90% of bacterial species studied thus far do not encode a GlnRS gene. 
  When absent, GlnRS is replaced by a 2-step transamidation pathway involving a non-discriminating form (GlxRS) of GluRS that attaches Glu to tRNA$^\text{Gln}$. 
  A second enzymic step, performed by an tRNA-dependent amidotransferase (AdT), will amidate the misacylated Glu attached to tRNA$^\text{Gln}$ producing the required glutaminyl residue (Gln) prior to protein synthesis (Wilcox and Nirenberg, 1968, Schön et al., 1988, Curnow et al., 1997), 
- as it does with [AsxRS](/class2/asp2/) (Becker et al., 1998).
+ as the Adt also does with the misacylated product of [AsxRS](/class2/asp2/) (Becker et al., 1998).
  This non-discriminating enzyme is thus found in all organisms that lack GlnRS, such as all archaea, which express [GlxRS-A](/class1/glu2/), as well as the majority of bacteria which have a non-discriminating variant [GlxRS-B](/class1/glu1/) (Lapointe et al., 1986), or more rarely the specialised noncognate variant, GluGlnRS, which only attaches Glu to tRNA$^\text{Gln}$ and not to tRNA$^\text{Glu}$ (Skouloubris et al. 2003, Salazar et al. 2003).
 
 
@@ -31,15 +31,15 @@ As discovered by Lamour and Mirande and discussed more recently by Hadd and Pero
 The N-terminal catalytic domain of GlnRS closely resembles that of [GluRS-B](/class1/glu1/) , [GluRS-E](/class1/glu3/), and [GlxRS-A](/class1/glu2/) , 
 constituting subclass Ib (Perona  and Hadd 2012, Gomez et al., 2020).
 Their catalytic domains are characterized by an insertion within CP1, containing a loop flanked by two helices (SC1b IM), which 
-may play a role in acceptor stem recognition  (Rath et al. 1998, Nureki et al. 2010).
+may play a role in tRNA acceptor stem recognition  (Rath et al. 1998, Nureki et al. 2010).
 Its $\beta$-barrel anticodon binding domain is located at the C-terminal end (Rould et al. 1991) and is homologous with that of GlxRS-A and GluRS-E.
 However it is distinct from the bacterial form GluRS-B, which instead has an $\alpha$-helical anticodon binding domain.
 Members of subclass Ib, alongside [ArgRS](/class1/arg/) and  [LysRS-I](/class1/lys/), require the presence of tRNA to catalyze activation of the amino acid substrate (Dubois et al. 2005).
 
 
 
-In *Deinococcus radiodurans*, GlnRS was shown to contain a C-terminal helical domain homologous to the Yqey domain found in tRNA-dependent amidotransferases (Deniziak et al., 2007) 
-which is also found as an N-terminal appendeage to many eukaryotic GlnRS enzymes (Hadd et al. 2014), where it is required for the assembly of the MARS complex (Kim et al. 2000). 
+In *Deinococcus radiodurans*, GlnRS was shown to contain a C-terminal helical domain homologous to the Yqey domain found in tRNA-dependent amidotransferases (Deniziak et al., 2007), 
+which is also found as an N-terminal appendage to many eukaryotic GlnRS enzymes (Hadd et al. 2014), where it is required for the assembly of the MARS complex (Kim et al. 2000). 
 It may also contribute to the enzyme's ability to discriminate against tRNA$^\text{Glu}$ (Hadd et al. 2014).
 
 
