@@ -49,10 +49,10 @@ function renderHeader(includeFooter = true){
 	// Class 1
 	
 
-	$("#class1Selector div").append(`<a href='/class1/'>Home</a>`);
+	$("#class1Selector div").append(`<a href='/class1/'><b>Home</b></a>`);
 
-	$("#class1Selector div").append(`<br>`);
-	$("#class1Selector div").append(`<b>Families</b>`);
+	// $("#class1Selector div").append(`<br>`);
+	// $("#class1Selector div").append(`<b>Families</b>`);
 	$("#class1Selector div").append(`<a href='/class1/arg'>ArgRS</a>`);
 	$("#class1Selector div").append(`<a href='/class1/cys'>CysRS</a>`);
 	$("#class1Selector div").append(`<a href='/class1/gln'>GlnRS</a>`);
@@ -68,24 +68,24 @@ function renderHeader(includeFooter = true){
 	$("#class1Selector div").append(`<a href='/class1/tyr'>TyrRS</a>`);
 	$("#class1Selector div").append(`<a href='/class1/val'>ValRS</a>`);
 
-	$("#class1Selector div").append(`<br>`);
-	$("#class1Selector div").append(`<b>Domains</b>`);
-	$("#class1Selector div").append(`<a href='/d/crimvl'>ABD-CRIMVL</a>`);
-	$("#class1Selector div").append(`<a href='/d/ek'>ABD-EK</a>`);
-	$("#class1Selector div").append(`<a href='/d/eq'>ABD-EQ</a>`);
-	$("#class1Selector div").append(`<a href='/d/wy'>ABD-WY</a>`);
-	$("#class1Selector div").append(`<a href='/d/iv'>CTD-IV</a>`);
-	$("#class1Selector div").append(`<a href='/d/edit1a'>Edit Ia</a>`);
-	$("#class1Selector div").append(`<a href='/d/gst'>GST</a>`);
-	$("#class1Selector div").append(`<a href='/d/dnk'>EMAP</a>`);
-	$("#class1Selector div").append(`<a href='/d/cat1'>Catalytic</a>`);
+	// $("#class1Selector div").append(`<br>`);
+	// $("#class1Selector div").append(`<b>Domains</b>`);
+	// $("#class1Selector div").append(`<a href='/d/crimvl'>ABD-CRIMVL</a>`);
+	// $("#class1Selector div").append(`<a href='/d/ek'>ABD-EK</a>`);
+	// $("#class1Selector div").append(`<a href='/d/eq'>ABD-EQ</a>`);
+	// $("#class1Selector div").append(`<a href='/d/wy'>ABD-WY</a>`);
+	// $("#class1Selector div").append(`<a href='/d/iv'>CTD-IV</a>`);
+	// $("#class1Selector div").append(`<a href='/d/edit1a'>Edit Ia</a>`);
+	// $("#class1Selector div").append(`<a href='/d/gst'>GST</a>`);
+	// $("#class1Selector div").append(`<a href='/d/dnk'>EMAP</a>`);
+	// $("#class1Selector div").append(`<a href='/d/cat1'>Catalytic</a>`);
 
 
 	// Class 2
-	$("#class2Selector div").append(`<a href='/class2/'>Home</a>`);
+	$("#class2Selector div").append(`<a href='/class2/'><b>Home</b></a>`);
 
-	$("#class2Selector div").append(`<br>`);
-	$("#class2Selector div").append(`<b>Families</b>`);
+	// $("#class2Selector div").append(`<br>`);
+	// $("#class2Selector div").append(`<b>Families</b>`);
 	$("#class2Selector div").append(`<a href='/class2/ala'>AlaRS</a>`);
 	$("#class2Selector div").append(`<a href='/class2/asn'>AsnRS</a>`);
 	$("#class2Selector div").append(`<a href='/class2/asp1'>AspRS-B</a>`);
@@ -110,14 +110,14 @@ function renderHeader(includeFooter = true){
 
 
 
-	$("#class2Selector div").append(`<br>`);
-	$("#class2Selector div").append(`<b>Domains</b>`);
-	$("#class2Selector div").append(`<a href='/d/dnk'>ABD-DNK</a>`);
-	$("#class2Selector div").append(`<a href='/d/hgpt'>ABD-HGPT</a>`);
-	$("#class2Selector div").append(`<a href='/d/f'>ABD-F</a>`);
-	$("#class2Selector div").append(`<a href='/d/atl'>ATL</a>`);
-	$("#class2Selector div").append(`<a href='/d/editat'>Edit AT</a>`);
-	$("#class2Selector div").append(`<a href='/d/cat2'>Catalytic</a>`);
+	// $("#class2Selector div").append(`<br>`);
+	// $("#class2Selector div").append(`<b>Domains</b>`);
+	// $("#class2Selector div").append(`<a href='/d/dnk'>ABD-DNK</a>`);
+	// $("#class2Selector div").append(`<a href='/d/hgpt'>ABD-HGPT</a>`);
+	// $("#class2Selector div").append(`<a href='/d/f'>ABD-F</a>`);
+	// $("#class2Selector div").append(`<a href='/d/atl'>ATL</a>`);
+	// $("#class2Selector div").append(`<a href='/d/editat'>Edit AT</a>`);
+	// $("#class2Selector div").append(`<a href='/d/cat2'>Catalytic</a>`);
 
 
 }
