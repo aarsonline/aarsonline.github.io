@@ -11,3 +11,5 @@ Simader, Hannes, et al. "Structural basis of yeast aminoacyl-tRNA synthetase com
 Kim, Jee Eun, et al. "An elongation factor-associating domain is inserted into human cysteinyl-tRNA synthetase by alternative splicing." Nucleic Acids Research 28.15 (2000): 2866-2872.
 
 Bec, Guillaume, Pierre Kerjan, and Jean-Pierre Waller. "Reconstitution in vitro of the valyl-tRNA synthetase-elongation factor (EF) 1 beta gamma delta complex. Essential roles of the NH2-terminal extension of valyl-tRNA synthetase and of the EF-1 delta subunit in complex formation." Journal of Biological Chemistry 269.3 (1994): 2086-2092.
+
+Ponce, José R. Jaramillo, et al. "Discovery of two distinct aminoacyl-tRNA synthetase complexes anchored to the Plasmodium surface tRNA import protein." Journal of Biological Chemistry 298.6 (2022).
