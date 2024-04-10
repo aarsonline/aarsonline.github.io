@@ -1,3 +1,7 @@
+Yu, Zhaoli, et al. "Structural basis of a two-step tRNA recognition mechanism for plastid glycyl-tRNA synthetase." Nucleic Acids Research 51.8 (2023): 4000-4011.
+
+
+
 Nagato, Yasuha, et al. "Mechanism of tRNA recognition by heterotetrameric glycyl-tRNA synthetase from lactic acid bacteria." The Journal of Biochemistry 174.3 (2023): 291-303.
 
 
