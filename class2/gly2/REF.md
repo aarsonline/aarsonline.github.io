@@ -1,3 +1,7 @@
+Alvarez‐Carreño, Claudia, et al. "Common evolutionary origins of the bacterial glycyl tRNA synthetase and alanyl tRNA synthetase." Protein Science 33.3 (2024): e4844.
+
+
+
 Yu, Zhaoli, et al. "Structural basis of a two-step tRNA recognition mechanism for plastid glycyl-tRNA synthetase." Nucleic Acids Research 51.8 (2023): 4000-4011.
 
 
