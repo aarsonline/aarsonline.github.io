@@ -17,15 +17,15 @@ $ \text{Glu} + \text{tRNA}^\text{Glu} + \text{ATP} \xrightarrow{\text{GlxRS-B}} 
 
 $ \text{Glu} + \text{tRNA}^\text{Gln} + \text{ATP} \xrightarrow{\text{GlxRS-B}} \text{Glu-tRNA}^\text{Gln} + \text{AMP} + \text{PP}_i  $
 
-A further enzyme (see below) is required to convert text{Glu-tRNA}^\text{Gln} to text{Gln-tRNA}^\text{Gln} for correct incorporation of glutamine into proteins. 
+A further enzyme (see below) is required to convert \text{Glu-tRNA}^\text{Gln}$ to \text{Gln-tRNA}^\text{Gln}$ for correct incorporation of glutamine into proteins. 
 
 
-Third, the bacterial-like  glutamyl-glutaminyl-tRNA synthetase (GluRSGlnRS) discriminates between Glu and Gln for the noncognate attachment of Glu to \text{tRNA}^\text{Gln}:
+Third, the bacterial-like  glutamyl-glutaminyl-tRNA synthetase (GluRSGlnRS) discriminates between Glu and Gln for the noncognate attachment of Glu to \text{tRNA}^\text{Gln}$:
 
 
 $ \text{Glu} + \text{tRNA}^\text{Gln} + \text{ATP} \xrightarrow{\text{GluGlnRS}} \text{Glu-tRNA}^\text{Gln} + \text{AMP} + \text{PP}_i  $ 
 
-The product of this reaction also requires enzymic conversion of text{Glu-tRNA}^\text{Gln} to text{Gln-tRNA}^\text{Gln}. 
+The product of this reaction also requires enzymic conversion of \text{Glu-tRNA}^\text{Gln}$ to \text{Gln-tRNA}^\text{Gln}$. 
 
 
 As discovered by Lamour and Mirande in 1994 and discussed more recently by Hadd and Perona 2014, the glutamyl- and glutaminyl-tRNA synthetases comprising subclass Ib (Lamour et al., 1994, Perona and Hadd 2012, Gomez et al., 2020), have a complex complex coevolutionary history. 
@@ -34,7 +34,7 @@ Phylogeny strongly suggests that GlnRS originated in the eukaryota, and was only
 
 
 
-When GlxRS or GluGlnRS attaches Glu to the noncognate \text{tRNA}^\text{Gln}, a tRNA-dependent amidotransferase (AdT), replaces the Glu with a Gln residue, producing the \text{Gln-tRNA}^\text{Gln} required for correct incorporation of glutaminyl residues into proteins (Nirenberg and Wilcox, 1968, Schön et al., 1988, Curnow et al., 1997).
+When GlxRS or GluGlnRS attaches Glu to the noncognate \text{tRNA}^\text{Gln}$, a tRNA-dependent amidotransferase (AdT), replaces the Glu with a Gln residue, producing the \text{Gln-tRNA}^\text{Gln}$ required for correct incorporation of glutaminyl residues into proteins (Nirenberg and Wilcox, 1968, Schön et al., 1988, Curnow et al., 1997).
 
 The transamidation reaction is:
 
@@ -42,7 +42,7 @@ The transamidation reaction is:
 $  \text{Glu-tRNA}^\text{Gln}  + \text{ATP} + \text{Gln} \xrightarrow{\text{GatCAB or GatDE AdT}} \text{Gln-tRNA}^\text{Gln} + \text{ADP} + \text{P}_i + \text{Glu}  $
 
 
-The same enzyme corrects the attachment of Asp residues to \text{tRNA}^\text{Asn} by the nondiscriminating [AsxRS](/class2/asp2/)  (Becker et al., 1998, Raczniak et al. 2001).  This non-discriminating enzyme is found in all organisms that lack GlnRS, such as all archaea, which express [GlxRS-A](/class1/glu2/), as well as the majority of bacteria, which have a non-discriminating variant [GlxRS-B](/class1/glu1/) (Lapointe et al., 1986),  or more rarely the noncognate variant GluGlnRS which only attaches Glu to tRNA$^\text{Gln}$ and not to its cognate tRNA$^\text{Glu}$ (Skouloubris et al. 2003, Salazar et al. 2003).
+The same enzyme corrects the attachment of Asp residues to \text{tRNA}^\text{Asn}$ by the nondiscriminating [AsxRS](/class2/asp2/)  (Becker et al., 1998, Raczniak et al. 2001).  This non-discriminating enzyme is found in all organisms that lack GlnRS, such as all archaea, which express [GlxRS-A](/class1/glu2/), as well as the majority of bacteria, which have a non-discriminating variant [GlxRS-B](/class1/glu1/) (Lapointe et al., 1986),  or more rarely the noncognate variant GluGlnRS which only attaches Glu to tRNA$^\text{Gln}$ and not to its cognate tRNA$^\text{Glu}$ (Skouloubris et al. 2003, Salazar et al. 2003).
 
 
 
