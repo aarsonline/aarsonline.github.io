@@ -11,7 +11,7 @@ Karaca, Ender, et al. "Genes that affect brain structure and function identified
 
 Osamu Nureki and Shigeyuki Yokoyama. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 7: Valyl-tRNA Synthetases.
 
-
+Mordret, Ernest, et al. "Systematic detection of amino acid substitutions in proteomes reveals mechanistic basis of ribosome errors and selection for translation fidelity." Molecular Cell 75.3 (2019): 427-441.
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
