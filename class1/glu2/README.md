@@ -1,5 +1,5 @@
 
-The non-discriminating Archaeal-like glutamyl-tRNA synthetase (GlxRS-A) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the amino acid glutamate to its cognate tRNA$^\text{Glu}$, as well as to noncognate tRNA$^\text{Gln}$. These reactions proceed through the following mechanisms:
+The non-discriminating Archaeal-like glutamyl-tRNA synthetase (GlxRS-A) is an enzyme that plays a crucial role in protein synthesis by catalyzing the attachment of the amino acid glutamate to its cognate \tRNA$^\text{Glu}$, as well as to noncognate \tRNA$^\text{Gln}$. These reactions proceed through the following mechanisms:
 
 
 
@@ -15,7 +15,7 @@ A further enzyme (see below) is required to convert text{Glu-tRNA}^\text{Gln} to
 
 As discovered by Lamour and Mirande in 1994 and discussed more recently by Hadd and Perona 2014, the glutamyl- and glutaminyl-tRNA synthetases comprising subclass Ib (Lamour et al., 1994, Perona and Hadd 2012, Gomez et al., 2020), have a complex complex coevolutionary history. Their diversification occurred after the last universal common ancestor, with bacterial-like forms being characterized by an $\alpha$-helical anticodon binding domain, and the archaeal and eukaryotic forms possessing a $\beta$-barrel anticodon binding domain (Satiecka et al., 1998). Phylogeny strongly suggests that GlnRS originated in the eukaryota, and was only later acquired by certain bacteria, but never by archaea (Tumbula et al., 2000) through horizontal gene transfer (Lamour et al. 1994). Therefore, all eukaryotes express forms of both GlnRS and GluRS, while all archaea and more than 90% of bacterial species studied thus far do not possess a GlnRS-encoding gene.
 
-When GlxRS or GluGlnRS attaches Glu to the noncognate \text{tRNA}^\text{Gln}, a tRNA-dependent amidotransferase (AdT), replaces the Glu with a Gln residue, producing the \text{Gln-tRNA}^\text{Gln} required for correct incorporation of glutaminyl residues into proteins (Nirenberg and Wilcox, 1968, Schön et al., 1988, Curnow et al., 1997).  The same enzyme corrects the attachment of Asp residues to \text{tRNA}^\text{Asn} by the nondiscriminating AsxRS (Becker et al., 1998, Raczniak et al. 2001). 
+When GlxRS or GluGlnRS attaches Glu to the noncognate \text{tRNA}^\text{Gln}$, a tRNA-dependent amidotransferase (AdT), replaces the Glu with a Gln residue, producing the \text{Gln-tRNA}^\text{Gln}$ required for correct incorporation of glutaminyl residues into proteins (Nirenberg and Wilcox, 1968, Schön et al., 1988, Curnow et al., 1997).  The same enzyme corrects the attachment of Asp residues to \text{tRNA}^\text{Asn}$ by the nondiscriminating AsxRS (Becker et al., 1998, Raczniak et al. 2001). 
 
 The transamidation reaction is:
 
