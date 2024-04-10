@@ -45,7 +45,7 @@ Post-transfer editing defines the "double sieve" selectivity mechanism of certai
 
 Like IleRS, ValRS is able to catalyze pre-transfer editing: the ValRS synthetic site in the Rossmann fold domain has the distinct additional capacity to catalyze hydrolysis of misactivated Thr-AMP. However, in ValRS the rate constant for transfer of misactivated Thr to $\text{tRNA}^\text{Val}$ is much larger than the rate constant for this hydrolytic reaction. Hence, pre-transfer editing plays little to no role in ValRS editing, and the rejection of Thr instead occurs almost entirely by post-transfer editing in the spatially separate editing hydrolytic site (Dulic et al., 2010). By contrast, in IleRS these two rate constants are similar in magnitude, so both pre-transfer and post-transfer editing are important in that enzyme.
 
-
+Despite this advanced editing system, mass spectrometry analyses suggest that valine codons remain the most error prone of all codons, and are often mistranslated into alanine, leucine, isoleucine, threonine, or methionine (Mordret et al. 2019).
 
 
 ## Non-translational functions
