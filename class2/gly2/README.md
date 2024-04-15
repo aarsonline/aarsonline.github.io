@@ -35,15 +35,11 @@ The [anticodon binding domain](/d/crimvl) interacts with the anticodon region of
   
 
 
- 
-
-
-
 
 
 ## Editing
 
-It appears that GlyRS-B lacks editing activity (Gomez et al., 2020).
+GlyRS-B lacks editing activity (Gomez et al., 2020). 
 
 
 ## Non-translational functions
