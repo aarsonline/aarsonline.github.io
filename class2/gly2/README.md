@@ -39,7 +39,7 @@ The [anticodon binding domain](/d/crimvl) interacts with the anticodon region of
 
 ## Editing
 
-GlyRS-B lacks editing activity (Gomez et al., 2020). 
+GlyRS-B lacks editing activity (Gomez et al., 2020). GlyRS-B recognizes glycine, the smallest amino acid. The amino group is identified by five conserved residues in the active site of GlyRS-B. To maintain specificity, two threonine residues prevent larger amino acids from being activated (Valencia-Sánchez et al., 2016). 
 
 
 ## Non-translational functions
