@@ -8,7 +8,7 @@ $ \text{Gly} + \text{tRNA}^\text{Gly} + \text{ATP} \xrightarrow{\text{GlyRS-A}} 
 
 
 
-GlyRS-A is a homodimeric enzyme found in archaea and some bacteria, and is closely related to the eukaryote-like form [GlyRS-E](/class2/gly3).  These two forms differ from the bacterial-like form [GlyRS-B](/class2/gly2), which operates as a heterotetramer and is phylogenetically distinct (Shiba 2005).
+GlyRS-A is a homodimeric enzyme found in archaea and some bacteria, such as Thermus thermophilus, and is closely related to the eukaryote-like form [GlyRS-E](/class2/gly3).  These two forms differ from the bacterial-like form [GlyRS-B](/class2/gly2), which operates as a heterotetramer and is phylogenetically distinct (Shiba 2005).
 
 
 
