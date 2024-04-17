@@ -75,19 +75,20 @@ Mo, Zhongying, et al. "Neddylation requires glycyl-tRNA synthetase to protect ac
 
 Wang, Lulu, et al. "METTL3 is a key regulator of milk synthesis in mammary epithelial cells." Cell Biol Int46.3 (2022):359-369. 
 
-Antonellis, A, et al. "Glycyl tRNA synthetase mutations in Charcot– Marie–Tooth disease type 2D and distal spinal muscular atrophy type V." Am. J. Hum. Genet. 72 (2003):1293–1299.
+Antonellis, Anthony, et al. "Glycyl tRNA synthetase mutations in Charcot– Marie–Tooth disease type 2D and distal spinal muscular atrophy type V." Am. J. Hum. Genet. 72 (2003):1293–1299.
 
-Grice, S. et al. "Plexin-semaphorin signaling modifies neuromuscular defects in a Drosophila model of peripheral neuropathy." Front Mol Neurosci 11 (2018):55.
+Grice, Staurt J, et al. "Plexin-semaphorin signaling modifies neuromuscular defects in a Drosophila model of peripheral neuropathy." Front Mol Neurosci 11 (2018):55.
 
 Sleigh, James, et al. "Boosting peripheral BDNF rescues impaired in vivo axonal transport in CMT2D mice." JCI Insight 8 (2023):e157191.
 
-Zuko, A, et al. "tRNA overexpression rescues peripheral neuropathy caused by mutations in tRNA synthetase." Science 373.6559 (2021):1161-1166.
-Spaulding E, et al. "The integrated stress response contributes to tRNA synthetase – associated peripheral neuropathy." Science 373.6559 (2021):1156-1161.
+Zuko, Amila, et al. "tRNA overexpression rescues peripheral neuropathy caused by mutations in tRNA synthetase." Science 373.6559 (2021):1161-1166.
 
-Oprescu, S, et al. "Compound heterozygosity for loss-of-function GARS variants results in a multisystem developmental syndrome that includes severe growth retardation." Hum Mutat 38.10 (2017):1412–1420.
+Spaulding Emily, et al. "The integrated stress response contributes to tRNA synthetase – associated peripheral neuropathy." Science 373.6559 (2021):1156-1161.
 
-Nafisinia, M, et al. "Compound heterozygous mutations in glycyl-tRNA synthetase (GARS) cause mitochondrial respiratory chain dysfunction." PLoS One 12.6 (2017):e0178125.
+Oprescu, Stephanie N, et al. "Compound heterozygosity for loss-of-function GARS variants results in a multisystem developmental syndrome that includes severe growth retardation." Hum Mutat 38.10 (2017):1412–1420.
 
-McMillan, H., et al. "Compound heterozygous mutations in glycyl-tRNA synthetase are a proposed cause of systemic mitochondrial disease." BMC Med Genet 15 (2014):36.
+Nafisinia, Michael, et al. "Compound heterozygous mutations in glycyl-tRNA synthetase (GARS) cause mitochondrial respiratory chain dysfunction." PLoS One 12.6 (2017):e0178125.
 
-Kanaji, S, et al. "Mechanistic perspectives on anti-aminoacyl-tRNA synthetase syndrome." Trends Biochem Sci. 48 (2022):288-302. 
+McMillan, Hugh J, et al. "Compound heterozygous mutations in glycyl-tRNA synthetase are a proposed cause of systemic mitochondrial disease." BMC Med Genet 15 (2014):36.
+
+Kanaji, Sachiko, et al. "Mechanistic perspectives on anti-aminoacyl-tRNA synthetase syndrome." Trends Biochem Sci. 48 (2022):288-302. 
