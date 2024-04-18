@@ -11,7 +11,7 @@ $\text{Gly} + \text{tRNA}^\text{Gly} + \text{ATP} \xrightarrow{\text{GlyRS-E}} \
 GlyRS-E is a homodimeric enzyme found in eukaryotes and some archaea, such as Methanosalsum zhilinae, and is closely related to the archaeal-like form [GlyRS-A](/class2/gly1). These two GlyRS forms differ from the bacterial-like form [GlyRS-B](/class2/gly2), which operates as a heterotetramer and is phylogenetically distinct (Shiba 2005).
 
 In lower eukaryotes, GlyRS-E is among a small subgroup of aminoacyl-tRNA synthetases (together with [ValRS](/class1/val), [AlaRS](/class2/ala), and [HisRS](/class2/his) (Chatton et al. 1986)) that operate in both the cytosol and the mitochondria. 
-In higher eukaryotes including humans, GlyRS-E and LysRS-E are the two aminoacyl-tRNA synthetases used in both the cytosol and the mitochondria.
+In higher eukaryotes including humans, GlyRS-E and [LysRS-II](/class2/lys) are the two aminoacyl-tRNA synthetases used in both the cytosol and the mitochondria.
 Localization into these compartments is achieved through alternative initiation, which governs the expression of an N-terminal mitochondrial localization signal (Shiba et al. 1994, Chang et al. 2004).
 Some eukaryotes contain an additional GlyRS-E gene known as GRS2, which appears to be silent under normal conditions in *Saccharomyces cerevisiae* and is lacking the lysine rich insert (Chen et al. 2012). 
 
@@ -53,7 +53,7 @@ Dominant mutations in human GlyRS-encoding gene GARS1 are associated with Charco
 
 Recessive mutations in GARS1 are associated with multisystem developmental syndrome, including severe growth retardation, systemic mitochondrial disease, neurological disorder, pulmonic stenosis and atrial septic defect, cardiomyopathy, exercise-induced myalgia, sensorineural hearing loss, lactic acidosis (McMillan  et al., 2014; Oprescu et al., 2017; Nafisinia et al., 2017)
 
-Serum autoantibodies against GlyRS (anti-EJ) and other cytosolic aaRSs are the hallmark feature of autoimmune disease anti-aminoacyl-tRNA synthetase syndrome (Kanaji et al., 2023). Anti–Jo-1 antibodies targeting HisRS are the most common among anti- aminoacyl-tRNA synthetase autoantibodies.
+Serum autoantibodies against GlyRS (anti-EJ) and other cytosolic aaRSs are the hallmark feature of autoimmune disease anti-aminoacyl-tRNA synthetase syndrome (Kanaji et al., 2023). Anti–Jo-1 antibodies targeting HisRS are the most common among anti-aminoacyl-tRNA synthetase autoantibodies.
 
 
 
