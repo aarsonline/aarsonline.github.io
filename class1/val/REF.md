@@ -15,7 +15,7 @@ Mordret, Ernest, et al. "Systematic detection of amino acid substitutions in pro
 
 Gomez, Miguel Angel Rubio, and Michael Ibba. "Aminoacyl-tRNA synthetases." Rna 26.8 (2020): 910-936.
 
-
+Bec, Guillaume, Pierre Kerjan, and Jean-Pierre Waller. "Reconstitution in vitro of the valyl-tRNA synthetase-elongation factor (EF) 1 beta gamma delta complex. Essential roles of the NH2-terminal extension of valyl-tRNA synthetase and of the EF-1 delta subunit in complex formation." Journal of Biological Chemistry 269.3 (1994): 2086-2092.
 
 Chatton, Bruno, et al. "The yeast VAS1 gene encodes both mitochondrial and cytoplasmic valyl-tRNA synthetases." Journal of Biological Chemistry 263.1 (1988): 52-57.
 

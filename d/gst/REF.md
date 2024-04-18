@@ -1,4 +1,4 @@
-Hadd, Andrew, and John J. Perona. "Coevolution of specificity determinants in eukaryotic glutamyl-and glutaminyl-tRNA synthetases." Journal of molecular biology 426.21 (2014): 3619-3633.
+
 
 Paysan-Lafosse, Typhaine, et al. "InterPro in 2022." Nucleic acids research 51.D1 (2023): D418-D427.
 

@@ -17,6 +17,9 @@ Komatsoulis GA, and John Abelson. "Recognition of tRNA(Cys) by cysteinyl-tRNA sy
 Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution of primordial genetic codes." Nucleic Acids Research (2023): gkad1160.
 
 
+
+
+
 Fersht, Alan R., and Colin Dingwall. "Cysteinyl-tRNA synthetase from Escherichia coli does not need an editing mechanism to reject serine and alanine. High binding energy of small groups in specific molecular interactions." Biochemistry 18.7 (1979): 1245-1249.
 
 

@@ -32,6 +32,8 @@ The second is an [$\alpha$/$\beta$ domain](/superfamily/class1/C-terminal_juncti
 Lastly, a coiled coil recognizes the D-loop of the tRNA (Fukai et al. 2000), however this domain is absent in archaea.
 
 
+In certain eukaryotes, including *homo sapiens*, ValRS contains an N-terminal [GST-like domain](/d/gst) that mediates interaction with the heavy form of the mammalian translation elongation factor complex eEF-1H (Bec et al., 1994).
+
 
 
 

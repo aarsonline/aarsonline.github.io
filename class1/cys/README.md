@@ -31,6 +31,8 @@ Acceptor stem recognition may be further coordinated by a disordered module on t
 This characteristic feature - the CysRS insertion module - is found only in CysRS (Douglas et al, 2023).
 
 
+In many eukaryotes, including *homo sapiens*, a [GST-like domain](/d/gst) is added through the inclusion of exon 2, the corresponding splice isoform shows a tissue-specific expression pattern and is predominantly found in testis (Kim et al., 2000). 
+
 
 
 
@@ -47,8 +49,11 @@ and serine (Fersht et al. 1979, Newberry et al., 2002; Hou and Perona, 2005). In
 Both cytosolic and mitochondrial forms of CysRS catalyze the post-translational formation of cysteine hydropersulfides (CysS–(S)n–H formation), which may function as antioxidants, redox signaling intermediates, and metal ligands (Akaike et al., 2017). 
 
 Human CysRS binds Toll-like receptor 2 via its UNE-C1 domain and can activate the immune response (Cho et al., 2020). The UNE-C1 domain is currently being explored as an immunoadjuvant to boost anti-tumor immunity (Cho et al., 2020). This pro-inflammatory function of CysRS has also been explored in Alzheimer's disease, where it drives neuro-inflammation (Qi et al., 2024). 
+Human CysRS also activates AMP‐activated protein kinase (AMPK) upon cysteine starvation (Yuan et al., 2021). 
 
-A splice variant of human CysRS interacts with EF-1γ (Kim et al., 2000). Human CysRS activates AMP‐activated protein kinase (AMPK) upon cysteine starvation (Yuan et al., 2021). 
+
+Kim et al., 2000 showed that the GST-like splice variant reduced aminoacylation activity, but enabled the interaction between CysRS with the translation elongation factor-1γ (eEF1γ).
+
  
 ## Clinical significance
 
