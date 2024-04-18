@@ -8,7 +8,7 @@ $ \text{Gly} + \text{tRNA}^\text{Gly} + \text{ATP} \xrightarrow{\text{GlyRS-A}} 
 
 
 
-GlyRS-A is a homodimeric enzyme found in archaea and some bacteria, such as Thermus thermophilus, and is closely related to the eukaryote-like form [GlyRS-E](/class2/gly3).  These two forms differ from the bacterial-like form [GlyRS-B](/class2/gly2), which operates as a heterotetramer and is phylogenetically distinct (Shiba 2005).
+GlyRS-A is a homodimeric enzyme found in archaea and some bacteria, such as *Thermus thermophilus*, and is closely related to the eukaryote-like form [GlyRS-E](/class2/gly3).  These two forms differ from the bacterial-like form [GlyRS-B](/class2/gly2), which operates as a heterotetramer and is phylogenetically distinct (Shiba 2005).
 
 
 
@@ -23,10 +23,14 @@ GlyRS-A and -E belong to subclass IIa, which includes other enzymes such as [Pro
 
 
 ## Editing
-All GlyRS (GlyRS-B, -A, and -E) lacks editing activity (Gomez et al., 2020).
+All GlyRS (GlyRS-B, -A, and -E) lack editing activity (Gomez et al., 2020).
+
+Being the smallest amino acid, recognition of glycine against non-cognate amino acids is through steric hindrance. The small amino acid binding pocket of GlyRS is enclosed upon ATP binding and can only accommodate glycine (Guo et al. 2009). 
+
+The discrimination of the near-cognate alanine is made in bacterial GlyRS by two nearly absolutely conserved Thr residues (T140 and T158 in Aquifex aeolicus) that also bind a solvent molecule; in eukaryotic GlyRS this task is done mainly through a non-conserved Ser or Ala residue (S524 in human), equivalent of T158 in Aquifex aeolicus (Valencia-Sánchez, Marco Igor, et al. 2016). 
 
 ## Non-translational functions
 
-
+None reported
 
 ## Clinical significance
