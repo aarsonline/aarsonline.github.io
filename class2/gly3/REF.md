@@ -19,7 +19,10 @@ Qin, Xiangjing , et al. "Crystal Structure of the Wild-Type Human GlyRS Bound wi
 
 Guo, Rey-Ting, et al. "Crystal Structures and Biochemical Analyses Suggest a Unique Mechanism and Role for Human Glycyl-tRNA Synthetase in Ap4A Homeostasis." Journal of Biological Chemistry 284.42 (2009):28968–28976.
 
-Xie, Wei, et al. "Long-range structural effects of a Charcot–Marie–Tooth disease-causing mutation in human glycyl-tRNA synthetase." PNAS 104.24 (2007):9976-9981.Cader, Muhammed Z., et al. "Crystal structure of human wildtype and S581L-mutant glycyl-tRNA synthetase, an enzyme underlying distal spinal muscular atrophy." FEBS letters 581.16 (2007): 2959-2964.
+Xie, Wei, et al. "Long-range structural effects of a Charcot–Marie–Tooth disease-causing mutation in human glycyl-tRNA synthetase." PNAS 104.24 (2007):9976-9981.
+
+
+Cader, Muhammed Z., et al. "Crystal structure of human wildtype and S581L-mutant glycyl-tRNA synthetase, an enzyme underlying distal spinal muscular atrophy." FEBS letters 581.16 (2007): 2959-2964.
 
 Shiba, Kiyotaka, et al. "Human glycyl-tRNA synthetase. Wide divergence of primary structure from bacterial counterpart and species-specific aminoacylation." Journal of Biological Chemistry 269.47 (1994): 30049-30055.
 

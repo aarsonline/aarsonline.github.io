@@ -23,7 +23,6 @@ Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic
 
 
 
-
 Shiba, Kiyotaka. "The Aminoacyl-tRNA Synthetases" CRC Press (2005): Chapter 13: Glycyl-tRNA Synthetases.
 
 

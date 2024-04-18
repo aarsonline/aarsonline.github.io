@@ -27,10 +27,16 @@ All GlyRS (GlyRS-B, -A, and -E) lack editing activity (Gomez et al., 2020).
 
 Being the smallest amino acid, recognition of glycine against non-cognate amino acids is through steric hindrance. The small amino acid binding pocket of GlyRS is enclosed upon ATP binding and can only accommodate glycine (Guo et al. 2009). 
 
-The discrimination of the near-cognate alanine is made in bacterial GlyRS by two nearly absolutely conserved Thr residues (T140 and T158 in Aquifex aeolicus) that also bind a solvent molecule; in eukaryotic GlyRS this task is done mainly through a non-conserved Ser or Ala residue (S524 in human), equivalent of T158 in Aquifex aeolicus (Valencia-Sánchez, Marco Igor, et al. 2016). 
+The discrimination of the near-cognate alanine is made in bacterial GlyRS by two nearly absolutely conserved Thr residues (T140 and T158 in *Aquifex aeolicus*) that also bind a solvent molecule; in eukaryotic GlyRS this task is done mainly through a non-conserved Ser or Ala residue (S524 in human), equivalent of T158 in *Aquifex aeolicus* (Valencia-Sánchez, Marco Igor, et al. 2016). 
+
+
 
 ## Non-translational functions
 
-None reported
+None reported.
 
 ## Clinical significance
+
+
+None reported.
+
