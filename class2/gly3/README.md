@@ -10,8 +10,8 @@ $\text{Gly} + \text{tRNA}^\text{Gly} + \text{ATP} \xrightarrow{\text{GlyRS-E}} \
 
 GlyRS-E is a homodimeric enzyme found in eukaryotes and some archaea, such as *Methanosalsum zhilinae*, and is closely related to the archaeal-like form [GlyRS-A](/class2/gly1). These two GlyRS forms differ from the bacterial-like form [GlyRS-B](/class2/gly2), which operates as a heterotetramer and is phylogenetically distinct (Shiba 2005).
 
-In lower eukaryotes, GlyRS-E is among a small subgroup of aminoacyl-tRNA synthetases (together with [ValRS](/class1/val), [AlaRS](/class2/ala), and [HisRS](/class2/his) (Chatton et al. 1986)) that operate in both environments. 
-In higher eukaryotes including humans, GlyRS-E and [LysRS-II](/class2/lys) are the two aminoacyl-tRNA synthetases used in both the cytosol and the mitochondria.
+In lower eukaryotes, GlyRS-E is among a small subgroup of aminoacyl-tRNA synthetases (together with [ValRS](/class1/val), [AlaRS](/class2/ala), and [HisRS](/class2/his) (Chatton et al. 1986)) that operate in both the cytosol and mitochondria. 
+whereas, in higher eukaryotes including humans, GlyRS-E and [LysRS-II](/class2/lys) are the two aminoacyl-tRNA synthetases used in both environments.
 Localization into these compartments is achieved through alternative initiation, which governs the expression of an N-terminal mitochondrial localization signal (Shiba et al. 1994, Chang et al. 2004).
 Some eukaryotes contain an additional GlyRS-E gene known as GRS2, which appears to be silent under normal conditions in *Saccharomyces cerevisiae* and is lacking the lysine rich insert (Chen et al. 2012). 
 
