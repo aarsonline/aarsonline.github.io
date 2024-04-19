@@ -47,6 +47,6 @@ Biallelic recessive variants in the human gene HARS2 encoding the mitochondrial 
 
 Serum autoantibodies against HisRS (anti-Jo-1) and other cytosolic aaRSs are the hallmark feature of autoimmune disease anti-aminoacyl-tRNA synthetase syndrome (Kanaji et al. 2023). HisRS is the most common autoantigen among aaRSs (Zampieri et al. 2005).
 
-In a phase 1b/2a clinical trial, intravenously administered HisRS-WHEP domain (in the form of a Fc-fusion protein named efzofitimod) showed beneficial effects in patients with pulmonary sarcoidosis, a major form of interstitial lung disease (Culver et al. 2022).
+In a phase 1b/2a clinical trial, intravenously administered HisRS-WHEP domain (in the form of a Fc-fusion protein named efzofitimod) showed beneficial effects in patients with pulmonary sarcoidosis, a major form of interstitial lung disease (Culver et al. 2023).
 
 
