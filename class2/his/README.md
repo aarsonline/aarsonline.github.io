@@ -26,14 +26,14 @@ In lower eukaryotes, HisRS is among a small subgroup of aminoacyl-tRNA synthetas
 
 ## Editing
 
-No editing activity has been reported for HisRS. The imidazole side chain of histidine is extensively recognized through H-bonding interactions in amino acid binding pocket within the catalytic domain (Åberg et al., 1997; Tian et al., 2015).  
+No editing activity has been reported for HisRS. The imidazole side chain of histidine is extensively recognized through H-bonding interactions in amino acid binding pocket within the catalytic domain (Åberg et al. 1997; Tian et al. 2015).  
 
 
 
 ## Non-translational functions
-Human HisRS can activate immune cells, such as CD4+ and CD8+ lymphocytes, interleukin -2–activated monocytes, and immature dendritic cells by binding to CC chemokine receptor 5 (CCR5) through its N-terminal WHEP domain (Howard et al., 2002). 
+Human HisRS can activate immune cells, such as CD4+ and CD8+ lymphocytes, interleukin -2–activated monocytes, and immature dendritic cells by binding to CC chemokine receptor 5 (CCR5) through its N-terminal WHEP domain (Howard et al. 2002). 
 
-HisRS can also interact with Neuropilin-2 (Xu et al., 2020) and acts as an immune modulator (Adams et al., 2021). In a WHEP domain–dependent manner, HisRS inhibits CD4+ and CD8+ T-cell activation. In mouse and rodent models of acute inflammatory diseases, HisRS administration downregulates immune cell infiltration and proinflammatory cytokine expression (Adams et al.,2021).
+HisRS can also interact with Neuropilin-2 (Xu et al., 2020) and acts as an immune modulator (Adams et al., 2021). In a WHEP domain–dependent manner, HisRS inhibits CD4+ and CD8+ T-cell activation. In mouse and rodent models of acute inflammatory diseases, HisRS administration downregulates immune cell infiltration and proinflammatory cytokine expression (Adams et al. 2021).
 
 Two HisRS splice variants, which both lack catalytic activity, as well as full-length HisRS are secreted by myoblasts (Zhou et al., 2014). 
 
@@ -45,8 +45,8 @@ Homozygous variant in the HARS1 gene encoding the cytosolic HisRS in humans has 
 
 Biallelic recessive variants in the human gene HARS2 encoding the mitochondrial HisRS cause Perrault syndrome, associated with ovarian dysgenesis and sensorineural hearing loss (firstly described in Pierce et al. 2011). The exhaustive list of disease-causing variants of HARS2 (including location on the sequence and structure, the conservation of affected residues, and the related references) can be found [here](http://misynpat.org/misynpat/PageMaker.rvt?name=HARS2). Mutations have been mapped to all domains of the mt-HisRS.
 
-Serum autoantibodies against HisRS (anti-Jo-1) and other cytosolic aaRSs are the hallmark feature of autoimmune disease anti-aminoacyl-tRNA synthetase syndrome (Kanaji et al., 2023). HisRS is the most common autoantigen among aaRSs (Zampieri et al. 2005).
+Serum autoantibodies against HisRS (anti-Jo-1) and other cytosolic aaRSs are the hallmark feature of autoimmune disease anti-aminoacyl-tRNA synthetase syndrome (Kanaji et al. 2023). HisRS is the most common autoantigen among aaRSs (Zampieri et al. 2005).
 
-In a phase 1b/2a clinical trial, HisRS-WHEP domain (in the form of a Fc-fusion protein named efzofitimod) showed beneficial effects in patients with pulmonary sarcoidosis, a major form of interstitial lung disease (Culver et al., 2022).
+In a phase 1b/2a clinical trial, intravenously administered HisRS-WHEP domain (in the form of a Fc-fusion protein named efzofitimod) showed beneficial effects in patients with pulmonary sarcoidosis, a major form of interstitial lung disease (Culver et al. 2022).
 
 
