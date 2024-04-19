@@ -19,7 +19,7 @@ MetRS is also one of several aminoacyl-tRNA synthetases expressed by mimiviruses
 
 ## Structure
 
-MetRS exists as a homodimer or a monomer, depending on the presence or absence of a C-terminal domain downstream from the [helical domain](/d/crimvl) (Crepin et al. 2004). 
+MetRS exists as a homodimer or a monomer, depending on the presence or absence of a C-terminal domain downstream from the [helical domain](/d/crimvlg) (Crepin et al. 2004). 
 The dimerisation domain, EMAP, is only present in certain organisms and shows an OB-fold, which is also found in paralogous RNA binding proteins (Crepin et al. 2002). 
 In the context of MetRS, this domain improves tRNA$^\text{Met}$ binding affinity (Blanquet et al. 1973). 
 A paralog of EMAP is also found in some forms of [TyrRS](/class1/tyr) and [PheRS](/class2/phe2) (Wolf et al. 1999), and is the [anticodon binding domain](/d/dnk) of subclass IIb AARS.

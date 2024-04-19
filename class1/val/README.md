@@ -27,7 +27,7 @@ Its functional role is unclear.
 
 
 The anticodon loop is recognised by three C-terminal domains.
-The first is a [helical domain](/superfamily/class1/Anticodon_binding_domain_CRIMVL), universal across the members of subclass Ia, as well as [ArgRS](/class1/arg).
+The first is a [helical domain](/superfamily/class1/Anticodon_binding_domain_crimvlg), universal across the members of subclass Ia, as well as [ArgRS](/class1/arg).
 The second is an [$\alpha$/$\beta$ domain](/superfamily/class1/C-terminal_junction_domain) that recognizes the anticodon stem (Fukai et al. 2000, Fukai et al. 2003).
 Lastly, a coiled coil recognizes the D-loop of the tRNA (Fukai et al. 2000), however this domain is absent in archaea.
 

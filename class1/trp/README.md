@@ -30,7 +30,7 @@ No editing activity has been reported for TrpRS.
 ## Non-translational functions
 
 Some eukaryotes contain an additional domain upstream of the ESE.
-In humans, TrpRS contains the WHEP domain, which plays a role in the primary defense system against infection (Ahn et al. 2017). Human TrpRS is strongly upregulated upon IFN-gamma stimulation and can mediate high affinity tryptophan uptake (Miyanokoshi et al., 2018; Yokosawa et al., 2020). Human TrpRS can also form a complex with DNA-dependent protein kinase and PARP-1, which links IFN-gamma and p53 signaling (Sajish et al., 2012). 
+In humans, TrpRS contains the [WHEP domain](/d/whep), which plays a role in the primary defense system against infection (Ahn et al. 2017). Human TrpRS is strongly upregulated upon IFN-gamma stimulation and can mediate high affinity tryptophan uptake (Miyanokoshi et al., 2018; Yokosawa et al., 2020). Human TrpRS can also form a complex with DNA-dependent protein kinase and PARP-1, which links IFN-gamma and p53 signaling (Sajish et al., 2012). 
 
 In certain parasites, TrpRS possesses an N-terminal domain homologous to the editing domain of [ThrRS](/class2/thr) and [AlaRS](/class2/ala) (Merritt et al. 2011).
 

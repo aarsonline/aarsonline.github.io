@@ -19,7 +19,7 @@ Its functional role is unclear.
 
 
 There are two types of IleRS, which have distinct sequences and C-terminal domain architectures. 
-Both forms possess a  [helical domain](/d/crimvl), that recognizes the anticodon loop, residing C-terminal to the catalytic domain.
+Both forms possess a  [helical domain](/d/crimvlg), that recognizes the anticodon loop, residing C-terminal to the catalytic domain.
 This helical domain is universal across the members of subclass Ia, and is also found in [ArgRS](/class1/arg).
 However, the remaining C-terminal regions vary between the two IleRS types.
 The first type, IleRS-1, is found in certain bacteria, organelles, and eukaryotic cytosols.

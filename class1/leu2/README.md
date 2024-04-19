@@ -33,7 +33,7 @@ LeuRS-A is lacking the connecting peptide 3 (CP3) domain found in IleRS, ValRS, 
 
 
 The tRNA is recognised by two C-terminal domains (Fukunaga et al. 2005).
-The first is a [helical domain](/d/crimvl) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
+The first is a [helical domain](/d/crimvlg) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
 The second domain (the C-terminal domain) is unique to LeuRS-A and appears to be beneficial, but not essential, for aminoacylation activity (Fukunaga et al. 2005).
 
 

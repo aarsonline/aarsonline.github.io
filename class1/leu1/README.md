@@ -30,7 +30,7 @@ Its functional role is unclear.
 
 
 The tRNA is recognised by two C-terminal domains (Tukalo et al. 2005, Rock et al. 2007).
-The first is a  [helical domain](/d/crimvl) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
+The first is a  [helical domain](/d/crimvlg) that recognises the anticodon, and is universal across the members of subclass Ia plus ArgRS.
 The second is a compact $\alpha$-$\beta$ domain unique to LeuRS-B.
 The domain is flexibly linked with the rest of the protein and mutational studies suggest it is essential for effective aminoacylation (Tukalo et al. 2005).
 
