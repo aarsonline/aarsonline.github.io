@@ -62,3 +62,19 @@ Zampieri, Sandra, et al. "Anti-JO-1 antibodies." Autoimmunity 38.1 (2005): 73-78
 Howard, OM Zack, et al. "Histidyl–tRNA synthetase and asparaginyl–tRNA synthetase, autoantigens in myositis, activate chemokine receptors on T lymphocytes and immature dendritic cells." The Journal of experimental medicine 196.6 (2002): 781-791.
 
 Zhou, Jie J., et al. "Secreted histidyl-tRNA synthetase splice variants elaborate major epitopes for autoantibodies in inflammatory myositis." Journal of Biological Chemistry 289.28 (2014): 19269-19275.
+
+Åberg, A, et al. "Crystal Structure Analysis of the Activation of Histidine by Thermus thermophilus Histidyl-tRNA Synthetase." Biochemistry 36.11 (1997):3084–3094.
+
+Xu, Zhiwen, et al. "ATYR1923 specifically binds to neuropilin-2, a novel therapeutic target for the treatment of immune-mediated diseases."  Am J Respir Crit Care Med (2020)201:A3074. 
+
+Adams, R.A., et al. "Serum-circulating His-tRNA synthetase inhibits organ-targeted immune responses." Cell Mol Immunol 18 (2021):1463–1475.
+
+Gioelli, Noemi, et al. "Neuropilin 1 and its inhibitory ligand mini-tryptophanyl-tRNA synthetase inversely regulate VE-cadherin turnover and vascular permeability." Nature Communications 13 (2022):4188  
+
+Kanaji, Sachiko, et al. "Mechanistic perspectives on anti-aminoacyl-tRNA synthetase syndrome." Trends Biochem Sci. 48 (2022):288-302.
+
+Culver, Daniel A., et al. "Efzofitimod for the Treatment of Pulmonary Sarcoidosis." Chest 163.4 (2023):881–890. 
+ 
+
+
+
