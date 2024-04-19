@@ -97,15 +97,6 @@ g.matrixcell:hover text{
 
 
 
-.pdblabel{
-	margin-top: -4em;
-	margin-left: 0.5em;
-	margin-bottom: 4em;
-	font-size: 1em;
-	font-style:italic;
-	color: #000000;
-}
-
 
 
 
@@ -150,23 +141,12 @@ svg text{
 
 
 
-.structureCell{
-	padding: 1em;
-}
 
 
-#tertiaryTable {
-	min-height: 600;
-}
 
-#tertiaryTable tr td div canvas{
-	border:2px solid #333;
-	box-shadow: 0.2em 0.2em #aaaaaa;
-}
 
 svg text.alpha{
 	fill: #366BA1;
-
 }
 
 
@@ -181,6 +161,64 @@ svg text.alpha{
 
 .aarsShowcase h2{
 
+}
+
+
+
+
+#structureButtons{
+	width:100%;
+	text-align:center;
+}
+
+
+#structureButtons select{
+	min-width:30em;
+
+
+}
+
+.flexContainerMain{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.flexContainerMain li{
+	padding: 1.5em;
+}
+
+
+.structureCellDiv{
+	margin-bottom:3em;
+}
+
+.flexContainerMain>li {
+	margin-bottom:1em;
+}
+
+
+#tertiaryTable canvas{
+	 box-shadow: 0 0 2em #008cba33;
+}
+
+.pdblabel{
+	margin-top: -2em;
+	margin-left: 0.5em;
+	font-size: 1em;
+	font-style:italic;
+	color: #000000;
+}
+
+@media only screen and ( max-device-width: 1200px ) {
+	.pdblabel{
+		margin-top: -4em;
+		font-size: 1.2em;
+	}
 }
 
 
@@ -216,6 +254,8 @@ svg text.alpha{
 
 
 }
+
+
 
 
 
@@ -293,11 +333,6 @@ svg text.alpha{
 }
 
 
-
-#tRNA_svg{
-	margin-left:2em;
-	margin-top:5em;
-}
 
 #tRNA_notes{
 	text-align:justify;
@@ -621,7 +656,7 @@ div.svgDiv{
 }
 
 
-div#treeDiv{
+#treeDiv{
   overflow-x: auto;
 }
 
@@ -696,8 +731,6 @@ body.mobile .dropdownDiv select{
 
 
 .dropdownDiv.colouring {
-	margin-top:0em;
-	margin-bottom:0em;
 	font-size: 0.9em;
 	padding: 0.2em;
 	float:right;
@@ -707,12 +740,15 @@ body.mobile .dropdownDiv select{
 	padding: 0.2em;
 	font-size:0.85em;
 	max-width: 30em;
+	min-width: 10em;
 }
 
 .dropdownDiv select:focus {
 		background-color: black;
 		color: white;
 }
+
+
 
 @media only screen and ( min-device-width: 1000px ) {
 	.dropdownDiv{
@@ -730,6 +766,13 @@ body.mobile .dropdownDiv select{
 	border-radius:1px;
 }
 
+
+
+@media only screen and ( min-device-width: 1000px ) {
+	.button{
+		min-width: 400px;
+	}
+}
 
 #mainloader{
 	z-index:100;
@@ -938,6 +981,28 @@ body.mobile .dropdown-content {
 	overflow-x:scroll;
 	width:100%;
 }
+
+
+
+
+.flexContainerTrna{
+  /* We first create a flex layout context */
+  display: flex;
+
+  flex-flow: row wrap;
+
+  
+  align-items: flex-start;
+  
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  margin-top:2em;
+	
+}
+
+
 
 
 #flexContainer, .flexContainer {

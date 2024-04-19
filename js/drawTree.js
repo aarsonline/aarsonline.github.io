@@ -1,6 +1,6 @@
 
 
-TREE_SVG_WIDTH = 650;
+TREE_SVG_WIDTH = 700;
 TREE_SVG_X_PADDING = 400;
 TREE_SVG_LINE_HEIGHT = 20;
 FAMILY_TREE_SVG_LINE_HEIGHT = 30;
@@ -40,12 +40,18 @@ function drawTree(family, treeDiv, treeFile, metadata, desc, fullTree, addToClad
 				
 				
 				// Make SVG
-				let svg = $(`<svg id="treeSVG" height=0 width=0 overflow="auto"></svg>`);
-				treeDiv.append(svg);
-				if (desc == null) desc = "";
-				treeDiv.append(`<div>` + desc + ` <span><a href="` + treeFile + `" >Download tree</a></span></div>`);
 				
-				let success = plotTree(family, tree, svg, metadata, fullTree, addToClade);
+				if (desc == null) desc = "";
+				//treeDiv.append(`<li>` + desc + ` <span><a href="` + treeFile + `" >Download tree</a></span></li>`);
+				let svg = $(`
+					<li>
+						<h2>Phylogeny</h2>
+						<svg id="treeSVG" height=0 width=0 overflow="auto"></svg>
+						<div>` + desc + ` <a href="` + treeFile + `" >Download tree</a></div>
+					</li>`);
+				treeDiv.append(svg);
+				
+				let success = plotTree(family, tree, $("#treeSVG"), metadata, fullTree, addToClade);
 				if (!success) treeDiv.hide();
 			
 			

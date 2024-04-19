@@ -25,21 +25,22 @@ function renderTRNAFromJSON(jsonText, svgID){
 	
 	let nodes = json.nodes;
 	let links = json.edges;
-	let width = 600;
-	let height = 650;
-	let NODE_SIZE = 8;
-	let FONT_SIZE = 12;
+	let width = 700;
+	let height = 700;
+	let NODE_SIZE = 12;
+	let FONT_SIZE = 16;
 	let LABEL_FONT_SIZE = 16;
-	let FORCE_DISTANCE = 22;
+	let FORCE_DISTANCE = 30;
 	let LABEL_FORCE_DISTANCE = 30;
-	let REPULSION_DISTANCE = 1.0;
+	let REPULSION_DISTANCE = 2;
 	let BOUNDARY_MARGIN = 0;
 
 	//let NT_COLS = {A: "#8da0cb77", C: "#fc8d6277", G: "#66c2a577", U: "#e78ac377"};
-	let NT_COLS = {A: "#fefefe", C: "#fefefe", G: "#fefefe", U: "#fefefe"};
+	//let NT_COLS = {A: "#fefefe", C: "#fefefe", G: "#fefefe", U: "#fefefe"};
+	let NT_COLS = {A: "#ffffffff", C: "#ffffffff", G: "#ffffffff", U: "#ffffffff"};
 	let FONT_COL = "black";
-	let STRONG_COL = "#008cba";
-	let WEAK_COL = "#8cba00";
+	let STRONG_COL = "#F86F03";
+	let WEAK_COL = "#008cba";
 
 	let STRONG_FONT_COL = "white";
 	let WEAK_FONT_COL = "white";
@@ -47,6 +48,22 @@ function renderTRNAFromJSON(jsonText, svgID){
 	let BACKBONE_LWD = 2;
 	let BP_LWD = 1;
 	let BG_LWD_CG = 5;
+
+
+	if (IS_MOBILE){
+		let multipler = 1.4;
+		width *= multipler;
+		height *= 1.7;
+		NODE_SIZE *= multipler;
+		FONT_SIZE *= 1.4;
+		LABEL_FONT_SIZE *= 1.4;
+		FORCE_DISTANCE *= 1.2;
+		LABEL_FORCE_DISTANCE *= multipler;
+		REPULSION_DISTANCE = 12;
+		BOUNDARY_MARGIN *= multipler;
+
+	}
+
 	
 	//console.log(nodes);
 	
@@ -80,22 +97,23 @@ function renderTRNAFromJSON(jsonText, svgID){
 		.data(nodes)
 		.enter()
 		.append("g")
-		.attr("class", "node")
-		.call(
-			d3
-			  .drag()
-			  .on("start", dragStart)
-			  .on("drag", drag)
-			  .on("end", dragEnd)
-		);
+		.attr("class", "node");
+		// .call(
+		// 	d3
+		// 	  .drag()
+		// 	  .on("start", dragStart)
+		// 	  .on("drag", drag)
+		// 	  .on("end", dragEnd)
+		// );
 	
 
-	// Node bg circle
-	nodeSelection.append("circle")
-		.attr("r", NODE_SIZE)
-		.attr("x", d => d.x )
-		.attr("y", d => d.y )
-		.attr("fill", "white");
+	// // Node bg circle
+	// nodeSelection.append("circle")
+	// 	.attr("r", NODE_SIZE)
+	// 	.attr("x", d => d.x )
+	// 	.attr("y", d => d.y );
+	// 	.attr("stroke-width", function(d)  return 0);
+	// 	//.attr("fill", "white");
 
 
 	// Node circle
@@ -114,18 +132,21 @@ function renderTRNAFromJSON(jsonText, svgID){
 				}	
 				
 			}else{
-				return "#00000000";
+				return "#ffffffff";
 			}
 			
 		})
 		.attr("stroke", function(d) {
 			if (d.type == "base"){
-				return "black";
+				return "#ffffffff";
 			}else{
 				return "#00000000";
 			}
 			
-		})
+		}).attr("stroke-width", function(d) {
+			return 0;
+			
+		});
 
 
 	// Text inside node
@@ -229,110 +250,5 @@ function renderTRNAFromJSON(jsonText, svgID){
 
 	
 }
-
-
-/*
-	
-	let data = FileAttachment("trna.json").json();
-	let chart = {
-			
-	  // Specify the dimensions of the chart.
-	  const width = 928;
-	  const height = 600;
-
-	  // Specify the color scale.
-	  const color = d3.scaleOrdinal(d3.schemeCategory10);
-
-	  // The force simulation mutates links and nodes, so create a copy
-	  // so that re-evaluating this cell produces the same result.
-	  const links = data.links.map(d => ({...d}));
-	  const nodes = data.nodes.map(d => ({...d}));
-
-	  // Create a simulation with several forces.
-	  const simulation = d3.forceSimulation(nodes)
-		  .force("link", d3.forceLink(links).id(d => d.id))
-		  .force("charge", d3.forceManyBody())
-		  .force("center", d3.forceCenter(width / 2, height / 2))
-		  .on("tick", ticked);
-
-	  // Create the SVG container.
-	  const svg = d3.create("svg")
-		  .attr("width", width)
-		  .attr("height", height)
-		  .attr("viewBox", [0, 0, width, height])
-		  .attr("style", "max-width: 100%; height: auto;");
-
-	  // Add a line for each link, and a circle for each node.
-	  const link = svg.append("g")
-		  .attr("stroke", "#999")
-		  .attr("stroke-opacity", 0.6)
-		.selectAll()
-		.data(links)
-		.join("line")
-		  .attr("stroke-width", d => Math.sqrt(d.value));
-
-	  const node = svg.append("g")
-		  .attr("stroke", "#fff")
-		  .attr("stroke-width", 1.5)
-		.selectAll()
-		.data(nodes)
-		.join("circle")
-		  .attr("r", 5)
-		  .attr("fill", d => color(d.group));
-
-	  node.append("title")
-		  .text(d => d.id);
-
-	  // Add a drag behavior.
-	  node.call(d3.drag()
-			.on("start", dragstarted)
-			.on("drag", dragged)
-			.on("end", dragended));
-
-	  // Set the position attributes of links and nodes each time the simulation ticks.
-	  function ticked() {
-		link
-			.attr("x1", d => d.source.x)
-			.attr("y1", d => d.source.y)
-			.attr("x2", d => d.target.x)
-			.attr("y2", d => d.target.y);
-
-		node
-			.attr("cx", d => d.x)
-			.attr("cy", d => d.y);
-	  }
-
-	  // Reheat the simulation when drag starts, and fix the subject position.
-	  function dragstarted(event) {
-		if (!event.active) simulation.alphaTarget(0.3).restart();
-		event.subject.fx = event.subject.x;
-		event.subject.fy = event.subject.y;
-	  }
-
-	  // Update the subject (dragged node) position during drag.
-	  function dragged(event) {
-		event.subject.fx = event.x;
-		event.subject.fy = event.y;
-	  }
-
-	  // Restore the target alpha so the simulation cools after dragging ends.
-	  // Unfix the subject position now that it’s no longer being dragged.
-	  function dragended(event) {
-		if (!event.active) simulation.alphaTarget(0);
-		event.subject.fx = null;
-		event.subject.fy = null;
-	  }
-
-	  // When this cell is re-run, stop the previous simulation. (This doesn’t
-	  // really matter since the target alpha is zero and the simulation will
-	  // stop naturally, but it’s a good practice.)
-	  invalidation.then(() => simulation.stop());
-
-	  return svg.node();
-	}
-	
-	
-}
-*/
 
 

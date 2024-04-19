@@ -214,34 +214,31 @@ $("#main").append(`
 			</div>
 
 
-			<div id="tertiaryTable">
+			
+			<ul id="tertiaryTable" class="flexContainerMain">
 				
-				<table>
-
-				
-
-
-					<tr id="superpositionRow">
-
-
-						<td id="alphaFoldConfidenceCell">
+					<li id="alphaFoldConfidenceCell">
 							
-						</td>
+					</li>
 
-						<td class="structureCell">
-							<div  id="superposition"> </div>
-						</td>
-					</tr>
+					<li class="structureCell">
+							<div class="structureCellDiv" id="superposition"> </div>
+					</li>
 
+					<li class="structureCell">
+							<div class="structureCellDiv" id="tertiary"> </div>
+					</li>
+
+
+					<li id="structureButtons">
+
+					</li>
+
+			</ul>
 				
-				</table>
-				
-				
+
 			
-			</div>
-			
-			
-		<ul class="flexContainer">
+		<div class="flexContainerTrna">
 
 				
 
@@ -252,6 +249,12 @@ $("#main").append(`
 
 					</div>
 
+
+					<div id="tRNA_div">
+						 <svg id="tRNA_svg" height=0 width=0 overflow='auto'></svg>
+			
+					</div>
+
 					<div id="tRNA_select_div">
 
 
@@ -260,19 +263,10 @@ $("#main").append(`
 				</li>
 
 
-					<li class="tRNA" >
-
-				<div id="tRNA_div">
-				 <svg id="tRNA_svg" height=0 width=0 overflow='auto'></svg>
-			
-				</div>
-					
-				</li>
-
 				
 				
 				
-			</ul>
+			</div>
 
 			
 			
@@ -303,16 +297,7 @@ $("#main").append(`
 
 
 
-  
-  if (IS_MOBILE){
-	  let row = $(`<tr><td class="structureCell"><div id="tertiary"> </div></td></tr>`)
-	  $("#superpositionRow").after(row);
-  }else{
-	   let cell = $(`<td class="structureCell"><div id="tertiary"> </div></td>`)
-	   $("#superpositionRow").append(cell)
-  }
 
-   
 
 	// Add loading wheel
 	$("body").append(`<div id="mainloader" class='loader'><img src='/fig/loader.png'></img></div>`);
@@ -441,7 +426,7 @@ $("#main").append(`
 							<span><img src="/fig/alphafold.png"  height="` + imgWidth + `px"></img> - Computational prediction </span>
 							<span id="secondarySelectedSites"> </span>
 							`);
-  $("#tertiaryTable").prepend("<h2>Tertiary structure</h2>");
+  $("#tertiaryTable").before("<h2>Tertiary structure</h2>");
 
   
 	
@@ -456,9 +441,9 @@ $("#main").append(`
 
 
 	// Tertiary dropdowns
-	$("#tertiaryTable").append("<span class='button' onClick='deselectSites(); deselectTaxa(true)'>Clear selection</span>");
-	$("#tertiaryTable").append("<span class='dropdownDiv'>Accession: <select id='accessionSelect'></select></span>");
-	$("#tertiaryTable").append("<span class='dropdownDiv domainSelect'>Domain: <select id='domainSelect'></select></span>");
+	$("#structureButtons").append("<span class='button' onClick='deselectSites(); deselectTaxa(true)'>Clear selection</span>");
+	$("#structureButtons").append("<span class='dropdownDiv'>Accession: <select id='accessionSelect'></select></span>");
+	$("#structureButtons").append("<span class='dropdownDiv domainSelect'>Domain: <select id='domainSelect'></select></span>");
 	
 	
 	
@@ -494,8 +479,8 @@ $("#main").append(`
 	
 	
 	// Protein colouring
-	$("#superposition").after("<span class='dropdownDiv colouring'>Colour by: <select id='tertiaryColouringAln'></select></span>");
-	$("#tertiary").after("<span class='dropdownDiv colouring'>Colour by: <select id='tertiaryColouringSingle'></select></span>");
+	$("#superposition").after("<div class='dropdownDiv colouring'> Color by: <select id='tertiaryColouringAln'></select></div>");
+	$("#tertiary").after("<div class='dropdownDiv colouring'> Color by: <select id='tertiaryColouringSingle'></select></div>");
 
 
 	// Colour selection dropdown
@@ -600,7 +585,7 @@ $("#main").append(`
 
 	  	
 	   	// Dropdown
-	   	$("#tRNA_select_div").append("<span class='dropdownDiv'>Show tRNA: <select id='tRNASelect'></select></span>");
+	   	$("#tRNA_notes").after("<span class='dropdownDiv'>Show tRNA: <select id='tRNASelect'></select></span>");
 	   	let tRNASelect = $("#tRNASelect");
     	for (let f in DATA.tRNA){
     		let acc = DATA.tRNA[f].seqname; 
@@ -659,6 +644,12 @@ function drawConfidenceLegend(){
 
 	}
 
+	let row = $(`<tr >
+									<td colspan='2'">
+										pLDDT
+									</td>
+								</tr>`);
+	table.append(row);
 
 	ele.append(table);
 
@@ -817,7 +808,7 @@ function renderInfo(text, resolve=function() { }){
 		document.body.appendChild(scriptEle);
 		scriptEle.addEventListener("load", () => {
 			console.log("File loaded");
-			let treeDiv = $(`<div id="treeDiv"><h2>Phylogeny</h2></div>`);
+			let treeDiv = $(`<ul id="treeDiv" class="flexContainerTrna"></ul>`);
 			$("#tertiaryTable").after(treeDiv);
 
 			drawTree(json.leafFamily == null ? json.name : json.leafFamily, treeDiv, json.tree, DATA.metadata, json.treeDescription, json.fullTree, json.addToClade);
@@ -1013,8 +1004,8 @@ function renderTertiary(pdb = null, id = "tertiary") {
 
 	
 	var options = {
-	  width: IS_MOBILE ? 700 : 450,
-	  height: IS_MOBILE ? 700 : 450,
+	  width: IS_MOBILE ? 750 : 500,
+	  height: IS_MOBILE ? 750 : 500,
 	  antialias: !IS_MOBILE,
 	  quality : 'high'
 	};
@@ -1092,12 +1083,19 @@ function renderTertiary(pdb = null, id = "tertiary") {
 
     let acc = pdb.split("/");
     acc = acc[acc.length-1];
+    let accPlusImg = "";
     if (id == "superposition"){
     	acc = "Superposition";
+    	accPlusImg = acc;
     }else{
-    	acc = getNameOfAccession(acc);
+    	
+    	let domain = getLifeDomainOfAccession(acc);
+    	let isPDB = accessionIsExperimental(acc);
+		  let pdbImg = isPDB ? "xray" : "alphafold";
+    	accPlusImg = `<img class="imgIcon" src="/fig/` + domain + `.png" /> ` + `<img class="imgIcon" src="/fig/` + pdbImg + `.png" /> ` + getNameOfAccession(acc);
     }
-	  $("#" + id).append("<div class='pdblabel'>" + acc + "</div>");
+
+	  $("#" + id).append(`<div class='pdblabel'>` + accPlusImg + `</div>`);
 
 
     // Back to top
