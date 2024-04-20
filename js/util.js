@@ -188,3 +188,25 @@ function tenToThePowerOf(n, precise = true){
 
 }
 
+
+// Go to a random page
+function goToRandom(){
+
+	
+
+	let pages = ["/class1/arg/", "/class1/cys/", "class1/gln/", "class1/glu1/", "class1/glu2/", "class1/glu3/", "class1/ile/", "class1/leu1/", "class1/leu2/", "class1/lys/", 
+							"class1/met/", "class1/trp/", "class1/tyr/", "class1/val/", "about/methods/", "about/organisms/", "/class1/", "/class2/",
+							"/class2/ala/", "/class2/asn/", "/class2/asp1/", "/class2/asp2/", "/class2/gly1/", "/class2/gly2/", "/class2/gly3/", "/class2/his/", "/class2/lys/", "/class2/phe1/",
+							"/class2/phe2/", "/class2/phe3/", "/class2/phe4/", "/class2/phe5/", "/class2/pro1/", "/class2/pro2/", "/class2/pyl/", "/class2/sep/", "/class2/ser1/", "/class2/ser2/",
+							"/class2/thr/", "/d/atl", "/d/cat1", "/d/cat2", "/d/crimvlg", "/d/dnk","/d/edit1a", "/d/editat", "/d/ek", "/d/eq",
+							"/d/f","/d/gst", "/d/hgpt", "/d/iv","/d/whep", "/d/wy"];
+
+
+
+
+	let index = Math.floor(Math.random()*pages.length); 
+
+	window.location.replace(pages[index]);
+
+
+} 
