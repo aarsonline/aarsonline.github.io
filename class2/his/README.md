@@ -31,7 +31,7 @@ No editing activity has been reported for HisRS. The imidazole side chain of his
 
 
 ## Non-translational functions
-Human HisRS can activate immune cells, such as CD4+ and CD8+ lymphocytes, interleukin -2–activated monocytes, and immature dendritic cells by binding to CC chemokine receptor 5 (CCR5) through its N-terminal WHEP domain (Howard et al. 2002). 
+Human HisRS can activate immune cells, such as CD4+ and CD8+ lymphocytes, interleukin -2–activated monocytes, and immature dendritic cells by binding to CC chemokine receptor 5 (CCR5) through its N-terminal [WHEP domain](/d/whep) (Howard et al. 2002). 
 
 HisRS can also interact with Neuropilin-2 (Xu et al., 2020) and acts as an immune modulator (Adams et al., 2021). In a WHEP domain–dependent manner, HisRS inhibits CD4+ and CD8+ T-cell activation. In mouse and rodent models of acute inflammatory diseases, HisRS administration downregulates immune cell infiltration and proinflammatory cytokine expression (Adams et al. 2021).
 
