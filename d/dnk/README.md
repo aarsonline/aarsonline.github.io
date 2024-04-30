@@ -1,4 +1,4 @@
-The anticodon binding domain DNK is a compact protein with an OB-fold (Charron et al. 2003). It resides at the C-termini of four Class II AARS: [AsxRS](/class2/asp2/), [AspRS](/class2/asp1/),  [AsnRS](/class2/asn/),  and  [LysRS-II](/class2/lys/), where it recognises the tRNA anticodon loop, approaching the acceptor stem from the major groove side (de Pouplana and Schimmel, 2001). 
+The anticodon binding domain DNK resides at the C-termini of four Class II AARS: [AsxRS](/class2/asp2/), [AspRS](/class2/asp1/),  [AsnRS](/class2/asn/),  and  [LysRS-II](/class2/lys/). It has a compact OB-fold structure (Charron et al. 2003) that recognises the tRNA anticodon loop, approaching the acceptor stem from the major groove side (de Pouplana and Schimmel, 2001). 
 The EMAP domain, which adopts the same fold, is found in AARS from both classes: [MetRS](/class1/met), [TyrRS](/class1/tyr), and the $\beta$-chain of the bacterial-like [PheRS](/class2/phe2) (Wolf et al. 1999).
 Although they may have different functions, the anticodon binding domain DNK and EMAP are most likely related.
 
