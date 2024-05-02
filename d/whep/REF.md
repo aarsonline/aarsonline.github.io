@@ -5,7 +5,7 @@ Ray PS et al (2011) "Evolution of function of a fused metazoan tRNA synthetase."
 
 Shiba, K. (2002) "Intron positions delineate the evolutionary path of a pervasively appended peptide in five human aminoacyl-tRNA synthetases." J. Mol. Evol. 55, 727–733 
 
-Wang, Y., Li, Y., & Guo, M. (2016) "A WHEP Domain Regulates the Dynamic Structure and Activity of Caenorhabditis elegans Glycyl-tRNA Synthetase." Journal of Biological Chemistry, 291(28), 14610-14620.
+Chang CY, Chien CI, Chang CP, Lin BC, Wang CC. (2016) "A WHEP Domain Regulates the Dynamic Structure and Activity of Caenorhabditis elegans Glycyl-tRNA Synthetase." J Biol Chem 291(32):16567-75.
 
 Qin, Xiangjing , et al. (2016) "Crystal Structure of the Wild-Type Human GlyRS Bound with tRNA Gly in a Productive Conformation." Journal of Molecular Biology 428.18:3603–3614.
 
