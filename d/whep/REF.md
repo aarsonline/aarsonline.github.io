@@ -28,3 +28,5 @@ Culver, Daniel A., et al. "Efzofitimod for the Treatment of Pulmonary Sarcoidosi
 Park, Min Chul, et al. "Two distinct receptor-binding domains of human glycyl-tRNA synthetase 1 displayed on extracellular vesicles activate M1 polarization and phagocytic bridging of macrophages to cancer cells." Cancer Lett 539 (2022):215698.
 
 Cui, Q., Bi, H., et al. (2023) Diverse CMT2 neuropathies are linked to aberrant G3BP interactions in stress granules, Cell 186, 803-820 e825.
+
+Zhou, Q., Kapoor, M., Guo, M. et al. Orthogonal use of a human tRNA synthetase active site to achieve multifunctionality. Nat Struct Mol Biol 17, 57–61 (2010).
