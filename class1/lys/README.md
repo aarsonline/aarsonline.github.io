@@ -21,7 +21,7 @@ However, the catalytic domain is not immediately related to any other Class I sy
 Like most members of the superfamily, ATP binding is coordinated by the backbone brackets (Kaiser et al. 2018). 
 The catalytic domain is characterized by the $\beta$-rich LysRS-I insertion module. Its functional role remains unclear. 
 
-
+The determination of the three-dimensional structure of P. horikoshii LysRS-I revealed that this enzyme can be docked simultaneously with a LysRS-II structure onto the tRNALys molecule without any steric clashes (T erada et al. 2002) More recently, it has been demonstarted thhat a stable ternary complex can be formed in vitro between both types of enzymes and tRNALys (Polycarpo et al. 2003).
 
 ## Editing
 No editing or other proofreading activities have yet been observed for any Class I LysRS
