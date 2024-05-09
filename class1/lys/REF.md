@@ -15,11 +15,9 @@ Sugiura, Ikuko, et al. "The 2.0 Å crystal structure of Thermus thermophilus met
 
 
 
-Carter Jr, Charles W., et al. "Multidimensional Phylogenetic Metrics Identify Class I Aminoacyl-tRNA Synthetase Evolutionary Mosaicity and Inter-Modular Coupling." International Journal of Molecular Sciences 23.3 (2022): 1520.
+Polycarpo, Carla, et al. "Activation of the pyrrolysine suppressor tRNA requires formation of a ternary complex with class I and class II lysyl-tRNA synthetases." Molecular cell 12.2 (2003): 287-294.
 
 
-
-Carter Jr, Charles W. "Cognition, mechanism, and evolutionary relationships in aminoacyl-tRNA synthetases." Annual review of biochemistry 62.1 (1993): 715-748.
 
 
 

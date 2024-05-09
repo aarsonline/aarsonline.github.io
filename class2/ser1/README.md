@@ -26,13 +26,14 @@ In the SLIMP-SerRS2 heterodimer, the SerRS2 subunit has lost its coiled-coil dom
 In contrast, the C-terminal catalytic domain of SerRS is quite typical of a class II aaRS. Like most members of the superfamily, ATP binding is coordinated by the arginine tweezers, located in motifs 2 and 3 (Kaiser et al. 2018). 
 The catalytic domain is a seven stranded antiparallel fold.
 
-Th erecognition of tRNA_ser by SerRS does not require the recognition of the anticodon sequence of the tRNA, a fact that is shared by the LeuRS-tRNA_Leu and AlaRS-tRNA_Ala systems (Giegé, Sissler, and Florentz, 1998). This characteristic of SerRS has been utilized to generate chimeric tRNAs with mutated anticodons that can incorporate the amino acid serine at any codon of choice (Geslain et al., 2009). The indeference of LeuRS and SerRS to the anticodon sequence of their tRNA substrates forms the basis for the codon reassignment strategy used by Candida species to generate adaptive proteome diversity (Santos AND Tuite, 1996). 
+The recognition of $\text{Ser-tRNA}^\text{Ser}$ by SerRS does not require the recognition of the anticodon sequence of the tRNA, a property that is shared by the $\text{Leu-tRNA}^\text{Leu}$ and $\text{Ala-tRNA}^\text{Ala}$  systems (Giegé, Sissler, and Florentz, 1998). 
+This characteristic of SerRS has been utilized to generate chimeric tRNAs with mutated anticodons that can incorporate the amino acid serine at any codon of choice (Geslain et al., 2009). The indifference of [LeuRS](/class1/leu1) and SerRS to the anticodon sequence of their tRNA substrates forms the basis for the codon reassignment strategy used by Candida species to generate adaptive proteome diversity (Santos, Perreau, and Tuite, 1996). 
 
 
 
 ## Editing
 
-Editing in SerRS occurs at the pre-transfer level, despite lacking an edit domain. 
+Editing in SerRS occurs at the pre-transfer level, without the need for a dedicated editing domain. 
 This process has been characterized for threonine, cysteine, and serine hydroxamate (Gruic-Sovulj et al. 2007). 
 
 

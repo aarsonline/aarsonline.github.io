@@ -14,6 +14,11 @@ Lee, Byeong J., et al. "Identification of a selenocysteyl-tRNASer in mammalian c
 Dock-Bregon, Anne‐Catherine, et al. "The contacts of yeast tRNASer with seryl‐tRNA synthetase studied by footprinting experiments." European journal of biochemistry 188.2 (1990): 283-290.
 
 
+Giegé, Richard, Marie Sissler, and Catherine Florentz. "Universal rules and idiosyncratic features in tRNA identity." Nucleic acids research 26.22 (1998): 5017-5035.
+
+
+Santos, M. A., Victoria M. Perreau, and Mick F. Tuite. "Transfer RNA structural change is a key element in the reassignment of the CUG codon in Candida albicans." The EMBO journal 15.18 (1996): 5060-5068.
+
 
 Biou, Valerie, et al. "The 2.9 Å crystal structure of T. thermophilus seryl-tRNA synthetase complexed with tRNA Ser." Science 263.5152 (1994): 1404-1410.
 

@@ -16,6 +16,11 @@ Douglas, Jordan, et al. "Enzymic recognition of amino acids drove the evolution 
 Cusack, Stephen, Michael Härtlein, and Reuben Leberman. "Sequence, structural and evolutionary relationships between class 2 aminoacyl-tRNA synthetases." Nucleic acids research 19.13 (1991): 3489-3498.
 
 
+Polycarpo, Carla, et al. "Activation of the pyrrolysine suppressor tRNA requires formation of a ternary complex with class I and class II lysyl-tRNA synthetases." Molecular cell 12.2 (2003): 287-294.
+
+
+Terada, Takaho, et al. "Functional convergence of two lysyl-tRNA synthetases with unrelated topologies." Nature Structural Biology 9.4 (2002): 257-262.
+
 
 Valencia-Sánchez, Marco Igor, et al. "Structural Insights into the Polyphyletic Origins of Glycyl tRNA Synthetases." Journal of Biological Chemistry 291.28 (2016): 14430-14446.
 
