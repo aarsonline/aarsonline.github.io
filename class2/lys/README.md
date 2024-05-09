@@ -33,6 +33,7 @@ The catalytic domain of AsnRS, much like the other members of subclass IIb, is c
 In the active site, three metal ions bind to the $\beta$ and $\gamma$ phosphates of ATP (Blanquet et al. 2005).
 LysRS-II displays negative cooperativity between its subunits, meaning that substrate binding in the active site of one subunit lowers the catalytic activity of the other (Hughes et al. 2003). 
 
+Strikingly, the determination of the three-dimensional structure of P. horikoshii LysRS-I revealed that this enzyme can be docked simultaneously with a LysRS-II structure onto the tRNALys molecule without any steric clashes (Terada et al. 2002) Posterior reports demonstrated that a stable ternary complex can be formed in vitro between both types of enzymes and tRNALys (Polycarpo et al. 2003).
 
 
 
