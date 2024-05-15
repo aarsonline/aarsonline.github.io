@@ -27,7 +27,7 @@ In contrast, the C-terminal catalytic domain of SerRS is quite typical of a clas
 The catalytic domain is a seven stranded antiparallel fold.
 
 The recognition of $\text{Ser-tRNA}^\text{Ser}$ by SerRS does not require the recognition of the anticodon sequence of the tRNA, a property that is shared by the $\text{Leu-tRNA}^\text{Leu}$ and $\text{Ala-tRNA}^\text{Ala}$  systems (Giegé, Sissler, and Florentz, 1998). 
-This characteristic of SerRS has been utilized to generate chimeric tRNAs with mutated anticodons that can incorporate the amino acid serine at any codon of choice (Geslain et al., 2009). The indifference of [LeuRS](/class1/leu1) and SerRS to the anticodon sequence of their tRNA substrates forms the basis for the codon reassignment strategy used by Candida species to generate adaptive proteome diversity (Santos, Perreau, and Tuite, 1996). 
+This characteristic of SerRS has been utilized to generate chimeric tRNAs with mutated anticodons that can incorporate the amino acid serine at any codon of choice (Geslain et al., 2010). The indifference of [LeuRS](/class1/leu1) and SerRS to the anticodon sequence of their tRNA substrates forms the basis for the codon reassignment strategy used by Candida species to generate adaptive proteome diversity (Santos, Perreau, and Tuite, 1996). 
 
 
 

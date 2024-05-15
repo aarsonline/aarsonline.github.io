@@ -5,7 +5,7 @@ Giegé, Richard, and Gilbert Eriani. "The tRNA identity landscape for aminoacyla
 
 Chimnaronk, Sarin, et al. "Dual‐mode recognition of noncanonical tRNAsSer by seryl‐tRNA synthetase in mammalian mitochondria." The EMBO journal 24.19 (2005): 3369-3379.
 
-
+Geslain, Renaud, et al. "Chimeric tRNAs as tools to induce proteome damage and identify components of stress responses." Nucleic acids research 38.5 (2010): e30-e30.
 
 Lee, Byeong J., et al. "Identification of a selenocysteyl-tRNASer in mammalian cells that recognizes the nonsense codon, UGA." Journal of Biological Chemistry 264.17 (1989): 9724-9727.
 
