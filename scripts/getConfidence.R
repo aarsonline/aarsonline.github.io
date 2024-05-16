@@ -159,6 +159,12 @@ n.alpha = sum(metadata.df$pdb == "")
 cat(paste(n.exp, "structures are experimental and", n.alpha, "are AlphaFold\n"))
 
 
+
+# How many phyla?
+n.phyla = length(unique(metadata.df[,"phylum"]))
+cat(paste("Total of", n.phyla, "phyla\n"))
+
+
 # How many bacterial?
 n.bact = sum(metadata.df$domain == "Bacteria")
 n.bact.phyla = length(unique(metadata.df[metadata.df$domain == "Bacteria","phylum"]))
