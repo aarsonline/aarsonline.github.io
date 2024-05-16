@@ -115,6 +115,6 @@ If this resource is helpful for your research, please cite our preprint:
 
 
 
-				Jordan Douglas, Haissi Cui, John J Perona, Oscar Vargas Rodriguez, Henna Tyynismaa, Claudia Alvarez-Carreno, Jiqiang Ling, Lluis Ribas-de-Pouplana, Xiang-Lei Yang, Michael Ibba, Hubert Becker, Frederic Fischer, Marie Sissler, Charles W Carter Jr., Peter Wills.
+Jordan Douglas, Haissi Cui, John J Perona, Oscar Vargas Rodriguez, Henna Tyynismaa, Claudia Alvarez-Carreno, Jiqiang Ling, Lluis Ribas-de-Pouplana, Xiang-Lei Yang, Michael Ibba, Hubert Becker, Frederic Fischer, Marie Sissler, Charles W Carter Jr., Peter Wills.
 "AARS Online: a collaborative database on the structure, function, and evolution of the aminoacyl-tRNA synthetases".
 				bioRxiv (2024); doi: [https://doi.org/10.1101/2024.05.15.594223](doi.org/10.1101/2024.05.15.594223).
