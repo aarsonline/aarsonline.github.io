@@ -36,6 +36,7 @@ Moreover, in some archaea, ArgRS assembles into a complex with [SerRS](/class2/s
 
 ## Editing
 
+There is no editing activity in ArgRS (Gomez and Ibba 2020).
 
 
 

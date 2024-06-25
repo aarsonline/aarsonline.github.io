@@ -46,7 +46,7 @@ IleRS, LeuRS, and ValRS share a a post-transfer [editing domain](/d/edit1a) inse
 
 
 ## Non-translational functions
-
+None reported.
 
 ## Clinical significance
 

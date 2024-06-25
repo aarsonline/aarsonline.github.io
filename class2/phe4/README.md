@@ -41,3 +41,4 @@ The post-transfer editing domain (hB3 and hB4) is located near the N-terminal an
 Bi-allelic mutations in human FARSB causes multi-system disease, with symptoms including interstitial lung disease, cerebral aneurysms and brain calcifications, and cirrhosis (Xu et al., 2018). Protein synthesis is not affected in these patients, suggesting a yet to be identified non-translational function and its disruption in pathpgenic FARSB variants as disease-causing (Xu et al., 2018). FARSB activates mTOR signaling and inhibits ferroptosis in human hepatocellular cancer (Wang et al., 2023). 
 
 ## Clinical significance
+None reported.

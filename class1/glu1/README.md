@@ -73,10 +73,10 @@ The members of subclass Ib, alongside [ArgRS](/class1/arg/) and LysRS-I, require
 
 
 ## Editing
-
+None reported.
 
 ## Non-translational functions
-
+None reported.
 
 
 ## Clinical significance

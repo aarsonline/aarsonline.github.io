@@ -43,7 +43,8 @@ GlyRS-B lacks editing activity (Gomez et al., 2020). GlyRS-B recognizes glycine,
 
 
 ## Non-translational functions
-
+None reported.
 
 
 ## Clinical significance
+None reported.

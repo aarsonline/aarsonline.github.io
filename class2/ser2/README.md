@@ -30,11 +30,11 @@ In contrast to the standard SerRS, it appears that the archaeal SerRS lacks edit
 
 
 ## Non-translational functions
-
+None reported.
 
 
 ## Clinical significance
-
+None reported.
 
 
 

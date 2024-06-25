@@ -26,11 +26,11 @@ Editing has not been observed in SepRS.
 
 
 ## Non-translational functions
-
+None reported.
 
 
 ## Clinical significance
-
+None reported.
 
 
 

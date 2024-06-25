@@ -126,32 +126,34 @@ function renderHeader(includeFooter = true){
 
 function roundToSF(val, sf=2, ceilOrFloor = "none", precise = true){
 
-	if (val == 0) return 0;
+	return Number( val.toPrecision(sf+1) );
+
+	// if (val == 0) return 0;
 	
-	var magnitude = Math.floor(Math.log(val, 10));
+	// var magnitude = Math.floor(Math.log(val, 10));
 
-	if (val < 0 && ceilOrFloor == "ceil") ceilOrFloor = "floor";
-	else if (val < 0 && ceilOrFloor == "floor") ceilOrFloor = "ceil";
+	// if (val < 0 && ceilOrFloor == "ceil") ceilOrFloor = "floor";
+	// else if (val < 0 && ceilOrFloor == "floor") ceilOrFloor = "ceil";
 
-	var num = val * tenToThePowerOf(sf-magnitude, precise);
-	if (ceilOrFloor == "ceil") num = Math.ceil(num)
-	else if (ceilOrFloor == "floor") num = Math.floor(num)
-	else num = Math.round(num);
+	// var num = val * tenToThePowerOf(sf-magnitude, precise);
+	// if (ceilOrFloor == "ceil") num = Math.ceil(num)
+	// else if (ceilOrFloor == "floor") num = Math.floor(num)
+	// else num = Math.round(num);
 
-	num = num * tenToThePowerOf(magnitude-sf, precise);
+	// num = num * tenToThePowerOf(magnitude-sf, precise);
 	
-	// Sometimes this picks up a trailing .00000000001 which we want to remove
+	// // Sometimes this picks up a trailing .00000000001 which we want to remove
 
-	var expectedStringLength = 0;
-	if (magnitude >= 0) expectedStringLength = magnitude >= sf ? magnitude+1 : sf+2; // Add 1 for the decimal point
-	else expectedStringLength = 2 -magnitude + sf;
-	if (num < 0) expectedStringLength++; // Also need the negative symbol
+	// var expectedStringLength = 0;
+	// if (magnitude >= 0) expectedStringLength = magnitude >= sf ? magnitude+1 : sf+2; // Add 1 for the decimal point
+	// else expectedStringLength = 2 -magnitude + sf;
+	// if (num < 0) expectedStringLength++; // Also need the negative symbol
 
 
 
-	num = parseFloat(num.toString().substring(0, expectedStringLength+1));
+	// num = parseFloat(num.toString().substring(0, expectedStringLength+1));
 	
-	return num;
+	// return num;
 		
 }
 

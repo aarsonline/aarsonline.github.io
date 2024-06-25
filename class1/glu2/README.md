@@ -43,10 +43,11 @@ The members of subclass Ib, alongside [ArgRS](/class1/arg/) and  [LysRS-I](/clas
 
 
 ## Editing
-
+None reported.
 
 ## Non-translational functions
-
+None reported.
 
 
 ## Clinical significance
+None reported.

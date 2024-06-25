@@ -58,6 +58,7 @@ Eukaryotic (Ruff et al, 1991) and archaeal-type (Schmitt et al, 1998; Charron et
 AspRSs present no known editing activity.
 
 ## Non-translational functions
+None reported.
 
 
 ## Clinical significance

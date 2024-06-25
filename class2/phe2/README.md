@@ -55,3 +55,4 @@ Thermus thermophilus PheRS binds genomic regions of T. thermophilus DNA but does
 
 
 ## Clinical significance
+None reported.

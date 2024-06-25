@@ -39,7 +39,7 @@ The INS domain of ProRS-B is part of the INS superfamily of aminoacyl-tRNA deacy
 
 
 ## Non-translational functions
-
+None reported.
 
 
 ## Clinical significance
