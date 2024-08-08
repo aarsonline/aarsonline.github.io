@@ -2506,6 +2506,10 @@ function renderAlignment(divID, datatype = 0, downloadHref = ""){
 		let toolbar = $(`[for="` + divID + `"].alignmentToolBar`);
 		toolbar.html("");
 		toolbar.append($(`<span><a href="` + downloadHref + `" download="` + downloadFileName + `">Download fasta</a> </span>`));
+		if (datatype == 0){
+			let geneFileName = aars[0] + ".gene.fasta";
+			toolbar.append($(`<span class="hyperlink" onClick="downloadGene('` + geneFileName + `')">Download gene fasta</span>`));
+		}
 		toolbar.append($(`<span> Site: <span class="fader siteSel"></span> </span>`));
 		toolbar.append($(`<span> Ungapped: <span class="fader ungappedSel"></span> </span>`));
 		toolbar.append($(`<span> Accession: <span class="fader taxonSel"></span> </span>`));
@@ -2634,6 +2638,84 @@ function renderAlignment(divID, datatype = 0, downloadHref = ""){
 		};
 
 	}
+
+}
+
+
+/**
+ * Convert the protein sequence into its gene and download the file XXXXX
+ **/
+function downloadGene(outFileName){
+	console.log("Downloading gene in to file " + outFileName);
+
+	//console.log(DATA);
+
+	//let geneAlignment = {};
+	let geneFasta = "";
+	for (let i in DATA.accessions){
+
+		let acc = DATA.accessions[i];
+		let accTidy = acc.replaceAll(".pdb", "")
+		let gappedProtein = DATA.alignment[acc];
+
+
+		// Metadata
+		let metadata = DATA.metadata[accTidy];
+		if (metadata == null){
+			console.log("Warning: cannot find metadata for", acc);
+			continue;
+		}
+
+		// Gene sequence
+		let gene = metadata.sequence;
+		if (gene == null || gene == ""){
+			console.log("Warning: cannot find gene for", acc);
+			continue;
+		}
+		
+
+		// Add gaps into the gene sequence so it matches the protein alignment
+		let genePos = 0;
+		let gappedGene = "";
+		for (let pos = 0; pos < gappedProtein.length; pos++){
+
+			if (genePos >= gene.length){
+				console.log("Unexepected error: gene is shorter than protein");
+				break;
+			}
+
+			let aa = gappedProtein[pos];
+			let nt = null;
+			if (aa == "-"){
+				nt = "---";
+			}else{
+				nt = gene[genePos] + gene[genePos+1] + gene[genePos+2];
+				genePos += 3;
+			}
+
+
+
+			gappedGene += nt;
+
+
+		}
+
+		//console.log(gappedProtein);
+		//console.log(gappedGene);
+
+		geneFasta += ">" + accTidy + "\n" + gappedGene + "\n";
+		//geneAlignment[acc] = gappedGene;
+		
+	}
+
+
+	// Write gene alignment to file
+	const link = document.createElement("a");
+	const file = new Blob([geneFasta], { type: 'text/plain' });
+	link.href = URL.createObjectURL(file);
+	link.download = outFileName;
+	link.click();
+	URL.revokeObjectURL(link.href);
 
 }
 
