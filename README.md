@@ -111,10 +111,9 @@ To help other users find the discussion, please use the appropriate labels when 
 ## References
 
 
-If this resource is helpful for your research, please cite our preprint:
+If this resource is helpful for your research, please cite our article:
 
 
 
 Jordan Douglas, Haissi Cui, John J Perona, Oscar Vargas Rodriguez, Henna Tyynismaa, Claudia Alvarez-Carreno, Jiqiang Ling, Lluis Ribas-de-Pouplana, Xiang-Lei Yang, Michael Ibba, Hubert Becker, Frederic Fischer, Marie Sissler, Charles W Carter Jr., Peter Wills.
-"AARS Online: a collaborative database on the structure, function, and evolution of the aminoacyl-tRNA synthetases".
-				bioRxiv (2024); doi: [https://doi.org/10.1101/2024.05.15.594223](doi.org/10.1101/2024.05.15.594223).
+"AARS Online: A collaborative database on the structure, function, and evolution of the aminoacyl-tRNA synthetases." IUBMB Life. 2024. https://doi.org/10.1002/iub.2911
