@@ -4,6 +4,8 @@ Seryl-tRNA synthetase (SerRS) is an enzyme that plays a crucial role in protein 
 
 
 $ \text{Ser} + \text{tRNA}^\text{Ser} + \text{ATP} \xrightarrow{\text{SerRS}} \text{Ser-tRNA}^\text{Ser} + \text{AMP} + \text{PP}_i  $
+
+
 $ \text{Ser} + \text{tRNA}^\text{Sec} + \text{ATP} \xrightarrow{\text{SerRS}} \text{Ser-tRNA}^\text{Sec} + \text{AMP} + \text{PP}_i  $
 
 
