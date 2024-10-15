@@ -16,6 +16,8 @@ Sauerwald, Anselm, et al. "RNA-dependent cysteine biosynthesis in archaea." Scie
 Hauenstein, Scott, et al. "The homotetrameric phosphoseryl-tRNA synthetase from Methanosarcina mazei exhibits half-of-the-sites activity." J. Biol. Chem., 283(32), 21997-22006 (2008).
 
 Liu, Yuchen, et al. " Ancient translation factor is essential for tRNA-dependent cysteine biosynthesis in methanogenic archaea. Proceedings of the National Academy of Sciences 111 (29), 10520-5 (2014).
+
+
 Mukai, Takahito et al., "Indirect routes to aminoacyl-tRNA: The diversity of prokaryotic cycteine-encoding systems." Front. Genet 2022 Jan 3:12:794509. doi: 10.3389/fgene.2021.794509
 
 
