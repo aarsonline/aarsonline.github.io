@@ -2505,10 +2505,14 @@ function renderAlignment(divID, datatype = 0, downloadHref = ""){
 		}
 		let toolbar = $(`[for="` + divID + `"].alignmentToolBar`);
 		toolbar.html("");
-		toolbar.append($(`<span><a href="` + downloadHref + `" download="` + downloadFileName + `">Download fasta</a> </span>`));
+	//	toolbar.append($(`<span><a href="` + downloadHref + `" download="` + downloadFileName + `">Download fasta</a> </span>`));
+
+		toolbar.append($(`<span class="hyperlink" onClick="downloadProtein('` + downloadFileName + `', ` + (datatype == 1) + `)">Download fasta</span>`));
+
 		if (datatype == 0){
 			let geneFileName = aars[0] + ".gene.fasta";
-			toolbar.append($(`<span class="hyperlink" onClick="downloadGene('` + geneFileName + `')">Download gene fasta</span>`));
+			toolbar.append($(`<span class="hyperlink" onClick="downloadGene('` + geneFileName + `', false)">Download gene fasta</span>`));
+			toolbar.append($(`<span class="hyperlink devHidden" onClick="downloadGene('MBP.` + geneFileName + `', true)">Download MBP fasta</span>`));
 		}
 		toolbar.append($(`<span> Site: <span class="fader siteSel"></span> </span>`));
 		toolbar.append($(`<span> Ungapped: <span class="fader ungappedSel"></span> </span>`));
@@ -2642,10 +2646,56 @@ function renderAlignment(divID, datatype = 0, downloadHref = ""){
 }
 
 
+
 /**
  * Convert the protein sequence into its gene and download the file XXXXX
  **/
-function downloadGene(outFileName){
+function downloadProtein(outFileName, isSecondary){
+console.log("Downloading fasta in to file " + outFileName);
+
+//console.log(DATA);
+
+//let geneAlignment = {};
+let outFasta = "";
+for (let i in DATA.accessions){
+
+	let acc = DATA.accessions[i];
+	let accTidy = acc.replaceAll(".pdb", "")
+	let metadata = DATA.metadata[accTidy];
+	if (isSecondary) accTidy = accTidy + ".secondary";
+
+	let gappedProtein = DATA.alignment[acc];
+
+
+	// Metadata
+	
+	if (metadata == null){
+		console.log("Warning: cannot find metadata for", acc);
+		continue;
+	}
+
+
+	let sequence = isSecondary ? DATA.secondary[acc] : DATA.alignment[acc];
+	outFasta += ">" + accTidy + "\n" + sequence + "\n";
+}
+
+	// Write gene alignment to file
+	const link = document.createElement("a");
+	const file = new Blob([outFasta], { type: 'text/plain' });
+	link.href = URL.createObjectURL(file);
+	link.download = outFileName;
+	link.click();
+	URL.revokeObjectURL(link.href);
+
+
+	
+
+}
+
+/**
+ * Convert the protein sequence into its gene and download the file XXXXX
+ **/
+function downloadGene(outFileName, MBPonly){
 	console.log("Downloading gene in to file " + outFileName);
 
 	//console.log(DATA);
@@ -2689,7 +2739,12 @@ function downloadGene(outFileName){
 			if (aa == "-"){
 				nt = "---";
 			}else{
-				nt = gene[genePos] + gene[genePos+1] + gene[genePos+2];
+				if (MBPonly){
+					nt = gene[genePos+1];
+				}else{
+					nt = gene[genePos] + gene[genePos+1] + gene[genePos+2];
+				}
+				
 				genePos += 3;
 			}
 
@@ -3975,3 +4030,18 @@ function renderCatalyticDomainInserts(text, classNr){
     return newObj;
 
   } 
+
+
+
+function keyPressHandler(e) {
+      var evtobj = window.event ? window.event : e;
+
+      // Shift + d
+      if (evtobj.shiftKey && evtobj.keyCode == 68) {
+      		console.log("dev mode");
+          $(".devHidden").show(300);
+      }
+}
+
+window.addEventListener('keydown', keyPressHandler);
+
