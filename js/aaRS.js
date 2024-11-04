@@ -2737,7 +2737,11 @@ function downloadGene(outFileName, MBPonly){
 			let aa = gappedProtein[pos];
 			let nt = null;
 			if (aa == "-"){
-				nt = "---";
+				if (MBPonly){
+					nt = "-";
+				}else{
+					nt = "---";
+				}
 			}else{
 				if (MBPonly){
 					nt = gene[genePos+1];
