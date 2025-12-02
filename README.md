@@ -1,6 +1,5 @@
 # AARS Online
 
-IN PRE-RELEASE
 
 An interactive database for exploring aminoacyl-tRNA synthetase (aaRS) sequences, structures, and taxonomy. This database has been curated by a consortium of aaRS experts.
 
