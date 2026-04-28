@@ -324,7 +324,8 @@ $("#main").append(`
   .then(blob => blob.text())          // ...then to raw text...
   .then(markdown => {                 // ...then pass the raw text into marked.parse
 	document.getElementById("references").innerHTML = marked.parse(markdown);
-	
+
+
 
 
 	// Sort references alphabetically
@@ -351,6 +352,11 @@ $("#main").append(`
 	refs = getSorted(refs);
 	$("#references").html("");
 	$("#references").append(refs);
+
+	// Add AARS online to the top of the references
+	let aoref = `Douglas, J., Cui, H., Perona, J. J., Vargas‐Rodriguez, O., Tyynismaa, H., Carreño, C. A., ... & Wills, P. R. (2024). AARS online: a collaborative database on the structure, function, and evolution of the aminoacyl‐tRNA synthetases. IUBMB life, 76(12), 1091-1105.`;
+	$("#references").prepend("<p class='aoref'><b>" + aoref + "</b></p>")
+
 	$("#references").prepend("<h2>References</h2>");
   });
   
